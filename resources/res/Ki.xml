@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:orientation="vertical" android:id="@+id/layout_es_sarathi" android:background="@drawable/round_shape_multi_selection" android:padding="10dp" android:layout_width="100dp" android:layout_height="wrap_content" android:layout_margin="8dp" android:maxWidth="50dp">
+    <ImageView android:id="@+id/es_image" android:layout_width="30dp" android:layout_height="30dp" android:src="@drawable/duplicate_rc"/>
+    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/es_sarathi_service_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:fontFamily="sans-serif-light"/>
+</LinearLayout>

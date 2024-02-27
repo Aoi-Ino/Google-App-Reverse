@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/layerlistexample" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:id="@+id/applicationStatusHeader" layout="@layout/vahan_echallan_header"/>
+        <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/_10sdp">
+            <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_14ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/idLayoutTitle" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="Application Status"/>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_16sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/gray" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/application_no" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="right" android:id="@+id/applNoValue" android:layout_width="0dp" android:layout_height="wrap_content" android:text="XXXXXXXXXX" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/gray" android:layout_width="0dp" android:layout_height="wrap_content" android:text="Applicant Name" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="right" android:id="@+id/applicantNameValue" android:layout_width="0dp" android:layout_height="wrap_content" android:text="XXXXXXXXXX" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/gray" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/application_date" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="right" android:id="@+id/applDateValue" android:layout_width="0dp" android:layout_height="wrap_content" android:text="17-01-2022" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/gray" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/registration_no" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="right" android:id="@+id/registrationNoValue" android:layout_width="0dp" android:layout_height="wrap_content" android:text="XXXXXXXXXX" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/gray" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/state_name" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="right" android:id="@+id/stateValue" android:layout_width="0dp" android:layout_height="wrap_content" android:text="BIHAR" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/gray" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/rto_name_2" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="right" android:id="@+id/rtoNameValue" android:layout_width="0dp" android:layout_height="wrap_content" android:text="SUPAUL" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_14ssp" android:textStyle="bold" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/transaction_s_applied"/>
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_14ssp" android:textStyle="bold" android:textColor="@color/txt_color_address" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_8sdp" android:text="@string/transaction_name"/>
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/transcationRv" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp"/>
+                <LinearLayout android:orientation="vertical" android:id="@+id/lowerBtn" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp" android:layout_marginBottom="@dimen/_10sdp" android:layout_marginVertical="@dimen/_10sdp">
+                    <CheckBox android:textSize="14sp" android:textStyle="bold" android:textColor="@color/gray" android:id="@+id/idAgreeTnC" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="I agree to the Terms and Conditions" android:fontFamily="@font/nexgenttf"/>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_15sdp" android:layout_marginBottom="@dimen/_15sdp" android:baselineAligned="false">
+                        <RelativeLayout android:id="@+id/idWithdraw" android:background="@drawable/button_cyan_theme" android:layout_width="0dp" android:layout_height="45dp" android:layout_marginRight="@dimen/_2sdp" android:layout_weight="1">
+                            <TextView android:textSize="@dimen/_14ssp" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Dispose" android:drawablePadding="@dimen/_5sdp" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:fontFamily="@font/robot_bold"/>
+                        </RelativeLayout>
+                        <RelativeLayout android:gravity="center" android:id="@+id/idWithdrawCancel" android:background="@drawable/shape_red" android:layout_width="0dp" android:layout_height="45dp" android:layout_marginLeft="@dimen/_2sdp" android:layout_weight="1">
+                            <TextView android:textSize="@dimen/_14ssp" android:textColor="@android:color/white" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cancel" android:drawablePadding="@dimen/_5sdp" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:fontFamily="@font/robot_bold"/>
+                        </RelativeLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

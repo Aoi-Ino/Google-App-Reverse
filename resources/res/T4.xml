@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:tag="layout/declaration_form_0" android:background="@color/white" android:padding="@dimen/_5sdp" android:layout_width="match_parent" android:layout_height="match_parent" android:minWidth="350dp">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:tag="binding_1" android:layout_width="match_parent" android:layout_height="@dimen/_40sdp">
+            <include android:visibility="invisible" layout="@layout/mvvm_header"/>
+            <ImageView android:layout_gravity="right" android:id="@+id/closeIv" android:layout_width="@dimen/_20sdp" android:layout_height="@dimen/_20sdp" android:layout_margin="@dimen/_10sdp" android:src="@drawable/new_cancel"/>
+        </FrameLayout>
+        <RelativeLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/_45sdp">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="@dimen/_11sdp" android:textStyle="bold" android:textColor="@color/dark_grey" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:text="Application-cum-Declaration as to Physical Fitness"/>
+                    <TextView android:textSize="@dimen/_11sdp" android:textStyle="bold" android:textColor="@color/dark_grey" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text=" [ See Rule 5 [2] ]"/>
+                    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/_5sdp">
+                        <TextView android:textSize="@dimen/_10sdp" android:textColor="@color/dark_grey" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:text="(A) Do you suffer from Epilepsy or from sudden attacks of loss of consciousness or giddiness from any cause ?" android:justificationMode="1"/>
+                        <RadioGroup android:id="@+id/rg_point_a" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/a_y" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/yes" android:layout_weight="1"/>
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/a_n" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no" android:layout_weight="1"/>
+                            </LinearLayout>
+                        </RadioGroup>
+                        <TextView android:textSize="@dimen/_10sdp" android:textColor="@color/dark_grey" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="(B) Are you able to distinguish with each eye ( or if you have held a driving license to drive a motor vehicle for a period of not less than five years and if you have lost the sight of one eye after the said period of five years and if the application is for driving a light motor vehicle other than a transport vehicle fitted with an outside mirror on the steering wheel side) or with one eye, at a distance of 25 metres in good day light with glasses , if worn a motor car number plate?" android:justificationMode="1"/>
+                        <RadioGroup android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/b_y" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/yes" android:layout_weight="1"/>
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/b_n" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no" android:layout_weight="1"/>
+                            </LinearLayout>
+                        </RadioGroup>
+                        <TextView android:textSize="@dimen/_10sdp" android:textColor="@color/dark_grey" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="(C) Have you lost either hand or foot or are you suffering from any defects of muscular, control or muscular power of either arm or leg ?" android:justificationMode="1"/>
+                        <RadioGroup android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/c_y" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/yes" android:layout_weight="1"/>
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/c_n" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no" android:layout_weight="1"/>
+                            </LinearLayout>
+                        </RadioGroup>
+                        <TextView android:textSize="@dimen/_10sdp" android:textColor="@color/dark_grey" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="(D) Do you suffer from night blindness ?"/>
+                        <RadioGroup android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/d_y" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/yes" android:layout_weight="1"/>
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/d_n" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no" android:layout_weight="1"/>
+                            </LinearLayout>
+                        </RadioGroup>
+                        <TextView android:textSize="@dimen/_10sdp" android:textColor="@color/dark_grey" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="(E) Are you so deaf as to be unable to hear ( and if the application is for driving a light motor vehicle, with or without hearing aid) the ordinary sound signal ?" android:justificationMode="1"/>
+                        <RadioGroup android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/e_y" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/yes" android:layout_weight="1"/>
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/e_n" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no" android:layout_weight="1"/>
+                            </LinearLayout>
+                        </RadioGroup>
+                        <TextView android:textSize="@dimen/_10sdp" android:textColor="@color/dark_grey" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="(F) Do you suffer from any other disease or disability likely to cause your driving of a motor vehicle to be a source of danger to the public, if so, give details?" android:justificationMode="1"/>
+                        <RadioGroup android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/f_y" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/yes" android:layout_weight="1"/>
+                                <RadioButton android:textSize="@dimen/_10sdp" android:id="@+id/f_n" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no" android:layout_weight="1"/>
+                            </LinearLayout>
+                        </RadioGroup>
+                        <CheckBox android:textSize="@dimen/_10sdp" android:textColor="@color/dark_grey" android:gravity="top" android:id="@+id/form_dec_check" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="I hereby declare that to the best of my knowledge and belief, the particulars give above and the declaration made therein are true."/>
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.core.widget.NestedScrollView>
+            <com.nic.mparivahan.dlservices.widget.CustomWegetLayout android:gravity="center" android:layout_gravity="bottom" android:id="@+id/next_request" android:background="@drawable/sign_in_new" android:paddingTop="@dimen/_8sdp" android:paddingBottom="@dimen/_8sdp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_5sdp" android:layout_marginTop="@dimen/_50sdp" android:layout_marginRight="@dimen/_5sdp" android:layout_marginBottom="@dimen/_10sdp" android:layout_alignParentBottom="true" app:buttonText="@string/submit" app:buttonTextColor="@color/white" app:buttonTextSize="@dimen/_12sdp" app:progressColor="#ffffff" app:progressWidth="1dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <include layout="@layout/mvvm_header"/>
+            <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <com.nic.mparivahan.MyTextView android:textSize="20sp" android:textStyle="bold" android:textColor="@color/never_mix" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp"/>
+                        <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.card.MaterialCardView android:id="@+id/cv_report_traffic_violation_icon" android:layout_width="40dp" android:layout_height="40dp" app:cardBackgroundColor="#d2d5d7" app:cardCornerRadius="20dp" app:strokeColor="#d2d5d7" app:strokeWidth="2dp">
+                                <ImageView android:layout_gravity="center" android:id="@+id/iv_report_traffic_violation_icon" android:layout_width="25dp" android:layout_height="25dp" app:srcCompat="@drawable/user"/>
+                            </com.google.android.material.card.MaterialCardView>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <com.nic.mparivahan.MyTextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="Renewal Of DL"/>
+                    <LinearLayout android:orientation="horizontal" android:padding="5dp" android:layout_width="match_parent" android:layout_height="150dp" android:layout_marginTop="5dp">
+                        <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp" android:layout_weight="1">
+                            <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/ic_driving_license" android:tint="@color/blue_new" app:tint="@color/blue_new"/>
+                            <com.nic.mparivahan.MyTextView android:textSize="@dimen/new_normal_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Driving License Details" android:fontFamily="sans-serif-light"/>
+                        </LinearLayout>
+                        <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp" android:layout_weight="1">
+                            <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/dms_docs"/>
+                            <com.nic.mparivahan.MyTextView android:textSize="@dimen/new_normal_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="DMS \10(Upload Docs)" android:fontFamily="sans-serif-light"/>
+                        </LinearLayout>
+                        <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/sign_in_new" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp" android:layout_weight="1">
+                            <ImageView android:layout_width="40dp" android:layout_height="40dp" app:srcCompat="@drawable/ic_fee_details" app:tint="@color/white"/>
+                            <com.nic.mparivahan.MyTextView android:textSize="@dimen/new_normal_txt" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Fee \10Details" android:fontFamily="sans-serif-light"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <com.nic.mparivahan.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Fee Details"/>
+                    <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="50dp" android:src="@drawable/success"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="17sp" android:textStyle="bold" android:textColor="#25ae88" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="Payment Successful!"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="17sp" android:textColor="#83071219" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="Transaction ID 1222343345665678"/>
+                    <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:src="@drawable/divider_dl"/>
+                </LinearLayout>
+                <View android:background="#818181" android:layout_width="match_parent" android:layout_height="1dp"/>
+                <LinearLayout android:orientation="vertical" android:paddingLeft="20dp" android:paddingRight="20dp" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="horizontal" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:baselineAligned="false">
+                        <com.nic.mparivahan.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="#83071219" android:gravity="top|left|center_vertical|center_horizontal|center" android:id="@+id/relation_name_badge" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Amount Paid" android:layout_weight="1.1"/>
+                        <com.nic.mparivahan.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="#83071219" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/relation_name_txt" android:layout_width="match_parent" android:layout_height="match_parent" android:text="₹ 230.00" android:layout_weight="2" android:layout_below="@+id/relation_name_badge"/>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:baselineAligned="false">
+                        <com.nic.mparivahan.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="#83071219" android:gravity="top|left|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Bank" android:layout_weight="1.1"/>
+                        <com.nic.mparivahan.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="#83071219" android:gravity="left|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="State bank of india" android:layout_weight="2" android:layout_below="@+id/relation_name_badge"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <View android:background="#818181" android:layout_width="match_parent" android:layout_height="1dp"/>
+                <LinearLayout android:orientation="horizontal" android:background="@drawable/edit_text_style" android:paddingLeft="5dp" android:paddingRight="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+                    <androidx.appcompat.widget.AppCompatButton android:textSize="13dp" android:textColor="@color/white" android:background="@drawable/button_style" android:layout_width="0dp" android:layout_height="50dp" android:text="Print Recipt" android:layout_weight="1" android:textAllCaps="false" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

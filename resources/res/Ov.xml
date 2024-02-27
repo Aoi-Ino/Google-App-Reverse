@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="10dp" android:layout_marginRight="10dp">
+                <ImageView android:layout_gravity="top|left|center_vertical|center_horizontal|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:src="@drawable/mvvm_ministrylologo"/>
+                <ImageView android:layout_gravity="top|center_vertical|center_horizontal|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30dp" android:src="@drawable/mvvm_sign"/>
+                <TextView android:textSize="22sp" android:textColor="@color/black" android:id="@+id/tv_sign_in" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="30dp" android:text="@string/sing_in_into" android:fontFamily="sans-serif-light"/>
+                <TextView android:textSize="22sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_your_account" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/your_account" android:fontFamily="sans-serif-light"/>
+                <TextView android:textSize="14sp" android:textColor="@color/gray" android:id="@+id/tv_disc" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="30dp" android:layout_marginRight="15dp" android:text="@string/sign_in_txt" android:fontFamily="@font/lato" android:justificationMode="1"/>
+                <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@+id/sign_in" android:background="@drawable/sign_in_new" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginLeft="20dp" android:layout_marginTop="25dp" android:layout_marginRight="20dp" android:layout_marginBottom="25dp">
+                    <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/btn_sign_in" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sing_in" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:id="@+id/sign_up" android:background="@drawable/sign_in_new_back" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginLeft="20dp" android:layout_marginRight="20dp">
+                    <TextView android:textSize="13sp" android:textColor="@color/gray" android:gravity="center" android:layout_gravity="center" android:id="@+id/tv_new_mpariv" android:paddingLeft="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/new_to_app" android:fontFamily="@font/poppins_regular"/>
+                    <TextView android:textSize="14sp" android:textColor="@color/gray" android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=" "/>
+                    <TextView android:textSize="13sp" android:textStyle="bold" android:textColor="@color/never_mix" android:gravity="center" android:layout_gravity="center" android:id="@+id/create_account" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/creat_acc" android:fontFamily="@font/poppins_regular"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="bottom|right|center_vertical|center_horizontal|center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="20dp">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20dp" android:src="@drawable/mvvm_niclogo"/>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

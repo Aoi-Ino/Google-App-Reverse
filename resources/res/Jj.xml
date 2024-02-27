@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/nv" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <include android:id="@+id/topHolder" layout="@layout/vahan_echallan_header"/>
+        <LinearLayout android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/_5sdp" android:baselineAligned="false">
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="5">
+                <TextView android:textSize="12sp" android:textColor="@color/never_mix" android:gravity="center_vertical" android:id="@+id/vehicleNumberTv" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginTop="@dimen/_20sdp" android:layout_marginRight="@dimen/_16sdp" android:text="@string/vehicle_no_dlyyxx0000" android:layout_weight="2.7" android:fontFamily="@font/robot_bold" android:layout_marginHorizontal="@dimen/_16sdp"/>
+                <TextView android:textSize="12sp" android:textColor="@color/never_mix" android:gravity="center" android:id="@+id/vehicle_view" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginTop="@dimen/_20sdp" android:layout_marginRight="@dimen/_16sdp" android:text="@string/view_vehicle_details" android:maxLines="2" android:layout_weight="2.3" android:fontFamily="@font/robot_bold" android:layout_marginHorizontal="@dimen/_16sdp"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginTop="@dimen/_15sdp" android:layout_marginRight="@dimen/_16sdp" android:layout_marginHorizontal="@dimen/_16sdp">
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_10sdp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:id="@+id/body_type_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/receipt_no"/>
+                <com.nic.mparivahan.MyTextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/reject" android:gravity="center" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3dp" android:text="*"/>
+            </LinearLayout>
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/challanListRv" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

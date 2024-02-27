@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="176" android:versionName="2.0.119" android:compileSdkVersion="34" android:compileSdkVersionCodename="14" package="com.nic.mparivahan" platformBuildVersionCode="34" platformBuildVersionName="14">
+    <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="34"/>
+    <uses-feature android:name="android.hardware.camera" android:required="true"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY"/>
+    <uses-permission android:name="android.permission.READ_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+    <queries>
+        <intent>
+            <action android:name="android.media.action.IMAGE_CAPTURE"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE"/>
+        </intent>
+        <package android:name="com.google.android.apps.maps"/>
+    </queries>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+    <uses-feature android:glEsVersion="20000" android:required="true"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <permission android:name="com.nic.mparivahan.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.nic.mparivahan.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+    <application android:theme="@style/Theme.MParivahan" android:label="@string/app_name" android:icon="@drawable/ic_launcher" android:exported="false" android:allowBackup="false" android:hardwareAccelerated="true" android:largeHeap="true" android:supportsRtl="true" android:extractNativeLibs="false" android:usesCleartextTraffic="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:requestLegacyExternalStorage="true">
+        <activity android:name="com.nic.mparivahan.VahanServices.DuplicateFitness.TempPermitModel.PassangerResultActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.ApplStatusApplicationList"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanDownloadReceiptActivity"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.SearchDashboard"/>
+        <activity android:theme="@style/AppTheme.Fullscreen" android:label="NextGen mParivahan" android:name="com.nic.mparivahan.Welcome.SplashScreen" android:exported="true" android:taskAffinity="" android:launchMode="singleTask" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.nic.mparivahan.Dashboard.EnabledServices.EsActivity" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanPayment.V_PaymentReceipt" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanPayment.VahanPaymentReceiptActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanPayment.VahanPayment" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanPayment.VahanPaymentStatusScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Welcome.TestAkonActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.FeesDetailsScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.ChangeOfAddressConfirmation" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanChangeOfAddress" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.Checkpost.CheckpostTaxReceipt.DownloadCheckpostTaxReceiptList" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Checkpost.DownloadCheckPostReceipt2" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.eSign.eSignDMS" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanVehicleDetailsService" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanProcessWithAdhar" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanSelectServiceScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanGenerateOTPScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanMainViewScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanOtpVerificationScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.DLServicesAuth.View.SarthiProcessWithAdhar" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.FetchVahanLog.FetchVahanViews.FetchVahanTransactions" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.ClSots" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.payment" android:name="com.nic.mparivahan.ClServices.View.ClFeePayment" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:name="com.nic.mparivahan.ClServices.View.ClPhotoSignature" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:name="com.nic.mparivahan.ClServices.View.ClDocumentsUpload" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.ClSlotsAcknow" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.ChangeOfAddressCl" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServicesMainScreens.SelectClService" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.ChangeNameCl" android:exported="true" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.RenewalCl" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServicesMainScreens.ClSubmitScreen" android:exported="true"/>
+        <activity android:theme="@style/NoTitleDialog" android:name="com.nic.mparivahan.ClServicesMainScreens.ClRtoSelect" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.DuplicateCl" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServicesMainScreens.MobileOtpScreen" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServicesMainScreens.ClDetails" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServicesMainScreens.ClDetailsTop" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServicesMainScreens.ClServicesMainScreen" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.dobChange.DobChangeActivity" android:exported="false"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.changeName.ChangeOfName" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.hillService.HillReligion" android:exported="false"/>
+        <activity android:name="com.nic.mparivahan.PdfViewer.PdfViewActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Sarathithreeservices.view.ReprintReceipt" android:exported="true" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.SlotAppointmentBookingActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.TransferOwnerShipActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanDuplicateRcActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.HypothecationAdditionActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.HypothecationTerminationActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.HypothecationContinuationActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanNocActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanRcParticularActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanApplTranByRcStatus" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanCommonConfirmationScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dl.DLVirtualAlertScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanFaceLessConfirmation" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.RcSearchHistory" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.DashBoardAlertViewDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dl.DLVirtualRcScreen" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:name="com.nic.mparivahan.Dl.DLDashboardNew" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:name="com.nic.mparivahan.Sos.AddContactScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Sos.SosHomeScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.InformationService.InformationalWebView" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.ui.VirtualDocScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.DLServicesAuth.View.DlServicesMainScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Account.AbtCntctTerms.ContactUs" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.ui.DLServiceHome" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.AbtCntctTerms.AboutUs" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.RC.SharedRcScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.RC.CreateRCAlertsScreen" android:screenOrientation="portrait" android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustPan"/>
+        <activity android:name="com.nic.mparivahan.RC.RCDashBoard" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.RC.VirtualRcScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.RC.ShowSharedRcScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Profile.View.ProfileScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Account.View.OtpVerificationforLoginScreen" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:name="com.nic.mparivahan.Challan.ChallanScreen"/>
+        <activity android:name="com.nic.mparivahan.TestPaymentGatwayActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.updateMobileNo.VahanUpdateMobileActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.updateMobileNo.UpdateMobileNumber.VahanUpdateMobiActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.updateMobileNo.UpdateMobileNumber.VahanValidateUpdateMobileActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.CompoundingFee.CompoundingFeeActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.CompoundingFee.ComPayment.ComPaymentTaxActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.CompoundingFee.ComPayment.CompPaymentStatusScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.Nominee.NomineeMainViewScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanDms" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.Nominee.NomineeActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Checkpost.CheckPostReceiptDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.MiscellaneousFeePayment.MiscellaneousFeePayment" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.ApplicationStatus.VahanMultiServiceApplicationTransactionStatus" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.BuyerView.TOBuyer.IssueOfDuplicateMultiServiceToBuyer" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.SearchChallanDetails" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.ChallanPaymentWebView" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.ResponsePaymentActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.DLServiceFinalSubmitedActivity"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.AccidentHistoryActivity" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.AccidentReportActivity" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.AccidentDashboardActivity" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.TrafficHistoryActivity" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.TrafficReportVioActivity" android:exported="false" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.TrafficDashboardActivity" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Account.View.VerifyMobileNumberUserRegister" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:name="com.nic.mparivahan.Account.View.EnterOneTimePasswordMPIN" android:windowSoftInputMode="adjustResize"/>
+        <activity android:name="com.nic.mparivahan.Account.View.CreateNewMPIN" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:name="com.nic.mparivahan.Account.View.ForgotMpinScreen" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:name="com.nic.mparivahan.Account.View.CreateAccountScreen" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:name="com.nic.mparivahan.Account.View.SignInScreen" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:theme="@style/AppTheme.Fullscreen" android:label="@string/title_activity_sign_in_dash_board" android:name="com.nic.mparivahan.Account.View.SignInDashBoard" android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:theme="@style/AppTheme" android:label="@string/title_activity_choose_languag_screen" android:name="com.nic.mparivahan.Language.ChooseLanguagScreen" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_dash_board" android:name="com.nic.mparivahan.Dashboard.ui.DashBoard" android:screenOrientation="portrait" android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustPan"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.VehicleServiceHome"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.ui.Home.VehicleServiceSectionView" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.EsSectionActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_dash_board" android:name="com.nic.mparivahan.RC.SearchRC" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_dash_board" android:name="com.nic.mparivahan.Dl.NewDlSearch" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_dash_board" android:name="com.nic.mparivahan.Dl.SearchDL" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:name="com.nic.mparivahan.Dashboard.ui.VehicleServiceHomeNew" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.PaymentSearchChallan" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.PaymentSearchChallanList" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.PaymentSearchChallanDetails" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.PaymentWebView" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.PrintChallanWebView" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.SearchChallanListActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.SearchChallanOnlineActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.ProfileDetails.ProfileViews.UserDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.TrafficFeedback" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.ViewAccidentDetails" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.ViewComplaintDetails" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.AccidentFeedback" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.MainActivity" android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.ViewFormsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.DownloadAppoinForms.DownloadAppoinmentScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.SellerBuyerSelectionActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.VahanSellerBuyerMainScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.AadhaarOtpValidation.SellerBuyerToGenerateOTPScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.SellerView.TransferOfOwnerShipActivitySeller" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.SellerView.TransferOfOwnerShipConfirmationScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.AadhaarOtpValidation.SellerValidationWithAadhaar" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.TOMultiSelectionScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.SellerView.IsueOfDuplicateMultiServiceTO" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.SellerView.HypothecationTerminationActivityMultiServiceTO" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.SellerView.HypothecationContinuationActivityMultiTO" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.AadhaarVerification.ToGenerateOTPScreenForResult" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.TOBuyer.TOBuyerInit" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.BuyerView.TOBuyer.TOBuyerMainActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.BuyerView.TOBuyer.TOBuyerSelectionScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.BuyerView.TOBuyer.HypothecationAdditionActivityMultiServiceTO" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.BuyerView.TOBuyer.AddressDetailToBuyer" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.BuyerView.TOBuyer.NomineeAndInsuranceDetailTOBuyer" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NearByPlaces.NearByPlaces" android:exported="false"/>
+        <activity android:name="com.nic.mparivahan.DLServicesAuth.View.SarthiProcessWithMobile"/>
+        <activity android:name="com.nic.mparivahan.DLServicesAuth.View.DlServiceBasicInfoActivity"/>
+        <activity android:theme="@style/NoTitleDialog" android:name="com.nic.mparivahan.DLServicesAuth.View.DlServiceListActivity"/>
+        <activity android:name="com.nic.mparivahan.DLServicesAuth.View.DlServiceDetailsActivity"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanDetailsForRcParticulara"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.mobileupdate.SarathiMobileUpdateActivity" android:exported="false"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.mobileupdate.SarthiOTPMobile" android:exported="false"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:name="com.nic.mparivahan.dlservices.ui.idp.DLIdpActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_dash_board" android:name="com.nic.mparivahan.dlservices.ui.dms.DlDocActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_dash_board" android:name="com.nic.mparivahan.dlservices.ui.slots.DlRenewalSlotsActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_dash_board" android:name="com.nic.mparivahan.dlservices.ui.slots.DlSlotsAcknowActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:name="com.nic.mparivahan.dlservices.ui.coa.ChangeOfAddressActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:name="com.nic.mparivahan.dlservices.ui.dlextract.DLExtractActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:name="com.nic.mparivahan.dlservices.ui.dublicatedl.DLDuplicateActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.payment" android:name="com.nic.mparivahan.dlservices.ui.payment.DLRenewalFeePaymentActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_dash_board" android:name="com.nic.mparivahan.dlservices.ui.photoandsign.DlPhotoAndSignatureActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:name="com.nic.mparivahan.dlservices.ui.replacementdl.DLReplecementActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.renewalofdl.RenewalOfDLActivity"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.acknow.DLServiceAcknowlegementActivity"/>
+        <activity android:name="com.nic.mparivahan.Citizen.Activities.EvidenceVideoPlayActivity"/>
+        <activity android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.VerifyPaymentChallan" android:screenOrientation="portrait"/>
+        <activity android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.VerifyPaymentChallanDetails" android:screenOrientation="portrait"/>
+        <activity android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.VerifyPaymentChallanList" android:screenOrientation="portrait"/>
+        <activity android:label="@string/search_challan" android:name="com.nic.mparivahan.VahanServices.VahanView.VahanAdharOtpVerificationScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.RenewalOfPermit.RenewalOfPermitMainScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.RenewalOfPermit.RenewalOfPermitAcitivty" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.TranscationStatusActivity" android:screenOrientation="portrait"/>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.ReprintReceiptActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDesignActivity.MyDocActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDesignActivity.VirtualDlActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDesignActivity.VirtualRcActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.RC.ViewRcChallanActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.SlotSuccessfulBookedActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.SlotReceiptWebView" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanPayment.VahanReceiptDownload" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.DownloadReceipt" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanDmsAPI" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanView.VahanDmsReupload" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Sarathithreeservices.view.ApplicationStatusActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Sarathithreeservices.view.ApplicationDetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Sarathithreeservices.view.WithdrawDetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Sarathithreeservices.view.DownloadApplicationActivity" android:screenOrientation="portrait"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyDOo7MyWQhmPTJdYTYRr7rl23B2dRWImck"/>
+        <provider android:name="androidx.core.content.FileProvider" android:exported="false" android:authorities="com.nic.mparivahan.provider" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths"/>
+        </provider>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanApplication" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.DownLoadFormsService" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanApplicationOtpVerify" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanApplicationTransactionStatus" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanWithdraw" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanWithdrawOtpVerify" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanVerifyPendingTransaction" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanVerifyPendingTransactionDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanPaymentReceipt" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanServiceWithdrawnAccepted" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanWithdrawTransactionApplied" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Language.SettingActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Language.ChangeMpinActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.updateMobileNo.VahanConfirmUpdateMobileActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.DownloadFormsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Echallan.EchallanVirtualCourtActivity"/>
+        <activity android:name="com.nic.mparivahan.PushNoti.NotViews.NotificationView" android:exported="true" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.ChallanViewMoreActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.NoticeViewMoreActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Account.View.ChangeMpinOtpVerif" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.DownloadAppoinForms.DownloadFormHomeScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Echallan.SearchPrintChallanActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Echallan.SearchPrintReceiptActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Echallan.SearchPrintChallanListActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Echallan.SearchPrintReceiptListActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanVerifyPendingTransactionList" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanApplicationStatus.VahanPendingTransactionPayment" android:screenOrientation="portrait"/>
+        <activity android:label="@string/search_challan" android:name="com.nic.mparivahan.Echallan.VerifyPendingChallanWebView" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.FetchVahanLog.FetchVahanViews.DrivingLicenceTransactionDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.FetchVahanLog.FetchVahanViews.VehicleTransactionDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.AbtCntctTerms.ComplaintActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.FetchVahanLog.FetchVahanViews.ChallantransactionDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanDuplicateFitnessActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanRcCancellationActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanRcSurrenderActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanDuplicatePermitActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.RCReleaseActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.TemporaryPermitActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/notice_status" android:name="com.nic.mparivahan.DPTNotice.NoticeSearch" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Tax.PayTaxActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Tax.payment.TaxPaymentActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Tax.payment.PayTaxPaymentStatusScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.MultiServiceActivity.MultiServiceFeesDetailsScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.Confirmation.VahanMultiServiceConfirmationScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.Payment.VahanMultiServicePayment" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.Payment.VahanPaymentMultiServiceStatusScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.VahanMultiDmsAPI" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.MultiServiceActivity.IsueOfDuplicateMultiService" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.MultiServiceActivity.ChangeOfAddressMultiService" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.MultiServiceActivity.HypothecationTerminationActivityMultiService" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.MultiServiceActivity.HypothecationAdditionActivityMultiService" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.MultiServiceActivity.HypothecationContinuationActivityMulti" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.BuyerView.TOBuyer.AadhaarAddressTO" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.OtherServices" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Checkpost.CheckPostReceiptStatus" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.FancyServices.AllotmentLetterActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.FancyServices.FancyFeeReceipt" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.FancyServices.AuctionStatusActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.FancyServices.AvailableFancyNumberStatus" android:screenOrientation="portrait"/>
+        <activity android:label="@string/notice_status" android:name="com.nic.mparivahan.DPTNotice.NoticeSearchList" android:screenOrientation="portrait"/>
+        <activity android:label="@string/notice_status" android:name="com.nic.mparivahan.DPTNotice.NoticeDetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/notice_status" android:name="com.nic.mparivahan.DPTNotice.DownloadNoticeActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/notice_status" android:name="com.nic.mparivahan.DPTNotice.NoticeVirtualCourtActivity" android:screenOrientation="portrait"/>
+        <activity android:label="@string/notice_status" android:name="com.nic.mparivahan.Echallan.DTPNoticeVerifyWebView" android:screenOrientation="portrait"/>
+        <activity android:label="@string/notice_status" android:name="com.nic.mparivahan.Echallan.DTPNoticePaymentWebView" android:screenOrientation="portrait"/>
+        <activity android:label="@string/notice_status" android:name="com.nic.mparivahan.DPTNotice.VerifyNoticePaymentResponseScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.VahanTransferOfOwnerShipActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.AddressDetailTOO" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.NomineeAndInsuranceDetail" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.DownloadAppoinForms.DownloadNocHomeScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.RenewalOfNpAuthorizationPermit.RenewalOfNPAuthorizationPermit" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.NewCl.NewClSubmitScreen" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.NewCl.NewClThree" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.NewCl.NewClTwo" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.NewCl.NewClOne" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.appcancel.ApplicantDetails" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.appcancel.ApplicationCancel" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLServices.UI.LlStoltsAck" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.AlterationOfVehicle.VahanAlterationOfVehicle" android:exported="true" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanMultiService.VahanMultiSelectionScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.LLServices.UI.LlSlots" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLServices.UI.LlPayment" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLServices.UI.LlPhotoSignature" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLServices.UI.LlDocumentUpload" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLServices.UI.ChangeNameLL" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLServices.UI.ChangeAddressLL" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLServices.UI.DuplicateLL" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLMainScreen.LlAdharOtp" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLMainScreen.LlApplicationNumber" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLMainScreen.ApplicationEdit" android:exported="true"/>
+        <activity android:theme="@style/NoTitleDialog" android:name="com.nic.mparivahan.LLMainScreen.LlRto" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLMainScreen.LlMobileOtp" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLMainScreen.LLMain" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLMainScreen.LlDetails" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.appcancel.VerifyMobileScreen"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.FancyServices.AvailableFancyNumberList" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.PUCCCertificatesDownload.PUCCCertificateDownload" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.ServiceWithdrawnScreen.Activity.ApplicationDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.ServiceWithdrawnScreen.Activity.OtpVerification" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.ServiceWithdrawnScreen.Activity.SelectedWithdrawnList" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.ViewDocs.AppDetailsScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.ViewDocs.AppNumberScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.ui.ViewDocs.ViewDocScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.Activity.LLNoCheckActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.Activity.NewDLPersonalDetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.Activity.NewDLAddressDetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.Activity.NewCovActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.Activity.AddDrivingSchoolActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.AddCov.View.CovDetails" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.AddCov.View.CovList" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.AddCov.View.CovApplication" android:exported="true"/>
+        <activity android:name="com.nic.mparivahan.LLServices.editlearnerlicence.Activity.AddressDetailEditScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.LLServices.editlearnerlicence.Activity.EditApplOTPScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.LLServices.editlearnerlicence.Activity.EditLearnerAppScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.LLServices.editlearnerlicence.Activity.PersonalDetailsEditScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.LLServices.editlearnerlicence.Activity.SelectedCovDetailsScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Checkpost.CheckPostSearchList" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.OtherServicesViewMoreActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.FancyServices.RunningAuctionActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.FancyServices.RunningAuctionDetail" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.DlAcknow.DlApplicationScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.DlAcknow.DlDocUpload" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.DlAcknow.DlFeePayment" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.DlAcknow.DlPhotoSign" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.DlAcknow.DlSlots" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.NewDlScreen.DlAcknow.DlSlotsNext" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LearnerLicenceAadharScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.PersonalDetailsScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LearnerLicenceAddressScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LearnerLicenseTrainingScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.AddLLDrivingSchoolActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LLDocUpload" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LLApplicationScreen" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LLFeePayment" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LLPhotoSign" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LLSlots" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LLSlotsAcknowActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LearnerLicenseTestActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.dlservices.newlearner.LearnerLicenceDownloadActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Dashboard.ui.Home.ScannedBarcodeActivity" android:screenOrientation="portrait">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.BuyerView.TOBuyer.DetailView.IssueOfDuplicateDetailView" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.VahanTransferOwnerView.VahanTransferOfOwnership.SellerAndBuyer.BuyerView.TOBuyer.DetailView.HypothecationTerminationViewDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.FancyServices.AllocateStatusDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.DuplicateFitnessCertificateDownload.PDFViewInternalAcitvity" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.nic.mparivahan.sarathithreeservices.adharmobile.ConfirmMobNo" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.sarathithreeservices.adharmobile.MobUpdateAdhar" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.sarathithreeservices.adharmobile.UserAdharDetails" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.VahanServices.DuplicateFitnessCertificateDownload.DuplicateFitnessCertificateDownload" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.nic.mparivahan.ClServices.View.clobileupdate.ClMobileUpdateActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.ClServices.View.clobileupdate.ClOTPMobile" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.LLMainScreen.LlMobileUpdate.LlMobileUpdateActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.LLMainScreen.LlMobileUpdate.LlOtpMobile" android:screenOrientation="portrait"/>
+        <activity android:name="com.nic.mparivahan.Echallan.Echallan.EtransChallanPayment"/>
+        <meta-data android:name="com.google.firebase.messaging.default_notification_icon" android:resource="@drawable/app_icon"/>
+        <meta-data android:name="com.google.firebase.messaging.default_notification_color" android:resource="@color/colorAccent"/>
+        <meta-data android:name="com.google.firebase.messaging.default_notification_channel_id" android:value="@string/default_notification_channel_id"/>
+        <service android:name="com.nic.mparivahan.PushNotification.MyFirebaseMessagingService" android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <activity android:theme="@style/Theme.Transparent.ImagePicker" android:name="com.github.dhaval2404.imagepicker.ImagePickerActivity" android:screenOrientation="unspecified"/>
+        <activity android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name="com.yalantis.ucrop.UCropActivity" android:screenOrientation="portrait"/>
+        <provider android:name="com.github.dhaval2404.imagepicker.ImagePickerFileProvider" android:exported="false" android:authorities="com.nic.mparivahan.imagepicker.provider" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/image_picker_provider_paths"/>
+        </provider>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <receiver android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND" android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+            <meta-data android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED" android:value="true"/>
+        </receiver>
+        <service android:name="com.google.firebase.messaging.FirebaseMessagingService" android:exported="false" android:directBootAware="true">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.google.firebase.components.ComponentDiscoveryService" android:exported="false" android:directBootAware="true">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <activity android:theme="@style/Theme.Translucent.NoTitleBar" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:exported="false"/>
+        <provider android:name="com.google.firebase.provider.FirebaseInitProvider" android:exported="false" android:authorities="com.nic.mparivahan.firebaseinitprovider" android:initOrder="100" android:directBootAware="true"/>
+        <provider android:name="androidx.startup.InitializationProvider" android:exported="false" android:authorities="com.nic.mparivahan.androidx-startup">
+            <meta-data android:name="androidx.work.WorkManagerInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.profileinstaller.ProfileInstallerInitializer" android:value="androidx.startup"/>
+        </provider>
+        <service android:name="androidx.work.impl.background.systemalarm.SystemAlarmService" android:enabled="@bool/enable_system_alarm_service_default" android:exported="false" android:directBootAware="false"/>
+        <service android:name="androidx.work.impl.background.systemjob.SystemJobService" android:permission="android.permission.BIND_JOB_SERVICE" android:enabled="@bool/enable_system_job_service_default" android:exported="true" android:directBootAware="false"/>
+        <service android:name="androidx.work.impl.foreground.SystemForegroundService" android:enabled="@bool/enable_system_foreground_service_default" android:exported="false" android:directBootAware="false"/>
+        <receiver android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver" android:enabled="true" android:exported="false" android:directBootAware="false"/>
+        <receiver android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy" android:enabled="false" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy" android:enabled="false" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BATTERY_OKAY"/>
+                <action android:name="android.intent.action.BATTERY_LOW"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy" android:enabled="false" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.DEVICE_STORAGE_LOW"/>
+                <action android:name="android.intent.action.DEVICE_STORAGE_OK"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy" android:enabled="false" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver" android:enabled="false" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver" android:enabled="@bool/enable_system_alarm_service_default" android:exported="false" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver" android:permission="android.permission.DUMP" android:enabled="true" android:exported="true" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS"/>
+            </intent-filter>
+        </receiver>
+        <uses-library android:name="androidx.window.extensions" android:required="false"/>
+        <uses-library android:name="androidx.window.sidecar" android:required="false"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <service android:name="androidx.room.MultiInstanceInvalidationService" android:exported="false" android:directBootAware="true"/>
+        <service android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery" android:exported="false">
+            <meta-data android:name="backend:com.google.android.datatransport.cct.CctBackendFactory" android:value="cct"/>
+        </service>
+        <service android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService" android:permission="android.permission.BIND_JOB_SERVICE" android:exported="false"/>
+        <receiver android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver" android:exported="false"/>
+        <receiver android:name="androidx.profileinstaller.ProfileInstallReceiver" android:permission="android.permission.DUMP" android:enabled="true" android:exported="true" android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION"/>
+            </intent-filter>
+        </receiver>
+        <activity android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity" android:enabled="false" android:exported="false" android:process=":playcore_missing_splits_activity" android:stateNotNeeded="true" android:launchMode="singleInstance"/>
+        <activity android:theme="@style/Theme.PlayCore.Transparent" android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity" android:exported="false" android:stateNotNeeded="true"/>
+        <service android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService" android:enabled="false" android:exported="true">
+            <meta-data android:name="com.google.android.play.core.assetpacks.versionCode" android:value="11003"/>
+        </service>
+        <service android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService" android:enabled="false" android:exported="false"/>
+        <service android:name="pyxis.uzuki.live.richutilskt.service.RLocationService" android:enabled="true"/>
+    </application>
+</manifest>

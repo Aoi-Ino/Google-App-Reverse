@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+        <include android:id="@+id/topheader" layout="@layout/mvvm_header"/>
+        <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent">
+            <RelativeLayout android:id="@+id/nearestPollutionRl" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginTop="@dimen/_30sdp" android:layout_marginRight="@dimen/_16sdp" android:layout_marginHorizontal="@dimen/_16sdp">
+                <LinearLayout android:id="@+id/puccLl" android:background="@drawable/dashboard" android:layout_width="@dimen/_90sdp" android:layout_height="@dimen/_90sdp">
+                    <ImageView android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="@dimen/_45sdp" android:src="@drawable/pucc_img" android:scaleType="fitCenter"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_centerVertical="true" android:layout_marginStart="@dimen/_10sdp" android:layout_toEndOf="@+id/puccLl">
+                    <TextView android:textSize="16sp" android:textColor="#071219" android:ellipsize="end" android:id="@+id/tv_pollution_checking" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Nearest Pollution Checking Centre" android:maxLines="3" android:fontFamily="@font/poppins_semi_bold"/>
+                    <TextView android:textSize="12sp" android:textColor="#17bcff" android:ellipsize="end" android:id="@+id/tv_pollution_view" android:background="@drawable/nearby_view_map_bg" android:paddingLeft="@dimen/_15sdp" android:paddingRight="@dimen/_15sdp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:text="View Map" android:maxLines="1" android:fontFamily="@font/roboto_medium" android:paddingHorizontal="@dimen/_15sdp"/>
+                </LinearLayout>
+            </RelativeLayout>
+            <View android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="@dimen/_1sdp" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginTop="@dimen/_16sdp" android:layout_marginRight="@dimen/_16sdp" android:layout_marginHorizontal="@dimen/_16sdp"/>
+            <RelativeLayout android:id="@+id/nearestRTORl" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginTop="@dimen/_30sdp" android:layout_marginRight="@dimen/_16sdp" android:layout_marginHorizontal="@dimen/_16sdp">
+                <LinearLayout android:id="@+id/rtoLl" android:background="@drawable/dashboard" android:layout_width="@dimen/_90sdp" android:layout_height="@dimen/_90sdp">
+                    <ImageView android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="@dimen/_45sdp" android:src="@drawable/rto_img" android:scaleType="fitCenter"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_centerVertical="true" android:layout_marginStart="@dimen/_10sdp" android:layout_toEndOf="@+id/rtoLl">
+                    <TextView android:textSize="16sp" android:textColor="#071219" android:ellipsize="end" android:id="@+id/tv_rto" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Nearest RTO" android:maxLines="3" android:fontFamily="@font/poppins_semi_bold"/>
+                    <TextView android:textSize="12sp" android:textColor="#17bcff" android:ellipsize="end" android:id="@+id/tv_rto_view" android:background="@drawable/nearby_view_map_bg" android:paddingLeft="@dimen/_15sdp" android:paddingRight="@dimen/_15sdp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:text="View Map" android:maxLines="1" android:fontFamily="@font/roboto_medium" android:paddingHorizontal="@dimen/_15sdp"/>
+                </LinearLayout>
+            </RelativeLayout>
+            <View android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="@dimen/_1sdp" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginTop="@dimen/_16sdp" android:layout_marginRight="@dimen/_16sdp" android:layout_marginHorizontal="@dimen/_16sdp"/>
+            <RelativeLayout android:id="@+id/nearestfuelPumpRl" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginTop="@dimen/_30sdp" android:layout_marginRight="@dimen/_16sdp" android:layout_marginHorizontal="@dimen/_16sdp">
+                <LinearLayout android:id="@+id/fuelPumpLl" android:background="@drawable/dashboard" android:layout_width="@dimen/_90sdp" android:layout_height="@dimen/_90sdp">
+                    <ImageView android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="@dimen/_45sdp" android:src="@drawable/fuel_pump_img" android:scaleType="fitCenter"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_centerVertical="true" android:layout_marginStart="@dimen/_10sdp" android:layout_toEndOf="@+id/fuelPumpLl">
+                    <TextView android:textSize="16sp" android:textColor="#071219" android:ellipsize="end" android:id="@+id/tv_fuel_pump" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Nearest Fuel Pump" android:maxLines="3" android:fontFamily="@font/poppins_semi_bold"/>
+                    <TextView android:textSize="12sp" android:textColor="#17bcff" android:ellipsize="end" android:id="@+id/tv_fuel_view" android:background="@drawable/nearby_view_map_bg" android:paddingLeft="@dimen/_15sdp" android:paddingRight="@dimen/_15sdp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:text="View Map" android:maxLines="1" android:fontFamily="@font/roboto_medium" android:paddingHorizontal="@dimen/_15sdp"/>
+                </LinearLayout>
+            </RelativeLayout>
+            <View android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="@dimen/_1sdp" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginTop="@dimen/_16sdp" android:layout_marginRight="@dimen/_16sdp" android:layout_marginHorizontal="@dimen/_16sdp"/>
+            <RelativeLayout android:id="@+id/nearHospitalRl" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginTop="@dimen/_30sdp" android:layout_marginRight="@dimen/_16sdp" android:layout_marginHorizontal="@dimen/_16sdp">
+                <LinearLayout android:id="@+id/hospitalLl" android:background="@drawable/dashboard" android:layout_width="@dimen/_90sdp" android:layout_height="@dimen/_90sdp">
+                    <ImageView android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="@dimen/_45sdp" android:src="@drawable/hospital_img" android:scaleType="fitCenter"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_centerVertical="true" android:layout_marginStart="@dimen/_10sdp" android:layout_toEndOf="@+id/hospitalLl">
+                    <TextView android:textSize="16sp" android:textColor="#071219" android:ellipsize="end" android:id="@+id/tv_hospital" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Nearest Hospital" android:maxLines="3" android:fontFamily="@font/poppins_semi_bold"/>
+                    <TextView android:textSize="12sp" android:textColor="#17bcff" android:ellipsize="end" android:id="@+id/tv_hosp_view" android:background="@drawable/nearby_view_map_bg" android:paddingLeft="@dimen/_15sdp" android:paddingRight="@dimen/_15sdp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:text="View Map" android:maxLines="1" android:fontFamily="@font/roboto_medium" android:paddingHorizontal="@dimen/_15sdp"/>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

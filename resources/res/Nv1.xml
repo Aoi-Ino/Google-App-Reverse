@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/layerlistexample" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/container_cl" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.core.widget.NestedScrollView android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+                <include android:id="@+id/topHolder" layout="@layout/vahan_echallan_header"/>
+                <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="20dp">
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="20dp">
+                        <TextView android:textSize="16dp" android:textStyle="bold" android:textColor="#4d526b" android:gravity="center" android:id="@+id/confirm_txt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:fontFamily="@font/poppins_regular"/>
+                        <TextView android:gravity="center" android:id="@+id/appl_status_link" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="3dp" android:layout_marginRight="10dp" android:text="@string/redirect_link_to_application_status"/>
+                        <ImageView android:background="@drawable/succ_pn" android:layout_width="150dp" android:layout_height="150dp" android:layout_marginTop="60dp"/>
+                        <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/save_as_image" android:background="@drawable/button_style" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_marginTop="155dp" android:layout_marginRight="15dp" android:minHeight="50dp" android:text="@string/save_as_image" android:textAllCaps="true" android:fontFamily="@font/poppins_regular"/>
+                        <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/ok_button" android:background="@drawable/button_style" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_marginTop="10dp" android:layout_marginRight="15dp" android:minHeight="50dp" android:text="@string/home" android:textAllCaps="true" android:fontFamily="@font/poppins_regular"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

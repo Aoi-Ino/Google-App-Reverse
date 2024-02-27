@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_marginBottom="8dp">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@+id/ll_layout" android:background="@drawable/edit_text_style" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:backgroundTint="#f1f6f8">
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                    <TextView android:textSize="14dp" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/doc_type_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="Document Type" style="@style/TextAppearance.AppCompat.Body2"/>
+                    <TextView android:textSize="14dp" android:textColor="@color/reject_old" android:gravity="center_vertical" android:id="@+id/mandatory_icon" android:visibility="visible" android:layout_width="120dp" android:layout_height="wrap_content" android:layout_marginLeft="3dp" android:text="*" style="@style/TextAppearance.AppCompat.Body2"/>
+                </LinearLayout>
+                <TextView android:textSize="14dp" android:textColor="@color/vehicle_fit" android:gravity="center_vertical" android:id="@+id/title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:text="" style="@style/TextAppearance.AppCompat.Body2"/>
+                <TextView android:textSize="14dp" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/doc_name_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:text="Document Name" style="@style/TextAppearance.AppCompat.Body2"/>
+                <RelativeLayout android:orientation="horizontal" android:background="@drawable/edit_text_style" android:layout_width="match_parent" android:layout_height="47dp" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_weight="0.28">
+                    <Spinner android:gravity="center" android:layout_gravity="center" android:id="@+id/proff_spinner" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginLeft="5dp" android:layout_marginRight="20dp" android:layout_centerVertical="true" android:spinnerMode="dropdown"/>
+                    <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" app:srcCompat="@drawable/ic_arrow_drop_down"/>
+                </RelativeLayout>
+                <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginTop="5dp">
+                    <FrameLayout android:gravity="right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                        <ImageView android:background="@drawable/upload_dummy" android:visibility="gone" android:layout_width="@dimen/_45sdp" android:layout_height="@dimen/_40sdp" android:layout_marginRight="@dimen/_25sdp" android:scaleType="fitXY" android:layout_marginEnd="15dp"/>
+                        <ImageView android:layout_gravity="right" android:id="@+id/upload_image_status" android:background="@drawable/active_circle" android:visibility="gone" android:layout_width="@dimen/_15sdp" android:layout_height="@dimen/_15sdp" android:layout_marginRight="@dimen/_5sdp" android:scaleType="fitXY"/>
+                    </FrameLayout>
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/upload_doc_img" android:background="@drawable/blue_drawable" android:visibility="gone" android:layout_width="100dp" android:layout_height="40dp" android:layout_marginRight="4dp">
+                        <ImageView android:background="@drawable/white_small_gallery" android:visibility="gone" android:layout_width="24dp" android:layout_height="24dp"/>
+                        <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/preview" android:paddingLeft="4dp" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="5dp" android:text="Preview" android:fontFamily="@font/nexgenttf"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/update" android:background="@drawable/blue_drawable" android:visibility="gone" android:layout_width="100dp" android:layout_height="40dp">
+                        <ImageView android:background="@drawable/draw" android:visibility="gone" android:layout_width="15dp" android:layout_height="15dp"/>
+                        <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/edit_txt" android:paddingLeft="4dp" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="5dp" android:text="Edit" android:fontFamily="@font/nexgenttf"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/upload_image" android:background="@drawable/green_drawable" android:visibility="gone" android:layout_width="100dp" android:layout_height="40dp" android:layout_marginLeft="4dp" android:layout_marginRight="4dp">
+                        <ImageView android:background="@drawable/cloud_upload" android:visibility="gone" android:layout_width="25dp" android:layout_height="25dp"/>
+                        <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:paddingLeft="4dp" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="5dp" android:text="Upload" android:fontFamily="@font/nexgenttf"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/menu_layout" android:layout_width="wrap_content" android:layout_height="match_parent">
+                        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/camera" android:background="@drawable/blue_drawable" android:layout_width="100dp" android:layout_height="40dp" android:layout_marginRight="4dp">
+                            <ImageView android:background="@drawable/cam" android:visibility="gone" android:layout_width="25dp" android:layout_height="25dp"/>
+                            <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/capture" android:paddingLeft="4dp" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="5dp" android:text="Capture" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="5dp" android:text="or"/>
+                        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/browser_button" android:background="@drawable/blue_drawable" android:layout_width="100dp" android:layout_height="40dp" android:layout_marginRight="4dp">
+                            <ImageView android:background="@drawable/ga" android:visibility="gone" android:layout_width="25dp" android:layout_height="25dp"/>
+                            <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/gallery" android:paddingLeft="4dp" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="5dp" android:text="Gallery" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <ImageView android:id="@+id/delet_proff" android:background="@drawable/delet_nexgen" android:visibility="gone" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginLeft="15dp" android:layout_marginRight="15dp" android:scaleType="fitXY"/>
+                        <TextView android:textSize="14dp" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/file_name" android:paddingLeft="3dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="40dp" android:text="No file chosen"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <TextView android:textStyle="bold" android:textColor="@color/red_overlay2" android:gravity="center_vertical" android:id="@+id/rejected_text" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:text="Rejected" android:fontFamily="@font/robot_bold"/>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

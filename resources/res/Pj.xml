@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:tag="layout/activity_learner_licence_aadhar_0" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent" android:baselineAligned="false">
+    <include android:id="@+id/mHeader" layout="@layout/sarathi_header"/>
+    <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+            <LinearLayout android:orientation="vertical" android:padding="@dimen/_10sdp" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <LinearLayout android:orientation="vertical" android:background="@drawable/edit_text_style" android:padding="@dimen/_10sdp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp" android:layout_marginBottom="@dimen/_10sdp" android:baselineAligned="false" android:backgroundTint="#f1f6f8">
+                    <TextView android:textSize="@dimen/_11ssp" android:textStyle="bold" android:textColor="@color/black" android:ellipsize="end" android:id="@+id/stateTv" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_8sdp" android:text="@string/state" android:maxLines="1"/>
+                    <EditText android:textSize="@dimen/_11ssp" android:id="@+id/stateEt" android:background="@drawable/circle_bg_corner_14_catskill_white" android:layout_width="match_parent" android:layout_height="@dimen/_35sdp" android:layout_marginTop="@dimen/_5sdp" android:hint="@string/select_state" android:spinnerMode="dialog" android:paddingStart="@dimen/_5sdp" android:backgroundTint="#ffffff" android:importantForAutofill="2" style="@style/SpinnerEditText"/>
+                    <TextView android:textSize="@dimen/_11ssp" android:textStyle="bold" android:textColor="@color/black" android:ellipsize="end" android:id="@+id/rtoTv" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:text="@string/rto" android:maxLines="2"/>
+                    <RelativeLayout android:id="@+id/rtoRl" android:background="@drawable/edit_text_style" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:backgroundTint="#ffffff">
+                        <Spinner android:id="@+id/rtoSpn" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/_35sdp" android:textAllCaps="true"/>
+                    </RelativeLayout>
+                    <RadioGroup android:orientation="vertical" android:id="@+id/aadharRg" android:background="#ffffff" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp">
+                        <RadioButton android:textSize="14sp" android:id="@+id/withAadharRb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="@string/submit_via_aadhaar_authentication" android:fontFamily="@font/roboto_medium"/>
+                        <RadioButton android:textSize="14sp" android:id="@+id/withoutAadharRb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="false" android:text="@string/submit_without_aadhaar_authentication" android:fontFamily="@font/roboto_medium"/>
+                    </RadioGroup>
+                    <LinearLayout android:orientation="vertical" android:id="@+id/linear_mob" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/_11ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/mobileNoTv" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:text="@string/applicant_mobile_no"/>
+                        <androidx.appcompat.widget.AppCompatEditText android:textSize="14sp" android:id="@+id/mobileNoEt" android:background="@drawable/edit_text_style" android:padding="10dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="@dimen/_30sdp" android:layout_marginTop="@dimen/_5sdp" android:hint="@string/mobile_no" android:maxLength="10" android:inputType="phone" android:backgroundTint="#ffffff"/>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@+id/aadharLL" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                        <TextView android:textColor="@color/black" android:gravity="left|center_vertical|center_horizontal|center" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="@string/enter_adhar_vid" android:justificationMode="1"/>
+                        <RadioGroup android:id="@+id/radioGroup_id" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <RadioButton android:textSize="14sp" android:id="@+id/adharRadio" android:layout_width="match_parent" android:layout_height="wrap_content" android:checked="true" android:text="@string/aadhar_no" android:layout_weight="1"/>
+                                <RadioButton android:textSize="14sp" android:id="@+id/vidRadio" android:layout_width="match_parent" android:layout_height="wrap_content" android:checked="false" android:text="@string/vid" android:layout_weight="1"/>
+                            </LinearLayout>
+                        </RadioGroup>
+                        <EditText android:textColor="@color/black" android:id="@+id/et_otp" android:background="@drawable/edit_text_style" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:hint="@string/enter_vid" android:inputType="textCapSentences" android:textAllCaps="true" android:backgroundTint="#ffffff"/>
+                        <LinearLayout android:orientation="horizontal" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp">
+                            <CheckBox android:gravity="center" android:id="@+id/decKyc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp"/>
+                            <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="top|left|center_vertical|center_horizontal|center" android:id="@+id/adhar_term" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginTop="15dp" android:text="@string/agree_with_terms"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_5sdp" android:layout_marginTop="@dimen/_10sdp" android:layout_marginRight="@dimen/_5sdp" android:layout_marginBottom="@dimen/_8sdp" android:baselineAligned="false">
+                    <TextView android:textSize="18sp" android:textColor="@color/never_mix" android:gravity="center" android:id="@+id/reset" android:background="@drawable/button_white_theme" android:layout_width="0dp" android:layout_height="@dimen/_35sdp" android:text="@string/reset" android:layout_weight="1" android:layout_marginStart="@dimen/_5sdp"/>
+                    <TextView android:textSize="18sp" android:textColor="@color/white" android:gravity="center" android:id="@+id/generateOtp" android:background="@drawable/sign_in_new" android:layout_width="0dp" android:layout_height="@dimen/_35sdp" android:text="@string/submit" android:layout_weight="1" android:layout_marginStart="5dp"/>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

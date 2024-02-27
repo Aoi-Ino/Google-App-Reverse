@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="bottom" android:orientation="vertical" android:id="@+id/dialogBox" android:background="@color/semitransparent" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView android:layout_width="match_parent" android:layout_height="330dp" app:cardBackgroundColor="@color/white" app:cardCornerRadius="20dp" app:cardElevation="10dp" app:cardMaxElevation="12dp" app:cardPreventCornerOverlap="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Scan QR Code (DL/RC)" android:fontFamily="@font/nexgenttf"/>
+            <RelativeLayout android:background="@drawable/bottom_shape6" android:layout_width="match_parent" android:layout_height="230dp" android:layout_marginLeft="10dp" android:layout_marginTop="20dp" android:layout_marginRight="10dp" android:layout_marginBottom="0dp">
+                <ImageView android:layout_gravity="center" android:id="@+id/qr_img" android:layout_width="60dp" android:layout_height="60dp" android:layout_marginTop="50dp" android:src="@drawable/qrcode" android:layout_alignParentTop="true" android:layout_centerInParent="true"/>
+                <TextView android:textStyle="bold" android:textColor="#06aaff" android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:text="Tap here to enable your camera" android:layout_below="@+id/qr_img" android:layout_centerInParent="true" android:fontFamily="@font/nexgenttf"/>
+                <androidx.appcompat.widget.AppCompatButton android:textSize="15sp" android:textStyle="bold" android:textColor="@color/white" android:layout_gravity="bottom" android:id="@+id/btnScan" android:background="@drawable/button_style2" android:layout_width="match_parent" android:layout_height="52dp" android:text="Scan" android:layout_alignParentBottom="true" android:textAllCaps="false" android:fontFamily="@font/nexgenttf"/>
+            </RelativeLayout>
+            <TextView android:textSize="25sp" android:textStyle="bold" android:textColor="@color/white" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Scan QR Code (DL/RC)"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

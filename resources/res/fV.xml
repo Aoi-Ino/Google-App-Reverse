@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:layout_marginTop="20dp" android:layout_marginRight="5dp">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@+id/linear_parent" android:background="@drawable/nexgen_carview_myrc_boarder" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="3dp" android:layout_marginRight="3dp" android:layout_marginBottom="3dp" android:layout_marginStart="3dp" android:layout_marginEnd="3dp">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp">
+                <TextView android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Name" android:fontFamily="@font/nexgenttf"/>
+                <LinearLayout android:gravity="top" android:layout_gravity="top" android:orientation="horizontal" android:background="@drawable/sign_in_back" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <TextView android:gravity="top|left|center_vertical|center_horizontal|center" android:id="@+id/full_name" android:padding="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLength="25" android:digits=" qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM." android:inputType="textPersonName"/>
+                    <TextView android:id="@+id/relation_name" android:padding="10dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+                    <LinearLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="match_parent" android:fontFamily="@font/nexgenttf">
+                        <ImageView android:id="@+id/update" android:background="@drawable/pinedit" android:layout_width="30dp" android:layout_height="30dp"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="10dp" android:fontFamily="@font/nexgenttf">
+                        <ImageView android:id="@+id/delet" android:background="@drawable/delet_nexgen" android:layout_width="20dp" android:layout_height="25dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <TextView android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Phone Number" android:fontFamily="@font/nexgenttf"/>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="2">
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="10dp" android:layout_weight="1">
+                        <TextView android:textStyle="bold" android:textColor="@color/black" android:id="@+id/agetv" android:paddingLeft="15dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Age"/>
+                        <TextView android:id="@+id/age" android:paddingLeft="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="10dp" android:layout_weight="1">
+                        <TextView android:textStyle="bold" android:textColor="@color/black" android:paddingLeft="15dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Gender"/>
+                        <TextView android:id="@+id/gender" android:paddingLeft="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <TextView android:id="@+id/phone_number" android:padding="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:inputType="text"/>
+                <TextView android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Relation" android:fontFamily="@font/nexgenttf"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,202 @@
+package com.nic.mparivahan.Welcome;
+
+import android.os.Build;
+import cm.l;
+import com.nic.mparivahan.Welcome.Model.NapixTokenModel;
+import ii.b;
+import java.util.concurrent.TimeUnit;
+import javax.net.ssl.HostnameVerifier;
+import javax.net.ssl.SSLSession;
+import javax.net.ssl.SSLSocketFactory;
+import javax.net.ssl.X509TrustManager;
+import retrofit2.Call;
+import retrofit2.http.Field;
+import retrofit2.http.FormUrlEncoded;
+import retrofit2.http.POST;
+import um.z;
+import v9.d;
+import v9.k;
+
+public interface NapixService {
+
+    /* renamed from: a  reason: collision with root package name */
+    public static final a f21647a = a.f21648a;
+
+    public static final class a {
+
+        /* renamed from: a  reason: collision with root package name */
+        static final /* synthetic */ a f21648a = new a();
+
+        /* renamed from: b  reason: collision with root package name */
+        private static NapixService f21649b;
+
+        private a() {
+        }
+
+        /* access modifiers changed from: private */
+        public static final boolean d(String str, SSLSession sSLSession) {
+            return true;
+        }
+
+        /* access modifiers changed from: private */
+        public static final boolean e(String str, SSLSession sSLSession) {
+            return true;
+        }
+
+        public final NapixService c() {
+            z.a L;
+            HostnameVerifier hostnameVerifier;
+            if (Build.VERSION.SDK_INT >= 26) {
+                z.a aVar = new z.a();
+                TimeUnit timeUnit = TimeUnit.SECONDS;
+                z.a a10 = aVar.d(30, timeUnit).J(30, timeUnit).M(30, timeUnit).a(d.f17494a.d());
+                Object obj = k.a().get("sslSocketFactory");
+                l.d(obj, "null cannot be cast to non-null type javax.net.ssl.SSLSocketFactory");
+                Object obj2 = k.a().get("trustAllCerts");
+                l.d(obj2, "null cannot be cast to non-null type javax.net.ssl.X509TrustManager");
+                L = a10.L((SSLSocketFactory) obj, (X509TrustManager) obj2);
+                new b
+                /*  JADX ERROR: Method code generation error
+                    jadx.core.utils.exceptions.CodegenException: Error generate insn: 0x004d: CONSTRUCTOR  (r1v20 ? I:ii.b) =  call: ii.b.<init>():void type: CONSTRUCTOR in method: com.nic.mparivahan.Welcome.NapixService.a.c():com.nic.mparivahan.Welcome.NapixService, dex: classes3.dex
+                    	at jadx.core.codegen.InsnGen.makeInsn(InsnGen.java:256)
+                    	at jadx.core.codegen.InsnGen.makeInsn(InsnGen.java:221)
+                    	at jadx.core.codegen.RegionGen.makeSimpleBlock(RegionGen.java:109)
+                    	at jadx.core.codegen.RegionGen.makeRegion(RegionGen.java:55)
+                    	at jadx.core.codegen.RegionGen.makeSimpleRegion(RegionGen.java:92)
+                    	at jadx.core.codegen.RegionGen.makeRegion(RegionGen.java:58)
+                    	at jadx.core.codegen.RegionGen.makeRegionIndent(RegionGen.java:98)
+                    	at jadx.core.codegen.RegionGen.makeIf(RegionGen.java:142)
+                    	at jadx.core.codegen.RegionGen.makeRegion(RegionGen.java:62)
+                    	at jadx.core.codegen.RegionGen.makeSimpleRegion(RegionGen.java:92)
+                    	at jadx.core.codegen.RegionGen.makeRegion(RegionGen.java:58)
+                    	at jadx.core.codegen.MethodGen.addRegionInsns(MethodGen.java:211)
+                    	at jadx.core.codegen.MethodGen.addInstructions(MethodGen.java:204)
+                    	at jadx.core.codegen.ClassGen.addMethodCode(ClassGen.java:318)
+                    	at jadx.core.codegen.ClassGen.addMethod(ClassGen.java:271)
+                    	at jadx.core.codegen.ClassGen.lambda$addInnerClsAndMethods$2(ClassGen.java:240)
+                    	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+                    	at java.util.ArrayList.forEach(ArrayList.java:1259)
+                    	at java.util.stream.SortedOps$RefSortingSink.end(SortedOps.java:395)
+                    	at java.util.stream.Sink$ChainedReference.end(Sink.java:258)
+                    	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:483)
+                    	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+                    	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+                    	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+                    	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+                    	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:485)
+                    	at jadx.core.codegen.ClassGen.addInnerClsAndMethods(ClassGen.java:236)
+                    	at jadx.core.codegen.ClassGen.addClassBody(ClassGen.java:227)
+                    	at jadx.core.codegen.ClassGen.addClassCode(ClassGen.java:112)
+                    	at jadx.core.codegen.ClassGen.addInnerClass(ClassGen.java:249)
+                    	at jadx.core.codegen.ClassGen.lambda$addInnerClsAndMethods$2(ClassGen.java:238)
+                    	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+                    	at java.util.ArrayList.forEach(ArrayList.java:1259)
+                    	at java.util.stream.SortedOps$RefSortingSink.end(SortedOps.java:395)
+                    	at java.util.stream.Sink$ChainedReference.end(Sink.java:258)
+                    	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:483)
+                    	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+                    	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+                    	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+                    	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+                    	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:485)
+                    	at jadx.core.codegen.ClassGen.addInnerClsAndMethods(ClassGen.java:236)
+                    	at jadx.core.codegen.ClassGen.addClassBody(ClassGen.java:227)
+                    	at jadx.core.codegen.ClassGen.addClassCode(ClassGen.java:112)
+                    	at jadx.core.codegen.ClassGen.makeClass(ClassGen.java:78)
+                    	at jadx.core.codegen.CodeGen.wrapCodeGen(CodeGen.java:44)
+                    	at jadx.core.codegen.CodeGen.generateJavaCode(CodeGen.java:33)
+                    	at jadx.core.codegen.CodeGen.generate(CodeGen.java:21)
+                    	at jadx.core.ProcessClass.generateCode(ProcessClass.java:61)
+                    	at jadx.core.dex.nodes.ClassNode.decompile(ClassNode.java:273)
+                    Caused by: jadx.core.utils.exceptions.JadxRuntimeException: Code variable not set in r1v20 ?
+                    	at jadx.core.dex.instructions.args.SSAVar.getCodeVar(SSAVar.java:189)
+                    	at jadx.core.codegen.InsnGen.makeConstructor(InsnGen.java:620)
+                    	at jadx.core.codegen.InsnGen.makeInsnBody(InsnGen.java:364)
+                    	at jadx.core.codegen.InsnGen.makeInsn(InsnGen.java:250)
+                    	... 49 more
+                    */
+                /*
+                    this = this;
+                    int r0 = android.os.Build.VERSION.SDK_INT
+                    r1 = 26
+                    java.lang.String r2 = "null cannot be cast to non-null type javax.net.ssl.X509TrustManager"
+                    java.lang.String r3 = "trustAllCerts"
+                    java.lang.String r4 = "null cannot be cast to non-null type javax.net.ssl.SSLSocketFactory"
+                    java.lang.String r5 = "sslSocketFactory"
+                    r6 = 30
+                    if (r0 < r1) goto L_0x0059
+                    um.z$a r0 = new um.z$a
+                    r0.<init>()
+                    java.util.concurrent.TimeUnit r1 = java.util.concurrent.TimeUnit.SECONDS
+                    um.z$a r0 = r0.d(r6, r1)
+                    um.z$a r0 = r0.J(r6, r1)
+                    um.z$a r0 = r0.M(r6, r1)
+                    v9.d$a r1 = v9.d.f17494a
+                    um.w r1 = r1.d()
+                    um.z$a r0 = r0.a(r1)
+                    java.util.HashMap r1 = v9.k.a()
+                    java.lang.Object r1 = r1.get(r5)
+                    cm.l.d(r1, r4)
+                    javax.net.ssl.SSLSocketFactory r1 = (javax.net.ssl.SSLSocketFactory) r1
+                    java.util.HashMap r4 = v9.k.a()
+                    java.lang.Object r3 = r4.get(r3)
+                    cm.l.d(r3, r2)
+                    javax.net.ssl.X509TrustManager r3 = (javax.net.ssl.X509TrustManager) r3
+                    um.z$a r0 = r0.L(r1, r3)
+                    ii.b r1 = new ii.b
+                    r1.<init>()
+                L_0x0050:
+                    um.z$a r0 = r0.I(r1)
+                    um.z r0 = r0.c()
+                    goto L_0x009a
+                L_0x0059:
+                    um.z$a r0 = new um.z$a
+                    r0.<init>()
+                    java.util.concurrent.TimeUnit r1 = java.util.concurrent.TimeUnit.SECONDS
+                    um.z$a r0 = r0.d(r6, r1)
+                    um.z$a r0 = r0.J(r6, r1)
+                    um.z$a r0 = r0.M(r6, r1)
+                    v9.d$a r1 = v9.d.f17494a
+                    um.w r1 = r1.d()
+                    um.z$a r0 = r0.a(r1)
+                    java.util.HashMap r1 = v9.k.a()
+                    java.lang.Object r1 = r1.get(r5)
+                    cm.l.d(r1, r4)
+                    javax.net.ssl.SSLSocketFactory r1 = (javax.net.ssl.SSLSocketFactory) r1
+                    java.util.HashMap r4 = v9.k.a()
+                    java.lang.Object r3 = r4.get(r3)
+                    cm.l.d(r3, r2)
+                    javax.net.ssl.X509TrustManager r3 = (javax.net.ssl.X509TrustManager) r3
+                    um.z$a r0 = r0.L(r1, r3)
+                    ii.c r1 = new ii.c
+                    r1.<init>()
+                    goto L_0x0050
+                L_0x009a:
+                    com.nic.mparivahan.Welcome.NapixService r1 = f21649b
+                    if (r1 != 0) goto L_0x00c7
+                    retrofit2.Retrofit$Builder r1 = new retrofit2.Retrofit$Builder
+                    r1.<init>()
+                    hc.a$a r2 = hc.a.f12073a
+                    java.lang.String r2 = r2.k()
+                    retrofit2.Retrofit$Builder r1 = r1.baseUrl((java.lang.String) r2)
+                    retrofit2.converter.gson.GsonConverterFactory r2 = retrofit2.converter.gson.GsonConverterFactory.create()
+                    retrofit2.Retrofit$Builder r1 = r1.addConverterFactory(r2)
+                    retrofit2.Retrofit$Builder r0 = r1.client(r0)
+                    retrofit2.Retrofit r0 = r0.build()
+                    java.lang.Class<com.nic.mparivahan.Welcome.NapixService> r1 = com.nic.mparivahan.Welcome.NapixService.class
+                    java.lang.Object r0 = r0.create(r1)
+                    com.nic.mparivahan.Welcome.NapixService r0 = (com.nic.mparivahan.Welcome.NapixService) r0
+                    f21649b = r0
+                L_0x00c7:
+                    com.nic.mparivahan.Welcome.NapixService r0 = f21649b
+                    cm.l.c(r0)
+                    return r0
+                */
+                throw new UnsupportedOperationException("Method not decompiled: com.nic.mparivahan.Welcome.NapixService.a.c():com.nic.mparivahan.Welcome.NapixService");
+            }
+        }
+
+        @FormUrlEncoded
+        @POST("nic/parivahan/oauth2/token")
+        Call<NapixTokenModel> getToken(@Field("grant_type") String str, @Field("scope") String str2, @Field("client_id") String str3, @Field("client_secret") String str4);
+    }

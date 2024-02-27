@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@drawable/circle_bg_corner_12_catskill_white" android:layout_width="match_parent" android:layout_height="wrap_content" app:cardCornerRadius="12dp" app:cardUseCompatPadding="true">
+    <FrameLayout android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="0dp">
+        <com.nic.mparivahan.MyTextView android:id="@+id/tax_rcpt2" android:background="@drawable/circle_bg_corner_14_catskill_white" android:paddingLeft="20dp" android:paddingTop="15dp" android:paddingRight="20dp" android:paddingBottom="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLength="30" android:textAllCaps="true" android:paddingHorizontal="20dp" android:paddingVertical="15dp"/>
+        <LinearLayout android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.nic.mparivahan.MyTextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/searchTv" android:background="@drawable/sign_in_new" android:paddingLeft="20dp" android:paddingTop="10dp" android:paddingRight="20dp" android:paddingBottom="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5dp" android:text="@string/download" android:fontFamily="sans-serif-light" android:layout_marginEnd="5dp" android:paddingHorizontal="20dp" android:paddingVertical="10dp"/>
+        </LinearLayout>
+    </FrameLayout>
+</androidx.cardview.widget.CardView>

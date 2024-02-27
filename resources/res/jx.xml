@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="top|center_vertical|center_horizontal|center" android:orientation="vertical" android:padding="10dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:layout_width="@dimen/_180sdp" android:layout_height="@dimen/_180sdp">
+            <ProgressBar android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <WebView android:layout_gravity="center" android:id="@+id/aboutUsWv" android:padding="10dp" android:visibility="visible" android:layout_width="@dimen/_180sdp" android:layout_height="@dimen/_200sdp" android:layout_marginLeft="16dp" android:layout_marginTop="8dp" android:layout_marginRight="16dp" android:scaleType="center" android:layout_marginStart="16dp" android:layout_marginEnd="16dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+        </FrameLayout>
+        <TextView android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/messageButton" android:background="@drawable/sign_in_new" android:visibility="visible" android:layout_width="120dp" android:layout_height="50dp" android:layout_marginTop="8dp" android:text="OK" android:textAllCaps="false" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

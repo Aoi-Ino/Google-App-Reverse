@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="280dp" android:layout_height="wrap_content" android:layout_marginRight="5dp">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@+id/linear_parent" android:background="@drawable/nexgen_alerts_shape" android:paddingLeft="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="3dp" android:minHeight="110dp">
+                <TextView android:textSize="15dp" android:textStyle="bold" android:textColor="#071219" android:gravity="center_vertical" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="5dp" android:text="Alerts" android:fontFamily="@font/poppins_regular"/>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:weightSum="2">
+                    <TextView android:textSize="14dp" android:textStyle="bold" android:textColor="#071219" android:gravity="center_vertical" android:id="@+id/text" android:paddingTop="3dp" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:text="Vehicle No." android:layout_weight="0.7" android:fontFamily="@font/poppins_semi_bold"/>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="35dp" android:weightSum="5">
+                        <TextView android:textSize="14dp" android:textStyle="bold" android:textColor="#15bbff" android:gravity="center_vertical" android:id="@+id/doc_number" android:paddingTop="3dp" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3" android:fontFamily="@font/nexgenttf"/>
+                        <androidx.appcompat.widget.LinearLayoutCompat android:gravity="right|center_vertical|center_horizontal|center" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="2">
+                            <androidx.appcompat.widget.AppCompatImageView android:id="@+id/refresh" android:background="@drawable/ref_button" android:layout_width="25dp" android:layout_height="23dp" android:layout_marginRight="10dp"/>
+                            <androidx.appcompat.widget.AppCompatImageView android:textStyle="bold" android:id="@+id/viewmore" android:background="@drawable/viewbutton" android:paddingTop="3dp" android:layout_width="23dp" android:layout_height="23dp" android:layout_marginEnd="10dp"/>
+                        </androidx.appcompat.widget.LinearLayoutCompat>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                    <TextView android:textSize="15dp" android:background="#d6d9da" android:visibility="gone" android:layout_width="match_parent" android:layout_height="1dp"/>
+                    <LinearLayout android:orientation="vertical" android:id="@+id/nontran" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="5" android:minWidth="35dp">
+                            <TextView android:textSize="13dp" android:textStyle="bold" android:textColor="#071219" android:gravity="center_vertical" android:id="@+id/service_name1" android:layout_width="0dp" android:layout_height="wrap_content" android:minHeight="30dp" android:text="Validity(NT)" android:layout_weight="2" android:fontFamily="@font/nexgenttf"/>
+                            <TextView android:textSize="11dp" android:textStyle="bold" android:textColor="@color/danger" android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/tras_expiry_date" android:paddingRight="5dp" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                            <TextView android:textSize="12dp" android:textColor="#071219" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Expiry Date:"/>
+                            <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:paddingLeft="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:weightSum="5">
+                            <TextView android:textSize="11dp" android:textColor="#071219" android:gravity="center_vertical" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="5"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="5dp" android:weightSum="5">
+                            <TextView android:textSize="11dp" android:textColor="#6089b5" android:gravity="center_vertical" android:visibility="visible" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="We will notify you 30 days before the any validity expiry." android:layout_weight="5" android:fontFamily="@font/poppins_regular"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@+id/tranport" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="5" android:minWidth="35dp">
+                            <TextView android:textSize="13dp" android:textStyle="bold" android:textColor="#071219" android:gravity="center_vertical" android:id="@+id/service_name" android:layout_width="0dp" android:layout_height="wrap_content" android:minHeight="30dp" android:text="Validity (NT)" android:layout_weight="2" android:fontFamily="@font/nexgenttf"/>
+                            <TextView android:textSize="11dp" android:textStyle="bold" android:textColor="@color/danger" android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/doc_expiry_date" android:paddingRight="5dp" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                            <TextView android:textSize="12dp" android:textColor="#071219" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Expiry Date:"/>
+                            <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/insurance_expire_date" android:paddingLeft="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="8dp" android:weightSum="5">
+                            <TextView android:textSize="11dp" android:textColor="#6089b5" android:gravity="center_vertical" android:id="@+id/notify" android:visibility="visible" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:minHeight="35dp" android:text="We will notify you 30 days before the any validity expiry." android:layout_weight="5" android:fontFamily="@font/poppins_regular"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <ProgressBar android:id="@+id/progress_bar" android:visibility="gone" android:layout_width="50dp" android:layout_height="50dp" android:layout_centerInParent="true" android:progressTintMode="src_in"/>
+    </RelativeLayout>
+</LinearLayout>

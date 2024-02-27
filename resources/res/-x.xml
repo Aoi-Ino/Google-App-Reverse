@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <include layout="@layout/mvvm_header"/>
+            <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <com.nic.mparivahan.MyTextView android:textSize="20sp" android:textStyle="bold" android:textColor="@color/never_mix" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp"/>
+                        <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.google.android.material.card.MaterialCardView android:id="@+id/cv_report_traffic_violation_icon" android:layout_width="40dp" android:layout_height="40dp" app:cardBackgroundColor="#d2d5d7" app:cardCornerRadius="20dp" app:strokeColor="#d2d5d7" app:strokeWidth="2dp">
+                                <ImageView android:layout_gravity="center" android:id="@+id/iv_report_traffic_violation_icon" android:layout_width="25dp" android:layout_height="25dp" app:srcCompat="@drawable/user"/>
+                            </com.google.android.material.card.MaterialCardView>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <com.nic.mparivahan.MyTextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="Renewal Of DL"/>
+                    <LinearLayout android:orientation="horizontal" android:padding="5dp" android:layout_width="match_parent" android:layout_height="150dp" android:layout_marginTop="5dp">
+                        <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp" android:layout_weight="1">
+                            <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/ic_driving_license" android:tint="@color/blue_new" app:tint="@color/blue_new"/>
+                            <com.nic.mparivahan.MyTextView android:textSize="@dimen/new_normal_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Driving License Details" android:fontFamily="sans-serif-light"/>
+                        </LinearLayout>
+                        <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/sign_in_new" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp" android:layout_weight="1">
+                            <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/dms_docs" app:tint="@color/white"/>
+                            <com.nic.mparivahan.MyTextView android:textSize="@dimen/new_normal_txt" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="DMS \10(Upload Docs)" android:fontFamily="sans-serif-light"/>
+                        </LinearLayout>
+                        <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp" android:layout_weight="1">
+                            <ImageView android:layout_width="40dp" android:layout_height="40dp" app:srcCompat="@drawable/ic_fee_details"/>
+                            <com.nic.mparivahan.MyTextView android:textSize="@dimen/new_normal_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Fee \10Details" android:fontFamily="sans-serif-light"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <com.nic.mparivahan.MyTextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="eSign Management System"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="13sp" android:textStyle="normal" android:textColor="@color/black" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="Following documents are to be uploaded and e-Signed by User"/>
+                </LinearLayout>
+                <View android:background="#eaedef" android:layout_width="match_parent" android:layout_height="5dp"/>
+                <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="horizontal" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:baselineAligned="false">
+                        <com.nic.mparivahan.MyTextView android:textSize="13sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="top|left|center_vertical|center_horizontal|center" android:id="@+id/relation_name_badge" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Important Instructions." android:layout_weight="1.1"/>
+                        <TextView android:textSize="15sp" android:textStyle="bold" android:textColor="#83000000" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/relation_name_txt" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Each category requires one document to be upload." android:layout_weight="1" android:layout_below="@+id/relation_name_badge"/>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:baselineAligned="false">
+                        <com.nic.mparivahan.MyTextView android:textSize="13sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="top|left|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Permissible file types" android:layout_weight="1.1"/>
+                        <TextView android:textSize="15sp" android:textStyle="bold" android:textColor="#83000000" android:gravity="left|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="match_parent" android:text=".png, .jpg, jpeg, .pdf only" android:layout_weight="1" android:layout_below="@+id/relation_name_badge"/>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:baselineAligned="false">
+                        <com.nic.mparivahan.MyTextView android:textSize="13sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="top|left|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Permissible file size" android:layout_weight="1.1"/>
+                        <TextView android:textSize="15sp" android:textStyle="bold" android:textColor="#83000000" android:gravity="left|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Maximum size upto 500KB per document" android:layout_weight="1" android:layout_below="@+id/relation_name_badge"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <View android:background="#eaedef" android:layout_width="match_parent" android:layout_height="5dp"/>
+                <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <com.nic.mparivahan.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Proof of Address"/>
+                        <ImageView android:layout_width="20dp" android:layout_height="20dp" android:layout_marginLeft="10dp" android:src="@drawable/rectangle_icon"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/corner_circle_14_selected" android:layout_width="match_parent" android:layout_height="60dp" android:layout_marginTop="18dp" android:weightSum="5">
+                        <ImageView android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/checked_box" android:layout_weight="1"/>
+                        <TextView android:textSize="13sp" android:textStyle="bold" android:textColor="#071219" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="Aadhar Card" android:layout_weight="1" android:textAllCaps="true"/>
+                        <TextView android:textStyle="bold" android:textColor="#09adff" android:gravity="right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="17dp" android:text="Form 34.pdf" android:layout_weight="3"/>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp">
+                        <com.nic.mparivahan.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Proof of Address"/>
+                        <ImageView android:layout_width="20dp" android:layout_height="20dp" android:layout_marginLeft="10dp" android:src="@drawable/rectangle_icon"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/corner_circle_14_selected" android:layout_width="match_parent" android:layout_height="60dp" android:layout_marginTop="18dp" android:weightSum="5">
+                        <ImageView android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/checked_box" android:layout_weight="1"/>
+                        <TextView android:textSize="13sp" android:textStyle="bold" android:textColor="#071219" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:text="Pan Card" android:layout_weight="1" android:textAllCaps="true"/>
+                        <TextView android:textStyle="bold" android:textColor="#09adff" android:gravity="right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="17dp" android:text="Form 34.pdf" android:layout_weight="3"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:background="@drawable/edit_text_style" android:paddingLeft="5dp" android:paddingRight="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+                    <androidx.appcompat.widget.AppCompatButton android:textSize="12dp" android:textColor="@color/white" android:background="@drawable/button_style" android:layout_width="0dp" android:layout_height="50dp" android:text="@string/next" android:layout_weight="1" android:textAllCaps="false" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

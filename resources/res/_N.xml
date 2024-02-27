@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="@+id/mHeader" layout="@layout/sarathi_header"/>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/bg_style" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="70dp">
+        <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/_15sdp">
+            <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/applTv" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/application_no" android:fontFamily="@font/nexgenttf"/>
+            <TextView android:textSize="13sp" android:textColorHint="@color/dl_service_color" android:gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/applNumberTv" android:background="@drawable/edit_text_style" android:padding="10dp" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="8dp"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/linear_mob" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/txt_mob_number" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp" android:text="@string/mobile_no" android:fontFamily="@font/nexgenttf"/>
+                <EditText android:textSize="13sp" android:id="@+id/mob_number" android:background="@drawable/edit_text_style" android:padding="10dp" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="8dp" android:hint="@string/enter_mobile_no" android:maxLength="10" android:inputType="number"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <LinearLayout android:orientation="horizontal" android:paddingLeft="5dp" android:paddingRight="5dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="@dimen/_20sdp" android:layout_marginRight="10dp" android:layout_marginBottom="15dp">
+            <androidx.appcompat.widget.AppCompatButton android:textSize="12sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/cancelBtn" android:background="@drawable/button_style" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="5dp" android:text="@string/cancel" android:layout_weight="1" android:textAllCaps="false" android:fontFamily="@font/nexgenttf" android:layout_marginStart="5dp" android:layout_marginEnd="10dp"/>
+            <androidx.appcompat.widget.AppCompatButton android:textSize="12sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/generateOtp" android:background="@drawable/button_style" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="5dp" android:text="@string/generate_otp" android:layout_weight="1" android:textAllCaps="false" android:fontFamily="@font/nexgenttf" android:layout_marginStart="10dp" android:layout_marginEnd="5dp"/>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

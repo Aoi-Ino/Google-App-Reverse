@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginTop="10dp">
+            <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/nexgenarrow" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="15dp">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/mvvm_back"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@+id/nexgenlogo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_toRightOf="@+id/nexgenarrow">
+                    <ImageView android:layout_width="160dp" android:layout_height="55dp" android:src="@drawable/nextgenv1"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentRight="true">
+                    <ImageView android:visibility="invisible" android:layout_width="35dp" android:layout_height="35dp" android:layout_marginRight="20dp" android:src="@drawable/nexgenallarm"/>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:padding="0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+            <LinearLayout android:orientation="horizontal" android:padding="0dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="120dp" android:layout_marginTop="2dp">
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_gravity="center" android:layout_width="38dp" android:layout_height="35dp" android:src="@drawable/drive"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:minHeight="45dp" android:text="Transport Services" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="35dp" android:layout_height="35dp" android:src="@drawable/ic_my_document"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:minHeight="45dp" android:text="My Documents" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="35dp" android:layout_height="35dp" android:src="@drawable/ic_citizen_sentinel"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:minHeight="45dp" android:text="Citizen Sentinel" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:padding="3dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="35dp" android:layout_height="35dp" android:src="@drawable/ic_informational_services"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:minHeight="45dp" android:text="Informational Services" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="left|center_vertical|center_horizontal|center" android:layout_gravity="left|center_vertical|center_horizontal|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="5dp" android:text="@string/dl_related" android:fontFamily="sans-serif-light"/>
+                <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/vehicle_fit" android:gravity="left|center_vertical|center_horizontal|center" android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="@+id/enrolled_state_sarthi" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="5dp" android:text="Enrolled state" android:fontFamily="sans-serif-light"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:padding="0dp" android:layout_width="match_parent" android:layout_height="90dp" android:layout_marginTop="2dp">
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="@+id/renewal_of_dl" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_learnerr"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Renewal of DL" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="@+id/duplicate_dl" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_newdriving"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Issue of Duplicate DL" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="@+id/change_of_address" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mvvm_ic_addres"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Change of Address in DL" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="@+id/internationl_permit" android:padding="3dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="35dp" android:layout_height="30dp" android:src="@drawable/mvvm_dl"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="International Driving Permit" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:padding="0dp" android:layout_width="match_parent" android:layout_height="90dp" android:layout_marginTop="2dp">
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="@+id/dl_abstract" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mvvm_ic_addres"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="DL Extract" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="@+id/dl_replacement" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_exxtract"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Replacement of DL" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:orientation="vertical" android:id="@+id/app_status_layout" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/check_list" android:contentDescription="@string/pending_1"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/application_status" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:orientation="vertical" android:id="@+id/dispose_app_layout" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1">
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/dispose_icon" android:contentDescription="@string/dispose_application"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/dispose_application" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:padding="0dp" android:layout_width="match_parent" android:layout_height="90dp" android:layout_marginTop="2dp">
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:orientation="vertical" android:id="@+id/mobile_update_service" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/smartphone"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Update Mobile No" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:orientation="vertical" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1"/>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:orientation="vertical" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="0dp" android:layout_weight="1"/>
+                <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:orientation="vertical" android:id="@+id/withdraw_service_layout" android:padding="5dp" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/withdraw_icon" android:contentDescription="@string/withdraw_services"/>
+                    <TextView android:textSize="@dimen/dashboard_txt" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/withdraw_services" android:fontFamily="sans-serif-light"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

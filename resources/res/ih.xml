@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:tag="layout/activity_cl_mobile_update_0" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent" android:baselineAligned="false">
+    <include android:id="@+id/mHeader" layout="@layout/mvvm_header"/>
+    <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="-2dp" android:layout_below="@+id/mHeader">
+        <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/never_mix" android:gravity="center" android:id="@+id/dl_no_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_15sdp" android:layout_marginTop="@dimen/_10sdp" android:fontFamily="@font/nexgenttf"/>
+                <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_15sdp" android:layout_marginTop="@dimen/_1sdp">
+                    <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/select_service" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="Update Mobile Number"/>
+                    <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:padding="1dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <androidx.cardview.widget.CardView android:id="@+id/icon_image" android:layout_width="50dp" android:layout_height="50dp" android:layout_marginLeft="20dp" android:layout_centerHorizontal="true" app:cardCornerRadius="30dp">
+                            <ImageView android:layout_width="50dp" android:layout_height="50dp" android:src="@drawable/avtar_icon"/>
+                        </androidx.cardview.widget.CardView>
+                        <androidx.cardview.widget.CardView android:id="@+id/round_card_view" android:visibility="visible" android:layout_width="50dp" android:layout_height="50dp" android:layout_marginLeft="0dp" android:layout_centerHorizontal="true" app:cardCornerRadius="30dp">
+                            <ImageView android:id="@+id/iv_report_traffic_violation_icon" android:layout_width="50dp" android:layout_height="50dp"/>
+                        </androidx.cardview.widget.CardView>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:tag="binding_1" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/_8sdp" android:layout_marginEnd="@dimen/_8sdp">
+                    <include layout="@layout/photo_signature_link"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@+id/edit_text_layout_ca_details" android:padding="@dimen/_10sdp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_bias="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+                    <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="@dimen/_12sdp" android:textColor="@color/black" android:id="@+id/tv_old_mob_no" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Old Mobile Number" android:fontFamily="@font/roboto_medium" android:layout_marginStart="@dimen/_5sdp"/>
+                    <androidx.appcompat.widget.AppCompatEditText android:textSize="14dp" android:id="@+id/old_mob_number" android:background="@drawable/edit_text_style" android:padding="10dp" android:focusableInTouchMode="false" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="8dp" android:hint="NA"/>
+                    <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="@dimen/_12sdp" android:textColor="@color/black" android:id="@+id/tv_new_mob_no" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp" android:text="New Mobile Number" android:fontFamily="@font/roboto_medium" android:layout_marginStart="@dimen/_5sdp"/>
+                    <androidx.appcompat.widget.AppCompatEditText android:textSize="14dp" android:id="@+id/new_mob_number" android:background="@drawable/edit_text_style" android:padding="10dp" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="8dp" android:hint="Enter your mobile no." android:maxLength="10" android:inputType="number"/>
+                    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp">
+                        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/_12sdp" android:textColor="@color/black" android:id="@+id/tv_remark_reason" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Remark / Reason" android:fontFamily="@font/roboto_medium" android:layout_marginStart="@dimen/_5sdp"/>
+                        <EditText android:textSize="@dimen/_10sdp" android:gravity="top|left|center_vertical|center_horizontal|center" android:id="@+id/remark_reason_et" android:background="@drawable/edit_text_style" android:padding="@dimen/_10sdp" android:layout_width="match_parent" android:layout_height="@dimen/_80sdp" android:layout_marginTop="@dimen/_8sdp" android:layout_marginBottom="@dimen/_8sdp" android:hint="Enter Reason" android:inputType="textCapCharacters"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_5sdp" android:layout_marginTop="@dimen/_8sdp" android:layout_marginRight="@dimen/_5sdp" android:layout_marginBottom="@dimen/_10sdp" android:layout_alignParentBottom="true">
+        <com.nic.mparivahan.dlservices.widget.CustomWegetLayout android:id="@+id/cancel_cwl" android:background="@drawable/button_white_theme" android:layout_width="0dp" android:layout_height="@dimen/_35sdp" android:layout_marginLeft="@dimen/_5sdp" android:layout_weight="1" android:layout_marginStart="@dimen/_5sdp" app:buttonText="Cancel" app:buttonTextColor="@color/never_mix" app:buttonTextSize="14sp" app:progressColor="#ffffff" app:progressWidth="1dp"/>
+        <com.nic.mparivahan.dlservices.widget.CustomWegetLayout android:id="@+id/submit_cwl" android:background="@drawable/sign_in_new" android:layout_width="0dp" android:layout_height="@dimen/_35sdp" android:layout_marginLeft="@dimen/_5sdp" android:layout_weight="1" app:buttonText="Submit" app:buttonTextColor="@color/white" app:buttonTextSize="14sp" app:progressColor="#ffffff" app:progressWidth="1dp"/>
+    </LinearLayout>
+</RelativeLayout>

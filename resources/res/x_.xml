@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+    <LinearLayout android:orientation="vertical" android:id="@+id/linear_parent" android:background="@drawable/nexgen_carview_myrc_boarder" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="horizontal" android:background="@drawable/nexgenshape" android:layout_width="match_parent" android:layout_height="35dp" android:weightSum="5">
+            <TextView android:textSize="13dp" android:textStyle="bold" android:textColor="#071219" android:gravity="center_vertical" android:id="@+id/rc_number" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginLeft="5dp" android:layout_weight="4.2" android:fontFamily="@font/nexgenttf"/>
+            <LinearLayout android:gravity="center" android:visibility="gone" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="0.8" android:fontFamily="@font/nexgenttf">
+                <ImageView android:id="@+id/update" android:background="@drawable/refresh_nexgen" android:layout_width="25dp" android:layout_height="25dp"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:padding="5dp" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:fontFamily="@font/nexgenttf">
+                <ImageView android:layout_gravity="center" android:id="@+id/option_menu" android:layout_width="27dp" android:layout_height="20dp" android:src="@drawable/opt_menu" android:scaleType="fitCenter"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:fontFamily="@font/nexgenttf">
+                <ImageView android:id="@+id/delet" android:background="@drawable/delet_nexgen" android:layout_width="25dp" android:layout_height="25dp"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp" android:layout_marginHorizontal="10dp">
+            <TextView android:textSize="12dp" android:textColor="#5a5a5a" android:id="@+id/shared_to" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Received From" android:fontFamily="@font/poopy"/>
+            <TextView android:textSize="13dp" android:textStyle="normal" android:textColor="#071219" android:id="@+id/owner_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_2sdp" android:textAllCaps="true" android:fontFamily="@font/poopy"/>
+            <TextView android:textSize="13dp" android:textColor="#071219" android:id="@+id/mobile_number_tx" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_2sdp" android:textAllCaps="true" android:fontFamily="@font/poppins_regular"/>
+            <TextView android:textSize="@dimen/_11ssp" android:textColor="#5a5a5a" android:id="@+id/mobile_number" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="9411450607" android:fontFamily="@font/nexgenttf"/>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginBottom="15dp" android:weightSum="2">
+                <TextView android:textSize="11dp" android:textColor="#353f45" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@+id/issue_date" android:layout_width="0dp" android:layout_height="wrap_content" android:minHeight="30dp" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                <TextView android:textSize="11dp" android:textColor="#353f45" android:gravity="center" android:layout_gravity="center" android:id="@+id/valid_upto" android:layout_width="0dp" android:layout_height="wrap_content" android:minHeight="30dp" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+            </LinearLayout>
+            <TextView android:textSize="14dp" android:textColor="@color/white" android:gravity="center" android:id="@+id/shared_rc" android:background="@drawable/share_button_nexgen_shape" android:visibility="gone" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginRight="20dp" android:layout_marginBottom="20dp" android:text="Share" android:fontFamily="@font/nexgenttf"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

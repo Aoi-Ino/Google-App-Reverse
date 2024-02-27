@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/rootView" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="@+id/holder1" layout="@layout/vahan_echallan_header"/>
+    <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="75dp">
+        <WebView android:id="@+id/paymentWv" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="30dp"/>
+    </LinearLayout>
+    <FrameLayout android:layout_gravity="bottom" android:id="@+id/homeBtnFl" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+        <LinearLayout android:gravity="center" android:id="@+id/homeBtn" android:background="@color/never_mix" android:visibility="gone" android:layout_width="match_parent" android:layout_height="50dp">
+            <TextView android:textSize="@dimen/_13ssp" android:textColor="@color/white" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Download Receipt" android:fontFamily="@font/nexgenttf"/>
+        </LinearLayout>
+    </FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

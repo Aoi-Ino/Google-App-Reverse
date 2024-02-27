@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+        <LinearLayout android:orientation="vertical" android:id="@+id/linear_parent" android:background="@drawable/nexgen_carview_myrc_boarder" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="3dp">
+            <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:id="@+id/inner_dl_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="horizontal" android:background="@drawable/nexgenshape" android:layout_width="match_parent" android:layout_height="35dp">
+                        <TextView android:textSize="13dp" android:textStyle="bold" android:textColor="#071219" android:gravity="center_vertical" android:id="@+id/rc_number" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="10dp" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                        <LinearLayout android:gravity="center" android:padding="5dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:fontFamily="@font/nexgenttf">
+                            <ImageView android:id="@+id/share_doc" android:background="@drawable/share" android:padding="0dp" android:layout_width="30dp" android:layout_height="30dp"/>
+                        </LinearLayout>
+                        <LinearLayout android:gravity="center" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:fontFamily="@font/nexgenttf">
+                            <ImageView android:id="@+id/update" android:background="@drawable/refresh_nexgen" android:visibility="gone" android:layout_width="30dp" android:layout_height="30dp"/>
+                        </LinearLayout>
+                        <LinearLayout android:gravity="center" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:fontFamily="@font/nexgenttf">
+                            <ImageView android:id="@+id/delet" android:background="@drawable/delet_nexgen" android:visibility="gone" android:layout_width="30dp" android:layout_height="30dp"/>
+                        </LinearLayout>
+                        <LinearLayout android:gravity="center" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:fontFamily="@font/nexgenttf">
+                            <ImageView android:layout_gravity="center" android:id="@+id/option_menu" android:layout_width="27dp" android:layout_height="20dp" android:src="@drawable/opt_menu" android:scaleType="fitCenter"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp">
+                        <TextView android:textSize="13dp" android:textStyle="normal" android:textColor="#071219" android:id="@+id/owner_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:fontFamily="@font/poopy"/>
+                        <TextView android:textSize="13dp" android:textColor="#5a5a5a" android:id="@+id/address" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/nexgenttf"/>
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="5dp" android:weightSum="2">
+                            <TextView android:textSize="11dp" android:textColor="#353f45" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@+id/issue_date" android:layout_width="0dp" android:layout_height="wrap_content" android:minHeight="35dp" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                            <TextView android:textSize="11dp" android:textColor="#353f45" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@+id/valid_upto" android:layout_width="0dp" android:layout_height="wrap_content" android:minHeight="35dp" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <TextView android:background="#ebf2f5" android:layout_width="match_parent" android:layout_height="1dp"/>
+                        <TextView android:textSize="14dp" android:textColor="@color/white" android:gravity="center" android:id="@+id/shared_rc" android:background="@drawable/share_button_nexgen_shape" android:visibility="gone" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginTop="20dp" android:layout_marginRight="20dp" android:layout_marginBottom="20dp" android:text="Share" android:fontFamily="@font/nexgenttf"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <ProgressBar android:id="@+id/progress_bar" android:visibility="gone" android:layout_width="50dp" android:layout_height="50dp" android:layout_centerInParent="true" android:progressTintMode="src_in"/>
+                <ImageView android:id="@+id/download_rc" android:background="@drawable/download_icon" android:visibility="gone" android:layout_width="55dp" android:layout_height="55dp" android:layout_centerInParent="true"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

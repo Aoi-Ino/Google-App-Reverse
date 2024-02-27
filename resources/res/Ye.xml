@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingTop="3dp" android:paddingBottom="3dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="15dp">
+            <com.google.android.material.card.MaterialCardView android:layout_width="match_parent" android:layout_height="110dp" android:layout_marginLeft="15dp" android:layout_marginRight="10dp" android:layout_weight="1" app:cardCornerRadius="20dp" app:elevation="0dp" app:strokeWidth="2dp">
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/ll_dashboard" android:background="@color/never_mix" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" app:srcCompat="@drawable/ic_onlinetax"/>
+                    <TextView android:textSize="14sp" android:textColor="@color/white" android:gravity="center" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Dashboard"/>
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+            <androidx.cardview.widget.CardView android:layout_gravity="center" android:id="@+id/cv_report_complaint" android:layout_width="match_parent" android:layout_height="110dp" android:layout_marginLeft="15dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp" android:layout_weight="1" app:cardCornerRadius="20dp">
+                <com.google.android.material.card.MaterialCardView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1" app:cardCornerRadius="20dp" app:elevation="0dp" app:strokeColor="@color/gray" app:strokeWidth="2dp">
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/ll_reg_complaint" android:layout_width="match_parent" android:layout_height="match_parent">
+                        <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" app:srcCompat="@drawable/ic_citizen_sentinel"/>
+                        <TextView android:textSize="13sp" android:textColor="@color/gray" android:gravity="center" android:layout_gravity="center" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/register_report"/>
+                    </LinearLayout>
+                </com.google.android.material.card.MaterialCardView>
+            </androidx.cardview.widget.CardView>
+            <com.google.android.material.card.MaterialCardView android:id="@+id/cv_complaint_status" android:layout_width="match_parent" android:layout_height="110dp" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:layout_marginRight="15dp" android:layout_marginBottom="10dp" android:layout_weight="1" app:cardCornerRadius="20dp" app:elevation="0dp" app:strokeColor="@color/gray" app:strokeWidth="2dp">
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/ll_comp_history" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" app:srcCompat="@drawable/ic_accident_report"/>
+                    <TextView android:textSize="13dp" android:textColor="@color/gray" android:gravity="center" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/acc_history"/>
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+        <androidx.cardview.widget.CardView android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" app:cardBackgroundColor="@color/white" app:cardCornerRadius="10dp">
+            <LinearLayout android:orientation="vertical" android:id="@+id/ll_last_record" android:layout_width="match_parent" android:layout_height="match_parent">
+                <TextView android:textSize="18sp" android:textColor="@color/black" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="Last Reported Violation"/>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="5dp">
+                    <TextView android:textSize="14sp" android:textColor="@color/text_color" android:gravity="left|center_vertical|center_horizontal|center" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/vehicle_number" android:layout_weight="1.5"/>
+                    <TextView android:textSize="14sp" android:textColor="@color/gray" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/txt_vehicle_number" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="5dp">
+                    <TextView android:textSize="14sp" android:textColor="@color/text_color" android:gravity="left|center_vertical|center_horizontal|center" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/violation_date" android:layout_weight="1.5"/>
+                    <TextView android:textSize="14sp" android:textColor="@color/gray" android:id="@+id/txt_violation_date" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="5dp">
+                    <TextView android:textSize="14sp" android:textColor="@color/text_color" android:gravity="left|center_vertical|center_horizontal|center" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/status" android:layout_weight="1.5"/>
+                    <TextView android:textSize="14sp" android:textColor="@color/gray" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/txt_violation_status" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="5dp" android:layout_marginBottom="10dp">
+                    <TextView android:textSize="14sp" android:textColor="@color/text_color" android:gravity="left|center_vertical|center_horizontal|center" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/location_txt" android:layout_weight="1.5"/>
+                    <TextView android:textSize="14sp" android:textColor="@color/gray" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/txt_violation_location" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1" android:justificationMode="1"/>
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/gray" android:gravity="center" android:id="@+id/txt_acc_dashboard" android:padding="10dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="@string/acc_state" android:justificationMode="1"/>
+        <androidx.cardview.widget.CardView android:id="@+id/ll_statistics" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:layout_marginTop="15dp" app:cardBackgroundColor="@color/white" app:cardCornerRadius="10dp">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+                <TextView android:textSize="18sp" android:textColor="@color/black" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="Statistics"/>
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/recycler_records" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="10dp"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</LinearLayout>

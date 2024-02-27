@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/vehicle_linear" android:background="@drawable/edit_text_style" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:minHeight="45dp">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/rc_number" android:paddingLeft="4dp" android:layout_width="0dp" android:layout_height="match_parent" android:text="@string/vehicle_no_1" android:layout_weight="1" android:textAllCaps="true"/>
+            <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/blue_color" android:gravity="right" android:id="@+id/txtGoForAvailable" android:layout_width="150dp" android:layout_height="match_parent" android:layout_marginRight="3dp" android:text="@string/go_for_available_services"/>
+        </LinearLayout>
+        <ProgressBar android:layout_gravity="center" android:id="@+id/progress_bar" android:visibility="gone" android:layout_width="50dp" android:layout_height="50dp" android:layout_centerInParent="true" android:progressTintMode="src_in"/>
+    </RelativeLayout>
+</LinearLayout>

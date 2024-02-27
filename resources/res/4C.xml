@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/layerlistexample" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginTop="10dp">
+            <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/nexgenarrow" android:background="@color/tootlbarnexgen" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="15dp">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/nexgenarrow"/>
+                    <TextView android:textSize="@dimen/_14ssp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/lableService" android:layout_width="match_parent" android:layout_height="40dp" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginRight="@dimen/_16sdp" android:maxLines="1" android:layout_toRightOf="@+id/mvvm_back" android:layout_centerVertical="true" android:fontFamily="@font/poppins_regular" android:layout_marginHorizontal="@dimen/_16sdp" style="@style/TextAppearance.AppCompat.Body2"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@+id/nexgenlogo" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_toRightOf="@+id/nexgenarrow" android:layout_toEndOf="@+id/nexgenarrow">
+                    <ImageView android:layout_width="160dp" android:layout_height="55dp" android:src="@drawable/nextgenv1"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentRight="true" android:layout_alignParentEnd="true">
+                    <ImageView android:layout_width="35dp" android:layout_height="35dp" android:layout_marginRight="20dp" android:src="@drawable/nexgenallarm"/>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="20dp">
+            <LinearLayout android:orientation="horizontal" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+                <TextView android:textSize="@dimen/_12sdp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/title_name" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="@dimen/_5sdp" android:text="Transactions" android:layout_marginEnd="@dimen/_15sdp"/>
+                <LinearLayout android:gravity="right" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="14dp" android:textStyle="bold" android:textColor="@color/vehicle_fit" android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/clear_all" android:background="@drawable/edit_text_style" android:paddingLeft="10dp" android:paddingRight="10dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="30dp" android:layout_marginRight="15dp" android:text="@string/clear_all" android:fontFamily="@font/lato"/>
+                </LinearLayout>
+            </LinearLayout>
+            <RelativeLayout android:id="@+id/rl_notransaction" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+                <ImageView android:id="@+id/iv_image" android:layout_width="match_parent" android:layout_height="@dimen/_150sdp" android:src="@drawable/nosearchrcdl" android:layout_above="@+id/view"/>
+                <View android:id="@+id/view" android:layout_width="0dp" android:layout_height="0dp" android:layout_centerInParent="true"/>
+                <TextView android:textSize="@dimen/_13sdp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/my_transations" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/_5sdp" android:text="No History found" android:layout_below="@+id/view" android:layout_centerHorizontal="true" android:fontFamily="@font/poppins_regular" android:layout_marginStart="@dimen/_15sdp" android:layout_marginEnd="@dimen/_15sdp"/>
+                <TextView android:textSize="@dimen/_10sdp" android:textStyle="bold" android:gravity="center" android:id="@+id/nofounf" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/_5sdp" android:text="There is no search history\10found for your account." android:layout_below="@+id/my_transations" android:layout_centerHorizontal="true" android:fontFamily="@font/poppins_regular" android:layout_marginStart="@dimen/_15sdp" android:layout_marginEnd="@dimen/_15sdp"/>
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/rc_rec_search" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <androidx.recyclerview.widget.RecyclerView android:id="@+id/rec_rc_recycler" android:layout_width="match_parent" android:layout_height="match_parent" app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/dl_rec_search" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/rec_dl_recycler" android:layout_width="match_parent" android:layout_height="match_parent" app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

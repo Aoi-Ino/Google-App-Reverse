@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="@+id/mHeader" layout="@layout/sarathi_header"/>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/bg_style" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="70dp">
+        <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/_15sdp">
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:baselineAligned="false" android:weightSum="2">
+                <com.nic.mparivahan.MyTextView android:textSize="13sp" android:textStyle="bold" android:textColor="#929394" android:id="@+id/applNo" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/application_no" android:layout_weight="1"/>
+                <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="end" android:id="@+id/applNoValue" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/application_no" android:layout_weight="1"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:baselineAligned="false" android:weightSum="2">
+                <com.nic.mparivahan.MyTextView android:textSize="13sp" android:textStyle="bold" android:textColor="#929394" android:id="@+id/applDate" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/application_date" android:layout_weight="1"/>
+                <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="end" android:id="@+id/applDateValue" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/application_date" android:layout_weight="1"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:baselineAligned="false" android:weightSum="2">
+                <com.nic.mparivahan.MyTextView android:textSize="13sp" android:textStyle="bold" android:textColor="#929394" android:id="@+id/fullName" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/applicant_name" android:layout_weight="1"/>
+                <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="end" android:id="@+id/fullNameValue" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/applicant_name" android:layout_weight="1"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:baselineAligned="false" android:weightSum="2">
+                <com.nic.mparivahan.MyTextView android:textSize="13sp" android:textStyle="bold" android:textColor="#929394" android:id="@+id/dob" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/dob" android:layout_weight="1"/>
+                <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="end" android:id="@+id/dobValue" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/dob" android:layout_weight="1"/>
+            </LinearLayout>
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/selectedWithdrawnRv" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp"/>
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <LinearLayout android:orientation="horizontal" android:paddingLeft="5dp" android:paddingRight="5dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="@dimen/_20sdp" android:layout_marginRight="10dp" android:layout_marginBottom="15dp">
+            <androidx.appcompat.widget.AppCompatButton android:textSize="12sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/cancelBtn" android:background="@drawable/button_style" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="5dp" android:text="@string/cancel" android:layout_weight="1" android:textAllCaps="false" android:fontFamily="@font/nexgenttf" android:layout_marginStart="5dp" android:layout_marginEnd="10dp"/>
+            <androidx.appcompat.widget.AppCompatButton android:textSize="12sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/submitBtn" android:background="@drawable/button_style" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="5dp" android:text="@string/submit" android:layout_weight="1" android:textAllCaps="false" android:fontFamily="@font/nexgenttf" android:layout_marginStart="10dp" android:layout_marginEnd="5dp"/>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

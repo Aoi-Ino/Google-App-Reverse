@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <include layout="@layout/mvvm_header"/>
+        <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <TextView android:textSize="16sp" android:textColor="@color/gray" android:id="@+id/tou_1" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="10dp" android:text="@string/terms2" android:lineSpacingMultiplier="1.4" android:justificationMode="1"/>
+                    <TextView android:textSize="16sp" android:textColor="@color/gray" android:id="@+id/tou_2" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="10dp" android:text="@string/terms1" android:lineSpacingMultiplier="1.4" android:justificationMode="1"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

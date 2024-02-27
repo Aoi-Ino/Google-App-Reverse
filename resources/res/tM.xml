@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/corner_circle" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="300dp">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="22sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="center" android:id="@+id/tv_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="@string/m_parivahan" android:fontFamily="@font/railway_bold"/>
+            <ImageView android:layout_width="60dp" android:layout_height="60dp" android:layout_marginTop="20dp" android:src="@drawable/ic_launcher" android:layout_below="@+id/toolbar_container" android:layout_centerHorizontal="true"/>
+            <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="center" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="Vehicle Related Services" android:fontFamily="@font/railway_bold"/>
+            <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/text2" android:paddingLeft="10dp" android:paddingRight="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:minHeight="65dp" android:fontFamily="@font/lato" style="@style/Base.TextAppearance.AppCompat.Body2"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:background="@drawable/rounded_corner_button_style" android:layout_width="match_parent" android:layout_height="45dp" android:layout_margin="15dp" android:layout_marginTop="20dp">
+            <TextView android:textSize="20sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/ok" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/Ok" android:fontFamily="@font/railway_bold"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

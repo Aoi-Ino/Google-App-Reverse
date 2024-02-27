@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="@+id/topHolder" layout="@layout/vahan_echallan_header"/>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="20dp">
+        <com.nic.mparivahan.MyTextView android:textSize="@dimen/_14ssp" android:textColor="@color/black" android:id="@+id/tv_view_challan" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/_16sdp" android:text="@string/view_challan" android:fontFamily="@font/roboto_medium"/>
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/challanListRv" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp"/>
+        <TextView android:textSize="@dimen/_14ssp" android:textColor="@color/black" android:gravity="center" android:id="@+id/noChallanFoundTv" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no_challan_found" android:fontFamily="@font/roboto_medium"/>
+    </LinearLayout>
+</LinearLayout>

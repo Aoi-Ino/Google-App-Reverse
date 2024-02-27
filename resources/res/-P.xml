@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:theme="@style/ThemeOverlay.NexgenMparivahan.FullscreenContainer" android:background="?attr/fullscreenBackgroundColor" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="50sp" android:textStyle="bold" android:textColor="?attr/fullscreenTextColor" android:gravity="center" android:id="@+id/fullscreen_content" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/dummy_content" android:keepScreenOn="true"/>
+    <FrameLayout android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="@+id/fullscreen_content_controls" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Widget.AppTheme.ButtonBar.Fullscreen">
+            <Button android:id="@+id/dummy_button" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/dummy_button" android:layout_weight="1" style="?android:attr/buttonBarButtonStyle"/>
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

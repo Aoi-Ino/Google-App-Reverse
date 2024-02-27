@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_5sdp" android:layout_marginTop="@dimen/_5sdp" android:layout_marginRight="@dimen/_5sdp" android:layout_marginBottom="@dimen/_8sdp">
+    <TextView android:textSize="13sp" android:gravity="center" android:id="@+id/app_ser_no" android:background="@drawable/circle_white_gray" android:layout_width="27dp" android:layout_height="27dp"/>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="13sp" android:id="@+id/app_status_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_5sdp" android:layout_marginRight="@dimen/_2sdp" android:text="1" android:layout_weight="1"/>
+        <TextView android:textSize="13sp" android:textColor="@color/reject" android:gravity="left" android:id="@+id/app_status_status" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Pending" android:layout_weight="3.5"/>
+    </LinearLayout>
+</LinearLayout>

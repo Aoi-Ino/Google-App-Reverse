@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:paddingTop="@dimen/_8sdp" android:paddingBottom="@dimen/_8sdp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingVertical="@dimen/_8sdp">
+    <CheckBox android:textSize="14sp" android:textStyle="bold" android:textColor="@color/gray" android:id="@+id/cb" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Duplicate RC" android:fontFamily="@font/nexgenttf"/>
+</LinearLayout>

@@ -1,0 +1,9847 @@
+[
+
+ {
+
+  "text_code": "logout_success",
+
+  "text_value": "நீங்கள் வெற்றிகரமாக வெளியேறிவிட்டீர்கள்."
+
+ },
+
+ {
+
+  "text_code": "title_sign_in_to",
+
+  "text_value": "உள்நுழையவும்"
+
+ },
+
+ {
+
+  "text_code": "title_your_account",
+
+  "text_value": "உங்கள் கணக்கு !"
+
+ },
+
+ {
+
+  "text_code": "btn_generate_mpin",
+
+  "text_value": "நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உருவாக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "edit_securityMpin",
+
+  "text_value": "6 இலக்க பாதுகாப்பு நடமாடும் வங்கியின்தனிப்பட்ட அடையாள எண்ணை  அமைக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "lbl_update_version",
+
+  "text_value": "உங்கள் NextGen எம்பரிவகன் செயலியைப் புதுப்பிக்க தேர்வு செய்யவும்."
+
+ },
+
+ {
+
+  "text_code": "lbl_update_version_title",
+
+  "text_value": "புதுப்பிக்கப்பட்ட பதிப்பு கிடைக்கிறது"
+
+ },
+
+ {
+
+  "text_code": "lbl_success_title",
+
+  "text_value": "வெற்றி"
+
+ },
+
+ {
+
+  "text_code": "lbl_try_after_some_time",
+
+  "text_value": "சிறிது நேரம் கழித்து மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "lbl_failed_title",
+
+  "text_value": "தோல்வி"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_remarks",
+
+  "text_value": "தயவுசெய்து குறிப்புகளை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_valid_number",
+
+  "text_value": "சரியான கைப்பேசி எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "lbl_mpin_success",
+
+  "text_value": "நடமாடும் வங்கியின் தனிப்பட்ட அடையாள  எண்வெற்றிகரமாக அமைக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_new_mobile",
+
+  "text_value": "புதிய கைப்பேசி எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_old_mobile_number",
+
+  "text_value": "பழைய கைப்பேசி எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_welcome",
+
+  "text_value": "NextGen எம்பரிவகனுக்கு வரவேற்கிறோம்"
+
+ },
+
+ {
+
+  "text_code": "title_sign_desc",
+
+  "text_value": "ஓட்டுநர் உரிமங்கள் (டிஎல்), பதிவுச் சான்றிதழ்கள் (ஆர்சி) மற்றும் எம்பரிவாஹன் பிளாட்ஃபார்ம் மூலம் வழங்கப்பட்ட பிற ஆவணங்களின் மெய்நிகர் நகல்கள், ஐடி சட்டம் 2000 மற்றும் மோட்டார் வாகனச் சட்டத்தின்படி அசல் ஆவணங்களைப் போலவே சட்டப்பூர்வமானவை."
+
+ },
+
+ {
+
+  "text_code": "btn_new_mparivahan",
+
+  "text_value": "எம் பரிவகனுக்கு புதியவரா?"
+
+ },
+
+ {
+
+  "text_code": "edit_mobile_no",
+
+  "text_value": "கைபேசி எண்."
+
+ },
+
+ {
+
+  "text_code": "edit_security_mpin",
+
+  "text_value": "ஆறு இலக்கங்கள் கொண்ட நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண் பாதுகாப்பு குறியீடு"
+
+ },
+
+ {
+
+  "text_code": "label_another_account",
+
+  "text_value": "மற்றொரு கணக்கைப் பயன்படுத்தவும்."
+
+ },
+
+ {
+
+  "text_code": "label_forgot_mpin",
+
+  "text_value": "பாதுகாப்பு நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை மறந்துவிட்டேன்"
+
+ },
+
+ {
+
+  "text_code": "butt_signin_mpin",
+
+  "text_value": "உங்கள் நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண் மூலம் உள்நுழையவும்."
+
+ },
+
+ {
+
+  "text_code": "butt_signin_otp",
+
+  "text_value": "மாற்றாக, ஒருமுறை வழங்கப்படும் கடவுசொல் மூலம் உள்நுழையவும்."
+
+ },
+
+ {
+
+  "text_code": "label_dont_account",
+
+  "text_value": "கணக்கு இல்லையா?"
+
+ },
+
+ {
+
+  "text_code": "label_signup",
+
+  "text_value": "பதிவு செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "title_create_new",
+
+  "text_value": "புதிதாக உருவாக்கு"
+
+ },
+
+ {
+
+  "text_code": "title_security_mpin",
+
+  "text_value": "பாதுகாப்பு நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_mpin",
+
+  "text_value": "உங்கள் புதிய 6 இலக்க நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "title_create_account",
+
+  "text_value": "உங்கள் கணக்கை துவக்குங்கள்"
+
+ },
+
+ {
+
+  "text_code": "title_fast_easy",
+
+  "text_value": "விரைவானது மற்றும் எளிதானது!"
+
+ },
+
+ {
+
+  "text_code": "edit_full_name",
+
+  "text_value": "முழு பெயர் (பதிவுச் சான்றிதழ்  அல்லது ஓட்டுநர் உரிமம் படி)"
+
+ },
+
+ {
+
+  "text_code": "label_already_account",
+
+  "text_value": "உங்களிடம் ஏற்கனவே கணக்கு உள்ளதா?"
+
+ },
+
+ {
+
+  "text_code": "label_signin",
+
+  "text_value": "உள்நுழையவும்"
+
+ },
+
+ {
+
+  "text_code": "label_privacy_policy",
+
+  "text_value": "பதிவு செய்வதன் மூலம் பரிவஹான் விதிமுறைகள் மற்றும் தனியுரிமைக் கொள்கையை நீங்கள் ஒப்புக் கொள்கிறீர்கள்."
+
+ },
+
+ {
+
+  "text_code": "title_forgot",
+
+  "text_value": "மறந்துவிட்டேன்"
+
+ },
+
+ {
+
+  "text_code": "title_secu_mpin",
+
+  "text_value": "பாதுகாப்பு நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்?"
+
+ },
+
+ {
+
+  "text_code": "label_verify_otp",
+
+  "text_value": "ஒருமுறை கடவுச்சொல்லை சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_sent_otp",
+
+  "text_value": "எம்பரிவகன் உங்களுக்கு ஒருமுறை வழங்கப்படும் கடவுச் சொல்லை அனுப்பியுள்ளார்"
+
+ },
+
+ {
+
+  "text_code": "label_wait_otp",
+
+  "text_value": "ஒருமுறை கடவுச் சொல் வருவதற்கு சிறிது நேரம் காத்திருக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_refresh_close",
+
+  "text_value": "புதுப்பிக்கவோ மூடவோ வேண்டாம்."
+
+ },
+
+ {
+
+  "text_code": "label_get_otp",
+
+  "text_value": "உங்களுக்கு ஒருமுறை கடவுச் சொல் வரவில்லையா?"
+
+ },
+
+ {
+
+  "text_code": "label_login_not_regt",
+
+  "text_value": "இந்த கைப்பேசி எண் எம்பரிவகனில் பதிவு செய்யப்படவில்லை. பதிவு செயல்முறையை முடிக்க பதிவு செய்யவும்."
+
+ },
+
+ {
+
+  "text_code": "btn_ok",
+
+  "text_value": "சரி"
+
+ },
+
+ {
+
+  "text_code": "label_log_alrad_regt",
+
+  "text_value": "நீங்கள் ஏற்கனவே பதிவு செய்திருந்தால் உள்நுழையவும்"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_sigin",
+
+  "text_value": "உங்களால் உள்நுழைய முடியாவிட்டால், பிறகு முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_sigup",
+
+  "text_value": "உங்களால் பதிவு செய்ய முடியாவிட்டால், பிறகு முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_sel_state",
+
+  "text_value": "ஒரு மாநிலத்தைத் தேர்ந்தெடுக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_name",
+
+  "text_value": "முழுப் பெயரை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_vali_mobno",
+
+  "text_value": "சரியான கைப்பேசி எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_valid_dig_pin",
+
+  "text_value": "சரியான 6 இலக்க நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_emaiid",
+
+  "text_value": "மின்னஞ்சல் முகவரியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_valid_email",
+
+  "text_value": "சரியான மின்னஞ்சல் முகவரியை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_ctrt_mpin",
+
+  "text_value": "நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உருவாக்க முடியவில்லை; தயவுசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_mpin_rest_succ",
+
+  "text_value": "நடமாடும்  வங்கியின் தனிப்பட்ட அடையாள எண் வெற்றிகரமாக மீட்டமைக்கப்பட்டது!"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_val_otp",
+
+  "text_value": "ஒருமுறை கடவுச் சொல்லை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "LABEL_LOG_ENTR_VAL_OTP",
+
+  "text_value": "சரியான ஒருமுறை கடவுச் சொல்லை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_invalid_otp",
+
+  "text_value": "நீங்கள் உள்ளிட்ட ஒருமுறை கடவுச் சொல் தவறானது. சரியான ஒருமுறை வழங்கப்படும் கடவுச் சொல்லை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_veri_otp",
+
+  "text_value": "ஒருமுறை கடவுச் சொல்லைச் சரிபார்க்க முடியவில்லை, சிறிது நேரம் கழித்து முயற்சிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_log_resend_otp",
+
+  "text_value": "உங்கள் கைப்பேசிக்கு ஒருமுறை கடவுச் சொல் சரிபார்ப்புக் குறியீட்டை அனுப்பியுள்ளோம்."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_resend_otp",
+
+  "text_value": "ஒருமுறை கடவுச் சொல்லை மீண்டும் அனுப்ப முடியவில்லை; தயவுசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_regt_mobile",
+
+  "text_value": "பதிவு செய்யப்பட்ட கைப்பேசி எண்."
+
+ },
+
+ {
+
+  "text_code": "label_log_succ_login",
+
+  "text_value": "பயனர் எம்பரிவகனில் வெற்றிகரமாக உள்நுழைந்துள்ளார்."
+
+ },
+
+ {
+
+  "text_code": "label_log_check_internet",
+
+  "text_value": "உங்கள் இணைய இணைப்பைச் சரிபார்க்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_mob_no",
+
+  "text_value": "உங்கள் கைப்பேசி எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_welcome",
+
+  "text_value": "வரவேற்பு"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_six_mpin",
+
+  "text_value": "6 இலக்க நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_set_mpin",
+
+  "text_value": "நீங்கள் இன்னும் நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை அமைக்கவில்லை. \"பாதுகாப்பு நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை மறந்துவிட்டீர்களா\" என்பதைப் பயன்படுத்தி புதிய நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணைக் கோரவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_sign_mpin",
+
+  "text_value": "உங்கள் நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண் மூலம் உள்நுழைய முடியவில்லை என்றால், சரியான நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_reset",
+
+  "text_value": "மீட்டமைக்க முடியவில்லை; எனில், தயவுசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்!"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_change_rest",
+
+  "text_value": "நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை மாற்ற முடியாவிட்டால், சிறிது நேரம் கழித்து மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_welcome",
+
+  "text_value": "வரவேற்பு"
+
+ },
+
+ {
+
+  "text_code": "label_vehicle",
+
+  "text_value": "வாகனம்"
+
+ },
+
+ {
+
+  "text_code": "label_search",
+
+  "text_value": "தேடு"
+
+ },
+
+ {
+
+  "text_code": "label_transport_services",
+
+  "text_value": "போக்குவரத்து சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "label_my_documents",
+
+  "text_value": "எனது ஆவணங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_citizen_sentinel",
+
+  "text_value": "குடிமகன் காவலாளி"
+
+ },
+
+ {
+
+  "text_code": "label_informational_services",
+
+  "text_value": "தகவல் சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "label_my_vehicle",
+
+  "text_value": "எனது வாகனம்"
+
+ },
+
+ {
+
+  "text_code": "label_my_dl",
+
+  "text_value": "எனது ஓட்டுநர் உரிமம்"
+
+ },
+
+ {
+
+  "text_code": "label_vrc_and_dl",
+
+  "text_value": "உங்கள் வாகனப் பதிவுச் சான்றிதழ் மற்றும் ஓட்டுநர் உரிமத்தை வைக்கலாம்."
+
+ },
+
+ {
+
+  "text_code": "label_pull_rc_and_dl",
+
+  "text_value": "போக்குவரத்துக் களஞ்சியத்திலிருந்து உங்கள் பதிவுச் சான்றிதழ்  அல்லது ஓட்டுநர் உரிமத்தைப் பெற, இந்தப் செயலியில்  உள்ள வசதியைப் பயன்படுத்தவும்."
+
+ },
+
+ {
+
+  "text_code": "label_home",
+
+  "text_value": "முகப்பு"
+
+ },
+
+ {
+
+  "text_code": "label_virtual_documents",
+
+  "text_value": "விரிச்சுவல் ஆவணங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_near_by",
+
+  "text_value": "அருகில்"
+
+ },
+
+ {
+
+  "text_code": "label_setting",
+
+  "text_value": "அமைத்தல்"
+
+ },
+
+ {
+
+  "text_code": "label_vehicle_related",
+
+  "text_value": "வாகனம் தொடர்பான சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "label_pay_tax",
+
+  "text_value": "உங்கள் வரியை செலுத்துங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_duplicate_rc",
+
+  "text_value": "நகல் பதிவு சான்றிதழ்"
+
+ },
+
+ {
+
+  "text_code": "label_hypothetication_termination",
+
+  "text_value": "தவணைக் கொள்முதல் இரத்து செய்தல்"
+
+ },
+
+ {
+
+  "text_code": "label_view_more",
+
+  "text_value": "மேலும் பார்க்க"
+
+ },
+
+ {
+
+  "text_code": "label_change_of_address",
+
+  "text_value": "முகவரி மாற்றம்"
+
+ },
+
+ {
+
+  "text_code": "label_hypothetication_addition",
+
+  "text_value": "தவணைக் கொள்முதல் ஒப்பந்தம் "
+
+ },
+
+ {
+
+  "text_code": "label_hypothetication_continuation",
+
+  "text_value": "தவணைக் கொள்முதல் தொடர்ச்சி"
+
+ },
+
+ {
+
+  "text_code": "label_noc",
+
+  "text_value": "தடையில்லாச் சான்றிதழ் (என்ஓசி)(NOC)"
+
+ },
+
+ {
+
+  "text_code": "label_rc_particular",
+
+  "text_value": "பதிவுச் சான்றிதழ் விவரம்"
+
+ },
+
+ {
+
+  "text_code": "label_dispose_applicationl",
+
+  "text_value": "விண்ணப்பத்தை தீர்வுக்கு கொண்டு வரவும்"
+
+ },
+
+ {
+
+  "text_code": "label_application_status",
+
+  "text_value": "விண்ணப்பத்தின் நிலை"
+
+ },
+
+ {
+
+  "text_code": "label_verify_payment",
+
+  "text_value": "கட்டணத்தைச் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_driving_licence_related",
+
+  "text_value": "ஓட்டுநர் உரிமம் தொடர்பான சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "label_renewal_of_dl",
+
+  "text_value": "ஓட்டுநர்உரிமத்தைப் புதுப்பித்தல்"
+
+ },
+
+ {
+
+  "text_code": "label_duplicate_dl",
+
+  "text_value": "நகல் ஓட்டுநர் உரிமம்"
+
+ },
+
+ {
+
+  "text_code": "label_coa_in_dl",
+
+  "text_value": "ஓட்டுநர் உரிமத்தில் முகவரி மாற்றம்"
+
+ },
+
+ {
+
+  "text_code": "label_international_driv_permit",
+
+  "text_value": "பன்னாட்டு ஓட்டுநர் அனுமதிச்சீட்டு"
+
+ },
+
+ {
+
+  "text_code": "label_dl_extract",
+
+  "text_value": "ஓட்டுநர் உரிமத்தின் பிரதி சுருக்கம்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_replacement",
+
+  "text_value": "ஓட்டுநர் உரிமத்தை மீளவைத்தல்"
+
+ },
+
+ {
+
+  "text_code": "label_withdraw_services",
+
+  "text_value": "சேவைகளை திரும்பப் பெறவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_related",
+
+  "text_value": "செலுத்துச்சீட்டு தொடர்பான சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "label_verify_challan_payment",
+
+  "text_value": "செலுத்துச்சீட்டு கட்டணத்தைச் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_help_support",
+
+  "text_value": "உதவி மற்றும் ஆதரவு"
+
+ },
+
+ {
+
+  "text_code": "label_share",
+
+  "text_value": "பகிரவும்"
+
+ },
+
+ {
+
+  "text_code": "label_about_us",
+
+  "text_value": "எங்களை பற்றி"
+
+ },
+
+ {
+
+  "text_code": "label_logout",
+
+  "text_value": "வெளியேறு"
+
+ },
+
+ {
+
+  "text_code": "label_report_trafic_voilation",
+
+  "text_value": "போக்குவரத்து விதிமீறலைப் புகாரளிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_report_accident",
+
+  "text_value": "விபத்து குறித்து புகாரளிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_about_maprivahan",
+
+  "text_value": "எம்பரிவகன்  பற்றி"
+
+ },
+
+ {
+
+  "text_code": "label_virtual_rc",
+
+  "text_value": "விரிச்சுவல் பதிவுச் சான்றிதழ்"
+
+ },
+
+ {
+
+  "text_code": "label_virtual_dl",
+
+  "text_value": "விரிச்சுவல் ஓட்டுநர் உரிமம்"
+
+ },
+
+ {
+
+  "text_code": "label_shared_rc",
+
+  "text_value": "பகிரப்பட்ட பதிவுச் சான்றிதழ் "
+
+ },
+
+ {
+
+  "text_code": "label_received_rc",
+
+  "text_value": "பதிவுச் சான்றிதழ்  பெற்றது"
+
+ },
+
+ {
+
+  "text_code": "label_rc_search",
+
+  "text_value": "பதிவுச் சான்றிதழ்  தேடல்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_search",
+
+  "text_value": "ஓட்டுநர் உரிமம் தேடல்"
+
+ },
+
+ {
+
+  "text_code": "label_about_vehicle",
+
+  "text_value": "வாகனம் பற்றி"
+
+ },
+
+ {
+
+  "text_code": "label_transfer_ownership",
+
+  "text_value": "உரிமம் மாற்றம் செய்தல்"
+
+ },
+
+ {
+
+  "text_code": "label_hp_endorsement",
+
+  "text_value": "தவணைக் கொள் முதல் மேற்குறிப்பு"
+
+ },
+
+ {
+
+  "text_code": "label_about_licence",
+
+  "text_value": "ஓட்டுநர் உரிமம் பற்றி"
+
+ },
+
+ {
+
+  "text_code": "label_notifications_and_advisories",
+
+  "text_value": "அறிவிப்புகள் மற்றும் ஆலோசனைகள்"
+
+ },
+
+ {
+
+  "text_code": "label_notifications",
+
+  "text_value": "அறிவிப்புகள்"
+
+ },
+
+ {
+
+  "text_code": "label_sos",
+
+  "text_value": "SOS"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_status",
+
+  "text_value": "விண்ணப்ப நிலை"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_no",
+
+  "text_value": "விண்ணப்ப எண்."
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_application_no",
+
+  "text_value": "விண்ணப்ப எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "vahan_chassis_no",
+
+  "text_value": "அடிசட்ட எண்."
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_chassis_no",
+
+  "text_value": "அடிசட்ட  எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "vahan_engine_no",
+
+  "text_value": "என்ஜின் எண்."
+
+ },
+
+ {
+
+  "text_code": "vahan_engine_no_last_five",
+
+  "text_value": "என்ஜின் எண். (கடைசி நான்கு இலக்கங்களை உள்ளிடவும்)"
+
+ },
+
+ {
+
+  "text_code": "vahan_chassis_no_last_five",
+
+  "text_value": "அடிச்சட்ட  எண் (கடைசி 5 இலக்கங்கள்)"
+
+ },
+
+ {
+
+  "text_code": "vahan_btn_submit",
+
+  "text_value": "சமர்ப்பிக்க"
+
+ },
+
+ {
+
+  "text_code": "vahan_btn_cancel",
+
+  "text_value": "இரத்து செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_otp_msg",
+
+  "text_value": "உங்கள் பதிவு செய்யப்பட்ட கைபேசி எண்ணுக்கு அனுப்பப்பட்ட ஒருமுறை  கடவுச் சொல்யை கீழே உள்ள புலத்தில் உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "vahan_resend_otp",
+
+  "text_value": "ஒருமுறை கடவுச் சொல்லை மீண்டும் அனுப்பவும்"
+
+ },
+
+ {
+
+  "text_code": "vahan_btn_verify",
+
+  "text_value": "சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "vahan_dispose_application",
+
+  "text_value": "விண்ணப்பத்தை தீர்வுக்கு கொண்டு வரவும்"
+
+ },
+
+ {
+
+  "text_code": "vahan_registration_no",
+
+  "text_value": "பதிவு எண்."
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_registration_no",
+
+  "text_value": "பதிவு எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "vahan_verify_pending_transaction",
+
+  "text_value": "நிலுவையில் உள்ள பரிவர்த்தனையைச் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_id",
+
+  "text_value": "பரிவர்த்தனை முகவரி"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_no",
+
+  "text_value": "பரிவர்த்தனை எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "vahan_get_details",
+
+  "text_value": "விவரங்களை பெறுவதற்கு"
+
+ },
+
+ {
+
+  "text_code": "vahan_search",
+
+  "text_value": "தேடவும்"
+
+ },
+
+ {
+
+  "text_code": "vahan_payment_details",
+
+  "text_value": "கட்டணம் செலுத்தப்பட்ட விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "vahan_owner_name",
+
+  "text_value": "உரிமையாளரின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_date",
+
+  "text_value": "விண்ணப்ப தேதி"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_name",
+
+  "text_value": "விண்ணப்பத்தின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_date",
+
+  "text_value": "பரிவர்த்தனை தேதி"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_name",
+
+  "text_value": "பரிவர்த்தனை பெயர்"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_applied",
+
+  "text_value": "பரிவர்த்தனை(கள்) விண்ணப்பிக்கப்பட்டவை"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_status",
+
+  "text_value": "பரிவர்த்தனை நிலை"
+
+ },
+
+ {
+
+  "text_code": "vahan_amount",
+
+  "text_value": "தொகை"
+
+ },
+
+ {
+
+  "text_code": "vahan_state",
+
+  "text_value": "மாநிலம்"
+
+ },
+
+ {
+
+  "text_code": "vahan_rto",
+
+  "text_value": "வட்டாரப் போக்குவரத்து அலுவலகம்"
+
+ },
+
+ {
+
+  "text_code": "vahan_rto_name",
+
+  "text_value": "வட்டாரப் போக்குவரத்து அலுவலகத்தின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "vahan_duplicate_rc",
+
+  "text_value": "நகல் பதிவுச் சான்றிதழ் "
+
+ },
+
+ {
+
+  "text_code": "vahan_change_of_address",
+
+  "text_value": "முகவரி மாற்றம்"
+
+ },
+
+ {
+
+  "text_code": "vahan_payment_status",
+
+  "text_value": "கட்டணம் செலுத்திய நிலை"
+
+ },
+
+ {
+
+  "text_code": "vahan_verify_payment",
+
+  "text_value": "கட்டணம் செலுத்தப்பட்டதைச் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "vahan_print",
+
+  "text_value": "அச்சிடவும்"
+
+ },
+
+ {
+
+  "text_code": "vahan_receipt",
+
+  "text_value": "இரசீது"
+
+ },
+
+ {
+
+  "text_code": "vahan_wait_for_sometime_msg",
+
+  "text_value": "ஒருமுறை கடவுச் சொல் வருவதற்கு சிறிது நேரம் காத்திருக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "vahan_agree_to_term_msg",
+
+  "text_value": "விதிமுறைகள் மற்றும் நிபந்தனைகளை ஒப்புக்கொள்கிறேன்."
+
+ },
+
+ {
+
+  "text_code": "vahan_application_draft",
+
+  "text_value": "விண்ணப்ப வரைவு"
+
+ },
+
+ {
+
+  "text_code": "vahan_fee_payment",
+
+  "text_value": "கட்டணம் செலுத்துதல்"
+
+ },
+
+ {
+
+  "text_code": "vahan_upload_document",
+
+  "text_value": "ஆவணத்தைப் பதிவேற்றவும்"
+
+ },
+
+ {
+
+  "text_code": "vahan_final_submit",
+
+  "text_value": "இறுதி சமர்ப்பிப்பு"
+
+ },
+
+ {
+
+  "text_code": "vahan_slot_booking",
+
+  "text_value": "நியமிக்கப்பட்ட தேதியில் முன்பதிவு"
+
+ },
+
+ {
+
+  "text_code": "label_app_no",
+
+  "text_value": "விண்ணப்ப எண்"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_app_no",
+
+  "text_value": "தேவையான ஆவணங்களைப் பதிவேற்றவும்"
+
+ },
+
+ {
+
+  "text_code": "label_enter_otp_below",
+
+  "text_value": "உங்கள் பதிவு செய்யப்பட்ட கைப்பேசி எண்ணுக்கு அனுப்பப்பட்ட ஒருமுறை கடவுச் சொல்யை கீழே உள்ள புலத்தில் உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "edit_enter_otp",
+
+  "text_value": "ஒருமுறை கடவுச் சொல்லை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_resend_otp",
+
+  "text_value": "ஒருமுறை கடவுச் சொல்லை மீண்டும் அனுப்பவும்"
+
+ },
+
+ {
+
+  "text_code": "label_applicant_name",
+
+  "text_value": "விண்ணப்பதாரர் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "label_appl_status_rto_code",
+
+  "text_value": "வட்டாரப் போக்குவரத்து அலுவலகக் குறியீடு"
+
+ },
+
+ {
+
+  "text_code": "label_appl_status_rto_name",
+
+  "text_value": "வட்டாரப் போக்குவரத்து அலுவலகம் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "label_transaction_s_applied",
+
+  "text_value": "பரிவர்த்தனை(கள்) விண்ணப்பிக்கப்பட்டவை"
+
+ },
+
+ {
+
+  "text_code": "label_transaction_status",
+
+  "text_value": "பரிவர்த்தனை நிலை"
+
+ },
+
+ {
+
+  "text_code": "proceed_arrow",
+
+  "text_value": "தொடரவும்"
+
+ },
+
+ {
+
+  "text_code": "button_dispose",
+
+  "text_value": "தீர்வு செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "button_verify",
+
+  "text_value": "சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "button_cancel",
+
+  "text_value": "இரத்து செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "button_proceed",
+
+  "text_value": "தொடரவும்"
+
+ },
+
+ {
+
+  "text_code": "label_note",
+
+  "text_value": "குறிப்பு"
+
+ },
+
+ {
+
+  "text_code": "note_info",
+
+  "text_value": "விண்ணப்பத்தை இரத்துசெய்யும் செயல்முறை மீள முடியாதது, மேலும் பயன்பாடு (கோப்பு) முழுமையாக மூடப்பட்டு அதை மீட்டெடுக்க முடியாது. எல்லா தரவுகளும் ஆவணங்களும் பூஜ்யமாகவும் வெற்றிடமாகவும் மாறும். விண்ணப்பதாரர் ஒரு சேவையை விரும்பினால், ஒரு புதிய விண்ணப்பத்தை சமர்ப்பிக்க வேண்டும், மேலும் அனைத்து நடைமுறைகளையும் மீண்டும் பின்பற்ற வேண்டும். இந்த விண்ணப்ப எண்ணுக்கு பழகுநர் ஒட்டுநர் உரிமம்  அல்லது ஓட்டுநர் உரிமத்திற்காக நியமிக்கப்பட்ட தேதியில் முன்பதிவு செய்யப்பட்டிருந்தால்,  அந்த தேதியும் இரத்து செய்யப்படும், மேலும் ஏதேனும் பணம் செலுத்தினால், அந்தத் தொகை திருப்பிக் கொடுக்கப்படமாட்டாது."
+
+ },
+
+ {
+
+  "text_code": "button_withdraw",
+
+  "text_value": "திரும்பப் பெறவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dispose_application",
+
+  "text_value": "விண்ணப்பத்தை தீர்வுக்கு கொண்டு வரவும்"
+
+ },
+
+ {
+
+  "text_code": "label_transaction_name",
+
+  "text_value": "பரிவர்த்தனை பெயர்"
+
+ },
+
+ {
+
+  "text_code": "label_reason_remarks",
+
+  "text_value": "காரணம்\/குறிப்புகள்"
+
+ },
+
+ {
+
+  "text_code": "label_ackno_slip",
+
+  "text_value": "ஒப்புகை சீட்டு"
+
+ },
+
+ {
+
+  "text_code": "label_application_prefilled",
+
+  "text_value": "விண்ணப்பப் படிவம் (முன் நிரப்பப்பட்டது)"
+
+ },
+
+ {
+
+  "text_code": "label_form_1",
+
+  "text_value": "படிவம் 1"
+
+ },
+
+ {
+
+  "text_code": "label_form_1a",
+
+  "text_value": "படிவம் 1A"
+
+ },
+
+ {
+
+  "text_code": "label_fee_receipt",
+
+  "text_value": "கட்டண இரசீது"
+
+ },
+
+ {
+
+  "text_code": "label_slot_ackno_slip",
+
+  "text_value": "நியமிக்கப்பட்ட தேதியின் முன்பதிவு ஒப்புகை சீட்டு"
+
+ },
+
+ {
+
+  "text_code": "dispose_popup_msg",
+
+  "text_value": "விண்ணப்பத்தை இரத்துசெய்யும் செயல்முறை மீள முடியாதது. மேலும், பயன்பாடு (கோப்பு) முழுமையாக மூடப்பட்டு அதை மீட்டெடுக்க முடியாது. எல்லா தரவுகளும் ஆவணங்களும் பூஜ்யமாகவும் வெற்றிடமாகவும் மாறும். விண்ணப்பதாரர் ஒரு சேவையை விரும்பினால், ஒரு புதிய விண்ணப்பத்தை சமர்ப்பிக்க வேண்டும், மேலும் அனைத்து நடைமுறைகளையும் மீண்டும் பின்பற்ற வேண்டும். இந்த விண்ணப்ப எண்ணுக்கு பழகுநர் ஒட்டுநர் உரிமம்  அல்லது ஓட்டுநர் உரிமத்திற்காக நியமிக்கப்பட்ட தேதியில் முன்பதிவு செய்யப்பட்டிருந்தால்,  அந்த தேதியும் இரத்து செய்யப்படும். மேலும் ஏதேனும் பணம் செலுத்தினால், அந்தத் தொகை திரும்பப் பெறப்படாது. நீங்கள் இன்னும் உங்கள் விண்ணப்பத்தை ரத்து செய்ய விரும்புகிறீர்கள் என்பதை உறுதிப்படுத்தவும்."
+
+ },
+
+ {
+
+  "text_code": "withdraw_popup_msg",
+
+  "text_value": "பின்வரும் திரும்பப் பெறப்பட்ட சேவைகளைத் தேர்ந்தெடுத்துள்ளீர்கள், நகல் ஓட்டுநர் உரிமம், முகவரி மாற்றம், நீங்கள் நிச்சயமாக தொடர விரும்புகிறீர்களா?"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_dob",
+
+  "text_value": "DD-MM-YYYY"
+
+ },
+
+ {
+
+  "text_code": "popup_do_want",
+
+  "text_value": "நீங்கள் சேமிக்க விரும்புகிறீர்களா"
+
+ },
+
+ {
+
+  "text_code": "button_open_pdf",
+
+  "text_value": "PDF ஐத் திறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "popup_pdf_desc",
+
+  "text_value": "உங்கள் PDF கோப்பினை  பதிவிறக்கம் செய்யவும்-> எம்பரிவகன் கோப்புறையில் சேமிக்கப்பட்டது, PDF கோப்பைப் பார்க்க உங்கள் கைப்பேசியில்  Adobe Reader நிறுவப்பட வேண்டும்"
+
+ },
+
+ {
+
+  "text_code": "popup_pdf_error",
+
+  "text_value": "pdf ஐப் பார்க்க எந்த செயலியும் இல்லை."
+
+ },
+
+ {
+
+  "text_code": "label_term_condt",
+
+  "text_value": "விதிமுறைகள் மற்றும் நிபந்தனைகளை ஒப்புக்கொள்கிறேன்"
+
+ },
+
+ {
+
+  "text_code": "popup_empty_mobile_no",
+
+  "text_value": "கைப்பேசி எண் கிடைக்கவில்லை"
+
+ },
+
+ {
+
+  "text_code": "title_challan_status",
+
+  "text_value": "செலுத்துச்சீட்டின் நிலை"
+
+ },
+
+ {
+
+  "text_code": "title_online_challan_payment",
+
+  "text_value": "இணையதளம் மூலம் செலுத்துச்சீட்டு செலுத்திய விவரம்"
+
+ },
+
+ {
+
+  "text_code": "title_verify_challan_payment",
+
+  "text_value": "செலுத்துச்சீட்டு கட்டணத்தைச் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "logo_pay_your_challan",
+
+  "text_value": "உங்கள் செலுத்துச்சீட்டை செலுத்துங்கள்"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_trans_status",
+
+  "text_value": "பரிவர்த்தனை நிலை"
+
+ },
+
+ {
+
+  "text_code": "logo_reprint_receipt",
+
+  "text_value": "மறுபதிப்பு இரசீது"
+
+ },
+
+ {
+
+  "text_code": "radio_btn_challan_no",
+
+  "text_value": "செலுத்துச்சீட்டு எண்"
+
+ },
+
+ {
+
+  "text_code": "radio_btn_vehicle_no",
+
+  "text_value": "வாகன எண்"
+
+ },
+
+ {
+
+  "text_code": "radio_btn_dl_no",
+
+  "text_value": "ஓட்டுநர் உரிம எண்"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_challan_no",
+
+  "text_value": "செலுத்துச்சீட்டு எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_get_details",
+
+  "text_value": "விவரங்களை பெறுவதற்கு"
+
+ },
+
+ {
+
+  "text_code": "tab_btn_challan_all",
+
+  "text_value": "அனைத்தும்"
+
+ },
+
+ {
+
+  "text_code": "tab_btn_challan_pending",
+
+  "text_value": "நிலுவையில் உள்ளது"
+
+ },
+
+ {
+
+  "text_code": "tab_btn_challan_disposed",
+
+  "text_value": "தீர்வு செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "label_total_challan",
+
+  "text_value": "மொத்த செலுத்துச்சீட்டு"
+
+ },
+
+ {
+
+  "text_code": "label_no_challan_found",
+
+  "text_value": "செலுத்துச்சீட்டு கிடைக்கவில்லை"
+
+ },
+
+ {
+
+  "text_code": "label_no_pending_trans",
+
+  "text_value": "கட்டணம் செலுத்தும் பரிவர்த்தனை எதுவும் நிலுவையில் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no_trans_found",
+
+  "text_value": "பரிவர்த்தனை எதுவும் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_details",
+
+  "text_value": "சலான் விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_payment",
+
+  "text_value": "பணம் செலுத்துதல்"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_receipt",
+
+  "text_value": "ரசீது"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_rc_no",
+
+  "text_value": "ஓட்டுநர் உரிமம்\/பதிவுச் சான்றிதழ்  எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_state",
+
+  "text_value": "மாநிலம்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no",
+
+  "text_value": "செலுத்துச்சீட்டு எண்"
+
+ },
+
+ {
+
+  "text_code": "label_payment_status",
+
+  "text_value": "கட்டண நிலை"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_print_receipt",
+
+  "text_value": "இ ரசீது அச்சிடவும்"
+
+ },
+
+ {
+
+  "text_code": "btn_print_challan",
+
+  "text_value": "செலுத்துச் சீட்டினை அச்சிடவும்"
+
+ },
+
+ {
+
+  "text_code": "btn_pay_now",
+
+  "text_value": "தற்போது செலுத்தவும்"
+
+ },
+
+ {
+
+  "text_code": "btn_verify_payment",
+
+  "text_value": "கட்டணத்தைச் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_paid",
+
+  "text_value": "செலுத்தப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_status",
+
+  "text_value": "நிலை"
+
+ },
+
+ {
+
+  "text_code": "btn_try_again",
+
+  "text_value": "மீண்டும் முயற்சி செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "btn_go_back",
+
+  "text_value": "திரும்ப செல்லவும்"
+
+ },
+
+ {
+
+  "text_code": "title_challan_trans_success",
+
+  "text_value": "பரிவர்த்தனை வெற்றியடைந்தது"
+
+ },
+
+ {
+
+  "text_code": "title_challan_trans_pending",
+
+  "text_value": "பரிவர்த்தனை நிலுவையில் உள்ளது"
+
+ },
+
+ {
+
+  "text_code": "title_challan_trans_failed",
+
+  "text_value": "பரிவர்த்தனை தோல்வியடைந்தது"
+
+ },
+
+ {
+
+  "text_code": "title_dl_details",
+
+  "text_value": "ஓட்டுநர் உரிம விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_holder_name",
+
+  "text_value": "ஓட்டுநர் உரிமம் வைத்திருப்பவர் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_expiry_date",
+
+  "text_value": "காலாவதியான தேதி"
+
+ },
+
+ {
+
+  "text_code": "label_dl_ekyc_demographic_details",
+
+  "text_value": "eKYC மக்கள்தொகை விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_ownername_as_aadhaar",
+
+  "text_value": "உரிமையாளர் பெயர் (ஆதாரின் படி)"
+
+ },
+
+ {
+
+  "text_code": "label_dl_current_addr_as_aadhaar",
+
+  "text_value": "தற்போதைய முகவரி (ஆதாரின் படி)"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_next",
+
+  "text_value": "அடுத்தது"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_renewal",
+
+  "text_value": "ஓட்டுநர் உரிமம்  புதுப்பித்தல்"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_details",
+
+  "text_value": "ஓட்டுநர் உரிம விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_upload_photo_sign",
+
+  "text_value": "புகைப்படம் & கையொப்பத்தைப் பதிவேற்றவும்"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_dms_upload_doc",
+
+  "text_value": "DMS ( ஆவணங்களை பதிவேற்றம் செய்யவும்)"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_fee_details",
+
+  "text_value": "கட்டண விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_appointment_book",
+
+  "text_value": "அனுமதி முன்பதிவு"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_personal_info",
+
+  "text_value": "தனிப்பட்ட தகவல்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_father_name",
+
+  "text_value": "தந்தையின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_permn_addr",
+
+  "text_value": "நிரந்தர முகவரி"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_information",
+
+  "text_value": "ஓட்டுநர் உரிமம் பற்றிய தகவல்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_issue_date",
+
+  "text_value": "ஓட்டுநர் உரிமம் வெளியீட்டு தேதி"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_nt_valid_upto",
+
+  "text_value": "போக்குவரத்து அல்லாத வாகனங்கள் தகுதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_issue_authority",
+
+  "text_value": "வழங்கும் அதிகாரி"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_tr_valid_upto",
+
+  "text_value": "போக்குவரத்து வாகனங்கள் தகதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_last_endor_state",
+
+  "text_value": "கடைசியாக அங்கீகரிக்கப்பட்ட மாநிலம்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_last_endor_rto",
+
+  "text_value": "கடைசியாக அங்கீகரிக்கப்பட்ட வட்டாரப் போக்குவரத்து அலுவலகம்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_class_vehicle",
+
+  "text_value": "வாகனத்தின் வகுப்பு"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_present_addr",
+
+  "text_value": "தற்போதைய முகவரி"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_close",
+
+  "text_value": "மூடவும்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_duplicate_dl",
+
+  "text_value": "நகல் ஓட்டுநர் உரிமம்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_idp",
+
+  "text_value": "பன்னாட்டு  ஓட்டுநர் அனுமதிச்சீட்டு"
+
+ },
+
+ {
+
+  "text_code": "title_dl_services",
+
+  "text_value": "ஓட்டுநர் உரிம சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_no",
+
+  "text_value": "ஓட்டுநர் உரிமம் எண்."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_req_sub_state",
+
+  "text_value": "அரசுக்கு சமர்ப்பிக்க கோரிக்கை"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_req_sub_rto",
+
+  "text_value": "வட்டாரப் போக்குவரத்து அலுவலரிடம் சமர்ப்பிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_renewal_dl",
+
+  "text_value": "ஓட்டுநர் உரிமம்  புதுப்பித்தல்"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_change_addr",
+
+  "text_value": "ஓட்டுநர் உரிமத்தில் முகவரி மாற்றம்"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_dupl_dl",
+
+  "text_value": "நகல் ஓட்டுநர் உரிமம் வழங்குதல்"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_intern_dl_perm",
+
+  "text_value": "பன்னாட்டு  ஓட்டுநர் அனுமதிச்சீட்டு"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_extract_dl",
+
+  "text_value": "ஓட்டுநர் உரிமத்தின் பிரதி சுருக்கம்"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_replacement_dl",
+
+  "text_value": "ஓட்டுநர் உரிமத்தின் மாற்றீடு"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_my_dl",
+
+  "text_value": "எனது ஓட்டுநர் உரிமம்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_enter_dl",
+
+  "text_value": "ஓட்டுநர் உரிமத்தை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_go_aval",
+
+  "text_value": "கிடைக்கும் சேவைகளுக்குச் செல்லவும்"
+
+ },
+
+ {
+
+  "text_code": "btn_reset",
+
+  "text_value": "மீட்டமை"
+
+ },
+
+ {
+
+  "text_code": "dl_serv_note",
+
+  "text_value": "சட்ட விதிகளின்படி பதிவேற்றப்பட்ட தரவு மற்றும் ஆவணங்களின் வெற்றிகரமான ஆய்வுக்கு உட்பட்ட பிறகு விண்ணப்பம் ஏற்றுக் கொள்ளப்படும்."
+
+ },
+
+ {
+
+  "text_code": "dl_serv_note_faceless_rto",
+
+  "text_value": "குறிப்பிடப்பட்ட சேவைகள்  நேரடி தொடர்பில்லாத சேவைகள், மேற்படி சேவைகளை பெற நீங்கள் வட்டாரப் போக்குவரத்து அலுவலரைப் பார்க்க வேண்டிய அவசியமில்லை."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_mob_no",
+
+  "text_value": "கைப்பேசி எண்."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_update_mob",
+
+  "text_value": "கைப்பேசி எண்ணைப் புதுப்பிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_terms_cond",
+
+  "text_value": "நான் விதிமுறைகள் மற்றும் நிபந்தனைகளைப் படித்து ஏற்றுக் கொள்கிறேன்."
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_mob_no",
+
+  "text_value": "கைப்பேசி எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_dob",
+
+  "text_value": "பிறந்த தேதியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_enter_otp",
+
+  "text_value": "ஒருமுறை கடவுச் சொல்லை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_otp",
+
+  "text_value": "ஒருமுறை கடவுச் சொல்லை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_gen_otp",
+
+  "text_value": "ஒருமுறை கடவுச் சொல்லை உருவாக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_click_updt_mob",
+
+  "text_value": "உங்கள் பைப்பேசி எண்ணைப் புதுப்பிக்க இங்கே தேர்வு செய்யவும்."
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_downl_ackno",
+
+  "text_value": "ஒப்புகைச்  சீட்டைப்  பதிவிறக்கம் செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_save_image",
+
+  "text_value": "அதை படமாக சேமிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_view_details",
+
+  "text_value": "ஓட்டுநர் உரிம விவரங்களைப் பார்வையிடவும்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_exist_addr",
+
+  "text_value": "ஏற்கனவே இருக்கும் முகவரி"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_exist_curr_addr",
+
+  "text_value": "ஏற்கனவே இருக்கும் தற்போதைய முகவரி"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_exist_perm_addr",
+
+  "text_value": "தற்போதுள்ள நிரந்தர முகவரி"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_new_curr_addr_detail",
+
+  "text_value": "புதிய தற்போதைய முகவரி விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_valid_from",
+
+  "text_value": "தகுதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_old_addr_detail",
+
+  "text_value": "பழைய முகவரி விவரம்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_state",
+
+  "text_value": "மாநிலம்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_state",
+
+  "text_value": "ஒரு மாநிலத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_district",
+
+  "text_value": "மாவட்டம்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_district",
+
+  "text_value": "மாவட்டத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_block",
+
+  "text_value": "தாலுகா \/ வட்டாரம்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_block",
+
+  "text_value": "தாலுகா \/ வட்டாரம் என்பதைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_village",
+
+  "text_value": "கிராமம்"
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_town",
+
+  "text_value": "நகரம்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_town",
+
+  "text_value": "கிராமம் \/ நகரத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_hous_door_flat",
+
+  "text_value": "வீடு \/ கதவு \/ பிளாட் எண்."
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_hous_door_flat",
+
+  "text_value": "வீடு \/ கதவு \/ பிளாட் எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_stree_loca_polic",
+
+  "text_value": "தெரு \/ வட்டாரம் \/ காவல் நிலையம்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_stree_loca_polic",
+
+  "text_value": "தெரு \/ இடம் \/ காவல் நிலையத்தை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_landmark",
+
+  "text_value": "முக்கிய அடையாளம் குறியீடு"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_landmark",
+
+  "text_value": "முக்கிய அடையாளம் குறியீட்டை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_pincode",
+
+  "text_value": "அஞ்சல் குறியீடு"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_pincode",
+
+  "text_value": "அஞ்சல் குறியீட்டை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_same_curr_addr",
+
+  "text_value": "அதே புதிய தற்போதைய முகவரி"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_new_perm_addr",
+
+  "text_value": "புதிய நிரந்தர முகவரி விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_detail_extr",
+
+  "text_value": "ஓட்டுநர் உரிமத்தின் பிரதி சுருக்கத்திற்கான விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_reason",
+
+  "text_value": "காரணம்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_sel_reason",
+
+  "text_value": "காரணத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_enter_reas_manul",
+
+  "text_value": "பொதுவான காரணத்தை  உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_note_detail",
+
+  "text_value": "நான் இறந்தால் எனது உறுப்புகள் அல்லது திசுக்களை தானம் செய்ய தயாராக இருக்கிறேன்."
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_yes",
+
+  "text_value": "ஆம்"
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_no",
+
+  "text_value": "இல்லை"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_emer_cont_no",
+
+  "text_value": "உங்கள் அவசர தொடர்பு எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_applicant_detail",
+
+  "text_value": "விண்ணப்பதாரர் விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_appl_no",
+
+  "text_value": "விண்ணப்ப எண்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_appl_date",
+
+  "text_value": "விண்ணப்ப தேதி"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_upload_req_doc",
+
+  "text_value": "தேவையான ஆவணங்களைப் பதிவேற்றவும்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_allow_file_size",
+
+  "text_value": "அனுமதிக்கப்பட்ட கோப்பு வகைகளில் JPEG, JPG மற்றும் PDF ஆகியவை அடங்கும், அதிகபட்ச கோப்பு அளவு 200 KB ஆகும்."
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_upload_doc",
+
+  "text_value": "ஆவணத்தைப் பதிவேற்றவும்"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_detail_duplicate",
+
+  "text_value": " நகல் ஓட்டுநர் உரிம விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_birth_place",
+
+  "text_value": "பிறந்த இடம்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_birth_plac",
+
+  "text_value": "உங்கள் பிறந்த இடத்தை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_birth_country",
+
+  "text_value": "பிறந்த நாடு"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_country",
+
+  "text_value": "நாட்டினை தேர்வுசெய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_pass_no",
+
+  "text_value": "கடவுச்சீட்டு எண்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_pass_no",
+
+  "text_value": "உங்கள் கடவுச்சீட்டு எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_valid_upto",
+
+  "text_value": "தகுதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_pass_valid",
+
+  "text_value": "உங்கள் கடவுச்சீட்டு தகுதியாகும் காலத்தை தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_disqu_dl_drive",
+
+  "text_value": "வாகனம் ஓட்டுவதற்கான ஓட்டுநர் உரிமம் பெறுவதற்காக நீங்கள் தகுதி நீக்கம் செய்யப்பட்டீர்களா? அப்படியானால், அது ஏன்?"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_what_reason",
+
+  "text_value": "அப்படியானால் என்ன காரணம்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_barred_curr_count_drive",
+
+  "text_value": "அந்த நாட்டில் வாகனம் ஓட்டுவதற்கு தற்போதைய நாட்டினால் தடை விதிக்கப்பட்டுள்ளதா? அப்படியானால், என்ன காரணத்திற்காக?"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_count_visa_grant",
+
+  "text_value": "அயல்நாட்டு நுழைவு சான்று (VISA) வழங்கப்பட்ட நாடு"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_click_restr_countr",
+
+  "text_value": "தடைசெய்யப்பட்ட நாடுகளின் பட்டியலைப் பார்க்க இங்கே தேர்வு செய்யவும்."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_visa_no",
+
+  "text_value": "அயல்நாட்டு நுழைவு சான்று (VISA)  எண்."
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_visa_no",
+
+  "text_value": "உங்கள் அயல்நாட்டு நுழைவு சான்று (VISA) எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_visa_valid",
+
+  "text_value": "உங்கள் அயல்நாட்டு நுழைவு சான்று (VISA)  தகுதியாகும் காலத்தை தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_cov_grades_idp",
+
+  "text_value": "பன்னாட்டு ஒட்டுநர் உரிமம் கோரப்படும் வாகன வகைகளின் கிரேடுகள்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_cov_grade",
+
+  "text_value": "வாகன வகைகளின் தரங்களைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_im_indian_embas",
+
+  "text_value": "நான் இந்திய தூதரகத்திலிருந்து"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_indian_embas_name",
+
+  "text_value": "இந்திய தூதரகத்தின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_ind_embas_name",
+
+  "text_value": "உங்கள் இந்திய தூதரகத்தின் பெயரை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_embas_place",
+
+  "text_value": "தூதரக இடம்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_embas_place",
+
+  "text_value": "உங்கள் தூதரக இடத்தை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_fore_nat_mob_no",
+
+  "text_value": "வெளி நாட்டின் கைப்பேசி எண்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_fore_mob_no",
+
+  "text_value": "உங்கள் வெளிநாட்டு கைப்பேசி எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_date_verif_embass",
+
+  "text_value": "தூதரகத்தால் சரிபார்க்கப்பட்ட தேதி"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_date_verif_embass",
+
+  "text_value": "தூதரகத்தின் சரிபார்ப்பு தேதியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_embsy_endor_no",
+
+  "text_value": "தூதரக அங்கீகார எண்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_embsy_endor_no",
+
+  "text_value": "தூதரக ஒப்புதல் எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_idp_applied_from",
+
+  "text_value": "பன்னாட்டு ஒட்டுநர் உரிமம் எங்கிருந்து விண்ணப்பிக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_idp_applied_from",
+
+  "text_value": "இதிலிருந்து பன்னாட்டு ஒட்டுநர் உரிமம் பயன்படுத்தப்பட்டது என்பதைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_enter_addr_forg_doc",
+
+  "text_value": "பன்னாட்டு ஒட்டுநர் உரிமம் ஆவணம் அனுப்பப்பட வேண்டிய வெளி நாட்டின் முகவரியை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_addr_one",
+
+  "text_value": "முகவரி 1"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_addr_two",
+
+  "text_value": "முகவரி 2"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_addr_three",
+
+  "text_value": "முகவரி 3"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_addr",
+
+  "text_value": "உங்கள் முகவரியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_click_cov_grade",
+
+  "text_value": "வாகன வகைகளின் விளக்கத்தைப் பார்க்க இங்கே தேர்வு செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_old_mob_no",
+
+  "text_value": "பழைய கைப்பேசி எண்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_new_mob_no",
+
+  "text_value": "புதிய கைப்பேசி எண்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_rem_rea",
+
+  "text_value": "குறிப்பு \/ காரணம்"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_reason",
+
+  "text_value": "காரணத்தை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_rto",
+
+  "text_value": "வட்டாரப் போக்குவரத்து அலுவலகம்"
+
+ },
+
+ {
+
+  "text_code": "label_duplicate_dl_not_allowed_",
+
+  "text_value": "உங்கள் ஓட்டுநர் உரிமத்திற்கு நகல்ஓட்டுநர் உரிமம் சேவைகளை வழங்குவது அனுமதிக்கப்படாது. உங்களுக்கு ஏதேனும் சிக்கல்கள் இருந்தால், helpdesk-sarathi@gov.in அல்லது +91-0120-4925505 இல் எங்களைத் தொடர்பு கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "label_idp_not_allowed_",
+
+  "text_value": "உங்கள் ஓட்டுநர் உரிமத்திற்கு நகல்ஓட்டுநர் உரிமம் சேவைகளை வழங்குவது அனுமதிக்கப்படாது. மேலும் ஏதேனும் கேள்விகள் இருந்தால் helpdesk-sarathi@gov.in அல்லது +91-0120-4925505 என்ற மின்னஞ்சல் முகவரியில் எங்களைத் தொடர்பு கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "label_replace_dl_not_allowed",
+
+  "text_value": "உங்கள் ஓட்டுநர் உரிமத்திற்குஓட்டுநர் உரிமம் சேவையை மாற்றுவது அனுமதிக்கப்படாது. உங்களுக்கு ஏதேனும் சிக்கல்கள் இருந்தால், helpdesk-sarathi@gov.in அல்லது +91-0120-492550-ல் எங்களைத் தொடர்பு கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "label_coa_not_allowed",
+
+  "text_value": "ஓட்டுநர் உரிமம் சேவையில் முகவரி மாற்றம் உங்கள் ஓட்டுநர் உரிமத்திற்கு அனுமதிக்கப்படாது. உங்களுக்கு ஏதேனும் சிக்கல்கள் இருந்தால், helpdesk-sarathi@gov.in அல்லது +91-0120-4925505-ல் எங்களைத் தொடர்பு கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "label_renewal_not_allowed",
+
+  "text_value": "உங்கள்ஓட்டுநர் உரிமம் காலாவதியாகிவிட்டதால், ஓட்டுநர் திறன் சோதனை தேவைப்படும்."
+
+ },
+
+ {
+
+  "text_code": "label_unable_details",
+
+  "text_value": "உங்களால் விவரங்களைப் பெற முடியாவிட்டால் சிறிது நேரம் கழித்து மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_went_wrong",
+
+  "text_value": "ஏதோ தவறு நடைபெற்றிருக்கிறது. சிறிது நேரம் கழித்து மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_ddl_expired",
+
+  "text_value": "உங்கள் ஓட்டுநர் உரிமம் ஏற்கனவே காலாவதியாகிவிட்டது; எனவே, நகல் ஓட்டுநர் உரிமம் வழங்குவது அனுமதிக்கப்படாது. மேலும் நடவடிக்கைக்கு உங்கள் ஓட்டுநர் உரிமத்தைப் புதுப்பிக்கவும். உங்களுக்கு ஏதேனும் சிக்கல்கள் இருந்தால், helpdesk-sarathi@gov.in அல்லது +91-0120-4925505-ல் எங்களைத் தொடர்பு கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "label_idp_expired",
+
+  "text_value": "உங்கள் ஓட்டுநர் உரிமம் ஏற்கனவே காலாவதியாகிவிட்டதால், சர்வதேச ஓட்டுநர் அனுமதி வழங்குவது அனுமதிக்கப்படாது. மேலும் நடவடிக்கைக்கு உங்கள் ஓட்டுநர் உரிமத்தைப் புதுப்பிக்கவும். உங்களுக்கு ஏதேனும் சிக்கல்கள் இருந்தால், helpdesk-sarathi@gov.in அல்லது +91-0120-4925505-ல் எங்களைத் தொடர்பு கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "label_replacement_expired",
+
+  "text_value": "உங்கள் ஓட்டுநர் உரிமம் ஏற்கனவே காலாவதியாகிவிட்டது;ஓட்டுநர் உரிமம் மாற்று சேவையை வழங்குவது அனுமதிக்கப்படாது. அடுத்த நடவடிக்கைக்கு உங்கள் ஓட்டுநர் உரிமத்தைப் புதுப்பிக்கவும். உங்களுக்கு ஏதேனும் சிக்கல்கள் இருந்தால், helpdesk-sarathi@gov.in அல்லது +91-0120-4925505-ல் எங்களைத் தொடர்பு கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "label_coa_expired",
+
+  "text_value": "உங்கள் ஓட்டுநர் உரிமம் ஏற்கனவே காலாவதியாகிவிட்டது; எனவே முகவரி மாற்றம் அனுமதிக்கப்படாது. அடுத்த நடவடிக்கைக்கு உங்கள் ஓட்டுநர் உரிமத்தைப் புதுப்பிக்கவும். உங்களுக்கு ஏதேனும் சிக்கல்கள் இருந்தால், helpdesk-sarathi@gov.in அல்லது +91-0120-4925505-ல் எங்களைத் தொடர்பு கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "label_renewal_expired",
+
+  "text_value": "உங்கள்ஓட்டுநர் உரிமம் தகுதிவாய்ந்ததாகும்; எனவே,ஓட்டுநர் உரிமம் புதுப்பித்தல் சேவை தற்போது உங்கள் ஓட்டுநர் உரிமத்தில் அனுமதிக்கப்படவில்லை."
+
+ },
+
+ {
+
+  "text_code": "label_service_unavailable",
+
+  "text_value": "சேவை தற்காலிகமாக கிடைக்கவில்லை. பிறகு முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_otp_sent_to_mobile",
+
+  "text_value": "உங்கள் கைப்பேசிக்கு ஒருமுறை கடவுச் சொல் அனுப்பப்பட்டுள்ளது"
+
+ },
+
+ {
+
+  "text_code": "label_house_flat_door",
+
+  "text_value": "வீடு \/ கதவு \/ பிளாட் எண் (முகவரி 1)"
+
+ },
+
+ {
+
+  "text_code": "label_street_loc_ps",
+
+  "text_value": "தெரு \/ இடம் \/ காவல் நிலையம் (முகவரி 2)"
+
+ },
+
+ {
+
+  "text_code": "label_loc_mark",
+
+  "text_value": "இடம்\/அடையாளம் குறியீடு (முகவரி 3)"
+
+ },
+
+ {
+
+  "text_code": "label_select_reason",
+
+  "text_value": "தயவுசெய்து காரணத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_mb",
+
+  "text_value": "கைப்பேசி  எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_want_to_proceed",
+
+  "text_value": "நீங்கள் உறுதியாக இருக்கிறீர்களா, நீங்கள் தொடர விரும்புகிறீர்களா"
+
+ },
+
+ {
+
+  "text_code": "label_point_a",
+
+  "text_value": "புள்ளி A-ல் ஆம் \/ இல்லை விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_point_b",
+
+  "text_value": "புள்ளி B-ல் ஆம் \/ இல்லை விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_point_c",
+
+  "text_value": "புள்ளி C-ல் ஆம் \/ இல்லை விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_point_d",
+
+  "text_value": "புள்ளி D-ல் ஆம் \/ இல்லை விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_point_e",
+
+  "text_value": "புள்ளி E-ல் ஆம் \/ இல்லை விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_point_f",
+
+  "text_value": "புள்ளி F-ல் ஆம் \/ இல்லை விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_point_g",
+
+  "text_value": "புள்ளி G-ல் ஆம் \/ இல்லை விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_app_category",
+
+  "text_value": "விண்ணப்பதாரர் வகையைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_general",
+
+  "text_value": "பொது"
+
+ },
+
+ {
+
+  "text_code": "label_Repatriate",
+
+  "text_value": "தாயகத்திற்கு திருப்பி அனுப்புதல்"
+
+ },
+
+ {
+
+  "text_code": "label_Refugees",
+
+  "text_value": "அகதிகள்"
+
+ },
+
+ {
+
+  "text_code": "label_servicemen",
+
+  "text_value": "முன்னாள் ராணுவத்தினர்"
+
+ },
+
+ {
+
+  "text_code": "label_foreigners",
+
+  "text_value": "வெளிநாட்டினர் (இராஜதந்திரிகள் அல்ல)"
+
+ },
+
+ {
+
+  "text_code": "label_diplomat",
+
+  "text_value": "இராஜதந்திரிகள் (வெளிநாட்டவர்)"
+
+ },
+
+ {
+
+  "text_code": "label_oci",
+
+  "text_value": "வெளிநாடு வாழ் இந்தியர்(Overseas Citizenship of India)  (OCI)"
+
+ },
+
+ {
+
+  "text_code": "label_differently_abled",
+
+  "text_value": "மாற்றுத்திறனாளி"
+
+ },
+
+ {
+
+  "text_code": "label_please_check_check_box",
+
+  "text_value": "அறிவிப்பை உறுதிப்படுத்த, தேர்வுப்பெட்டியைக் தேர்வு செய்யவும்."
+
+ },
+
+ {
+
+  "text_code": "label_select_doc",
+
+  "text_value": "ஆவணங்களைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_issuer_Designation",
+
+  "text_value": "வழங்குபவர் பதவி"
+
+ },
+
+ {
+
+  "text_code": "label_doc_number",
+
+  "text_value": "ஆவண எண்"
+
+ },
+
+ {
+
+  "text_code": "label_contact_number",
+
+  "text_value": "தொடர்பு எண்"
+
+ },
+
+ {
+
+  "text_code": "label_doc_issue_Date",
+
+  "text_value": "ஆவணம் வழங்கப்பட்ட தேதி"
+
+ },
+
+ {
+
+  "text_code": "label_Preview",
+
+  "text_value": "முன்னோட்டம்"
+
+ },
+
+ {
+
+  "text_code": "label_edit",
+
+  "text_value": "மாற்றியமைக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_capture",
+
+  "text_value": "பிடிப்பு"
+
+ },
+
+ {
+
+  "text_code": "label_gallery",
+
+  "text_value": "கேலரி"
+
+ },
+
+ {
+
+  "text_code": "label_view",
+
+  "text_value": "காணவும்"
+
+ },
+
+ {
+
+  "text_code": "label_e_sign",
+
+  "text_value": "அடுத்த செயல்முறை மின்-கையொப்ப ஆவணமாகும்"
+
+ },
+
+ {
+
+  "text_code": "label_attach_document",
+
+  "text_value": "ஆவணத்தை இணைக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_document_uploaded",
+
+  "text_value": "ஆவணங்கள் வெற்றிகரமாக பதிவேற்றப்பட்டன."
+
+ },
+
+ {
+
+  "text_code": "label_photo_sign_uploaded",
+
+  "text_value": "புகைப்படம் மற்றும் கையொப்பம் வெற்றிகரமாக பதிவேற்றப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "label_name",
+
+  "text_value": "பெயர்."
+
+ },
+
+ {
+
+  "text_code": "label_sdf",
+
+  "text_value": "மகன்\/மனைவி\/மகள்"
+
+ },
+
+ {
+
+  "text_code": "label_Instructions",
+
+  "text_value": "வழிமுறைகள்"
+
+ },
+
+ {
+
+  "text_code": "label_instructions_one",
+
+  "text_value": "படி 1 : புகைப்படம் எடுக்கவும்: 'CAPTURE'  என்ற பொத்தானைக் தேர்வு செய்தவுடன், கேமரா திறக்கப்படும் மற்றும் புகைப்படம் எடுத்த பிறகு அது புகைப்படப் பெட்டியில் காட்டப்படும்."
+
+ },
+
+ {
+
+  "text_code": "label_instructions_three",
+
+  "text_value": "படி 3 : புகைப்படத்தைப் பதிவேற்றவும் &amp; கையொப்பம்: 'புகைப்படத்தைப் பதிவேற்று &amp; கையொப்பம்' பொத்தான், கைப்பற்றப்பட்ட புகைப்படம் மற்றும் தேர்ந்தெடுக்கப்பட்ட ஸ்கேன் செய்யப்பட்ட கையொப்பம் பதிவேற்றப்படும்."
+
+ },
+
+ {
+
+  "text_code": "label_instructions_two",
+
+  "text_value": "படி 2 : பதிவேற்ற கையொப்பம்: 'கேலரி' பொத்தானைக் தேர்வு செய்வதன் மூலம், கேலரி திறக்கப்படும். மேலும் பதிவேற்றுவதற்கான கையொப்பத்தை நீங்கள் தேர்ந்தெடுக்கலாம். தேர்வு செய்தவுடன் அது கையொப்பப் பெட்டியில் காட்டப்படும்."
+
+ },
+
+ {
+
+  "text_code": "label_spec_ps",
+
+  "text_value": "புகைப்படம் மற்றும் கையொப்பத்தின் விவரக்குறிப்பு"
+
+ },
+
+ {
+
+  "text_code": "label_photo_dimensions",
+
+  "text_value": "1) புகைப்பட பரிமாணங்கள் - தானாக சரிசெய்யப்படும். 2) கையொப்ப அளவுகள் - அகலம் 256 பிக்சல்கள் x உயரம் 64 பிக்சல்கள் , அகலம் 1.4 \/3.5cm X உயரம் 0.44\/1.06cm (விருப்பம்). 3) இந்த கோப்புகளின் அளவு 10kb ~ 20kb வரை இருக்க வேண்டும். 4) அனுமதிக்கப்பட்ட கோப்பு வகைகள் - JPEG\/JPG\/jpeg\/jpg."
+
+ },
+
+ {
+
+  "text_code": "label_upload_clear_photo",
+
+  "text_value": "எச்சரிக்கை: உரிமத்தில் அச்சிடுவதற்குத் தேவையான தெளிவான புகைப்படம் மற்றும் கையொப்பத்தைப் பதிவேற்றவும். தோல்வியுற்றால், வட்டார போக்குவரத்து அலுவலக விண்ணப்பத்தை நிராகரிக்கலாம் மற்றும் ஒரு புதிய செயல்முறை தேவைப்படுகிறது."
+
+ },
+
+ {
+
+  "text_code": "label_app_photo",
+
+  "text_value": "விண்ணப்பதாரர் புகைப்படம்"
+
+ },
+
+ {
+
+  "text_code": "label_app_signature",
+
+  "text_value": "விண்ணப்பதாரர் கையொப்பம்"
+
+ },
+
+ {
+
+  "text_code": "label_avaialble",
+
+  "text_value": "கிடைக்கும்"
+
+ },
+
+ {
+
+  "text_code": "label_booked",
+
+  "text_value": "முன்பதிவு செய்யப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_holiday",
+
+  "text_value": "விடுமுறை"
+
+ },
+
+ {
+
+  "text_code": "label_yet_to_open",
+
+  "text_value": "இன்னும் திறக்கவில்லை"
+
+ },
+
+ {
+
+  "text_code": "label_sure_to_book_slot",
+
+  "text_value": "நீங்கள் நிச்சயமாக நியமிக்கப்பட்ட தேதியில் முன்பதிவு செய்கிறீர்களா"
+
+ },
+
+ {
+
+  "text_code": "label_slots_not_avl",
+
+  "text_value": "நியமிக்கப்பட்ட தேதி கிடைக்கவில்லை"
+
+ },
+
+ {
+
+  "text_code": "label_dl_Service_instered",
+
+  "text_value": "ஓட்டுநர் உரிமம்\/பழகுநர்ஓட்டுநர் உரிம  சேவை நியமன விவரங்கள் வெற்றிகரமாகச் உள்ளிடப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_app_booking_successfully",
+
+  "text_value": "அனுமதி திட்டமிடல் முடிந்தது"
+
+ },
+
+ {
+
+  "text_code": "label_app_date",
+
+  "text_value": "அனுமதி தேதி"
+
+ },
+
+ {
+
+  "text_code": "label_app_time",
+
+  "text_value": "அனுமதி நேரம்"
+
+ },
+
+ {
+
+  "text_code": "label_app_submitted_successfully",
+
+  "text_value": "உங்கள் விண்ணப்பம் வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "label_pdf_saved_in_download",
+
+  "text_value": "உங்கள் PDF கோப்பு பதிவிறக்கம் -> எம்பரிவகன் கோப்புறையில் சேமிக்கப்பட்டுள்ளது. PDF கோப்புகளைப் பார்க்க உங்கள் கைப்பேசியில் Adobe Reader நிறுவப்பட வேண்டும்."
+
+ },
+
+ {
+
+  "text_code": "label_no_app_avl_pdf",
+
+  "text_value": "pdf ஐப் பார்க்க எந்த விண்ணப்பமும் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "label_view_form_2",
+
+  "text_value": "படிவம் 2 பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_view_form_1",
+
+  "text_value": "படிவம் 1-A பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_view_forms",
+
+  "text_value": "படிவங்களைப் பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_view_fee_Receipt",
+
+  "text_value": "கட்டண இரசீதை பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_app_number_is",
+
+  "text_value": "உங்கள் விண்ணப்பம் வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது. தயவு செய்து விண்ணப்ப எண் மற்றும் ஒப்புகையை எதிர்கால குறிப்புக்காக உங்களுடன் வைத்திருக்கவும். உங்கள் விண்ணப்ப எண்:"
+
+ },
+
+ {
+
+  "text_code": "label_app_for",
+
+  "text_value": "விண்ணப்பம்"
+
+ },
+
+ {
+
+  "text_code": "label_app_for_two",
+
+  "text_value": "வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது. எதிர்கால குறிப்புக்காக விண்ணப்ப எண் மற்றும் ஒப்புகையை உங்களுடன் வைத்திருக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_app_for_three",
+
+  "text_value": "உங்கள் விண்ணப்ப எண்:"
+
+ },
+
+ {
+
+  "text_code": "label_app_for_four",
+
+  "text_value": "உங்கள் விண்ணப்பம் வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது. தயவு செய்து எதிர்கால குறிப்புக்காக உங்களுடன் ஒப்புதலை வைத்துக் கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "label_form_4",
+
+  "text_value": "படிவம் 4-A பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_ack_slip",
+
+  "text_value": "ஒப்புகை சீட்டு சேமிப்பில் வெற்றிகரமாக சேமிக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_form1_download",
+
+  "text_value": "படிவம் 1-A சேமிப்பகத்தில் வெற்றிகரமாகச் சேமிக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_form2_download",
+
+  "text_value": "படிவம் 2 சேமிப்பகத்தில் வெற்றிகரமாகச் சேமிக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_form4_download",
+
+  "text_value": "படிவம் 4-A சேமிப்பகத்தில் வெற்றிகரமாகச் சேமிக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "no_details",
+
+  "text_value": "விவரங்கள் எதுவும் கிடைக்கவில்லை."
+
+ },
+
+ {
+
+  "text_code": "select_rto",
+
+  "text_value": "தயவுசெய்து வட்டாரப் போக்குவரத்து அலுவலகத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "service_is_not_availaible",
+
+  "text_value": "சேவை தற்காலிகமாக கிடைக்கவில்லை. ,சிறிது நேரம் கழித்து முயற்சிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "plz_accept_term_conditions",
+
+  "text_value": "விதிமுறைகள் மற்றும் நிபந்தனைகளை ஏற்கவும்"
+
+ },
+
+ {
+
+  "text_code": "time_remaining",
+
+  "text_value": "மீதமுள்ள நேரம்"
+
+ },
+
+ {
+
+  "text_code": "otp_resent",
+
+  "text_value": "ஒருமுறை கடவுச் சொல் வெற்றிகரமாக மீண்டும் அனுப்பப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "dl_no",
+
+  "text_value": "ஓட்டுநர் உரிமம் எண்:"
+
+ },
+
+ {
+
+  "text_code": "select_app_cat",
+
+  "text_value": "விண்ணப்பதாரர் வகையைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "select_state",
+
+  "text_value": "தற்போதைய மாநிலைத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "select_district",
+
+  "text_value": "தற்போதைய மாவட்டத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "select_taluka",
+
+  "text_value": "தற்போதைய தாலுகாவைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "select_landmark",
+
+  "text_value": "தற்போதைய அடையாள குறியீட்டை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "select_pincode",
+
+  "text_value": "தற்போதைய அஞ்சல் குறியீட்டு எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "select_pin_code",
+
+  "text_value": "சரியான அஞ்சல் குறியீட்டு எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "select_pstate",
+
+  "text_value": "நிரந்தர மாநிலத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "select_pdistrict",
+
+  "text_value": "நிரந்தர மாவட்டத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "select_ptaluka",
+
+  "text_value": "நிரந்தர தாலுகாவைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "select_plandmark",
+
+  "text_value": "நிரந்தர அடையாள குறியீட்டை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "select_ppincode",
+
+  "text_value": "நிரந்தர அஞ்சல் குறியீட்டு எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "select_ppin_code",
+
+  "text_value": "நிரந்தர அஞ்சல் குறியீட்டு எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "current_add_details",
+
+  "text_value": "தற்போதைய முகவரி விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "permanent_add_details",
+
+  "text_value": "நிரந்தர முகவரி விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "no_taluka_found",
+
+  "text_value": "தேர்ந்தெடுக்கப்பட்ட மாவட்டத்திற்கு தாலுகா \/ வட்டாரம் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "no_vill_found",
+
+  "text_value": "தேர்ந்தெடுக்கப்பட்ட தாலுகா\/தொகுதிக்கு கிராமம்\/நகரம் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "x",
+
+  "text_value": "உங்கள் சரியான அவசர தொடர்பு எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "confirm_declaration",
+
+  "text_value": "அறிவிப்பை உறுதிப்படுத்தவும்."
+
+ },
+
+ {
+
+  "text_code": "disqualified_reason",
+
+  "text_value": "தகுதியற்ற காரணம் என்ன?"
+
+ },
+
+ {
+
+  "text_code": "barred_reason",
+
+  "text_value": "தடை செய்யப்பட்ட காரணம் என்ன?"
+
+ },
+
+ {
+
+  "text_code": "upload_file_types",
+
+  "text_value": "நீங்கள் JPEG, JPG அல்லது PDF கோப்புகளை மட்டுமே பதிவேற்ற முடியும். அதன் அதிகபட்ச கோப்பு அளவு 200 KB ஆகும்."
+
+ },
+
+ {
+
+  "text_code": "previous_date",
+
+  "text_value": "முந்தைய தேதியைத் தேர்ந்தெடுக்க முடியாது."
+
+ },
+
+ {
+
+  "text_code": "reg_authority",
+
+  "text_value": "பதிவு அதிகாரம் பெற்றவர் (குறியீடு)"
+
+ },
+
+ {
+
+  "text_code": "save_receipt",
+
+  "text_value": "கட்டண இரசீதைச் சேமிக்க விரும்புகிறீர்களா?"
+
+ },
+
+ {
+
+  "text_code": "download",
+
+  "text_value": "பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "view_slip",
+
+  "text_value": "அனுமதி முன்பதிவு சீட்டைப் பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "app_slip_saved",
+
+  "text_value": "அனுமதி முன்பதிவு இரசீது சேமிப்பில் வெற்றிகரமாகச் சேமிக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_challan_status",
+
+  "text_value": "செலுத்துச் சீட்டு நிலை"
+
+ },
+
+ {
+
+  "text_code": "label_challan_number",
+
+  "text_value": "செலுத்துச் சீட்டு எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_vehicle_number",
+
+  "text_value": "வாகன எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_number",
+
+  "text_value": "ஓட்டுநர் உரிம எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_my_vehicle_no",
+
+  "text_value": "எனது வாகனம்(கள்)"
+
+ },
+
+ {
+
+  "text_code": "label_challan_my_dl_number",
+
+  "text_value": "எனது ஓட்டுநர் உரிமம்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_vehicle_no",
+
+  "text_value": "வாகன எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_chassis_no",
+
+  "text_value": "அடிச்சட்ட எண். (கடைசி ஐந்து இலக்கங்களை உள்ளிடவும்)"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_chassis_no",
+
+  "text_value": "அடிச்சட்ட எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_engine_no",
+
+  "text_value": "என்சின் எண். (கடைசி ஐந்து இலக்கங்களை உள்ளிடவும்)"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_engine_no",
+
+  "text_value": "என்ஜின் எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_challan_no",
+
+  "text_value": "செலுத்துச் சீட்டு எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_vehicle_no",
+
+  "text_value": "வாகன எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_view_receipt",
+
+  "text_value": "இரசீதை பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_wait",
+
+  "text_value": "தயவுசெய்து காத்திருங்கள்..."
+
+ },
+
+ {
+
+  "text_code": "label_challan_get_details",
+
+  "text_value": "விவரங்களை பெறவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_no",
+
+  "text_value": "ஓட்டுநர் உரிமம் எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_dl_no",
+
+  "text_value": "ஓட்டுநர் உரிமம் எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_select_one_search_type",
+
+  "text_value": "ஒரு தேடல் வகையைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_enter_challan_no",
+
+  "text_value": "செலுத்துச் சீட்டு எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_first_two_char_as_state",
+
+  "text_value": "முதல் இரண்டு எழுத்துகளை மாநிலக் குறியீடாக உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_min_length_validation",
+
+  "text_value": "செலுத்துச் சீட்டு எண்ணில் குறைந்தபட்சம் 12 எழுத்துகளை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_max_length_validation",
+
+  "text_value": "செலுத்துச் சீட்டு எண்ணில் அதிகபட்சம் 30 எழுத்துகளை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_enter_vehicle_no",
+
+  "text_value": "வாகன எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_min_char_vehicle_no",
+
+  "text_value": "வாகன எண் குறைந்தபட்சம் 4 எழுத்துகளை அனுமதிக்கிறது."
+
+ },
+
+ {
+
+  "text_code": "label_challan_rc_validation",
+
+  "text_value": "வாகன எண்ணை உள்ளிடவும். சிறப்பு எழுத்துகள் இல்லாத குறைந்தபட்சம் 4  எழுத்துகள் மற்றும் அதிகபட்சம் 10 எழுத்துகள்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_invalid_vehicle_no",
+
+  "text_value": "தவறான வாகன எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_valid_chassis_no",
+
+  "text_value": "அடிச்சட்ட எண்ணின் சரியான கடைசி 5 இலக்கங்களை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_challan_valid_engine_no",
+
+  "text_value": "உங்கள் இன்ஜின் எண்ணின் கடைசி 5 இலக்கங்களை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_challan_valid_dl_no",
+
+  "text_value": "சரியான ஓட்டுநர் உரிம எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_challan_min_char_dl_validation",
+
+  "text_value": "ஓட்டுநர் உரிம எண்ணுக்கு குறைந்தது 10 எழுத்துகளை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "label_challan_ok_dialog_text",
+
+  "text_value": "சரி"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_dl_get_details",
+
+  "text_value": "விவரங்களைப் பெற ஒட்டுநர் உரிம எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_search",
+
+  "text_value": "தேடு"
+
+ },
+
+ {
+
+  "text_code": "label_challan_all",
+
+  "text_value": "அனைத்து"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pending",
+
+  "text_value": "நிலுவையில் உள்ளது"
+
+ },
+
+ {
+
+  "text_code": "label_challan_disposed",
+
+  "text_value": "தீர்வுசெய்யப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_challan_total",
+
+  "text_value": "மொத்த செலுத்துச்சீட்டு"
+
+ },
+
+ {
+
+  "text_code": "label_challan_not_found",
+
+  "text_value": "செலுத்துச் சீட்டு கிடைக்கவில்லை"
+
+ },
+
+ {
+
+  "text_code": "label_challan_totals",
+
+  "text_value": "மொத்த செலுத்து சீட்டு(கள்):"
+
+ },
+
+ {
+
+  "text_code": "label_challan_view_details",
+
+  "text_value": "விபரங்களை பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment",
+
+  "text_value": "பணம் செலுத்துதல்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_details",
+
+  "text_value": "செலுத்துச் சீட்டு விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_receipt",
+
+  "text_value": "இரசீது"
+
+ },
+
+ {
+
+  "text_code": "label_challan_detail",
+
+  "text_value": "செலுத்துச் சீட்டு விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_rc_number",
+
+  "text_value": "ஓட்டுநர் உரிமம் \/மோட்டார் வாகனத்தின் பதிவு சான்றிதழ் எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_state",
+
+  "text_value": "மாநிலம்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no",
+
+  "text_value": "செலுத்துச் சீட்டு எண்."
+
+ },
+
+ {
+
+  "text_code": "label_challan_date",
+
+  "text_value": "செலுத்துச் சீட்டு தேதி"
+
+ },
+
+ {
+
+  "text_code": "label_challan_amount",
+
+  "text_value": "தொகை"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_status",
+
+  "text_value": "கட்டண நிலை"
+
+ },
+
+ {
+
+  "text_code": "label_challan_download",
+
+  "text_value": "செலுத்துச் சீட்டைப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_download_receipt",
+
+  "text_value": "கட்டண ரசீதைப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_double_click_exit",
+
+  "text_value": "வெளியேற மீண்டும் தேர்வு செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_search",
+
+  "text_value": "செலுத்துச் சீட்டு கட்டணம்"
+
+ },
+
+ {
+
+  "text_code": "label_pay_your_challan",
+
+  "text_value": "உங்கள் செலுத்துச் சீட்டு தொகையை செலுத்துங்கள்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_transaction_status",
+
+  "text_value": "பரிவர்த்தனை நிலை"
+
+ },
+
+ {
+
+  "text_code": "label_challan_reprint_receipt",
+
+  "text_value": "மறுபதிப்பு இரசீது"
+
+ },
+
+ {
+
+  "text_code": "label_challan_verify_payment",
+
+  "text_value": "கட்டணத்தைச் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pay_now",
+
+  "text_value": "தறபொழுது செலுத்தவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pay_status",
+
+  "text_value": "நிலை"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pay_paid",
+
+  "text_value": "செலுத்தப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_verification",
+
+  "text_value": "கட்டண சரிபார்ப்பு செயல்பாட்டில் உள்ளது. சரி என்ற பொத்தானைக் தேர்வு செய்யவும்."
+
+ },
+
+ {
+
+  "text_code": "label_challan_send_to_court",
+
+  "text_value": " தரவை நீதிமன்றத்திற்கு அனுப்பவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_court_name",
+
+  "text_value": "நீதிமன்றத்தின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_court_add",
+
+  "text_value": "நீதிமன்ற முகவரி"
+
+ },
+
+ {
+
+  "text_code": "label_challan_send_to_court_on",
+
+  "text_value": "நீதிமன்றத்திற்கு அனுப்பப்பட்ட தேதி"
+
+ },
+
+ {
+
+  "text_code": "label_challan_virtual_court_link",
+
+  "text_value": "விரிச்சுவல் நீதிமன்றத்தில் நிலை (விரிச்சுவல் நீதிமன்றத்திற்கு அனுப்பப்பட்ட செலுத்துச் சீட்டுகளின் நிலையை அறிய, https:\/\/vcourts.gov.in ஐப் பார்வையிடவும்)."
+
+ },
+
+ {
+
+  "text_code": "label_challan_status_from_court",
+
+  "text_value": "விரிச்சுவல் நீதிமன்றத்தில் இருந்து நிலை"
+
+ },
+
+ {
+
+  "text_code": "label_challan_proceeding_data",
+
+  "text_value": "செயல்முறை தரவு"
+
+ },
+
+ {
+
+  "text_code": "label_challan_proceeding_date",
+
+  "text_value": "செயல்முறை தேதி"
+
+ },
+
+ {
+
+  "text_code": "label_challan_fine_imposed",
+
+  "text_value": "அபராதம் விதிக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_challan_party_name",
+
+  "text_value": "அமைப்பின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_contested_data",
+
+  "text_value": "சர்ச்கைக்குறிய தரவு"
+
+ },
+
+ {
+
+  "text_code": "label_challan_case_no",
+
+  "text_value": "வழக்கு எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_transfer_to_regular_court",
+
+  "text_value": "வழக்கமான நீதிமன்ற தரவுக்கு மாற்றப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_challan_ci_no",
+
+  "text_value": "சிஐ எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_court_number",
+
+  "text_value": "நீதிமன்ற எண்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_getting_details",
+
+  "text_value": "விவரங்களைப் பெறுவதற்கு"
+
+ },
+
+ {
+
+  "text_code": "label_challan_print",
+
+  "text_value": "செலுத்துச் சீட்டை அச்சிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_print_receipt",
+
+  "text_value": "இரசீது அச்சிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_is_pending",
+
+  "text_value": "இந்த செலுத்துச் சீட்டுக்கான கட்டணம் நிலுவையில் உள்ளது"
+
+ },
+
+ {
+
+  "text_code": "label_challan_verify_payment_status",
+
+  "text_value": "செலுத்துச் சீட்டு கட்டணத்தைச் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no_payment_trans_pending",
+
+  "text_value": "பணம் செலுத்தும் பரிவர்த்தனை எதுவும் நிலுவையில் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "label_verify_payment_status",
+
+  "text_value": "கட்டண நிலையைச் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_violator_name",
+
+  "text_value": "மீறுபவர் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "change_of_address_in_rc",
+
+  "text_value": "மோட்டார் வாகன பதிவு சான்றிதழில் முகவரியை மாற்றுவதற்கான விண்ணப்பம், விண்ணப்ப எண்ணுடன் வரைவில் வெற்றிகரமாக சேமிக்கப்பட்டது. xxxxxxx123"
+
+ },
+
+ {
+
+  "text_code": "no_forms_available",
+
+  "text_value": "பதிவிறக்க படிவங்கள் இல்லை."
+
+ },
+
+ {
+
+  "text_code": "download_form_22",
+
+  "text_value": "படிவம் 22 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_from_14",
+
+  "text_value": "படிவம் 14 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_form_26",
+
+  "text_value": "படிவம் 26 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_From_28",
+
+  "text_value": "படிவம் 28 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_form_29",
+
+  "text_value": "படிவம் 29 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_form_30",
+
+  "text_value": "படிவம் 30 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_form_31",
+
+  "text_value": "படிவம் 31 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_form_32",
+
+  "text_value": "படிவம் 32 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_from_33",
+
+  "text_value": "படிவம் 33 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_form_34",
+
+  "text_value": "படிவம் 34 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_form_35",
+
+  "text_value": "படிவம் 35 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_form_36",
+
+  "text_value": "படிவம் 36 ஐப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "vehicle_no_dlyyxx0000",
+
+  "text_value": "வாகன எண். (DLYYXX0000)"
+
+ },
+
+ {
+
+  "text_code": "view_vehicle_details",
+
+  "text_value": "வாகன விவரங்களைக் காண்க"
+
+ },
+
+ {
+
+  "text_code": "description",
+
+  "text_value": "விளக்கம்"
+
+ },
+
+ {
+
+  "text_code": "service_charges",
+
+  "text_value": "சேவை கட்டணம்"
+
+ },
+
+ {
+
+  "text_code": "fee_amount",
+
+  "text_value": "கட்டணத் தொகை"
+
+ },
+
+ {
+
+  "text_code": "fine_amount",
+
+  "text_value": "அபராத தொகை"
+
+ },
+
+ {
+
+  "text_code": "total_amount",
+
+  "text_value": "மொத்த தொகை"
+
+ },
+
+ {
+
+  "text_code": "new_current_address",
+
+  "text_value": "புதிய தற்போதைய முகவரி"
+
+ },
+
+ {
+
+  "text_code": "new_permanent_address",
+
+  "text_value": "புதிய நிரந்தர முகவரி"
+
+ },
+
+ {
+
+  "text_code": "skip",
+
+  "text_value": "தவிர்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "change_of_address_in_rc2",
+
+  "text_value": "மோட்டார் வாகனங்களின் பதிவுச் சான்றிதழில் முகவரி மாற்றம் செய்தல்"
+
+ },
+
+ {
+
+  "text_code": "existing_address",
+
+  "text_value": "ஏற்கனவே இருந்த முகவரி"
+
+ },
+
+ {
+
+  "text_code": "current_address",
+
+  "text_value": "தற்போதைய முகவரி"
+
+ },
+
+ {
+
+  "text_code": "permanent_address",
+
+  "text_value": "நிரந்தர முகவரி"
+
+ },
+
+ {
+
+  "text_code": "select_date",
+
+  "text_value": "தேதியைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "village_town_city",
+
+  "text_value": "கிராமம்\/நகரம்\/நகரம்"
+
+ },
+
+ {
+
+  "text_code": "landmark_police_station",
+
+  "text_value": "முக்கிய அடையாள குறியீடு\/காவல் நிலையம்"
+
+ },
+
+ {
+
+  "text_code": "same_as_current_address",
+
+  "text_value": "தற்போதைய முகவரி போலவே"
+
+ },
+
+ {
+
+  "text_code": "house_no_and_street_name",
+
+  "text_value": "வீட்டின் எண் மற்றும் தெரு பெயர்"
+
+ },
+
+ {
+
+  "text_code": "owner_details",
+
+  "text_value": "உரிமையாளர் விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "vehicle_details",
+
+  "text_value": "வாகன விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "relation",
+
+  "text_value": "மகன் \/ மகள் \/ மனைவி"
+
+ },
+
+ {
+
+  "text_code": "as_per_aadhar",
+
+  "text_value": "eKYC மக்கள்தொகை விவரங்கள் <font color=\"#008ed8\">(ஆதார் படி)"
+
+ },
+
+ {
+
+  "text_code": "maker_name",
+
+  "text_value": "தயாரிப்பாளர் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "maker_model",
+
+  "text_value": "மாதிரி (மாடல்)பெயர்"
+
+ },
+
+ {
+
+  "text_code": "registration_date",
+
+  "text_value": "பதிவு தேதி"
+
+ },
+
+ {
+
+  "text_code": "fuel_type",
+
+  "text_value": "எரிபொருள் வகை"
+
+ },
+
+ {
+
+  "text_code": "norms_description",
+
+  "text_value": "நெறிமுறைகளின் விளக்கம்"
+
+ },
+
+ {
+
+  "text_code": "fitness_valid_upto",
+
+  "text_value": "உடல் தகுதி தகுதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "tax_valid_upto",
+
+  "text_value": "வரி தகுதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "pucc_details",
+
+  "text_value": "மாசுக் கட்டுப்பாடு சான்றிதழ் (PUCC )விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "pucc_no",
+
+  "text_value": "மாசுக் கட்டுப்பாடு சான்றிதழ் (PUCC) எண்."
+
+ },
+
+ {
+
+  "text_code": "pucc_valid_upto",
+
+  "text_value": "மாசுக் கட்டுப்பாடு சான்றிதழ் தகுதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "insurance_details",
+
+  "text_value": "காப்பீட்டு விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "insurance_policy_no",
+
+  "text_value": "காப்பீட்டு பாலிசி எண்."
+
+ },
+
+ {
+
+  "text_code": "enter_insurance_policy_number",
+
+  "text_value": "காப்பீட்டு பாலிசி எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "insurance_company_name",
+
+  "text_value": "காப்பீட்டு நிறுவனத்தின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "insurance_company",
+
+  "text_value": "காப்பீட்டு நிறுவனம்"
+
+ },
+
+ {
+
+  "text_code": "insurance_valid_upto",
+
+  "text_value": "காப்பீடு தகுதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "financer_details",
+
+  "text_value": "நிதியாளர் விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "financed_from",
+
+  "text_value": "நிதி ஆதாரங்களின் தொடக்கத்தினை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "permit_details",
+
+  "text_value": "அனுமதி விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "permit_no",
+
+  "text_value": "அனுமதி எண்."
+
+ },
+
+ {
+
+  "text_code": "enter_permit_no",
+
+  "text_value": "அனுமதி எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "permit_type",
+
+  "text_value": "அனுமதி வகை"
+
+ },
+
+ {
+
+  "text_code": "enter_permit_type",
+
+  "text_value": "அனுமதி வகையை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "permit_issue_date",
+
+  "text_value": "அனுமதி வழங்கிய தேதியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "permit_valid_from",
+
+  "text_value": "அனுமதி தொடங்கும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "enter_permit_valid_from",
+
+  "text_value": "அனுமதி தொடங்கும் காலத்தினை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "permit_valid_upto",
+
+  "text_value": "அனுமதி தகுதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "national_permit_no",
+
+  "text_value": "தேசிய அனுமதி எண்."
+
+ },
+
+ {
+
+  "text_code": "national_permit_issued_by",
+
+  "text_value": "தேசிய அனுமதி வழங்கியவர்"
+
+ },
+
+ {
+
+  "text_code": "enter_permit_issued_by",
+
+  "text_value": "வழங்கிய அனுமதியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "national_permit_valid_upto",
+
+  "text_value": "தேசிய அனுமதி தகுதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "redirect_link_to_application_status",
+
+  "text_value": "உங்கள் விண்ணப்ப நிலையைச் சரிபார்க்க இங்கே தேர்வு செய்யவும்."
+
+ },
+
+ {
+
+  "text_code": "pay_tax",
+
+  "text_value": "வரி செலுத்தவும்"
+
+ },
+
+ {
+
+  "text_code": "enter_vehicle_no",
+
+  "text_value": "வாகன எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "my_vehicles",
+
+  "text_value": "எனது வாகனங்கள்"
+
+ },
+
+ {
+
+  "text_code": "other_new_vehicle",
+
+  "text_value": "புதிய வாகனத்தை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "vehicle_no",
+
+  "text_value": "வாகன எண்."
+
+ },
+
+ {
+
+  "text_code": "enter_rc_no_for_pending_transaction",
+
+  "text_value": "வாகன எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "enter_last_five_digits",
+
+  "text_value": "கடைசி ஐந்து இலக்கங்களை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "notes",
+
+  "text_value": "குறிப்பு :-"
+
+ },
+
+ {
+
+  "text_code": "vehicle_service",
+
+  "text_value": "வாகன சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "vehicle_number",
+
+  "text_value": "வாகன எண்."
+
+ },
+
+ {
+
+  "text_code": "please_enter_aadhaar",
+
+  "text_value": "உங்கள் ஆதார் அல்லது விஐடி(VID) (விர்ச்சுவல் முகவரி) உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "aadhar_no",
+
+  "text_value": "ஆதார் எண்."
+
+ },
+
+ {
+
+  "text_code": "vid",
+
+  "text_value": "விஐடி(VID)  (விர்ச்சுவல் முகவரி) "
+
+ },
+
+ {
+
+  "text_code": "enter_aadhaar_number",
+
+  "text_value": "ஆதார் எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "agree_with_aadhar_terms",
+
+  "text_value": "<font color=\"#008ed8\"><b><u>ஆதார் அடிப்படையிலான e-KYC சம்மதத்தைப்<\/u><\/b><\/font> படித்து ஒப்புக்கொண்டேன்"
+
+ },
+
+ {
+
+  "text_code": "resend_otp",
+
+  "text_value": "&#160; ஒருமுறை கடவுச் சொல்லை மீண்டும் அனுப்பவும்"
+
+ },
+
+ {
+
+  "text_code": "faceless_services",
+
+  "text_value": "குறிப்பிடப்பட்ட சேவைகள் நேரடி தொடர்பில்லாத சேவைகள். அவற்றிற்கு நீங்கள் வட்டார போக்குவரத்து அலுவலரைப் பார்க்க வேண்டிய அவசியமில்லை."
+
+ },
+
+ {
+
+  "text_code": "issue_of_duplicate_rc",
+
+  "text_value": "தற்காலிக மோட்டார் வாகனங்களின் பதிவுச் சான்றிதழ் வெளியீடு"
+
+ },
+
+ {
+
+  "text_code": "hypothecation_addition",
+
+  "text_value": "தவணைக் கொள்முதல் ஒப்பந்தம்"
+
+ },
+
+ {
+
+  "text_code": "hypothecation_termination",
+
+  "text_value": "தவணைக் கொள்முதல் இரத்து"
+
+ },
+
+ {
+
+  "text_code": "hypothecation_continuation",
+
+  "text_value": "தவணைக் கொள்முதல் தொடர்ச்சி"
+
+ },
+
+ {
+
+  "text_code": "no_objection_certificate_noc",
+
+  "text_value": "தடையில்லாச் சான்றிதழ் (என்ஓசி) (NOC)"
+
+ },
+
+ {
+
+  "text_code": "otp_verification",
+
+  "text_value": "ஒரு முறை கடவுச் சொல்லை சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "nex_parivahan",
+
+  "text_value": "அடுத்த இயக்கம் எம்பரிவாஹன்"
+
+ },
+
+ {
+
+  "text_code": "blood_group",
+
+  "text_value": "இரத்த வகை"
+
+ },
+
+ {
+
+  "text_code": "app_category",
+
+  "text_value": "விண்ணப்பதாரரின் வகை"
+
+ },
+
+ {
+
+  "text_code": "dl_validation_msg",
+
+  "text_value": "குறைந்தபட்சம் 10 மற்றும் அதிகபட்சம் 18 எழுத்துகளை உள்ளிடவும். ஹைபன்(-), முன்னோக்கி சாய்வு(\/) மற்றும் இடம் மட்டுமே அனுமதிக்கப்படும்"
+
+ },
+
+ {
+
+  "text_code": "resend_otp_enabled",
+
+  "text_value": "ஒரு முறை கடவுச் சொல்லை மீண்டும் அனுப்புவதற்கு இயக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "kindly_etner_correct_details",
+
+  "text_value": "தயவுசெய்து சரியான விவரங்களை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "please_enter_dl_details",
+
+  "text_value": "தயவுசெய்து ஓட்டுநர் உரிம எண் விவரங்களை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "please_enter_bd",
+
+  "text_value": "தயவுசெய்து பிறந்த தேதியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "update_Mobile_No",
+
+  "text_value": "கைப்பேசி எண்ணைப் புதுப்பிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "click_here",
+
+  "text_value": "இங்கே தேர்வு செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "to_view_the_list",
+
+  "text_value": "தடைசெய்யப்பட்ட நாடுகளின் பட்டியலைப் பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "Email_id",
+
+  "text_value": "மின்னஞ்சல் முகவரி"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_chassisNo_full",
+
+  "text_value": "அடிச்சட்ட எண். (முழுவதும் குறிப்பிடவும்)"
+
+ },
+
+ {
+
+  "text_code": "no_input_required",
+
+  "text_value": "இந்த சேவைக்கு உள்ளீடு தேவையில்லை; அது வெற்றிகரமாக ஏற்றுக்கொள்ளப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "i_here_by_declare",
+
+  "text_value": "எனக்கு தெரிந்த வரையில், மேலே கொடுக்கப்பட்ட விவரங்கள் உண்மையானவை என்று இதன் மூலம் தெரிவிக்கின்றேன். மேலே கூறப்பட்ட உண்மைகளும் சமர்ப்பிக்கப்பட்ட தகவல்களும் எனது அறிவு மற்றும் நம்பிக்கைக்கு எட்டிய வரையில் உண்மையானவை  என்று நான் உறுதியளிக்கிறேன்."
+
+ },
+
+ {
+
+  "text_code": "detail_duplicate_dl",
+
+  "text_value": "நகல் ஓட்டுநர் உரிம எண்ணிற்கான விவரம்"
+
+ },
+
+ {
+
+  "text_code": "submit_request_to",
+
+  "text_value": "கோரிக்கையை சமர்ப்பிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_engineNo_full",
+
+  "text_value": "என்சின் எண்.(முழுவதும் குறிப்பிடவும்)"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_registration_upto_date",
+
+  "text_value": "பதிவு இந்நாள் வரை"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_enter_engine_no",
+
+  "text_value": "என்ஜின் எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_enter_application_number",
+
+  "text_value": "விண்ணப்ப எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_registration_number",
+
+  "text_value": "பதிவு எண்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Verify_Payment_Status",
+
+  "text_value": "கட்டண நிலையைச் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Dl_Application_Status",
+
+  "text_value": "ஓட்டுநர் உரிமத்திற்கான விண்ணப்ப நிலை"
+
+ },
+
+ {
+
+  "text_code": "lbl_Payment_Receipt",
+
+  "text_value": "கட்டண சீட்டு"
+
+ },
+
+ {
+
+  "text_code": "lbl_Payment_Success",
+
+  "text_value": "பணம் செலுத்துவதில் வெற்றி"
+
+ },
+
+ {
+
+  "text_code": "btn_Download_Receipt",
+
+  "text_value": "இரசீதைப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "doc_documents",
+
+  "text_value": "ஆவணங்கள்"
+
+ },
+
+ {
+
+  "text_code": "select_documents",
+
+  "text_value": "ஆவணங்களைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "issuer",
+
+  "text_value": "வழங்குபவர் பதவி"
+
+ },
+
+ {
+
+  "text_code": "doc_number",
+
+  "text_value": "ஆவண எண்"
+
+ },
+
+ {
+
+  "text_code": "con_number",
+
+  "text_value": "தொடர்பு எண்"
+
+ },
+
+ {
+
+  "text_code": "d_i_d",
+
+  "text_value": "ஆவணம் வெளியிடப்பட்ட தேதி"
+
+ },
+
+ {
+
+  "text_code": "select_doc_type",
+
+  "text_value": "ஆவண வகையைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_State_Name",
+
+  "text_value": "மாநில பெயர்"
+
+ },
+
+ {
+
+  "text_code": "lbl_dob",
+
+  "text_value": "பிறந்த தேதி"
+
+ },
+
+ {
+
+  "text_code": "lbl_Document_Upload",
+
+  "text_value": "ஆவணப் பதிவேற்றம்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Appointment",
+
+  "text_value": "முன்பதிவு"
+
+ },
+
+ {
+
+  "text_code": "lbl_Book_Appointment",
+
+  "text_value": "புத்தக நியமனம்"
+
+ },
+
+ {
+
+  "text_code": "enter_valid_otp",
+
+  "text_value": "சரியான ஒரு முறை கடவுச்சொல்லை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "enter_otp",
+
+  "text_value": "ஒரு முறை கடவுச் சொல்லை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "app_red",
+
+  "text_value": "கைப்பேசி எண் வெற்றிகரமாக புதுப்பிக்கப்பட்டது. செயலி  உங்களை டாஷ்போர்டுக்கு அழைத்துச் செல்கிறது."
+
+ },
+
+ {
+
+  "text_code": "View_Forms",
+
+  "text_value": "படிவங்களைப் பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_name_as_per_aadhaar",
+
+  "text_value": "பெயரை உள்ளிடவும் (ஆதார் படி)"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_mobileNo_as_per_aadhaar",
+
+  "text_value": "சேவை திரும்பப் பெறுவதற்கான உங்கள் கோரிக்கை ஏற்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "enter_New_Mobile_No",
+
+  "text_value": "புதிய கைபேசி எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "ekyc_terms_condition",
+
+  "text_value": "ஆதார் அடிப்படையிலான e-KYC ஒப்புதலைப் படித்து ஒப்புக்கொள்கிறேன்."
+
+ },
+
+ {
+
+  "text_code": "lbl_View_Form",
+
+  "text_value": "படிவத்தைப் பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Receipt_No",
+
+  "text_value": "இரசீது எண்."
+
+ },
+
+ {
+
+  "text_code": "btn_Download_Fee_Receipt",
+
+  "text_value": "கட்டண இரசீதைப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Appointment_Slip_No",
+
+  "text_value": "முன்பதிவு அனுமதிக்கப்பட்ட (Appointment) சீட்டு எண்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_Appointment_Slip_No",
+
+  "text_value": "முன்பதிவு அனுமதிக்கப்பட்ட (Appointment) சீட்டு எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "btn_Download_Appointment_Slip",
+
+  "text_value": "முன்பதிவு அனுமதிக்கப்பட்ட (Appointment) சீட்டைப் பதிவிறக்கவும்+"
+
+ },
+
+ {
+
+  "text_code": "lbl_available_slot",
+
+  "text_value": "அலுவலகத்திற்கு வருவதற்கு அனுமதி முன்பதிவு செய்ய உங்களுக்கு ஏதுவான நேரத்தை தேர்ந்தெடுக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "lbl_no_slot_available_msg",
+
+  "text_value": "தேர்ந்தெடுக்கப்பட்ட தேதியில் அலுவலகத்திற்கு வருவதற்கான நேரங்கள் (slots) எதுவும் இல்லை. எனில், வட்டாரப் போக்குவரத்து அலுவலரைத் தொடர்பு கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "btn_Update",
+
+  "text_value": "புதுப்பிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Hypothecation_Details",
+
+  "text_value": "தவணைக் கொள்முதல் விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Continuation_of_hypothecation",
+
+  "text_value": "தவணைக் கொள்முதல் தொடர்ச்சி"
+
+ },
+
+ {
+
+  "text_code": "lbl_Termination_of_hypothecation",
+
+  "text_value": "தவணைக் கொள்முதல் இரத்து"
+
+ },
+
+ {
+
+  "text_code": "lbl_NOC_Vehicle_Details",
+
+  "text_value": "தடையில்லாச் சான்றிதழ் பெறும் வாகனங்களின் விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Reason_for_NOC",
+
+  "text_value": "தடையில்லாச் சான்றிதழ் எடுப்பதற்கான காரணம்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Authority_To",
+
+  "text_value": "அதிகாரம் வழங்குபவர்"
+
+ },
+
+ {
+
+  "text_code": "lbl_NCRB_clearance_No.",
+
+  "text_value": "தேசிய குற்ற ஆவணக் காப்பகத்தின் அனுமதி எண்."
+
+ },
+
+ {
+
+  "text_code": "lbl_Transferee_Name",
+
+  "text_value": "மாற்றப்பட்டவரின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Type",
+
+  "text_value": "வகை"
+
+ },
+
+ {
+
+  "text_code": "lbl_Financer_Name",
+
+  "text_value": "நிதியாளர் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Financer_Address",
+
+  "text_value": "நிதியாளர் முகவரி"
+
+ },
+
+ {
+
+  "text_code": "lbl_Finance_From_Date",
+
+  "text_value": "நிதி தொடங்கும் தேதி"
+
+ },
+
+ {
+
+  "text_code": "lbl_Finance_Upto_Date",
+
+  "text_value": "நிதி தேதி வரை"
+
+ },
+
+ {
+
+  "text_code": "btn_Submit_Request",
+
+  "text_value": "கோரிக்கையை சமர்ப்பிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Fill_detail",
+
+  "text_value": "கீழே தேவையான புலங்களை நிரப்பவும்."
+
+ },
+
+ {
+
+  "text_code": "lbl_Remarks",
+
+  "text_value": "கருத்துக்கள்"
+
+ },
+
+ {
+
+  "text_code": "lbl_FIR_No_Police_Report_No",
+
+  "text_value": "முதல் தகவல் அறிக்கை (FIR) எண்.\/போலீஸ் அறிக்கை எண்."
+
+ },
+
+ {
+
+  "text_code": "lbl_FIR_Date",
+
+  "text_value": "முதல் தகவல் அறிக்கை தேதி"
+
+ },
+
+ {
+
+  "text_code": "lbl_Police_Station",
+
+  "text_value": "காவல் நிலையம்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Hypothecation_Addition",
+
+  "text_value": "தவணைக் கொள்முதல் ஒப்பந்தம்(HPA)"
+
+ },
+
+ {
+
+  "text_code": "lbl_Hypothecation_Addition_Details",
+
+  "text_value": "தவணைக் கொள்முதல் சேர்த்தல் விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_Finance_From_Date",
+
+  "text_value": "நிதி தொடங்கிய தேதியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_pincode",
+
+  "text_value": "அஞ்சல் குறியீட்டை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_Landmark_Police_station",
+
+  "text_value": "முக்கிய அடையாள குறியீடு\/காவல் நிலையத்தை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_Village_Town_City",
+
+  "text_value": "கிராமம்\/நகரம்\/நகரத்தை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_House_no",
+
+  "text_value": "வீட்டின் எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "share",
+
+  "text_value": "பகிரவும்"
+
+ },
+
+ {
+
+  "text_code": "My_Virtual_DL",
+
+  "text_value": "எனது விர்ச்சுவல் ஓட்டுநர் உரிமம்"
+
+ },
+
+ {
+
+  "text_code": "My_Virtual_RC",
+
+  "text_value": "எனது விர்ச்சுவல் ஆர்சி"
+
+ },
+
+ {
+
+  "text_code": "police_Station",
+
+  "text_value": "காவல் நிலையம்"
+
+ },
+
+ {
+
+  "text_code": "authority_sign",
+
+  "text_value": "வழங்கும் அதிகாரம் பெற்றவரின் கையொப்பம்"
+
+ },
+
+ {
+
+  "text_code": "aadhaarNo",
+
+  "text_value": "ஆதார் எண்"
+
+ },
+
+ {
+
+  "text_code": "address",
+
+  "text_value": "முகவரி"
+
+ },
+
+ {
+
+  "text_code": "validity",
+
+  "text_value": "தகுதியாகும் "
+
+ },
+
+ {
+
+  "text_code": "validity_nt",
+
+  "text_value": "தகதியாகும் தன்மை (NT)"
+
+ },
+
+ {
+
+  "text_code": "indian_lic",
+
+  "text_value": "இந்திய யூனியன் ஓட்டுநர் உரிமம்"
+
+ },
+
+ {
+
+  "text_code": "v_dl_l",
+
+  "text_value": "விரிச்சுவல் ஓட்டுநர் உரிமம்(கள்)"
+
+ },
+
+ {
+
+  "text_code": "Licensing_authority",
+
+  "text_value": "உரிமம் வழங்கும் அதிகாரி"
+
+ },
+
+ {
+
+  "text_code": "vehicle_impound",
+
+  "text_value": "வாகனம் பறிமுதல்"
+
+ },
+
+ {
+
+  "text_code": "dl_search_txt",
+
+  "text_value": "ஓட்டுநர் உரிமம் தேடல்"
+
+ },
+
+ {
+
+  "text_code": "view_alert",
+
+  "text_value": "எச்சரிக்கை"
+
+ },
+
+ {
+
+  "text_code": "create_a_virtual_dl",
+
+  "text_value": "விரிச்சுவல் ஓட்டுநர் உரிமத்தினை உருவாக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "recent_challan",
+
+  "text_value": "சமீபத்திய செலுத்துச் சீட்டு"
+
+ },
+
+ {
+
+  "text_code": "driving_licence_impound",
+
+  "text_value": "ஓட்டுநர் உரிமம் பறிமுதல் "
+
+ },
+
+ {
+
+  "text_code": "tap_notify",
+
+  "text_value": "தகுதியாகும் காலம் முடிவடைவதற்கு 30 நாட்களுக்கு முன்பு உங்களுக்கு அறிவிப்போம்."
+
+ },
+
+ {
+
+  "text_code": "tap_to_check",
+
+  "text_value": "ஓட்டுநர் உரிமம் பறிமுதல் மற்றும் கைப்பற்றப்பட்ட ஆவணத்தின் நிலையைச் சரிபார்க்க அழுத்தவும்."
+
+ },
+
+ {
+
+  "text_code": "valid_till_trans",
+
+  "text_value": "உரிமம் தகுதியாகும் காலம்(போக்குவரத்து)"
+
+ },
+
+ {
+
+  "text_code": "valid_till",
+
+  "text_value": "தகதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "label_challan_owner_name",
+
+  "text_value": "உரிமையாளரின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "last_update",
+
+  "text_value": "கடைசியாக புதுப்பிக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "virtual_dl",
+
+  "text_value": "விரிச்சுவல் ஓட்டுநர் உரிமம்"
+
+ },
+
+ {
+
+  "text_code": "v_d_l_c",
+
+  "text_value": "விரிச்சுவல் ஓட்டுநர் உரிமச் சான்றிதழ்"
+
+ },
+
+ {
+
+  "text_code": "clear_all",
+
+  "text_value": "அனைத்தையும் அழிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "recent_search",
+
+  "text_value": "சமீபத்திய தேடல்"
+
+ },
+
+ {
+
+  "text_code": "create_v_dl",
+
+  "text_value": "விரிச்சுவல் ஓட்டுநர் உரிமத்தை உருவாக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "not_create_v_dl",
+
+  "text_value": "நீங்கள் ஒரு விரிச்சுவல் ஓட்டுநர் உரிமத்தினை உருவாக்கவில்லை."
+
+ },
+
+ {
+
+  "text_code": "tr_valid",
+
+  "text_value": "போக்குவரத்து வாகனங்கள் ஓட்டுவதற்கு தகுதியாகும் காலம்"
+
+ },
+
+ {
+
+  "text_code": "label_view_challan",
+
+  "text_value": "சலனைக் காண்க"
+
+ },
+
+ {
+
+  "text_code": "add_to_dash",
+
+  "text_value": "விர்ச்சுவல் ஓட்டுநர் உரிமத்திற்காக டாஷ்போர்டில் சேர்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "registering_auth_title",
+
+  "text_value": "உரிமம் வழங்கும் ஆணையம் (குறியீடு)"
+
+ },
+
+ {
+
+  "text_code": "registeringAuthTitle",
+
+  "text_value": "உரிமம் வழங்கும் ஆணையம்"
+
+ },
+
+ {
+
+  "text_code": "makerTitle_t",
+
+  "text_value": "உரிமம் தகுதியாகும் காலம் (போக்குவரத்து)"
+
+ },
+
+ {
+
+  "text_code": "makerTitle",
+
+  "text_value": "உரிமம் தகுதியாகும் காலம் (போக்குவரத்து அல்லாத)"
+
+ },
+
+ {
+
+  "text_code": "issue_date",
+
+  "text_value": "வழங்கப்படும் தேதி"
+
+ },
+
+ {
+
+  "text_code": "vehicle_class",
+
+  "text_value": "வாகன வகுப்பு"
+
+ },
+
+ {
+
+  "text_code": "holder_name",
+
+  "text_value": "ஓட்டுநர் உரிம எண் வைத்திருப்பவரின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "dl_number",
+
+  "text_value": "ஓட்டுநர் உரிம எண்"
+
+ },
+
+ {
+
+  "text_code": "dl_dashboard",
+
+  "text_value": "ஓட்டுநர் உரிமத்திற்கான டாஷ்போர்டு"
+
+ },
+
+ {
+
+  "text_code": "rc_dashboard",
+
+  "text_value": "மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழுக்கான டாஷ்போர்டு"
+
+ },
+
+ {
+
+  "text_code": "trans_services",
+
+  "text_value": "போக்குவரத்து சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "my_docs",
+
+  "text_value": "எனது ஆவணங்கள்"
+
+ },
+
+ {
+
+  "text_code": "welcome",
+
+  "text_value": "வரவேற்பு"
+
+ },
+
+ {
+
+  "text_code": "txt_md",
+
+  "text_value": "எனது பரிவர்த்தனைகள்"
+
+ },
+
+ {
+
+  "text_code": "txt_cs",
+
+  "text_value": "விரிச்சுவல் ஆவணங்கள்"
+
+ },
+
+ {
+
+  "text_code": "inf_Serv",
+
+  "text_value": "தகவல் சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "txt_is",
+
+  "text_value": "தகவல் சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "no_doc",
+
+  "text_value": "ஆவணங்கள் எதுவும் கிடைக்கவில்லை"
+
+ },
+
+ {
+
+  "text_code": "avail_soon",
+
+  "text_value": "கூடிய விரைவில் கிடைக்கும்"
+
+ },
+
+ {
+
+  "text_code": "documents",
+
+  "text_value": "ஆவணங்கள்"
+
+ },
+
+ {
+
+  "text_code": "avail_service_for_states",
+
+  "text_value": "மாநிலங்களுக்கு கிடைக்கும் சேவைகள்"
+
+ },
+
+ {
+
+  "text_code": "my_profile",
+
+  "text_value": "என் சுயவிவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "near_by",
+
+  "text_value": "அருகில்"
+
+ },
+
+ {
+
+  "text_code": "log_out",
+
+  "text_value": "வெளியேறவும்"
+
+ },
+
+ {
+
+  "text_code": "about_nexgen",
+
+  "text_value": "அடுத்த இயக்கத்தைப் பற்றி"
+
+ },
+
+ {
+
+  "text_code": "rc_perticular",
+
+  "text_value": "மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழுக்கான விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "Hypothetication_endorsement",
+
+  "text_value": "தவணைக் கொள்முதல் மேற்குறிப்பு செய்தல்"
+
+ },
+
+ {
+
+  "text_code": "advisory",
+
+  "text_value": "ஆலோசனை"
+
+ },
+
+ {
+
+  "text_code": "Draft_Notifications",
+
+  "text_value": "வரைவு அறிவிப்புகள்"
+
+ },
+
+ {
+
+  "text_code": "ALL_FORMS",
+
+  "text_value": "அனைத்து படிவங்களும்"
+
+ },
+
+ {
+
+  "text_code": "motor_vehicle_dealers",
+
+  "text_value": "மோட்டார் வாகன வாடிக்கையாளர்கள்"
+
+ },
+
+ {
+
+  "text_code": "permit",
+
+  "text_value": "அனுமதி"
+
+ },
+
+ {
+
+  "text_code": "Addition_of_Class",
+
+  "text_value": "வகையினை சேர்த்தல்"
+
+ },
+
+ {
+
+  "text_code": "vehicle_registration",
+
+  "text_value": "வாகன பதிவு"
+
+ },
+
+ {
+
+  "text_code": "vehicle_details",
+
+  "text_value": "வாகன விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "About_Permit",
+
+  "text_value": "அனுமதி பற்றி"
+
+ },
+
+ {
+
+  "text_code": "Act_Rules_Policies",
+
+  "text_value": "சட்டம், விதிகள் & கொள்கைகள்"
+
+ },
+
+ {
+
+  "text_code": "Fees_User_Charges",
+
+  "text_value": "கட்டணம் & பயனர் கட்டணங்கள்"
+
+ },
+
+ {
+
+  "text_code": "manual",
+
+  "text_value": "கையேடு"
+
+ },
+
+ {
+
+  "text_code": "faq_text",
+
+  "text_value": "அடிக்கடி கேட்கப்படும் கேள்விகள்"
+
+ },
+
+ {
+
+  "text_code": "License_Related_Fees_and_Charges",
+
+  "text_value": "உரிமம் தொடர்பான கட்டணங்கள் மற்றும் செலவுகள்"
+
+ },
+
+ {
+
+  "text_code": "download_forms",
+
+  "text_value": "படிவங்களைப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "receipt_date",
+
+  "text_value": "இரசீது தேதி"
+
+ },
+
+ {
+
+  "text_code": "delete",
+
+  "text_value": "நீக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "issue_of_noc",
+
+  "text_value": "தடையில்லாச் சான்றிதழ் வழங்குதல்"
+
+ },
+
+ {
+
+  "text_code": "paymentDate",
+
+  "text_value": "கட்டண தேதி"
+
+ },
+
+ {
+
+  "text_code": "label_challan_state",
+
+  "text_value": "செலுத்துச் சீட்டின் நிலை"
+
+ },
+
+ {
+
+  "text_code": "help",
+
+  "text_value": "உதவி"
+
+ },
+
+ {
+
+  "text_code": "Challan_Transactions",
+
+  "text_value": "செலுத்துச் சீட்டு பரிவர்த்தனைகள்"
+
+ },
+
+ {
+
+  "text_code": "Vehicle_Transactions",
+
+  "text_value": "வாகன பரிவர்த்தனைகள்"
+
+ },
+
+ {
+
+  "text_code": "Driving_Licence_Transactions",
+
+  "text_value": "ஓட்டுநர் உரிம பரிவர்த்தனைகள்"
+
+ },
+
+ {
+
+  "text_code": "Driving_Licence_Search_History",
+
+  "text_value": "ஓட்டுநர் உரிமம் தேடல் வரலாறு"
+
+ },
+
+ {
+
+  "text_code": "Vehicle_Search_History",
+
+  "text_value": "வாகனத் தேடல் வரலாறு"
+
+ },
+
+ {
+
+  "text_code": "Emergency_Service",
+
+  "text_value": "அவசர சேவை"
+
+ },
+
+ {
+
+  "text_code": "create_ep",
+
+  "text_value": "அவசர சுயவிவரத்தை உருவாக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "quick_access",
+
+  "text_value": "அவசரநிலையின் போது விரைவாக அணுகவும், அவசரகாலத் தொடர்பைச் சேர்க்கவும்."
+
+ },
+
+ {
+
+  "text_code": "Manage_Contact",
+
+  "text_value": "தொடர்பை நிர்வகிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "Call_Ambulance",
+
+  "text_value": "அவசர ஊர்தியை அழைக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "tap_102",
+
+  "text_value": "102ஐ அழைக்க இங்கே அழுத்தவும்"
+
+ },
+
+ {
+
+  "text_code": "tap_contacts",
+
+  "text_value": "தொடர்புகளுக்குத் தெரிவிக்க அழுத்தவும்"
+
+ },
+
+ {
+
+  "text_code": "Emergency_Contact",
+
+  "text_value": "அவசர தொடர்பு"
+
+ },
+
+ {
+
+  "text_code": "Add_Alarm",
+
+  "text_value": "அலாரத்தைச் சேர்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "manage_contact",
+
+  "text_value": "உங்கள் அவசர தொடர்புகளை நிர்வகிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "add_emergency_contact",
+
+  "text_value": "அவசரத் தொடர்பைச் சேர்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "i_can_help",
+
+  "text_value": "முக்கியமான தருணங்களில் யாரையாவது தொடர்பு கொள்ள எனக்கு உதவ முடியும். யாரையாவது சேர்க்க, மேலே சென்று (+) பொத்தானைத் அழுத்தவும்."
+
+ },
+
+ {
+
+  "text_code": "dl_suss_updated",
+
+  "text_value": "ஓட்டுநர் உரிமம் வெற்றிகரமாக புதுப்பிக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "unable_dlt_rc",
+
+  "text_value": "விர்ச்சுவல் மோட்டார் வாகன பதிவினை நீக்க முடியாவிட்டால், சிறிது நேரம் கழித்து மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "unable_dlt_dl",
+
+  "text_value": "விர்ச்சுவல் ஓட்டுநர் உரிமத்தை நீக்க முடியாவிட்டால், பிறகு முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "virtual_Device",
+
+  "text_value": "இச்சாதனம் விரிச்சுவல் என்று தெரிகிறது. உண்மையான சாதனத்துடன் தொடரவும்."
+
+ },
+
+ {
+
+  "text_code": "rc_deleted",
+
+  "text_value": "விர்ச்சுவல் மோட்டார் வாகனத்தின் பதிவு வெற்றிகரமாக நீக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "enter_mpin",
+
+  "text_value": "நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "enter_valid_mpin",
+
+  "text_value": "சரியான நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "register_app",
+
+  "text_value": "பயனர் அடுத்த இயக்கத்தினை எம்பரிவாகனில் வெற்றிகரமாக பதிவுசெய்துள்ளார்."
+
+ },
+
+ {
+
+  "text_code": "dl_created",
+
+  "text_value": "விர்ச்சுவல் ஓட்டுநர் உரிமம் வெற்றிகரமாக உருவாக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "dl_updated",
+
+  "text_value": "விர்ச்சுவல் ஓட்டுநர் உரிமம் வெற்றிகரமாக புதுப்பிக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "unable_to_add_rc",
+
+  "text_value": "விர்ச்சுவல் மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழை சேர்க்க முடியாவிட்டால், பிறகு முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "unable_to_add_dl",
+
+  "text_value": "வீரிச்சுவல் ஓட்டுநர் உரிமத்தை உருவாக்க முடியவில்லை; தயவுசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "vehicle_Added",
+
+  "text_value": "எனது வாகனம் வெற்றிகரமாக சேர்க்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "unable_to_Add_vehicle",
+
+  "text_value": "வாகனத்தைச் சேர்க்க முடியாவிட்டால், பிறகு முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "virtualrc_created",
+
+  "text_value": "விர்ச்சுவல் மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழ் வெற்றிகரமாக உருவாக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "virtualrc_updated",
+
+  "text_value": "விர்ச்சுவல் மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழ் வெற்றிகரமாக புதுப்பிக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "virtualdl_dltd",
+
+  "text_value": "விர்ச்சுவல் ஓட்டுநர் உரிமம் வெற்றிகரமாக நீக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "unable_to_crate_virtual_rc",
+
+  "text_value": "விரிச்சுவல் மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழை உருவாக்க முடியவில்லை. பிறகு முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "no_virtual_rc",
+
+  "text_value": "உங்கள் கணக்கிற்கு விர்ச்சுவல் மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழ் எதுவும் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "no_shared_rc_account",
+
+  "text_value": "உங்கள் கணக்கிற்கு பகிரப்பட்ட மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழ் எதுவும் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "no_shared_rc",
+
+  "text_value": "பகிரப்பட்ட மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழ் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "number_mparivahan",
+
+  "text_value": "இந்த மொபைல் எண் Nextgen mParivahan இல் பதிவு செய்யப்படவில்லை"
+
+ },
+
+ {
+
+  "text_code": "no_rcv_rc_acc",
+
+  "text_value": "உங்கள் கணக்கில் பெறப்பட்ட மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழ்கள்  எதுவும் இல்லை."
+
+ },
+
+ {
+
+  "text_code": "no_rcv_rc",
+
+  "text_value": "பெறப்பட்ட மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழ் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "share_rc_deleted",
+
+  "text_value": "பகிரப்பட்ட மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழ் வெற்றிகரமாக நீக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "rcv_rc_deleted",
+
+  "text_value": "பெறப்பட்ட மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழ் வெற்றிகரமாக நீக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "unable_share_rc_deleted",
+
+  "text_value": "பகிரப்பட்ட மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழை நீக்க முடியவில்லை, சிறிது நேரம் கழித்து முயற்சிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "unable_rcv_rc_deleted",
+
+  "text_value": "பெறப்பட்ட மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழை நீக்க முடியவில்லை, சிறிது நேரம் கழித்து முயற்சிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "unable_update_rc",
+
+  "text_value": "விரிச்சுவல் மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழைப் புதுப்பிக்க முடியவில்லை, சிறிது நேரம் கழித்து முயற்சிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "unable_update_dl",
+
+  "text_value": "விர்ச்சுவல் ஓட்டுநர் உரிமத்தைப் புதுப்பிக்க முடியவில்லை, சிறிது நேரம் கழித்து முயற்சிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "no_virtual_dl_found",
+
+  "text_value": "விரிச்சுவல் ஓட்டுநர் உரிமம் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "no_virtual_dl_found_acc",
+
+  "text_value": "உங்கள் கணக்கிற்கு விர்ச்சுவல் ஓட்டுநர் உரிமம் எதுவும் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "please_enter_valid_dob",
+
+  "text_value": "சரியான பிறந்த தேதியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "va_updated",
+
+  "text_value": "வாகன எச்சரிக்கை வெற்றிகரமாக புதுப்பிக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "unable_va_updated",
+
+  "text_value": "வாகன எச்சரிக்கையைப் புதுப்பிக்க முடியவில்லை; தயவுசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "follwoing_Services_allowed",
+
+  "text_value": "உங்கள் தற்போதைய நிலைக்கு பின்வரும் சேவைகள் அனுமதிக்கப்படுகின்றன:"
+
+ },
+
+ {
+
+  "text_code": "no_rc_search_history",
+
+  "text_value": "உங்கள் கணக்கிற்கான தேடல் வரலாறு எதுவும் இல்லை."
+
+ },
+
+ {
+
+  "text_code": "no_trans_history",
+
+  "text_value": "உங்கள் கணக்கிற்கான பரிவர்த்தனைகள் எதுவும் இல்லை."
+
+ },
+
+ {
+
+  "text_code": "refresh",
+
+  "text_value": "புதுப்பிப்பு."
+
+ },
+
+ {
+
+  "text_code": "sure_to_dlt",
+
+  "text_value": "இதை நீக்க வேண்டும் என்பதில் உறுதியாக இருக்கிறீர்களா?"
+
+ },
+
+ {
+
+  "text_code": "view_profile",
+
+  "text_value": "சுயவிவரம் காணவும்"
+
+ },
+
+ {
+
+  "text_code": "edit_profile",
+
+  "text_value": "சுயவிவரத்தைத் திருத்தவும்"
+
+ },
+
+ {
+
+  "text_code": "update_profile",
+
+  "text_value": "சுயவிவரத்தைப் புதுப்பிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "valid_name",
+
+  "text_value": "சரியான பெயரை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "enter_email",
+
+  "text_value": "மின்னஞ்சல் முகவரியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "profile_updated",
+
+  "text_value": "உங்கள் சுயவிவரம் வெற்றிகரமாக புதுப்பிக்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "view_map",
+
+  "text_value": "வரைபடத்தைப் பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "tvPollutionChecking",
+
+  "text_value": "அருகிலுள்ள மாசு சோதனை மையம்"
+
+ },
+
+ {
+
+  "text_code": "tvFuelPump",
+
+  "text_value": "அருகிலுள்ள எரிபொருள் பம்ப்"
+
+ },
+
+ {
+
+  "text_code": "tvHospital",
+
+  "text_value": "அருகிலுள்ள மருத்துவமனை"
+
+ },
+
+ {
+
+  "text_code": "tvRto",
+
+  "text_value": "அருகில் உள்ள வட்டார போக்குவரத்து அலுவலகம்"
+
+ },
+
+ {
+
+  "text_code": "change_mpain",
+
+  "text_value": "நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை மாற்றவும்"
+
+ },
+
+ {
+
+  "text_code": "enter_old_pin",
+
+  "text_value": "உங்கள் பழைய நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "enter_new_pin",
+
+  "text_value": "புதிய நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "confirm_new_pin",
+
+  "text_value": "புதிய நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை  உறுதிப்படுத்தவும்"
+
+ },
+
+ {
+
+  "text_code": "pin_changed",
+
+  "text_value": "உங்கள் நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண் மாற்றப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "pin_not_match",
+
+  "text_value": "பழைய நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண் பொருந்தவில்லை. தயவுசெய்து மீண்டும் முயற்சி செய்யவும்."
+
+ },
+
+ {
+
+  "text_code": "six_digit_new_pin",
+
+  "text_value": "புதிய நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை  உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "six_digit_con_pin",
+
+  "text_value": "உறுதிப்படுத்தும் நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை  உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "six_digit_corr_pin",
+
+  "text_value": "சரியான நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "raise_complain",
+
+  "text_value": "புகாரை எழுப்புங்கள்"
+
+ },
+
+ {
+
+  "text_code": "enter_remarks",
+
+  "text_value": "குறிப்புகளை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "attach",
+
+  "text_value": "இணைக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "veh_or_dl",
+
+  "text_value": "வாகன எண் அல்லது ஓட்டுநர் உரிமம் எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "enter_challan_number",
+
+  "text_value": "செலுத்துச் சீட்டு எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "select_comp_type",
+
+  "text_value": "புகார் வகையைத் தேர்ந்தெடுக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "select_sub_comp_type",
+
+  "text_value": "துணை புகார் வகையைத் தேர்ந்தெடுக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "select_service",
+
+  "text_value": "சேவையைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "file_uploaded",
+
+  "text_value": "கோப்பு பதிவேற்றப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "valid_vehicle_number",
+
+  "text_value": "சரியான வாகன எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "valid_dl_number",
+
+  "text_value": "சரியான ஓட்டுநர் உரிம எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "valid_dl_or_vehicle_number",
+
+  "text_value": "சரியான ஓட்டுநர் உரிம எண் அல்லது வாகன எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "give_details",
+
+  "text_value": "உங்கள் புகாரின் விளக்கத்தைத் தரவும்."
+
+ },
+
+ {
+
+  "text_code": "min_30_words",
+
+  "text_value": "குறைந்தபட்சம் 30 வார்த்தைகளை எழுதுங்கள்"
+
+ },
+
+ {
+
+  "text_code": "select_Category",
+
+  "text_value": "பிரிவை தேர்வு செய்க"
+
+ },
+
+ {
+
+  "text_code": "srch_rel_comp",
+
+  "text_value": "தேடல் தொடர்பான புகார்"
+
+ },
+
+ {
+
+  "text_code": "vd_rel_comp",
+
+  "text_value": "விரிச்சுவல் ஆவணங்கள் தொடர்பான புகார்"
+
+ },
+
+ {
+
+  "text_code": "ts_rel_comp",
+
+  "text_value": "போக்குவரத்து சேவைகள் தொடர்பான புகார்"
+
+ },
+
+ {
+
+  "text_code": "pucc",
+
+  "text_value": "மாசுக் கட்டுப்பாடு சான்றிதழ்"
+
+ },
+
+ {
+
+  "text_code": "mv_tax",
+
+  "text_value": "மோட்டார் வாகன வரி"
+
+ },
+
+ {
+
+  "text_code": "national_permit",
+
+  "text_value": "தேசிய அனுமதி"
+
+ },
+
+ {
+
+  "text_code": "Insurance",
+
+  "text_value": "காப்பீடு"
+
+ },
+
+ {
+
+  "text_code": "unable_to_regsiter",
+
+  "text_value": "பயனரை பதிவு செய்ய முடியவில்லை. சிறிது நேரம் கழித்து மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "unable_to_reset_mpin",
+
+  "text_value": "நடமாடும் வங்கியின் தனிப்பட்ட அடையாள எண்ணை மீட்டமைக்க முடியவில்லை, சிறிது நேரம் கழித்து மீண்டும் முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "verify_your_dl",
+
+  "text_value": "உங்கள் ஓட்டுநர் உரிமத்தை சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "dl_alert_updated",
+
+  "text_value": "ஓட்டுநர் உரிம எச்சரிக்கை வெற்றிகரமாக புதுப்பிக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "no_impound_dl",
+
+  "text_value": "தேடப்பட்ட ஓட்டுநர் உரிம எண்ணுக்கு எதிராக வாகனம் அல்லது பறிமுதல் ஆவணம் எதுவும் இல்லை."
+
+ },
+
+ {
+
+  "text_code": "no_impound_rc",
+
+  "text_value": "தேடப்பட்ட ஓட்டுநர் உரிம எண்ணுக்கு எதிராக வாகனம் அல்லது பறிமுதல் ஆவணம் எதுவும் இல்லை."
+
+ },
+
+ {
+
+  "text_code": "select_duration",
+
+  "text_value": "கால அளவைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "Name_text",
+
+  "text_value": "பெயர்"
+
+ },
+
+ {
+
+  "text_code": "model_name",
+
+  "text_value": "மாதிரி பெயர்"
+
+ },
+
+ {
+
+  "text_code": "vehicle_Desc",
+
+  "text_value": "வாகன விளக்கம்"
+
+ },
+
+ {
+
+  "text_code": "color",
+
+  "text_value": "நிறம்"
+
+ },
+
+ {
+
+  "text_code": "Seat_Capacity",
+
+  "text_value": "அமரும் இருக்கை அளவு"
+
+ },
+
+ {
+
+  "text_code": "standing_Capacity",
+
+  "text_value": "நிற்பதற்கான இருக்கை அளவு"
+
+ },
+
+ {
+
+  "text_code": "financier_Capacity",
+
+  "text_value": "நிதியாளர்"
+
+ },
+
+ {
+
+  "text_code": "Registering_Authority",
+
+  "text_value": "பதிவு செய்யும் அதிகாரம்"
+
+ },
+
+ {
+
+  "text_code": "notes_new",
+
+  "text_value": "மாசுச் சான்றிதழ்கள், காப்பீடு, வரிகள் போன்றவற்றின் நிலை மேலே இல்லை என்றால், அது உடற் தகுதி ஆவணங்களிலிருந்து சரிபார்க்கப்படலாம்."
+
+ },
+
+ {
+
+  "text_code": "note1",
+
+  "text_value": "குறிப்பு: சாலைப் போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சகத்தின் தேசியப் பதிவேட்டில் வழங்கும் அதிகாரியால் வழங்கப்பட்ட தரவுகளின்படி, பதிவுச் சான்றிதழுக்கான இந்தத் தகவல் எம்பரிவகனில் உருவாக்கப்பட்டது. இந்த ஆவணம் மின்னணு முறையில் பயன்படுத்தப்படும் போது தகவல் தொழில்நுட்பச் சட்டம் 2000 இன்படி தகுதியாகும்."
+
+ },
+
+ {
+
+  "text_code": "shared_to",
+
+  "text_value": "பகிரப்படுவதற்கு"
+
+ },
+
+ {
+
+  "text_code": "shared_date",
+
+  "text_value": "பகிரப்பட்ட தேதி"
+
+ },
+
+ {
+
+  "text_code": "Received_Date",
+
+  "text_value": "பெறப்பட்ட தேதி"
+
+ },
+
+ {
+
+  "text_code": "vehicle_search",
+
+  "text_value": "வாகனத் தேடல்"
+
+ },
+
+ {
+
+  "text_code": "vehicle_age",
+
+  "text_value": "வாகன வயது"
+
+ },
+
+ {
+
+  "text_code": "vehicle_status",
+
+  "text_value": "வாகனத்தின் நிலை"
+
+ },
+
+ {
+
+  "text_code": "vehicle_impound_status",
+
+  "text_value": "வாகனம் பறிமுதல் மற்றும் கைப்பற்றப்பட்ட ஆவணத்தின் நிலையைச் சரிபார்க்க அழுத்தவும்."
+
+ },
+
+ {
+
+  "text_code": "create_vir_rc",
+
+  "text_value": "விரிச்சுவல் மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழை உருவாக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "create_vir_rc_already",
+
+  "text_value": "நீங்கள் ஏற்கனவே விர்ச்சுவல் மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழை உருவாக்கியுள்ளீர்கள்"
+
+ },
+
+ {
+
+  "text_code": "insurance_search",
+
+  "text_value": "காப்பீட்டு தேடல்"
+
+ },
+
+ {
+
+  "text_code": "pucc_Search",
+
+  "text_value": "மாசுக் கட்டுபாடு சான்றிதழ் (PUCC) தேடல்"
+
+ },
+
+ {
+
+  "text_code": "share_rc",
+
+  "text_value": "மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழை பகிரவும்"
+
+ },
+
+ {
+
+  "text_code": "generate",
+
+  "text_value": "இயக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "SAVE_AND_RETURN",
+
+  "text_value": "முகப்பிற்கு திரும்பவும்"
+
+ },
+
+ {
+
+  "text_code": "ADD_MY_VEHICLE_S",
+
+  "text_value": "எனது வாகனம்(களை) சேர்"
+
+ },
+
+ {
+
+  "text_code": "MY_VIRTUAL_RC_S",
+
+  "text_value": "எனது விரிச்சுவல் மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழ்(கள்)"
+
+ },
+
+ {
+
+  "text_code": "MY_VIRTUAL_VIEW",
+
+  "text_value": "விரிச்சுவல் மோட்டார் வாகனத்தின் பதிவுச் சான்றிதழைக் காண்க"
+
+ },
+
+ {
+
+  "text_code": "mobile_number_is_added",
+
+  "text_value": "கைப்பேசி எண் தவறாக இருந்தால் அல்லது புதுப்பிக்க வேண்டும் என்றால், \"கைப்பேசி எண்ணைப் புதுப்பிக்கவும்\" என்பதைக் தேர்வு செய்யவும்."
+
+ },
+
+ {
+
+  "text_code": "proceed_with_adhar",
+
+  "text_value": "ஆதார்\/விரிச்சுவல் முகவரியுடன் தொடரவும்"
+
+ },
+
+ {
+
+  "text_code": "proceed_with_mobile",
+
+  "text_value": "கைபேசி எண்ணுடன் தொடரவும்."
+
+ },
+
+ {
+
+  "text_code": "BIRTH_COUNTRY",
+
+  "text_value": "பிறந்த நாட்டைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "no_history_found",
+
+  "text_value": "வரலாறு காணப்படவில்லை"
+
+ },
+
+ {
+
+  "text_code": "Validate_with_Aadhaar",
+
+  "text_value": "ஆதாருடன் சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "enter_Existing_Owner_Name",
+
+  "text_value": "வாகனத்தின்படி தற்போதுள்ள உரிமையாளர் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "Enter_Existing_Mobile_No",
+
+  "text_value": "தற்போதுள்ள கைபேசி எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "lbl_owner_Mobile_no_as_per_Aadhaar",
+
+  "text_value": "வாகனின்படி தற்போதுள்ள கைபேசி எண்"
+
+ },
+
+ {
+
+  "text_code": "lbl_New_Mobile_No",
+
+  "text_value": "புதிய கைபேசி எண்."
+
+ },
+
+ {
+
+  "text_code": "help_support",
+
+  "text_value": "உதவி மற்றும் ஆதரவு"
+
+ },
+
+ {
+
+  "text_code": "help_support_query",
+
+  "text_value": "அடுத்த இயக்கத்தை எம்பரிவகன் செயலியில் அறிய   ஏதேனும் கேள்விகளுக்கு, எங்களைத் தொடர்பு கொள்ளவும்."
+
+ },
+
+ {
+
+  "text_code": "help_support_call",
+
+  "text_value": "தயவுசெய்து எங்களை அழைக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "help_support_write",
+
+  "text_value": "இதில் எங்களுக்கு எழுதுங்கள்"
+
+ },
+
+ {
+
+  "text_code": "friday_13_november",
+
+  "text_value": "நவம்பர் 13 வெள்ளிக்கிழமை"
+
+ },
+
+ {
+
+  "text_code": "selected_date",
+
+  "text_value": "தேர்ந்தெடுக்கப்பட்ட தேதி"
+
+ },
+
+ {
+
+  "text_code": "view_Details",
+
+  "text_value": "விபரங்களை பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "download_appointment_receipt",
+
+  "text_value": "முன்பதிவு அனுமதிக்கப்பட்ட இரசீதைப் பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "MY_VIRTUAL_VIEW_DL",
+
+  "text_value": "விர்ச்சுவல் ஓட்டுநர் உரிமத்தைப் பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "print_rc_particular",
+
+  "text_value": "மோட்டார் வாகனங்களின் பதிவு சான்றிதழின் குறிப்பிட்ட சான்றிதழை அச்சிடவும்"
+
+ },
+
+ {
+
+  "text_code": "Document_Name_Text",
+
+  "text_value": "ஆவணத்தின் பெயர்"
+
+ },
+
+ {
+
+  "text_code": "Document_type_Text",
+
+  "text_value": "ஆவண வகை"
+
+ },
+
+ {
+
+  "text_code": "choose_language",
+
+  "text_value": "மொழியைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "language",
+
+  "text_value": "மொழி"
+
+ },
+
+ {
+
+  "text_code": "update_mobile_msg",
+
+  "text_value": "கைப்பேசி எண் சரியாக இல்லை அல்லது சேர்க்கப்படவில்லை என்றால், தயவுசெய்து \"கைப்பேசி எண்ணைப் புதுப்பிக்கவும்\" என்பதைக் தேர்வு செய்யவும். உங்கள் எண்ணைப் புதுப்பிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "otp_error_msg",
+
+  "text_value": "ஒரு முறை கடவுச் சொல்லைப் பெற முடியவில்லை. எனில், சிறிது நேரம் கழித்து முயற்சிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "View_Payment_Receipt",
+
+  "text_value": "கட்டண இரசீதை பார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "error_msg_to_leave",
+
+  "text_value": "நீங்கள் நிச்சயமாக வெளியேற விரும்புகிறீர்களா?"
+
+ },
+
+ {
+
+  "text_code": "error_msg_record_not_found",
+
+  "text_value": "ஆவணம் கிடைக்கவில்லை."
+
+ },
+
+ {
+
+  "text_code": "msg_proceed",
+
+  "text_value": "நீங்கள் நிச்சயமாக தொடர விரும்புகிறீர்களா?"
+
+ },
+
+ {
+
+  "text_code": "error_msg_fee_detail",
+
+  "text_value": "கட்டண விவரங்களைப் பெற முடியவில்லை. எனில், சிறிது நேரம் கழித்து முயற்சிக்கவும்!"
+
+ },
+
+ {
+
+  "text_code": "download_rc_particular",
+
+  "text_value": "மோட்டார் வாகனங்களின் பதிவு சான்றிதழ்  குறிப்பாக பதிவிறக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "payment_failed",
+
+  "text_value": "பணம் செலுத்த முடியவில்லை"
+
+ },
+
+ {
+
+  "text_code": "payment_pending",
+
+  "text_value": "கட்டணம் நிலுவையில் உள்ளது"
+
+ },
+
+ {
+
+  "text_code": "or_lbl",
+
+  "text_value": "அல்லது"
+
+ },
+
+ {
+
+  "text_code": "doc_uploaded_successfully",
+
+  "text_value": "ஆவணங்கள் வெற்றிகரமாக பதிவேற்றப்பட்டன."
+
+ },
+
+ {
+
+  "text_code": "please_upload_all_documents",
+
+  "text_value": "அனைத்து ஆவணங்களையும் பதிவேற்றவும்"
+
+ },
+
+ {
+
+  "text_code": "please_upload_all_required_documents",
+
+  "text_value": "தேவையான அனைத்து ஆவணங்களையும் பதிவேற்றவும்"
+
+ },
+
+ {
+
+  "text_code": "camera_not_avaialble",
+
+  "text_value": "கேமரா கிடைக்கவில்லை"
+
+ },
+
+ {
+
+  "text_code": "gallery_not_avaialble",
+
+  "text_value": "புகைப்பட தொகுப்பு கிடைக்கவில்லை, உங்கள் புகைப்பட தொகுப்பினை சரிபார்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "HPA_Confirm",
+
+  "text_value": "தவணைக் கொள்முதல் ஒப்பந்தத்திற்கான விண்ணப்பம், விண்ணப்ப எண்ணுடன் வரைவில் வெற்றிகரமாகச் சேமிக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "duplicate_Confirm",
+
+  "text_value": "நகல் மோட்டார் வாகனங்களின் பதிவுச் சான்றிதழுக்கான விண்ணப்பம் விண்ணப்ப எண்ணுடன் வரைவில் வெற்றிகரமாகச் சேமிக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "noc_Confirm",
+
+  "text_value": "தடையில்லாச் சான்றிதழ் (என்ஓசி) (NOC) விண்ணப்பம் விண்ணப்ப எண்ணுடன் வரைவில் வெற்றிகரமாகச் சேமிக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "HPT_Confirm",
+
+  "text_value": "தவணைக் கொள்முதல் இரத்து செய்வதற்கான விண்ணப்பம் விண்ணப்ப எண்ணுடன் வரைவில் வெற்றிகரமாக சேமிக்கப்பட்டது."
+
+ },
+
+ {
+
+  "text_code": "change_of_Address_Confirm",
+
+  "text_value": "மோட்டார் வாகனங்களின் பதிவு சான்றிதழில் முகவரியை மாற்றுவதற்கான விண்ணப்பம், நான் விண்ணப்ப எண்ணுடன் ஒரு வரைவில் வெற்றிகரமாகச் சேமித்தேன்."
+
+ },
+
+ {
+
+  "text_code": "image_size_error",
+
+  "text_value": "படத்தின் அளவு 200 KBக்கு மேல் இருக்கக்கூடாது"
+
+ },
+
+ {
+
+  "text_code": "pdf_size_error",
+
+  "text_value": "PDF அளவு 200 KBக்கு மேல் இருக்கக்கூடாது"
+
+ },
+
+ {
+
+  "text_code": "appointment_book_msg",
+
+  "text_value": "அலுவலகத்திற்கு வருவதற்கு அனுமதி முன்பதிவு  செய்யப்பட்டுள்ளது:"
+
+ },
+
+ {
+
+  "text_code": "for_application_no",
+
+  "text_value": "விண்ணப்ப எண்:"
+
+ },
+
+ {
+
+  "text_code": "terms_conditions_error",
+
+  "text_value": "விதிமுறைகள் மற்றும் நிபந்தனைகளைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "correct_information_as_per_aadhaar",
+
+  "text_value": "ஆதாரின்படி சரியான தகவல் உள்ளிடப்பட்டுள்ளது என்பதை உறுதி செய்யவும்"
+
+ },
+
+ {
+
+  "text_code": "please_Select_the_reason",
+
+  "text_value": "காரணத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "please_enter_the_remark",
+
+  "text_value": "தயவுசெய்து குறிப்பினை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "please_enter_the_valid_fir_no",
+
+  "text_value": "சரியான முதல் தகவல் அறிக்கை எண்ணை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "please_enter_fir_date",
+
+  "text_value": "தயவுசெய்து முதல் தகவல் அறிக்கை தேதியை உள்ளிடவும்."
+
+ },
+
+ {
+
+  "text_code": "please_enter_police_station",
+
+  "text_value": "தயவுசெய்து காவல் நிலையம் உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "are_you_sure_you_want_to_leave",
+
+  "text_value": "நீங்கள் நிச்சயமாக வெளியேற விரும்புகிறீர்களா?"
+
+ },
+
+ {
+
+  "text_code": "please_enter_hypothentication_type",
+
+  "text_value": "தவணைக் கொள்முதல் வகையினை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "please_enter_the_financer_name",
+
+  "text_value": "தயவுசெய்து நிதியளிப்பவரின் பெயரை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "please_enter_village_town_city",
+
+  "text_value": "கிராமம்\/நகரம்\/நகரத்தை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "please_select_the_state",
+
+  "text_value": "மாநிலத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "please_select_district",
+
+  "text_value": "மாவட்டத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "please_enter_valid_pincode",
+
+  "text_value": "சரியான அஞ்சல் குறியீட்டை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "please_select_date",
+
+  "text_value": "தேதியைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "unable_to_process_your_request",
+
+  "text_value": "உங்கள் கோரிக்கையைச் செயல்படுத்த முடியவில்லை."
+
+ },
+
+ {
+
+  "text_code": "please_Select_hypothentication_option",
+
+  "text_value": "தவணைக் கொள்முதல் கருத்தை தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "please_select_noc_reason",
+
+  "text_value": "தடையில்லாச் சான்றிதழுக்கான காரணத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "please_select_authority",
+
+  "text_value": "தயவுசெய்து அதிகாரம் வழங்குபவரை தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "please_select_ncrb_no",
+
+  "text_value": "தேசிய குற்ற ஆவண காப்பகத்தின் எண்ணைத் தேர்ந்தெடுக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "please_enter_name",
+
+  "text_value": "பெயரை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "please_enter_valid_name",
+
+  "text_value": "சரியான பெயரை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "label_contact_removed_successfully",
+
+  "text_value": "தொடர்பு வெற்றிகரமாக அகற்றப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_phone_number",
+
+  "text_value": "தொலைபேசி எண்"
+
+ },
+
+ {
+
+  "text_code": "label_relation",
+
+  "text_value": "உறவு"
+
+ },
+
+ {
+
+  "text_code": "label_save",
+
+  "text_value": "சேமிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_please_select_relation",
+
+  "text_value": "தயவுசெய்து உறவைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_select_relation",
+
+  "text_value": "உறவைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_contact_added_successfully",
+
+  "text_value": "தொடர்பு விவரங்கள் வெற்றிகரமாக சேர்க்கப்பட்டது"
+
+ },
+
+ {
+
+  "text_code": "label_unable_add_contact",
+
+  "text_value": "உங்கள் தொடர்புத் தகவலைச் சேர்க்க முடியாவிட்டால், பிறகு முயற்சிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_contact_updated_successfully",
+
+  "text_value": "தொடர்பு விவரங்கள் வெற்றிகரமாக புதுப்பிக்கப்பட்டன"
+
+ },
+
+ {
+
+  "text_code": "label_contact_failed_to_remove",
+
+  "text_value": "தொடர்பை அகற்ற முடியவில்லை"
+
+ },
+
+ {
+
+  "text_code": "lbl_rc_particular_against_fee",
+
+  "text_value": "கட்டணத்திற்கு எதிரான மோட்டார் வாகனங்களின் பதிவு சான்றிதழ் விவரக்குறிப்புகள்"
+
+ },
+
+ {
+
+  "text_code": "label_not_find_location",
+
+  "text_value": "உங்கள் இருப்பிடத்தைக் கண்டுபிடிக்க முடியவில்லை சிறிது நேரம் கழித்து முயற்சிக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_location",
+
+  "text_value": "இடம்"
+
+ },
+
+ {
+
+  "text_code": "label_turn_on_your_loc",
+
+  "text_value": "உங்கள் இருப்பிடம் முடக்கப்பட்டுள்ளது. உங்கள் இருப்பிடத்தை இயக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "photo_signature",
+
+  "text_value": "புகைப்படம் மற்றும் கையொப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+ },
+
+ {
+
+  "text_code": "label_loc_permission_required",
+
+  "text_value": "இருப்பிட அனுமதி தேவை. உங்கள் இருப்பிடத்தைக் கண்டறிய எம்பரிவகன் செயலியை அனுமதிக்கவும்."
+
+ },
+
+ {
+
+  "text_code": "label_phone_permission_required_to_call",
+
+  "text_value": "அழைப்பை மேற்கொள்ள தொலைபேசி அனுமதி தேவை"
+
+ },
+
+ {
+
+  "text_code": "doc_mandatory",
+
+  "text_value": "அனைத்து கட்டாய ஆவணங்களையும் பதிவேற்றவும்"
+
+ },
+
+ {
+
+  "text_code": "record_error_msg",
+
+  "text_value": "பதிவு கிடைக்கவில்லை"
+
+ },
+
+ {
+
+  "text_code": "label_no_notification",
+
+  "text_value": "அறிவிப்பு இல்லை"
+
+ },
+
+ {
+
+  "text_code": "label_notify_user",
+
+  "text_value": "ஏதாவது வரும்போது நாங்கள் உங்களுக்கு அறிவிப்போம்."
+
+ },
+
+ {
+
+  "text_code": "Final_Submission",
+
+  "text_value": "தேவையான அனைத்து ஆவணங்களையும் பதிவேற்றவும், பின்னர் உங்கள் விண்ணப்பத்தின் இறுதி சமர்ப்பிப்பை நீங்கள் செய்ய முடியும்."
+
+ },
+
+ {
+
+  "text_code": "declaration",
+
+  "text_value": "பிரகடனம்"
+
+ },
+
+ {
+
+  "text_code": "sez_doc_details",
+
+  "text_value": "கைப்பற்றப்பட்ட ஆவண விவரங்கள்"
+
+ },
+
+ {
+
+  "text_code": "validRc",
+
+  "text_value": "சரியான மோட்டார் வாகன பதிவு சான்றிதழ் எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "validchassi",
+
+  "text_value": "சரியான அடிச்சட்ட எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "validstate",
+
+  "text_value": "சரியான மோட்டார் வாகன பதிவு சான்றிதழ் எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "addMyDl",
+
+  "text_value": "எனது ஓட்டுநர் உரிமத்தைச் சேர்க்கவும்"
+
+ },
+
+ {
+
+  "text_code": "expired_on",
+
+  "text_value": "காலாவதியான நாள்"
+
+ },
+
+ {
+
+  "text_code": "vehicle_alerts",
+
+  "text_value": "வாகன எச்சரிக்கைகள்"
+
+ },
+
+ {
+
+  "text_code": "app_version",
+
+  "text_value": "செயலி பதிப்பு 2.0.103"
+
+ },
+
+ {
+
+  "text_code": "clear_all_history",
+
+  "text_value": "எல்லா தேடல் வரலாற்றையும் நிச்சயமாக நீக்க விரும்புகிறீர்களா?"
+
+ },
+
+ {
+
+  "text_code": "PLEASE_ENTER_APPLICATION",
+
+  "text_value": "விண்ணப்ப எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "PLEASE_ENTER_REG",
+
+  "text_value": "பதிவு எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "PLEASE_ENTER_CHASSI",
+
+  "text_value": "அடிச்சட்ட எண்ணை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "no_application_status",
+
+  "text_value": "இந்த விண்ணப்ப எண்ணிற்கு எந்த விண்ணப்ப நிலையும் இல்லை."
+
+ },
+
+ {
+
+  "text_code": "no_application_with_rc",
+
+  "text_value": "இந்த வாகனத்திற்கான விண்ணப்ப நிலை எதுவும் இல்லை."
+
+ },
+
+ {
+
+  "text_code": "INVALID_CHASSI",
+
+  "text_value": "தவறான அடிச்சட்ட"
+
+ },
+
+ {
+
+  "text_code": "INVALID_ENGINE",
+
+  "text_value": "தவறான என்ஜின் எண்"
+
+ },
+
+ {
+
+  "text_code": "REG_DATE",
+
+  "text_value": "பதிவு தேதியை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "REG_UPTO",
+
+  "text_value": "பதிவு தகுதியாகும் காலத்தினை உள்ளிடவும்"
+
+ },
+
+ {
+
+  "text_code": "RC_Particulars_against_Fee",
+
+  "text_value": "கட்டணத்திற்கு எதிரான மோட்டார் வாகனங்களின் பதிவு சான்றிதழ் விவரக்குறிப்புகள்"
+
+ },
+
+ {
+
+  "text_code": "no_pending_trans",
+
+  "text_value": "இந்த விண்ணப்ப எண்ணுக்கு நிலுவையில் உள்ள பரிவர்த்தனை எதுவும் இல்லை"
+
+ },
+
+ {
+
+  "text_code": "dl_validation",
+
+  "text_value": "குறைந்தபட்சம் 10 & அதிகபட்சம் 18 எழுத்துகளை உள்ளிடவும். ஹைபன்(-), முன்னோக்கி சாய்வு(\/) & இடம் மட்டுமே அனுமதிக்கப்படும்"
+
+ },
+ {
+  "text_code": "label_view",
+  "text_value": "காண்க"
+ },
+ {
+  "text_code": "label_capture",
+  "text_value": "பிடிப்பு"
+ },
+ {
+  "text_code": "label_duplicate_rc",
+  "text_value": "நகல் ஆர்.சி"
+ },
+ {
+  "text_code": "label_setting",
+  "text_value": "அமைத்தல்"
+ },
+ {
+  "text_code": "emmission_norm_lbl",
+  "text_value": "உமிழ்வு விதிமுறை"
+ },
+ {
+  "text_code": "lbl_enter_mobNo_as_per_aadhaar",
+  "text_value": "மொபைல் எண் (ஆதார் படி) உள்ளிடவும்"
+ },
+ {
+  "text_code": "lbl_NCRB_clearance_No",
+  "text_value": "NCRB அனுமதி எண்."
+ },
+ {
+  "text_code": "vehicle_Description",
+  "text_value": "வாகனம் விளக்கம்"
+ },
+ {
+  "text_code": "note2",
+  "text_value": "குறிப்பு: ஓட்டுநர் உரிமத்திற்கான இந்த தகவல் MPARIVAHAN ஆல் உருவாக்கப்படுகிறது, இது தேசிய சாலை போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் அமைச்சகத்தில் வழங்கும் அதிகாரம் வழங்கிய தரவுகளின்படி. மின்னணு முறையில் பயன்படுத்தும்போது ஐடி சட்டம் 2000 இன் படி இந்த ஆவணம் செல்லுபடியாகும்."
+ },
+ {
+  "text_code": "enter_ncrb_clearance",
+  "text_value": "NCRB அனுமதி எண் உள்ளிடவும்."
+ },
+ {
+  "text_code": "lbl_Completed",
+  "text_value": "நிறைவு"
+ },
+ {
+  "text_code": "lbl_Rejected",
+  "text_value": "நிராகரிக்கப்பட்டது"
+ },
+ {
+  "text_code": "lbl_ReUpload",
+  "text_value": "மீண்டும் பதிவேற்றவும்"
+ },
+ {
+  "text_code": "lbl_change_of_address_in_rc",
+  "text_value": "ஆர்.சி.யில் முகவரி மாற்றம்"
+ },
+ {
+  "text_code": "lbl_enter_vid_number",
+  "text_value": "VID எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "lbl_enter_registration_number",
+  "text_value": "பதிவு எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "lbl_error_choose_msg",
+  "text_value": "தொடர 1 சேவையைத் தேர்வு செய்ய வேண்டும்."
+ },
+ {
+  "text_code": "lbl_error_valid_vid",
+  "text_value": "செல்லுபடியாகும் VID எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "lbl_error_valid_aadhaar",
+  "text_value": "அதார் எண்ணை உள்ளிடவும்."
+ },
+ {
+  "text_code": "error_msg_rc_number",
+  "text_value": "சிறப்பு எழுத்து இல்லாமல் குறைந்தபட்சம் 4 & அதிகபட்ச 10 இலக்கங்களை உள்ளிடவும்"
+ },
+ {
+  "text_code": "alphabet_error_msg_rc_number",
+  "text_value": "ஆர்.சி எண்ணின் முதல் இரண்டு எழுத்துக்குறியை உள்ளிடவும் எழுத்துக்கள் இருக்க வேண்டும்"
+ },
+ {
+  "text_code": "email_id_error_msg",
+  "text_value": "சரியான மின்னஞ்சல் ஐடியை உள்ளிடவும்"
+ },
+ {
+  "text_code": "date_of_birth_error_msg",
+  "text_value": "பிறந்த தேதியை உள்ளிடவும்"
+ },
+ {
+  "text_code": "full_name_error_msg",
+  "text_value": "முழு பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "dl_number_error_msg",
+  "text_value": "டி.எல் எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_dl_number_error_msg",
+  "text_value": "செல்லுபடியாகும் டி.எல் எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "application_number_error_msg",
+  "text_value": "விண்ணப்பம் எண் உள்ளிடவும்"
+ },
+ {
+  "text_code": "chassis_number_error_msg",
+  "text_value": "சேஸ் எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "financer_upto_date_error_msg",
+  "text_value": "தேதி வரை நிதியை உள்ளிடவும்"
+ },
+ {
+  "text_code": "application_status_error_msg",
+  "text_value": "இந்த பயன்பாட்டு எண்ணுக்கு பயன்பாட்டு நிலை எதுவும் கிடைக்கவில்லை"
+ },
+ {
+  "text_code": "vehicle_application_status_error_msg",
+  "text_value": "இந்த வாகன எண்ணுக்கு பயன்பாட்டு நிலை எதுவும் கிடைக்கவில்லை"
+ },
+ {
+  "text_code": "fee_payment_pending",
+  "text_value": "கட்டணம் செலுத்துதல் நிலுவையில் உள்ளது, தயவுசெய்து முழுமையான கட்டண கட்டணம்"
+ },
+ {
+  "text_code": "fee_payment_document_pending",
+  "text_value": "கட்டணம் செலுத்துதல் மற்றும் ஆவண பதிவேற்றம் நிலுவையில் உள்ளது, தயவுசெய்து முழுமையான கட்டண கட்டணம் மற்றும் ஆவண பதிவேற்றம்"
+ },
+ {
+  "text_code": "document_pending",
+  "text_value": "ஆவண பதிவேற்றம் நிலுவையில் உள்ளது, தயவுசெய்து முழுமையான ஆவண பதிவேற்றம்"
+ },
+ {
+  "text_code": "fee_details_error_msg",
+  "text_value": "கட்டண விவரங்களைப் பெற முடியவில்லை, தயவுசெய்து சிறிது நேரம் கழித்து முயற்சிக்கவும்"
+ },
+ {
+  "text_code": "try_again_error_msg",
+  "text_value": "மேலும் தொடர முடியவில்லை, தயவுசெய்து சிறிது நேரம் முயற்சிக்கவும்"
+ },
+ {
+  "text_code": "sub_district_label_present",
+  "text_value": "நிரந்தர துணை மாவட்டத்தைத் தேர்ந்தெடுக்கவும்"
+ },
+ {
+  "text_code": "house_number_lablel_present",
+  "text_value": "தயவுசெய்து நிரந்தர வீட்டு எண்ணை உள்ளிடவும், ஃப்ளேட் எண்., கதவு"
+ },
+ {
+  "text_code": "street_loacl_labelpresent",
+  "text_value": "தயவுசெய்து நிரந்தர தெரு அல்லது லேசலிட்டியை உள்ளிடவும்"
+ },
+ {
+  "text_code": "sub_district_label_current",
+  "text_value": "தற்போதைய துணை மாவட்டத்தைத் தேர்ந்தெடுக்கவும்"
+ },
+ {
+  "text_code": "house_number_lablel_current",
+  "text_value": "தயவுசெய்து தற்போதைய வீட்டு எண்ணை உள்ளிடவும், ஃப்ளேட் எண். கதவு"
+ },
+ {
+  "text_code": "street_loacl_label_current",
+  "text_value": "தயவுசெய்து தற்போதைய தெரு அல்லது லேசலிட்டியை உள்ளிடவும்"
+ },
+ {
+  "text_code": "application_number_saved",
+  "text_value": "உங்கள் பயன்பாட்டு எண் புகைப்படங்களில் சேமிக்கப்பட்டுள்ளது"
+ },
+ {
+  "text_code": "enter_application_number_msg",
+  "text_value": "விண்ணப்ப எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "five_digits_chassis_number_error_msg",
+  "text_value": "சேஸ் இல்லை 5 இலக்கங்கள் இருக்க வேண்டும்"
+ },
+ {
+  "text_code": "update_mobile_no_error_msg",
+  "text_value": "முதலில் உங்கள் மொபைலைப் புதுப்பிக்கவும்"
+ },
+ {
+  "text_code": "read_terms_condition",
+  "text_value": "விதிமுறைகளையும் நிபந்தனையையும் படிக்கவும்."
+ },
+ {
+  "text_code": "proceed_slot_booking",
+  "text_value": "எதிர்காலத்தை முன்பதிவு செய்ய எதிர்காலம் தொடர்கிறீர்களா?"
+ },
+ {
+  "text_code": "select_previous_slot_date",
+  "text_value": "முந்தைய தேதியை நீங்கள் தேர்ந்தெடுக்க முடியாது."
+ },
+ {
+  "text_code": "slot_booking_not_available",
+  "text_value": "இந்த தேதியில் முன்பதிவு கிடைக்கவில்லை"
+ },
+ {
+  "text_code": "label_slot",
+  "text_value": "ஸ்லாட்"
+ },
+ {
+  "text_code": "label_slot_appointment_booked",
+  "text_value": "உங்கள் நியமனம் நியமனம் ஐடி பதிவு செய்யப்பட்டுள்ளது"
+ },
+ {
+  "text_code": "label_receipt_saved",
+  "text_value": "ரசீது சேமிப்பகத்தில் வெற்றிகரமாக சேமிக்கப்பட்டது"
+ },
+ {
+  "text_code": "registration_date_error_msg",
+  "text_value": "வாகன பதிவு தேதியை உள்ளிடவும்"
+ },
+ {
+  "text_code": "registration_upto_date_error_msg",
+  "text_value": "தேதி வரை வாகன பதிவை உள்ளிடவும்"
+ },
+ {
+  "text_code": "aadhar_number_error_msg",
+  "text_value": "ஆதார் எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "existing_owner_name_error_msg",
+  "text_value": "இருக்கும் உரிமையாளர் பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "owner_name_error_msg",
+  "text_value": "உரிமையாளரின் பெயர் 3 எழுத்துக்கும் குறைவாக இருக்கக்கூடாது"
+ },
+ {
+  "text_code": "phone_number_error_msg",
+  "text_value": "தொலைபேசி எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_phone_number_error_msg",
+  "text_value": "செல்லுபடியாகும் தொலைபேசி எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "verify_otp_error_msg",
+  "text_value": "OTP ஐ சரிபார்க்க முடியவில்லை, தயவுசெய்து சிறிது நேரத்திற்குப் பிறகு முயற்சிக்கவும்"
+ },
+ {
+  "text_code": "application_number_limit_error_msg",
+  "text_value": "குறைந்தபட்சம் 10 இலக்கங்கள் விண்ணப்பம் எண் உள்ளிடவும்"
+ },
+ {
+  "text_code": "no_application_number_error_msg",
+  "text_value": "பயன்பாட்டு எண் எதுவும் கிடைக்கவில்லை"
+ },
+ {
+  "text_code": "no_forms_error_msg",
+  "text_value": "பதிவிறக்கம் செய்ய எந்த படிவங்களும் கிடைக்கவில்லை."
+ },
+ {
+  "text_code": "appointment_no_error_msg",
+  "text_value": "நியமனம் எண் உள்ளிடவும் எண்"
+ },
+ {
+  "text_code": "appointment_no_limit_error_msg",
+  "text_value": "குறைந்தபட்சம் 10 இலக்கங்கள் சந்திப்பு எண் உள்ளிடவும்"
+ },
+ {
+  "text_code": "select_sub_category",
+  "text_value": "துணை வகையைத் தேர்ந்தெடுக்கவும்"
+ },
+ {
+  "text_code": "camera_label",
+  "text_value": "புகைப்பட கருவி"
+ },
+ {
+  "text_code": "enter_phone_number",
+  "text_value": "தொலைபேசி எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "set_mpin_generate",
+  "text_value": "இந்த மொபைல் எண் -க்கு நீங்கள் MPIN ஐ அமைக்கவில்லை, தயவுசெய்து MPIN ஐ 'MPIN ஐ உருவாக்கு ’ஐப் பயன்படுத்தி கோருங்கள்"
+ },
+ {
+  "text_code": "enter_6digit_otp",
+  "text_value": "6 இலக்க பயனர் OTP ஐ உள்ளிடவும்"
+ },
+ {
+  "text_code": "name_not_less3",
+  "text_value": "பெயர் 3 எழுத்துகளுக்கு குறைவாக இருக்கக்கூடாது"
+ },
+ {
+  "text_code": "btn_done",
+  "text_value": "முடிந்தது"
+ },
+ {
+  "text_code": "accident_report_msg",
+  "text_value": "விபத்து அறிக்கை வெற்றிகரமாக சமர்ப்பிக்கப்பட்டுள்ளது"
+ },
+ {
+  "text_code": "dl_delete_msg",
+  "text_value": "டி.எல் வெற்றிகரமாக நீக்கப்பட்டது"
+ },
+ {
+  "text_code": "remark_validation_msg",
+  "text_value": "கருத்துக்கள் 30 சொற்களுக்கு குறைவாக இருக்கக்கூடாது"
+ },
+ {
+  "text_code": "complaint_succ_msg",
+  "text_value": "புகார் வெற்றிகரமாக அனுப்பப்பட்டது"
+ },
+ {
+  "text_code": "send_email_validation",
+  "text_value": "மின்னஞ்சல் அனுப்ப ஒரு அஞ்சல் கணக்கை அமைக்கவும்."
+ },
+ {
+  "text_code": "challan_transc_dlt",
+  "text_value": "சல்லன் பரிவர்த்தனை வெற்றிகரமாக நீக்கப்பட்டது"
+ },
+ {
+  "text_code": "fee_payment_error_msg",
+  "text_value": "கட்டணம் செலுத்துதல் முடிக்கப்படவில்லை."
+ },
+ {
+  "text_code": "try_again_later",
+  "text_value": "பின்னர் மீண்டும் முயற்சிக்கவும்"
+ },
+ {
+  "text_code": "book_appointment_msg",
+  "text_value": "நீங்கள் சந்திப்பை முன்பதிவு செய்ய விரும்புகிறீர்களா?"
+ },
+ {
+  "text_code": "document_not_uploaded",
+  "text_value": "இந்த ஆவணம் பதிவேற்றப்படவில்லை"
+ },
+ {
+  "text_code": "already_logged_in",
+  "text_value": "இந்த மொபைல் எண்ணைப் பயன்படுத்தி நீங்கள் உள்நுழைந்ததால் ஆர்.சி."
+ },
+ {
+  "text_code": "enter_engine_validation",
+  "text_value": "உங்கள் இயந்திர எண்ணின் கடைசி 5 இலக்கங்களை உள்ளிடவும்."
+ },
+ {
+  "text_code": "enter_chasis_validation",
+  "text_value": "உங்கள் சேஸ் எண்ணின் கடைசி 5 இலக்கங்களை உள்ளிடவும்."
+ },
+ {
+  "text_code": "remark_max_validation",
+  "text_value": "கருத்துக்கள் 250 எழுத்துகளுக்கு மேல் இருக்கக்கூடாது"
+ },
+ {
+  "text_code": "remark_min_validation",
+  "text_value": "கருத்துக்கள் குறைந்தபட்சம் 30 எழுத்துகளாக இருக்க வேண்டும்"
+ },
+ {
+  "text_code": "remark_msg",
+  "text_value": "உங்கள் கருத்துக்களை உள்ளிடவும்"
+ },
+ {
+  "text_code": "enter_end_date",
+  "text_value": "இறுதி தேதியை உள்ளிடவும்"
+ },
+ {
+  "text_code": "comment_max_validation",
+  "text_value": "கருத்துகள் 500 எழுத்துகளுக்கு மேல் இருக்கக்கூடாது"
+ },
+ {
+  "text_code": "enter_comments",
+  "text_value": "கருத்துகளை உள்ளிடவும்"
+ },
+ {
+  "text_code": "enter_state_lbl",
+  "text_value": "தயவுசெய்து மாநிலத்தை உள்ளிடவும்"
+ },
+ {
+  "text_code": "enter_start_date",
+  "text_value": "தொடக்க தேதியை உள்ளிடவும்"
+ },
+ {
+  "text_code": "enter_location_lbl",
+  "text_value": "இருப்பிடத்தை உள்ளிடவும்"
+ },
+ {
+  "text_code": "emmission_norm_lbl",
+  "text_value": "உமிழ்வு விதிமுறை"
+ },
+ {
+  "text_code": "challan_validation_digit",
+  "text_value": "சல்லன் எண் குறைந்தபட்சம் 12 இலக்கங்களை உள்ளிடவும்"
+ },
+ {
+  "text_code": "fill_all_details",
+  "text_value": "எல்லா விவரங்களையும் நிரப்பவும்"
+ },
+ {
+  "text_code": "update_error_msg",
+  "text_value": "நீங்கள் நிச்சயமாக புதுப்பிக்க விரும்புகிறீர்களா?"
+ },
+ {
+  "text_code": "authority_error_msg",
+  "text_value": "அதிகாரத்தைத் தேர்ந்தெடுக்கவும்"
+ },
+ {
+  "text_code": "ncrb_error_msg",
+  "text_value": "தயவுசெய்து NCRB ஐ உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_ncrb_error_msg",
+  "text_value": "செல்லுபடியாகும் NCRB ஐ உள்ளிடவும்"
+ },
+ {
+  "text_code": "transferee_name_error_msg",
+  "text_value": "இடமாற்றம் பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_transferee_name_error_msg",
+  "text_value": "செல்லுபடியாகும் பரிமாற்ற பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "finanace_upto_error_msg",
+  "text_value": "தயவுசெய்து நிதி வரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "choose_date_error_msg",
+  "text_value": "எந்த தேதியையும் தேர்வு செய்யவும்."
+ },
+ {
+  "text_code": "house_no_street_name_error_msg",
+  "text_value": "தற்போதைய வீடு எண் மற்றும் தெரு பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_house_no_street_name_error_msg",
+  "text_value": "தயவுசெய்து செல்லுபடியாகும் கரண்ட் ஹவுஸ் எண் மற்றும் தெரு பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "current_village_town_city_error_msg",
+  "text_value": "தற்போதைய கிராமம்\/நகரம்\/நகரத்தை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_current_village_town_city_error_msg",
+  "text_value": "செல்லுபடியாகும் தற்போதைய கிராமம்\/நகரம்\/நகரத்தை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_landmark_error_msg",
+  "text_value": "செல்லுபடியாகும் தற்போதைய அடையாளத்தை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_current_pin_code_error_msg",
+  "text_value": "செல்லுபடியாகும் தற்போதைய பின்கோடை உள்ளிடவும்"
+ },
+ {
+  "text_code": "current_pin_code_limit_error_msg",
+  "text_value": "தற்போதைய பின்கோட் 6 இலக்கங்களை விட அல்லது 6 இலக்கங்களுக்கும் குறைவாக இருக்கக்கூடாது"
+ },
+ {
+  "text_code": "permanent_house_no_Street_name_error_msg",
+  "text_value": "தயவுசெய்து நிரந்தர வீடு எண் மற்றும் தெரு பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_permanent_house_no_Street_name_error_msg",
+  "text_value": "செல்லுபடியாகும் நிரந்தர வீடு எண் மற்றும் தெரு பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "permanent_village_town_city_error_msg",
+  "text_value": "தயவுசெய்து நிரந்தர கிராமம்\/நகரம்\/நகரத்தை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_permanent_village_town_city_error_msg",
+  "text_value": "செல்லுபடியாகும் நிரந்தர கிராமம்\/நகரம்\/நகரத்தை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_permanent_landmark_error_msg",
+  "text_value": "செல்லுபடியாகும் நிரந்தர அடையாளத்தை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_permanent_pincode_error_msg",
+  "text_value": "செல்லுபடியாகும் நிரந்தர பின்கோடை உள்ளிடவும்"
+ },
+ {
+  "text_code": "permanent_pincode_limit_error_msg",
+  "text_value": "நிரந்தர பின்கோட் 6 இலக்கங்களை விட அதிகமாகவோ அல்லது 6 இலக்கங்களுக்கும் குறைவாகவோ இருக்கக்கூடாது"
+ },
+ {
+  "text_code": "remark_error_msg",
+  "text_value": "கருத்துக்களை உள்ளிடவும்"
+ },
+ {
+  "text_code": "fir_no_error_msg",
+  "text_value": "தயவுசெய்து FIR எண் உள்ளிடவும்"
+ },
+ {
+  "text_code": "fir_date_error_msg",
+  "text_value": "FIR தேதியைத் தேர்ந்தெடுக்கவும்"
+ },
+ {
+  "text_code": "enter_police_station_error_msg",
+  "text_value": "தயவுசெய்து காவல் நிலையத்தில் நுழையுங்கள்"
+ },
+ {
+  "text_code": "hypothecation_type_error_msg",
+  "text_value": "ஹைப்போத்தேஷன் வகையைத் தேர்ந்தெடுக்கவும்"
+ },
+ {
+  "text_code": "financier_name_error_msg",
+  "text_value": "தயவுசெய்து நிதி பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_financier_name_error_msg",
+  "text_value": "செல்லுபடியாகும் நிதி பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "house_no_error_msg",
+  "text_value": "ஹவுஸ் எண் உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_house_no_error_msg",
+  "text_value": "செல்லுபடியாகும் வீடு எண்"
+ },
+ {
+  "text_code": "valid_village_town_city_error_msg",
+  "text_value": "செல்லுபடியாகும் கிராமம்\/நகரம்\/நகரத்தை உள்ளிடவும்"
+ },
+ {
+  "text_code": "landmark_error_msg",
+  "text_value": "தயவுசெய்து லேண்ட்மார்க் உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_landmark_error_msg",
+  "text_value": "செல்லுபடியாகும் அடையாளத்தை உள்ளிடவும்"
+ },
+ {
+  "text_code": "district_error_msg",
+  "text_value": "மாவட்டத்தைத் தேர்ந்தெடுக்கவும்"
+ },
+ {
+  "text_code": "pincode_error_msg",
+  "text_value": "தயவுசெய்து பின்கோட் உள்ளிடவும்"
+ },
+ {
+  "text_code": "valid_pincode_error_msg",
+  "text_value": "செல்லுபடியாகும் பின்கோடை உள்ளிடவும்"
+ },
+ {
+  "text_code": "pincode_limit_error_msg",
+  "text_value": "பின்கோட் 6 இலக்கங்களுக்கு மேல் அல்லது 6 இலக்கங்களுக்கும் குறைவாக இருக்கக்கூடாது"
+ },
+ {
+  "text_code": "finance_date_error_msg",
+  "text_value": "தேதியிலிருந்து நிதி உள்ளிடவும்"
+ },
+ {
+  "text_code": "fitness_lbl",
+  "text_value": "உடற்பயிற்சி"
+ },
+ {
+  "text_code": "lbl_registered_mobile_no",
+  "text_value": "பதிவுசெய்யப்பட்ட மொபைல் எண்."
+ },
+ {
+  "text_code": "vid_terms_condition",
+  "text_value": "VID அடிப்படையிலான E-KYC சம்மதத்தைப் படித்து ஏற்றுக்கொண்டேன்"
+ },
+ {
+  "text_code": "no_rc_found",
+  "text_value": "மெய்நிகர் ஆர்.சி எதுவும் கிடைக்கவில்லை"
+ },
+ {
+  "text_code": "app_version_name",
+  "text_value": "பயன்பாட்டு பதிப்பு"
+ },
+ {
+  "text_code": "touch_id_lbl",
+  "text_value": "டச் ஐடியுடன் உள்நுழைக"
+ },
+ {
+  "text_code": "face_id_lbl",
+  "text_value": "ஃபேஸ் ஐடியுடன் உள்நுழைக"
+ },
+ {
+  "text_code": "enable_btn",
+  "text_value": "இயக்கு"
+ },
+ {
+  "text_code": "faceId_notEnabled_error",
+  "text_value": "உங்கள் ஃபேஸ் ஐடி\/டச் ஐடி இயக்கப்படவில்லை"
+ },
+ {
+  "text_code": "faceId_verification_error",
+  "text_value": "உங்கள் அடையாளத்தை சரிபார்க்க சிக்கல் இருந்தது."
+ },
+ {
+  "text_code": "faceId_cancel_error",
+  "text_value": "நீங்கள் ரத்துசெய் அழுத்தினீர்கள்."
+ },
+ {
+  "text_code": "faceId_password_selection_error",
+  "text_value": "நீங்கள் கடவுச்சொல்லை அழுத்தினீர்கள்."
+ },
+ {
+  "text_code": "faceId_notAvailable_error",
+  "text_value": "ஃபேஸ் ஐடி\/டச் ஐடி கிடைக்கவில்லை."
+ },
+ {
+  "text_code": "faceId_notSetup_error",
+  "text_value": "ஃபேஸ் ஐடி\/டச் ஐடி அமைக்கப்படவில்லை."
+ },
+ {
+  "text_code": "faceId_locked_error",
+  "text_value": "முகம் ஐடி\/டச் ஐடி பூட்டப்பட்டுள்ளது."
+ },
+ {
+  "text_code": "faceId_notConfigured_error",
+  "text_value": "ஃபேஸ் ஐடி\/டச் ஐடி கட்டமைக்கப்படாமல் இருக்கலாம்"
+ },
+ {
+  "text_code": "expiring_on_lbl",
+  "text_value": "காலாவதியாகும்"
+ },
+ {
+  "text_code": "total_notices_lbl",
+  "text_value": "மொத்த அறிவிப்பு (கள்):"
+ },
+ {
+  "text_code": "noNotice_error_msg",
+  "text_value": "எந்த அறிவிப்பும் கிடைக்கவில்லை"
+ },
+ {
+  "text_code": "noNotice_error_desc",
+  "text_value": "இந்த எண்ணுக்கு எந்த அறிவிப்பும் கிடைக்கவில்லை."
+ },
+ {
+  "text_code": "notice_status_lbl",
+  "text_value": "நிலை கவனிப்பு"
+ },
+ {
+  "text_code": "notice_details_lbl",
+  "text_value": "விவரங்களை கவனியுங்கள்"
+ },
+ {
+  "text_code": "lbl_rc_number",
+  "text_value": "ஆர்.சி எண்."
+ },
+ {
+  "text_code": "total_notice_lbl",
+  "text_value": "மொத்த அறிவிப்பு:"
+ },
+ {
+  "text_code": "notice_number_lbl",
+  "text_value": "அறிவிப்பு எண்."
+ },
+ {
+  "text_code": "notice_date_lbl",
+  "text_value": "அறிவிப்பு தேதி"
+ },
+ {
+  "text_code": "offence_lbl",
+  "text_value": "குற்றம்"
+ },
+ {
+  "text_code": "btn_download_notice",
+  "text_value": "அறிவிப்பைப் பதிவிறக்கவும்"
+ },
+ {
+  "text_code": "notice_status_err",
+  "text_value": "நிலை தரவு கிடைக்கவில்லை"
+ },
+ {
+  "text_code": "notice_number_option_lbl",
+  "text_value": "அறிவிப்பு எண்"
+ },
+ {
+  "text_code": "enter_notice_txt",
+  "text_value": "அறிவிப்பு எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "release_details",
+  "text_value": "வெளியீட்டு விவரங்கள்"
+ },
+ {
+  "text_code": "release_date",
+  "text_value": "வெளிவரும் தேதி"
+ },
+ {
+  "text_code": "file_reference_no",
+  "text_value": "கோப்பு குறிப்பு எண்."
+ },
+ {
+  "text_code": "approved_by",
+  "text_value": "அங்கீகரிக்கப்பட்டது"
+ },
+ {
+  "text_code": "apply_for_duplicate_fitness_certificate",
+  "text_value": "நகல் உடற்பயிற்சி சான்றிதழுக்கு விண்ணப்பிக்கவும்"
+ },
+ {
+  "text_code": "required_document",
+  "text_value": "தேவையான ஆவணம்"
+ },
+ {
+  "text_code": "apply_for_duplicate_permit",
+  "text_value": "நகல் அனுமதிக்கு விண்ணப்பிக்கவும்"
+ },
+ {
+  "text_code": "apply_for_rc_cancellation",
+  "text_value": "ஆர்.சி ரத்து செய்ய விண்ணப்பிக்கவும்"
+ },
+ {
+  "text_code": "rc_cancellation_date",
+  "text_value": "ஆர்.சி ரத்து தேதி"
+ },
+ {
+  "text_code": "apply_for_rc_surrender",
+  "text_value": "ஆர்.சி சரணடைவதற்கு விண்ணப்பிக்கவும்"
+ },
+ {
+  "text_code": "document_surrender",
+  "text_value": "ஆவணம் சரணடைதல்"
+ },
+ {
+  "text_code": "rc",
+  "text_value": "ஆர்.சி."
+ },
+ {
+  "text_code": "enter_rc_serial_no",
+  "text_value": "ஆர்.சி சீரியல் எண் உள்ளிடவும்."
+ },
+ {
+  "text_code": "fitness_certificate",
+  "text_value": "உடற்பயிற்சி சான்றிதழ்"
+ },
+ {
+  "text_code": "enter_fitness_certificate_no",
+  "text_value": "உடற்பயிற்சி சான்றிதழ் எண்"
+ },
+ {
+  "text_code": "applying_for_tax_exemption",
+  "text_value": "வரி விலக்குக்கு விண்ணப்பித்தல்"
+ },
+ {
+  "text_code": "owner_name",
+  "text_value": "உரிமையாளரின் பெயர்"
+ },
+ {
+  "text_code": "tax_from_date",
+  "text_value": "தேதியிலிருந்து வரி"
+ },
+ {
+  "text_code": "tax_upto",
+  "text_value": "வரி வரை."
+ },
+ {
+  "text_code": "calculate_tax_details",
+  "text_value": "வரி விவரங்களைக் கணக்கிடுங்கள்"
+ },
+ {
+  "text_code": "select_no_of_m_y_q",
+  "text_value": "M\/y\/q இன் எண் என்பதைத் தேர்ந்தெடுக்கவும்"
+ },
+ {
+  "text_code": "tax_mode",
+  "text_value": "வரி முறை"
+ },
+ {
+  "text_code": "enter_the_no_of_m_y_q",
+  "text_value": "M\/y\/q இன் எண் உள்ளிடவும்"
+ },
+ {
+  "text_code": "enter_the_no_year",
+  "text_value": "எண்"
+ },
+ {
+  "text_code": "final_amount",
+  "text_value": "இறுதி தொகை"
+ },
+ {
+  "text_code": "calculate_tax",
+  "text_value": "வரியைக் கணக்கிடுங்கள்"
+ },
+ {
+  "text_code": "please_wait",
+  "text_value": "தயவுசெய்து காத்திருங்கள் ..."
+ },
+ {
+  "text_code": "owner_current_tax_details",
+  "text_value": "உரிமையாளர் & ஆம்ப்; தற்போதைய வரி விவரங்கள்"
+ },
+ {
+  "text_code": "are_you_sure_you_want_to_Calcualte",
+  "text_value": "நீங்கள் நிச்சயமாக கணக்கிட விரும்புகிறீர்களா?"
+ },
+ {
+  "text_code": "pay_your_tax",
+  "text_value": "உங்கள் வரியை செலுத்துங்கள்"
+ },
+ {
+  "text_code": "please_select_tax_mode",
+  "text_value": "வரி பயன்முறையைத் தேர்ந்தெடுக்கவும்"
+ },
+ {
+  "text_code": "are_you_sure_you_want_to_make_payment",
+  "text_value": "நீங்கள் நிச்சயமாக பணம் செலுத்த விரும்புகிறீர்களா?"
+ },
+ {
+  "text_code": "please_try_after_some_time",
+  "text_value": "சிறிது நேரம் கழித்து முயற்சிக்கவும்!"
+ },
+ {
+  "text_code": "amount_pay",
+  "text_value": "செலுத்த வேண்டிய தொகை"
+ },
+ {
+  "text_code": "transaction_status",
+  "text_value": "பரிவர்த்தனை நிலை"
+ },
+ {
+  "text_code": "application_no",
+  "text_value": "விண்ணப்பம் இல்லை"
+ },
+ {
+  "text_code": "receipt_no",
+  "text_value": "ரசீது இல்லை"
+ },
+ {
+  "text_code": "reprint_receipt",
+  "text_value": "ரசீது மறுபதிப்பு"
+ },
+ {
+  "text_code": "try_again",
+  "text_value": "தயவு செய்து மீண்டும் முயற்சிக்கவும்."
+ },
+ {
+  "text_code": "are_you_sure_want_to_go_back",
+  "text_value": "நீங்கள் நிச்சயமாக திரும்பிச் செல்ல விரும்புகிறீர்களா?"
+ },
+ {
+  "text_code": "view_notice_label",
+  "text_value": "அறிவிப்பைக் காண்க"
+ },
+ {
+  "text_code": "notice_related_service",
+  "text_value": "டிடிபி அறிவிப்பு தொடர்பான சேவைகள்"
+ },
+ {
+  "text_code": "notice_payment_lbl",
+  "text_value": "கட்டணம் செலுத்துதல்"
+ },
+ {
+  "text_code": "no_receipt_found_err",
+  "text_value": "ரசீது எதுவும் கிடைக்கவில்லை"
+ },
+ {
+  "text_code": "lbl_tax_from",
+  "text_value": "இருந்து வரி"
+ },
+ {
+  "text_code": "lbl_tax_amount",
+  "text_value": "வரி தொகை"
+ },
+ {
+  "text_code": "lbl_penality",
+  "text_value": "தண்டனை"
+ },
+ {
+  "text_code": "lbl_surcharge",
+  "text_value": "கூடுதல் கட்டணம்"
+ },
+ {
+  "text_code": "lbl_rebate",
+  "text_value": "தள்ளுபடி"
+ },
+ {
+  "text_code": "lbl_interest",
+  "text_value": "ஆர்வம்"
+ },
+ {
+  "text_code": "lbl_additional_amount",
+  "text_value": "கூடுதல் தொகை"
+ },
+ {
+  "text_code": "btn_calculate_tax",
+  "text_value": "வரியைக் கணக்கிடுங்கள்"
+ },
+ {
+  "text_code": "lbl_select_tax_mode",
+  "text_value": "வரி பயன்முறையைத் தேர்ந்தெடுக்கவும்"
+ },
+ {
+  "text_code": "lbl_Owner_Current_Tax_Detail",
+  "text_value": "உரிமையாளர் & தற்போதைய வரி விவரம்"
+ },
+ {
+  "text_code": "lbl_enter_type",
+  "text_value": "வகையை உள்ளிடவும்"
+ },
+ {
+  "text_code": "lbl_enter_financer_name",
+  "text_value": "நிதி பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "lbl_enter_financer_address",
+  "text_value": "நிதி முகவரியை உள்ளிடவும்"
+ },
+ {
+  "text_code": "errorMsg_ImgUpload",
+  "text_value": "சுயவிவரப் படத்தை பதிவேற்ற முடியவில்லை, தயவுசெய்து சிறிது நேரம் கழித்து"
+ },
+ {
+  "text_code": "enter_corectName",
+  "text_value": "சரியான பெயரை உள்ளிடவும்"
+ },
+ {
+  "text_code": "allow_location",
+  "text_value": "இந்த அம்சத்திற்கான இருப்பிட அனுமதியை நீங்கள் அனுமதிக்க வேண்டும், தயவுசெய்து அமைப்புகளுக்குச் சென்று இருப்பிட அனுமதிகளை இயக்கவும்"
+ },
+ {
+  "text_code": "allow_settings",
+  "text_value": "அமைப்புகள்"
+ },
+ {
+  "text_code": "allow_Gps",
+  "text_value": "இருப்பிட சேவைகள் அல்லது ஜி.பி.எஸ்ஸை இயக்கவும்"
+ },
+ {
+  "text_code": "title_lbl_now",
+  "text_value": "இப்போது"
+ },
+ {
+  "text_code": "title_lbl_later",
+  "text_value": "பின்னர்"
+ },
+ {
+  "text_code": "mssg_lbl_succChangeMpin",
+  "text_value": "நீங்கள் வெற்றிகரமாக MPIN ஐ மாற்றினீர்கள்"
+ },
+ {
+  "text_code": "mssg_lbl_enterCorrectOldMpin",
+  "text_value": "சரியான பழைய MPIN ஐ உள்ளிடவும்"
+ },
+ {
+  "text_code": "mssg_lbl_mpinNotLessThan6",
+  "text_value": "புதிய MPIN 6 இலக்கங்களுக்கு குறையாது"
+ },
+ {
+  "text_code": "mssg_lbl_enterConfirmMpin",
+  "text_value": "MPIN ஐ உறுதிப்படுத்தவும்"
+ },
+ {
+  "text_code": "err_lbl_confirmMpin",
+  "text_value": "OTP 6 இலக்கங்களுக்கு குறையாது என்பதை உறுதிப்படுத்தவும்"
+ },
+ {
+  "text_code": "err_lbl_shouldSameMpin",
+  "text_value": "புதிய MPIN மற்றும் உறுதிப்படுத்த MPIN ஒரே மாதிரியாக இருக்க வேண்டும்"
+ },
+ {
+  "text_code": "err_lbl_oldMpinNotLess6",
+  "text_value": "பழைய MPIN 6 இலக்கங்களுக்கு குறையாது"
+ },
+ {
+  "text_code": "label_hpt_endorsement",
+  "text_value": "அனுமான ஒப்புதல்"
+ },
+ {
+  "text_code": "label_ministryNotification",
+  "text_value": "அமைச்சக அறிவிப்பு"
+ },
+ {
+  "text_code": "label_receivedShared",
+  "text_value": "அமைச்சக அறிவிப்பு"
+ },
+ {
+  "text_code": "Open_gallery",
+  "text_value": "திறந்த கேலரி"
+ },
+ {
+  "text_code": "Open_document",
+  "text_value": "திறந்த ஆவணம்"
+ },
+ {
+  "text_code": "Choose_Option",
+  "text_value": "விருப்பத்தைத் தேர்வுசெய்க"
+ },
+ {
+  "text_code": "vehicle_Category",
+  "text_value": "வாகன வகை"
+ },
+ {
+  "text_code": "msg_delete_notificationSuccess",
+  "text_value": "அறிவிப்பு வெற்றிகரமாக நீக்கப்பட்டது"
+ },
+ {
+  "text_code": "lbl_not_applicable",
+  "text_value": "கிடைக்கவில்லை | பொருந்தும்"
+ },
+ {
+  "text_code": "state_err_msg",
+  "text_value": "செல்லுபடியாகும் ஆர்.சி எண்ணை உள்ளிடவும்"
+ },
+ {
+  "text_code": "vehicle_trans_deleted",
+  "text_value": "வாகன பரிவர்த்தனை வெற்றிகரமாக நீக்கப்பட்டது"
+ },
+ {
+  "text_code": "dl_transc_deleted",
+  "text_value": "டி.எல் பரிவர்த்தனை வெற்றிகரமாக நீக்கப்பட்டது"
+ },
+ {
+  "text_code": "dl_alert_header",
+  "text_value": "ஓட்டுநர் உரிம எச்சரிக்கைகள்"
+ },
+ {
+  "text_code": "successfully_take_Screen_Shot",
+  "text_value": "ஸ்கிரீன் ஷாட்டை வெற்றிகரமாக எடுத்துக் கொள்ளுங்கள்"
+ },
+ {
+  "text_code": "my_rc",
+  "text_value": "எனது ஆர்சி"
+ },
+ {
+ "text_code":"sosRegisterMobileNoError",
+ "text_value":"பதிவுசெய்யப்பட்ட மொபைல் எண் Sos தொடர்பு தொலைபேசி எண்ணாக இருக்கக்கூடாது"
+ },
+ {
+ "text_code":"appleMap",
+ "text_value":"ஆப்பிள் மாப்ஸ்"
+ },
+ {
+ "text_code":"mail_id_not_configure",
+ "text_value":"இந்தச் சாதனத்தில் அஞ்சல் ஐடி கட்டமைக்கப்படவில்லை"
+ },
+ {
+ "text_code":"googleMap",
+ "text_value":"கூகுளை மாப்ஸ்"
+ },
+ {
+ "text_code":"lbl_accusedName",
+ "text_value":"குற்றம் சாட்டப்பட்ட பெயர்"
+ },
+ {
+ "text_code":"lbl_infoCorrectedData",
+ "text_value":"தகவல் திருத்தப்பட்ட தரவு"
+ },
+ {
+ "text_code":"lbl_infoCorrectedDate",
+ "text_value":"தகவல் திருத்தப்பட்ட தேதி"
+ },
+ {
+ "text_code":"lbl_congnizanceData",
+ "text_value":"அறிவாற்றல் மறுக்கப்பட்ட தரவு"
+ },
+ {
+ "text_code":"lbl_cnr",
+ "text_value":"சி.என்.ஆர்"
+ },
+ {
+ "text_code":"lbl_judgeName",
+ "text_value":"நீதிபதியின் பெயர்"
+ },
+ {
+ "text_code":"lbl_congnizanceDate",
+ "text_value":"அறிவாற்றல் தேதி"
+ }
+
+]

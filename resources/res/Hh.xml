@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginTop="15dp">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/nexgenarrow" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="15dp">
+                        <ImageView android:id="@+id/backButton" android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/mvvm_back"/>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:id="@+id/nexgenlogo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_toRightOf="@+id/nexgenarrow">
+                        <ImageView android:layout_width="160dp" android:layout_height="50dp" android:src="@drawable/nextgenv1"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentRight="true">
+                        <ImageView android:visibility="gone" android:layout_width="35dp" android:layout_height="35dp" android:layout_marginRight="20dp" android:src="@drawable/nexgenallarm"/>
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+            <TextView android:textSize="30sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_create_new" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="70dp" android:text="@string/create_new" android:fontFamily="@font/nexgenttf"/>
+            <TextView android:textSize="35sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_sec_mpin" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:text="@string/sec_pin_" android:fontFamily="@font/nexgenttf"/>
+            <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/gray" android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="@+id/tv_enter_mpin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="20dp" android:layout_marginRight="20dp" android:text="@string/please_enter_pin" android:fontFamily="@font/nexgenttf"/>
+            <FrameLayout android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp">
+                <EditText android:id="@+id/mpinEditText" android:background="@drawable/sign_in_back" android:padding="15dp" android:longClickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:hint="@string/six_pin" android:maxLength="6" android:digits="0123456789" android:inputType="numberPassword" android:imeOptions="actionDone" android:textIsSelectable="false"/>
+                <ImageView android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/showmpin" android:padding="15dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginRight="35dp" android:src="@drawable/mvvm_visibility"/>
+            </FrameLayout>
+            <FrameLayout android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp">
+                <EditText android:id="@+id/confirmMpinEt" android:background="@drawable/sign_in_back" android:padding="15dp" android:longClickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:hint="@string/confirm_six_pin" android:maxLength="6" android:digits="0123456789" android:inputType="numberPassword" android:imeOptions="actionDone" android:textIsSelectable="false"/>
+                <ImageView android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/confirmShowmpin" android:padding="15dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginRight="35dp" android:src="@drawable/mvvm_visibility"/>
+            </FrameLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@+id/submit" android:background="@drawable/sign_in_new" android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginLeft="20dp" android:layout_marginTop="25dp" android:layout_marginRight="20dp">
+                <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/tv_submit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/submit" android:fontFamily="@font/nexgenttf"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:background="@drawable/sign_in_back" android:visibility="invisible" android:layout_width="220dp" android:layout_height="50dp" android:layout_marginBottom="10dp" android:layout_centerHorizontal="true">
+            <TextView android:textSize="20sp" android:textStyle="bold" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/_continue_sign_in" android:fontFamily="sans-serif-light"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

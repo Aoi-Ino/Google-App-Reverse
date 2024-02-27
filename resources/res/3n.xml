@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="@+id/mHeader" layout="@layout/mvvm_header"/>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/bg_style" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="70dp">
+        <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/_15sdp">
+            <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_1sdp">
+                <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="@dimen/_14ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/select_service" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:fontFamily="@font/poppins_regular"/>
+                <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:padding="1dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="@dimen/_13sdp" android:textStyle="bold" android:textColor="@color/never_mix" android:id="@+id/tv_cl_Details" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/_2sdp" android:layout_weight="1"/>
+                    <androidx.cardview.widget.CardView android:id="@+id/round_card_view" android:visibility="visible" android:layout_width="50dp" android:layout_height="50dp" android:layout_marginLeft="0dp" android:layout_centerHorizontal="true" app:cardCornerRadius="30dp">
+                        <ImageView android:id="@+id/iv_image" android:layout_width="50dp" android:layout_height="50dp"/>
+                    </androidx.cardview.widget.CardView>
+                </LinearLayout>
+            </LinearLayout>
+            <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_dl_no" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/conductor_driving_license_number" android:fontFamily="@font/nexgenttf"/>
+            <TextView android:textSize="13sp" android:textColorHint="@color/dl_service_color" android:id="@+id/dl_number" android:background="@drawable/edit_text_style" android:padding="10dp" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="8dp" android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890" android:inputType="textCapCharacters"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/linear_mob" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp">
+                    <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/txt_mob_number" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/mobile_no" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                    <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="@color/never_mix" android:gravity="top|right|center_vertical|center_horizontal|center" android:id="@+id/update_mob" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/update2" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+                <androidx.appcompat.widget.AppCompatEditText android:textSize="13dp" android:id="@+id/mob_number" android:background="@drawable/edit_text_style" android:padding="10dp" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="8dp" android:hint="@string/enter_mobile_number_hint" android:maxLength="10" android:inputType="number"/>
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/termCndLl" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:minHeight="50dp">
+                    <CheckBox android:gravity="top" android:id="@+id/i_have_terms" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="false"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="top" android:id="@+id/agreeTermCond" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/agree_terms_cond"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <LinearLayout android:orientation="horizontal" android:paddingLeft="5dp" android:paddingRight="5dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="@dimen/_20sdp" android:layout_marginRight="10dp" android:layout_marginBottom="15dp">
+            <androidx.appcompat.widget.AppCompatButton android:textSize="12dp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/reset_button" android:background="@drawable/button_style" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="5dp" android:text="@string/reset" android:layout_weight="1" android:textAllCaps="false" android:fontFamily="@font/nexgenttf"/>
+            <androidx.appcompat.widget.AppCompatButton android:textSize="12dp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/generate_otp" android:background="@drawable/button_style" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="5dp" android:layout_marginBottom="5dp" android:text="@string/generate_otp" android:layout_weight="1" android:textAllCaps="false" android:fontFamily="@font/nexgenttf" android:layout_marginEnd="5dp"/>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

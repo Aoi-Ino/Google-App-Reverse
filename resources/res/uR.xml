@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/grey" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="@+id/topHeader" layout="@layout/vahan_echallan_header"/>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="10dp">
+        <TextView android:textSize="@dimen/_14ssp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/choose_language" android:padding="10dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_5sdp" android:layout_marginTop="5dp" android:text="Choose Language" android:fontFamily="@font/nexgenttf"/>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/language_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/recyclerview" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1"/>
+            <Button android:textSize="@dimen/_13sdp" android:textColor="@color/white" android:gravity="center" android:id="@+id/btn_continue" android:background="@drawable/sign_in_new" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_5sdp" android:layout_marginRight="@dimen/_5sdp" android:text="@string/continuee" android:layout_weight="0" android:textAllCaps="false"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

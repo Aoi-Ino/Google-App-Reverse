@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item>
+        <layer-list>
+            <item>
+                <shape>
+                    <gradient android:startColor="#0fb1fa" android:endColor="#0fb1fa" android:angle="90" android:type="linear"/>
+                    <corners android:radius="10dp"/>
+                    <margin android:left="5dp"/>
+                    <padding android:left="3dp" android:top="3dp" android:right="10dp" android:bottom="3dp"/>
+                </shape>
+            </item>
+            <item android:right="4dp">
+                <bitmap android:gravity="right" android:src="@drawable/mvvm_down"/>
+            </item>
+        </layer-list>
+    </item>
+</selector>

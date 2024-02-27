@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView android:id="@+id/nestedScrollView" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginTop="15dp">
+                        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                            <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/nexgenarrow" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="15dp">
+                                <ImageView android:id="@+id/backButton" android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/mvvm_back"/>
+                            </LinearLayout>
+                            <LinearLayout android:orientation="horizontal" android:id="@+id/nexgenlogo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_toRightOf="@+id/nexgenarrow">
+                                <ImageView android:layout_width="160dp" android:layout_height="50dp" android:src="@drawable/nextgenv1"/>
+                            </LinearLayout>
+                            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentRight="true">
+                                <ImageView android:visibility="gone" android:layout_width="35dp" android:layout_height="35dp" android:layout_marginRight="20dp" android:src="@drawable/nexgenallarm"/>
+                            </LinearLayout>
+                        </RelativeLayout>
+                    </LinearLayout>
+                    <TextView android:textSize="30sp" android:textColor="@color/black" android:id="@+id/tv_create_account" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:text="@string/create_account" android:fontFamily="sans-serif-light"/>
+                    <TextView android:textSize="30sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_fast_easy" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:text="@string/fast_easy" android:fontFamily="sans-serif-light"/>
+                    <Spinner android:id="@+id/select_spinner" android:background="@drawable/spinner_layout_signup" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:layout_marginRight="20dp" android:spinnerMode="dialog"/>
+                    <EditText android:textSize="14dp" android:id="@+id/full_name" android:background="@drawable/sign_in_back" android:padding="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:layout_marginRight="20dp" android:hint="@string/full_name" android:maxLength="50" android:digits=" qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM." android:inputType="textCapCharacters"/>
+                    <EditText android:textSize="14dp" android:id="@+id/mobile_number" android:background="@drawable/sign_in_back" android:padding="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:layout_marginRight="20dp" android:hint="@string/mobile_no" android:maxLength="10" android:digits="0987654321" android:inputType="phone"/>
+                    <FrameLayout android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+                        <EditText android:textSize="14dp" android:id="@+id/mpin" android:background="@drawable/sign_in_back" android:padding="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:hint="@string/set_six_pin" android:maxLength="6" android:digits="1023456789" android:inputType="numberPassword"/>
+                        <ImageView android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/showmpin" android:padding="15dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginRight="35dp" android:src="@drawable/mvvm_visibility"/>
+                    </FrameLayout>
+                    <FrameLayout android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+                        <EditText android:textSize="14dp" android:id="@+id/confirmMpin" android:background="@drawable/sign_in_back" android:padding="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:hint="@string/confirm_six_pin" android:maxLength="6" android:digits="1023456789" android:inputType="numberPassword"/>
+                        <ImageView android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/confirmShowMpin" android:padding="15dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginRight="35dp" android:src="@drawable/mvvm_visibility"/>
+                    </FrameLayout>
+                    <EditText android:textSize="14dp" android:id="@+id/email" android:background="@drawable/sign_in_back" android:padding="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:layout_marginRight="20dp" android:hint="@string/email_id" android:maxLength="35" android:digits="QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuioplkjhgfdsazxcvbnm1234567890@._" android:inputType="textEmailAddress"/>
+                    <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@+id/submit" android:background="@drawable/sign_in_new" android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginLeft="20dp" android:layout_marginTop="25dp" android:layout_marginRight="20dp" android:layout_marginBottom="25dp">
+                        <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/tv_submit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/submit" android:fontFamily="sans-serif-light"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:id="@+id/sign_up" android:background="@drawable/sign_in_new_back" android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:layout_marginBottom="25dp">
+                        <TextView android:textSize="16sp" android:textColor="@color/gray" android:gravity="center" android:layout_gravity="center" android:id="@+id/tv_already_account" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/already_have_account" android:fontFamily="@font/nexgenttf"/>
+                        <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/never_mix" android:gravity="center" android:layout_gravity="center" android:id="@+id/sign_in" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sign_in" android:fontFamily="@font/nexgenttf"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="bottom" android:orientation="vertical" android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+                <TextView android:textSize="16sp" android:gravity="bottom|center_vertical|center_horizontal|center" android:layout_gravity="bottom" android:id="@+id/signUpTermCond" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="20dp" android:layout_marginRight="20dp" android:layout_marginBottom="20dp" android:text="@string/agree_terms" android:fontFamily="@font/nexgenttf"/>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

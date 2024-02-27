@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/service_withdrawn_bg" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_8sdp" android:baselineAligned="false">
+        <ImageView android:layout_gravity="end" android:id="@+id/editIv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:src="@drawable/pencil" android:scaleType="fitCenter" android:layout_marginHorizontal="10dp"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:baselineAligned="false" android:weightSum="2">
+            <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="1">
+                <TextView android:textSize="16sp" android:textColor="#071219" android:ellipsize="end" android:gravity="center" android:id="@+id/enrollmentNo" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/enrollment_no" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+                <TextView android:textSize="14sp" android:textColor="#929394" android:ellipsize="end" android:gravity="center" android:id="@+id/enrollmentNoValue" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/enrollment_no" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="1" android:layout_marginStart="5dp">
+                <TextView android:textSize="16sp" android:textColor="#071219" android:ellipsize="end" android:gravity="center" android:id="@+id/enrollmentDate" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/enrollment_date" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+                <TextView android:textSize="14sp" android:textColor="#929394" android:ellipsize="end" android:gravity="center" android:id="@+id/enrollmentDateValue" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/enrollment_date" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:baselineAligned="false" android:weightSum="2">
+            <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="1">
+                <TextView android:textSize="16sp" android:textColor="#071219" android:ellipsize="end" android:gravity="center" android:id="@+id/certificateNo" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/certificate_no" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+                <TextView android:textSize="14sp" android:textColor="#929394" android:ellipsize="end" android:gravity="center" android:id="@+id/certificateNoValue" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/certificate_no" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="1" android:layout_marginStart="5dp">
+                <TextView android:textSize="16sp" android:textColor="#071219" android:ellipsize="end" android:gravity="center" android:id="@+id/certificateDate" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/certificate_date" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+                <TextView android:textSize="14sp" android:textColor="#929394" android:ellipsize="end" android:gravity="center" android:id="@+id/certificateDateValue" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/certificate_date" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:baselineAligned="false" android:weightSum="2">
+            <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="1">
+                <TextView android:textSize="16sp" android:textColor="#071219" android:ellipsize="end" android:gravity="center" android:id="@+id/trainedFrom" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/trained_from" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+                <TextView android:textSize="14sp" android:textColor="#929394" android:ellipsize="end" android:gravity="center" android:id="@+id/trainedFromValue" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/trained_from" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="1" android:layout_marginStart="5dp">
+                <TextView android:textSize="16sp" android:textColor="#071219" android:ellipsize="end" android:gravity="center" android:id="@+id/trainedTo" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/trained_to" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+                <TextView android:textSize="14sp" android:textColor="#929394" android:ellipsize="end" android:gravity="center" android:id="@+id/trainedToValue" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/trained_to" android:maxLines="2" android:fontFamily="@font/roboto_medium"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="top|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/dashboard" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="300dp" android:minHeight="350dp">
+    <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="30dp">
+        <ImageView android:id="@+id/images_upload" android:layout_width="250dp" android:layout_height="300dp"/>
+    </LinearLayout>
+    <com.nic.mparivahan.MyTextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/pop_up_close" android:background="@drawable/close_drawle" android:padding="12dp" android:layout_width="150dp" android:layout_height="match_parent" android:layout_margin="20dp" android:layout_marginTop="40dp" android:text="Close"/>
+</LinearLayout>

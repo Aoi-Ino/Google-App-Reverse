@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="top|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="@+id/multi_layout" android:background="@drawable/multi_serv_background" android:padding="10dp" android:layout_width="100dp" android:layout_height="110dp" android:layout_margin="10dp" android:maxWidth="50dp">
+    <CheckBox android:id="@+id/service_check_box" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <ImageView android:id="@+id/rightStatePin" android:layout_width="35dp" android:layout_height="25dp" android:src="@drawable/ic_learnerr"/>
+    <TextView android:textSize="@dimen/_10sdp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/service_txt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:fontFamily="sans-serif-light"/>
+</LinearLayout>

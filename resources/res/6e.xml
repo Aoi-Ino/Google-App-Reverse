@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/parent_layout" android:layout_width="match_parent" android:layout_height="120dp" android:weightSum="4">
+        <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="vertical" android:padding="5dp" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/paytax_blue" android:padding="5dp" android:layout_width="72dp" android:layout_height="87dp" android:layout_margin="5dp">
+                <ImageView android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/ic_vehicle_vahan" app:tint="@color/white"/>
+                <com.nic.mparivahan.MyTextView android:textSize="8dp" android:textColor="@color/white" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/vehicledetails" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Vehicle Details" android:fontFamily="@font/nexgenttf"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:padding="5dp" android:layout_width="0dp" android:layout_height="match_parent" android:layout_margin="5dp" android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="72dp" android:layout_height="87dp" android:layout_margin="5dp">
+                <ImageView android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/fee_vahan"/>
+                <com.nic.mparivahan.MyTextView android:textSize="8dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/feeDetails" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Fee Details" android:fontFamily="@font/nexgenttf"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:padding="5dp" android:layout_width="0dp" android:layout_height="match_parent" android:layout_margin="5dp" android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="72dp" android:layout_height="87dp" android:layout_margin="5dp">
+                <ImageView android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/dms_doc"/>
+                <com.nic.mparivahan.MyTextView android:textSize="8dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/dms" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="DMS (Upload Docs)" android:fontFamily="@font/nexgenttf"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:id="@+id/app_ment" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="72dp" android:layout_height="87dp" android:layout_margin="5dp">
+                <ImageView android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/appoinment_icon"/>
+                <com.nic.mparivahan.MyTextView android:textSize="8dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/slotbooking" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="Appointment Booking" android:fontFamily="@font/nexgenttf"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

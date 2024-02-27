@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginTop="10dp">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/nexgenarrow" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="15dp">
+                        <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/mvvm_back"/>
+                        <TextView android:textSize="@dimen/_14ssp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/vahan_service_lable" android:layout_width="match_parent" android:layout_height="40dp" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginRight="@dimen/_16sdp" android:maxLines="1" android:layout_toRightOf="@+id/mvvm_back" android:layout_centerVertical="true" android:fontFamily="@font/poppins_regular" android:layout_marginHorizontal="@dimen/_16sdp" style="@style/TextAppearance.AppCompat.Body2"/>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:id="@+id/nexgenlogo" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_toRightOf="@+id/nexgenarrow">
+                        <ImageView android:layout_width="160dp" android:layout_height="55dp" android:src="@drawable/nextgenv1"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentRight="true">
+                        <ImageView android:visibility="invisible" android:layout_width="35dp" android:layout_height="35dp" android:layout_marginRight="20dp" android:src="@drawable/nexgenallarm"/>
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="1000dp" android:layout_marginTop="10dp" android:layout_marginBottom="40dp">
+                <LinearLayout android:orientation="vertical" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_14ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_my_vehicle" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="Create Virtual RC"/>
+                    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <com.nic.mparivahan.MyTextView android:textSize="@dimen/_13ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_vehicle_no" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Vehicle No."/>
+                        <EditText android:textSize="14dp" android:id="@+id/et_search_rc" android:background="@drawable/sign_in_back" android:paddingLeft="10dp" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginTop="5dp" android:hint="@string/enter_rc_no_for_pending_transaction" android:maxLines="1" android:singleLine="true" android:maxLength="10" android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890" android:inputType="textCapCharacters" android:imeOptions="actionNext" android:fontFamily="@font/lato"/>
+                        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.nic.mparivahan.MyTextView android:textSize="@dimen/_13ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_chassi_no" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="Chassis No. (Last 5 Digits)"/>
+                            <EditText android:textSize="14dp" android:id="@+id/chassis_no_et" android:background="@drawable/sign_in_back" android:paddingLeft="10dp" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginTop="5dp" android:hint="Enter last five digits" android:singleLine="true" android:maxLength="5" android:digits="1234567890qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM.*~-/" android:inputType="textCapCharacters" android:imeOptions="actionNext" android:fontFamily="@font/lato"/>
+                            <com.nic.mparivahan.MyTextView android:textSize="@dimen/_13ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_engin_no" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Engine No. (Last 5 Digits)"/>
+                            <EditText android:textSize="14dp" android:id="@+id/engin_no" android:background="@drawable/sign_in_back" android:paddingLeft="10dp" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginTop="5dp" android:hint="Enter last five digits" android:singleLine="true" android:maxLength="5" android:digits="0987654321qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM.*~-" android:inputType="textCapCharacters" android:imeOptions="actionDone" android:fontFamily="@font/lato"/>
+                            <com.nic.mparivahan.MyTextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/createvirtualrc" android:background="@drawable/sign_in_new" android:paddingLeft="20dp" android:paddingRight="20dp" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginTop="20dp" android:text="Add My Vehicle(s)" android:fontFamily="sans-serif-light"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@+id/virtualrc_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_13ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_my_vehicle_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:text="My Virtual RC(s)" style="@style/TextAppearance.AppCompat.Body2"/>
+                    <androidx.recyclerview.widget.RecyclerView android:id="@+id/rec_rc_recycler" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@+id/alerts_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_13ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_alert_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:text="Alert" style="@style/TextAppearance.AppCompat.Body2"/>
+                    <androidx.recyclerview.widget.RecyclerView android:id="@+id/alerst_recycle_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

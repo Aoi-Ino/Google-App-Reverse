@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="assume_strong_biometrics_models">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </array>
+    <array name="blood_group">
+        <item>Don&apos;t know</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+    <array name="category_status">
+        <item>Select Category</item>
+        <item>General</item>
+        <item>SC</item>
+        <item>ST</item>
+        <item>OBC</item>
+    </array>
+    <array name="challan_related">
+        <item>Select Service</item>
+        <item>Challan Status</item>
+        <item>Challan Payment</item>
+        <item>Verify Payment Status</item>
+        <item>Print Challan</item>
+        <item>Print Receipt</item>
+    </array>
+    <array name="complaints_type">
+        <item>Select Category</item>
+        <item>Search related complaint</item>
+        <item>Virtual documents related complaint</item>
+        <item>Transport services related complaint</item>
+    </array>
+    <array name="criminal_history">
+        <item>Select Criminal History</item>
+        <item>Yes</item>
+        <item>No</item>
+    </array>
+    <array name="crypto_fingerprint_fallback_prefixes">
+    </array>
+    <array name="crypto_fingerprint_fallback_vendors">
+        <item>samsung</item>
+    </array>
+    <array name="delay_showing_prompt_models">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </array>
+    <array name="district_items">
+        <item>Select District</item>
+    </array>
+    <array name="dl_data">
+        <item>Select</item>
+        <item>Duplicate DL</item>
+        <item>Renewal of DL</item>
+    </array>
+    <array name="driving_licences">
+        <item>Select Service</item>
+        <item>Issue of Duplicate DL</item>
+        <item>Renewal of DL</item>
+        <item>Change of Address in DL</item>
+        <item>Replacement of DL</item>
+        <item>DL Extract</item>
+        <item>International Driving Permit</item>
+        <item>Application Status</item>
+        <item>Update Mobile Number</item>
+        <item>Print Reciept</item>
+    </array>
+    <array name="education_qualification">
+        <item>Select Education Qualification</item>
+        <item>Illiterate</item>
+        <item>Below 8TH</item>
+        <item>8TH Passed</item>
+        <item>10TH Standard or Equivalent</item>
+        <item>ITI/Certificate Course</item>
+        <item>10+2 Or Equivalent</item>
+        <item>Diploma in any discipline</item>
+        <item>Graduate in any medical sciences</item>
+        <item>Graduate in non medical sciences</item>
+        <item>Post graduate in non medical sciences</item>
+        <item>Post graduate diploma in any discipline</item>
+        <item>Post graduate in any medical sciences</item>
+        <item>M.Phil in any discipline</item>
+        <item>Doctorate in any discipline</item>
+        <item>Not Specified/NA</item>
+    </array>
+    <array name="hide_fingerprint_instantly_prefixes">
+        <item>SM-A50</item>
+        <item>SM-G973</item>
+        <item>SM-G975</item>
+        <item>SM-G977</item>
+        <item>SM-G770</item>
+        <item>SM-N970</item>
+        <item>SM-N971</item>
+        <item>SM-N975</item>
+        <item>SM-N976</item>
+        <item>SM-N770</item>
+        <item>SC-03L</item>
+        <item>SC-04L</item>
+        <item>SC-05L</item>
+        <item>SC-01M</item>
+        <item>SCV41</item>
+        <item>SCV42</item>
+        <item>SCV45</item>
+    </array>
+    <array name="identity">
+        <item>Show Identity</item>
+        <item>Hide Identity</item>
+    </array>
+    <array name="india_states">
+        <item>Select State</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </array>
+    <array name="india_states1">
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </array>
+    <array name="keyguard_biometric_and_credential_exclude_vendors">
+    </array>
+    <array name="marr_status">
+        <item>Select Marital Status</item>
+        <item>Married</item>
+        <item>Un-married</item>
+    </array>
+    <array name="mparivahan_services">
+        <item>DL Mock Test</item>
+        <item>Nearest Pollution Checking Center</item>
+        <item>Nearest RTO</item>
+        <item>Salient Features</item>
+    </array>
+    <array name="place">
+        <item>Noida</item>
+        <item>Yamuna Exp..</item>
+        <item>Delhi</item>
+    </array>
+    <array name="reason">
+        <item>Select Reason</item>
+        <item>LOST</item>
+        <item>THEFT</item>
+        <item>TORN</item>
+        <item>OTHER</item>
+    </array>
+    <array name="rel_status">
+        <item>Select Religion</item>
+        <item>Hindu</item>
+        <item>Muslim</item>
+        <item>Sikh</item>
+        <item>Christian</item>
+        <item>Other</item>
+    </array>
+    <array name="relation_status">
+        <item>Select Relation</item>
+        <item>Father Name</item>
+        <item>Mother Name</item>
+        <item>Husband Name</item>
+        <item>Guardian Name</item>
+    </array>
+    <array name="report_ID">
+        <item>ID:#37564005</item>
+        <item>ID:#37563256</item>
+        <item>ID:#37562345</item>
+    </array>
+    <array name="report_traffic_violation_offence">
+        <item>Offence 1</item>
+        <item>Offence 2</item>
+        <item>Offence 3</item>
+        <item>Offence 4</item>
+    </array>
+    <array name="restrictedCountries">
+        <item>View The List Of Restricted Countries</item>
+    </array>
+    <array name="search_complaint">
+        <item>Select Sub Category</item>
+        <item>Vehicle</item>
+        <item>Driving Licence</item>
+        <item>Insurance</item>
+        <item>PUCC</item>
+    </array>
+    <array name="select">
+        <item>Select Sub Category</item>
+    </array>
+    <array name="selectionDefault">
+        <item>Select</item>
+    </array>
+    <array name="spinnerItems1">
+        <item>Select Duration</item>
+        <item>1 Day</item>
+        <item>7 Days</item>
+        <item>15 Days</item>
+        <item>1 Month</item>
+        <item>2 Months</item>
+        <item>3 Months</item>
+        <item>4 Months</item>
+        <item>5 Months</item>
+        <item>6 Months</item>
+        <item>1 year</item>
+    </array>
+    <array name="state_items">
+        <item>Select State</item>
+    </array>
+    <array name="steps">
+        <item>Beginning</item>
+        <item>Intermediate\10page</item>
+        <item>End</item>
+        <item>Post step</item>
+    </array>
+    <array name="tax_mode_array">
+        <item>Select Tax Mode</item>
+        <item>YEARLY</item>
+        <item>QUARTERLY</item>
+        <item>MONTHLY</item>
+    </array>
+    <array name="transport_service_complaint">
+        <item>Select Sub Category</item>
+        <item>Vehicle Related Services</item>
+        <item>Driving Licences Services</item>
+        <item>Challan Related Services</item>
+    </array>
+    <array name="vehicle_no">
+        <item>UP30T3906</item>
+        <item>UP30T3251</item>
+        <item>UP30T2354</item>
+    </array>
+    <array name="vehicle_related">
+        <item>Select Service</item>
+        <item>Issue of Duplicate RC</item>
+        <item>Change of Address in RC</item>
+        <item>Hypothecation Addition</item>
+        <item>Hypothecation Termination</item>
+        <item>Hypothecation Continuation</item>
+        <item>Issue of NOC</item>
+        <item>RC Particulars against Fee</item>
+        <item>Dispose Application</item>
+        <item>Application Status</item>
+        <item>Update Mobile Number</item>
+        <item>Print Receipt</item>
+        <item>Verify Payment Status</item>
+    </array>
+    <array name="virtual_complaint">
+        <item>Select Sub Category</item>
+        <item>Create Virtual RC</item>
+        <item>Create Virtual DL</item>
+        <item>Shared Virtual RC</item>
+        <item>Received Virtual RC</item>
+    </array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/my_nav" app:startDestination="@+id/mainActivity">
+    <activity android:label="activity_main" android:name="com.nic.mparivahan.MainActivity" android:id="@+id/mainActivity"/>
+    <fragment android:label="fragment_report_traffic_violation" android:name="com.nic.mparivahan.ReportTrafficViolationFragment" android:id="@+id/reportTrafficViolationFragment">
+        <action android:id="@+id/action_reportTrafficViolationFragment_to_mainActivity" app:destination="@+id/mainActivity"/>
+    </fragment>
+    <fragment android:label="fragment_complaint_list" android:name="com.nic.mparivahan.ComplaintListFragment" android:id="@+id/complaintListFragment">
+        <action android:id="@+id/action_complaintListFragment_to_reportTrafficViolationFragment" app:destination="@+id/reportTrafficViolationFragment"/>
+    </fragment>
+    <fragment android:label="fragment_complaint_detail" android:name="com.nic.mparivahan.ComplaintDetailFragment" android:id="@+id/complaintDetailFragment">
+        <action android:id="@+id/action_complaintDetailFragment_to_complaintListFragment" app:destination="@+id/complaintListFragment"/>
+    </fragment>
+</navigation>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginTop="10dp">
+            <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/nexgenarrow" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="15dp">
+                    <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/mvvm_back"/>
+                    <TextView android:textSize="@dimen/_14ssp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/vahan_service_lable" android:layout_width="match_parent" android:layout_height="40dp" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginRight="@dimen/_16sdp" android:maxLines="1" android:layout_toRightOf="@+id/mvvm_back" android:layout_centerVertical="true" android:fontFamily="@font/poppins_regular" android:layout_marginHorizontal="@dimen/_16sdp" style="@style/TextAppearance.AppCompat.Body2"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@+id/nexgenlogo" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_toRightOf="@+id/nexgenarrow">
+                    <ImageView android:layout_width="160dp" android:layout_height="55dp" android:src="@drawable/nextgenv1"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentRight="true">
+                    <ImageView android:visibility="gone" android:layout_width="35dp" android:layout_height="35dp" android:layout_marginRight="20dp" android:src="@drawable/nexgenallarm"/>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="10dp">
+            <LinearLayout android:orientation="vertical" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_14ssp" android:textColor="@color/black" android:id="@+id/tv_driv_lic" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_8sdp" android:text="@string/create_a_virtual_dl" android:fontFamily="@font/poppins_semi_bold"/>
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_13ssp" android:textColor="@color/black" android:id="@+id/tv_dl_no" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_20sdp" android:text="Driving Licence No" android:fontFamily="@font/robot_bold"/>
+                <EditText android:textSize="14dp" android:id="@+id/et_search_dl" android:background="@drawable/new_dl_search_bg" android:paddingLeft="15dp" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginTop="@dimen/_5sdp" android:hint="@string/enter_dl_number" android:maxLines="1" android:maxLength="18" android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-/ " android:inputType="textCapCharacters" android:fontFamily="@font/lato" android:importantForAutofill="2"/>
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_13ssp" android:textColor="@color/black" android:id="@+id/tv_dob" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp" android:text="Date of Birth" android:fontFamily="@font/robot_bold"/>
+                <LinearLayout android:gravity="center_vertical" android:layout_gravity="center" android:orientation="horizontal" android:background="@drawable/new_dl_search_bg" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginTop="@dimen/_5sdp" android:weightSum="2">
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="0dp" android:layout_height="match_parent" android:weightSum="1" android:layout_weight="1.7">
+                        <TextView android:textSize="14dp" android:gravity="center_vertical" android:id="@+id/date_textview" android:paddingLeft="10dp" android:paddingBottom="4dp" android:layout_width="0dp" android:layout_height="match_parent" android:text="DD - MM - YYYY" android:layout_weight="1"/>
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="7dp" android:weightSum="8" android:layout_weight="0.9">
+                            <EditText android:textSize="13sp" android:textColor="@color/text_color" android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/dobDateMain" android:focusable="true" android:layout_width="0dp" android:layout_height="match_parent" android:hint="@string/dd" android:maxLength="2" android:layout_weight="1" android:inputType="number" android:backgroundTint="@android:color/transparent"/>
+                            <TextView android:textSize="14dp" android:gravity="center" android:paddingBottom="4dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="-"/>
+                            <EditText android:textSize="13sp" android:textColor="@color/text_color" android:gravity="center" android:id="@+id/dobMonthMain" android:layout_width="0dp" android:layout_height="match_parent" android:hint="MM" android:maxLength="2" android:layout_weight="1.1" android:inputType="number" android:backgroundTint="@android:color/transparent"/>
+                            <TextView android:gravity="left|center_vertical|center_horizontal|center|start" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginBottom="4dp" android:text="-"/>
+                            <EditText android:textSize="13sp" android:textColor="@color/text_color" android:gravity="start" android:id="@+id/dobYearMain" android:layout_width="0dp" android:layout_height="match_parent" android:hint="@string/yyyy" android:maxLength="4" android:layout_weight="1.5" android:inputType="number" android:backgroundTint="@android:color/transparent"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="0.3">
+                        <ImageView android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/date_img" android:background="@drawable/c21" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@+id/ll_search_dl" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/_30sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/tv_add_dl" android:background="@drawable/sign_in_new" android:paddingLeft="15dp" android:paddingRight="15dp" android:layout_width="match_parent" android:layout_height="45dp" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/virtual_dl_view" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_13ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_my_vehicle_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:text="@string/my_virtual_dl"/>
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@+id/linear_parent" android:background="@drawable/alert_shape" android:layout_width="match_parent" android:layout_height="80dp" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp">
+                    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:orientation="vertical" android:id="@+id/inner_parent" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="5">
+                                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="6">
+                                    <TextView android:textSize="14dp" android:textStyle="bold" android:textColor="#5a5a5a" android:gravity="center_vertical" android:id="@+id/tv_vehicle_no" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="Driving Licence No" android:layout_weight="4" android:fontFamily="@font/nexgenttf"/>
+                                    <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="2">
+                                        <LinearLayout android:gravity="right" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="match_parent">
+                                            <ImageView android:id="@+id/refresh" android:background="@drawable/ref_button" android:layout_width="23dp" android:layout_height="20dp"/>
+                                        </LinearLayout>
+                                        <LinearLayout android:orientation="vertical" android:id="@+id/delet_icon" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginEnd="10dp">
+                                            <ImageView android:background="@drawable/delet_icon_dl" android:layout_width="18dp" android:layout_height="20dp" android:layout_marginStart="10dp" android:layout_marginEnd="10dp"/>
+                                        </LinearLayout>
+                                    </LinearLayout>
+                                </LinearLayout>
+                            </LinearLayout>
+                            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:weightSum="2">
+                                <TextView android:textSize="14dp" android:textStyle="bold" android:textColor="#071219" android:gravity="center_vertical" android:id="@+id/rc_number" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_weight="1" android:fontFamily="@font/nexgenttf"/>
+                                <TextView android:textSize="14dp" android:textStyle="bold" android:textColor="#09aeff" android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/viewdetails" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginLeft="5dp" android:layout_marginTop="5dp" android:layout_marginRight="5dp" android:text="View Virtual DL" android:layout_weight="1" android:fontFamily="@font/lato"/>
+                            </LinearLayout>
+                        </LinearLayout>
+                        <ProgressBar android:id="@+id/progress_bar" android:visibility="gone" android:layout_width="50dp" android:layout_height="50dp" android:layout_centerInParent="true" android:progressTintMode="src_in"/>
+                        <ImageView android:id="@+id/download_dl" android:background="@drawable/download_icon" android:visibility="gone" android:layout_width="55dp" android:layout_height="55dp" android:layout_centerInParent="true"/>
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <com.nic.mparivahan.MyTextView android:textSize="@dimen/_13ssp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_alert_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="20dp" android:text="Alert" style="@style/TextAppearance.AppCompat.Body2"/>
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/rc_new_design" android:paddingLeft="10dp" android:paddingTop="5dp" android:paddingRight="10dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="0dp" android:layout_marginTop="5dp" android:layout_marginRight="0dp" android:paddingHorizontal="10dp" android:paddingVertical="5dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

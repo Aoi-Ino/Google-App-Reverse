@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="2dp" app:cardCornerRadius="10dp">
+    <LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="30dp" android:layout_marginTop="10dp" android:layout_marginRight="30dp" android:layout_centerInParent="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.nic.mparivahan.MyTextView android:textSize="@dimen/_12sdp" android:textStyle="normal" android:textColor="@color/black" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/_8sdp" android:text="You have selected the following services for withdrawn"/>
+            <com.nic.mparivahan.MyTextView android:textSize="@dimen/_12ssp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:id="@+id/selectedServiceTv" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/_8sdp" android:text="Issue of Duplicate RC \10 Change of Address"/>
+            <com.nic.mparivahan.MyTextView android:textSize="@dimen/_12ssp" android:textStyle="normal" android:textColor="@color/txt_color_address" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/_8sdp" android:text="Selected item(s) will be disposed and cannot be recovered. Are you sure you want to proceed?"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="15dp">
+            <androidx.cardview.widget.CardView android:layout_gravity="center" android:id="@+id/dialogProceed" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="10dp" android:layout_weight="1" android:elevation="4dp" app:cardBackgroundColor="@color/light_cyan" app:cardCornerRadius="8dp">
+                <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/white" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:text="@string/proceed"/>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView android:gravity="center" android:layout_gravity="center" android:id="@+id/dialogCancel" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="10dp" android:layout_weight="1" android:elevation="4dp" app:cardBackgroundColor="#fb6d61" app:cardCornerRadius="8dp">
+                <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/white" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:text="@string/cancel"/>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

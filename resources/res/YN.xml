@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@drawable/custom_alert_shape" android:paddingLeft="@dimen/_10sdp" android:paddingTop="@dimen/_16sdp" android:paddingRight="@dimen/_10sdp" android:paddingBottom="@dimen/_16sdp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="20dp" android:layout_marginRight="20dp">
+    <LinearLayout android:orientation="vertical" android:id="@+id/parent_id" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/llTop" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="5" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+            <TextView android:textSize="@dimen/_14sdp" android:textStyle="bold" android:textColor="@color/vehicle_fit" android:gravity="center" android:id="@+id/rc_service" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Required Documents List" android:fontFamily="@font/nexgenttf"/>
+            <TextView android:textSize="@dimen/_10sdp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:id="@+id/service_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Issue of NOC" android:fontFamily="@font/nexgenttf"/>
+        </LinearLayout>
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/service_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_30sdp"/>
+        <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@+id/okbuttondismiss" android:background="@drawable/sign_in_new" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginLeft="20dp" android:layout_marginTop="@dimen/_140sdp" android:layout_marginRight="20dp">
+            <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/okbuttontextview" android:paddingLeft="5dp" android:paddingTop="5dp" android:paddingRight="5dp" android:paddingBottom="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ok_text" android:fontFamily="@font/nexgenttf"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/light_gray" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <include android:id="@+id/mvvmId" layout="@layout/mvvm_header"/>
+            <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:orientation="vertical" android:padding="20dp" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="@string/driving_license_no"/>
+                    <TextView android:textColor="@color/black" android:id="@+id/txt_dl_number" android:background="@drawable/sign_in_back" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:textAllCaps="true"/>
+                    <TextView android:textColor="@color/black" android:gravity="left|center_vertical|center_horizontal|center" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="Please enter your AADHAR or VID (Virtual ID)" android:justificationMode="1"/>
+                    <RadioGroup android:id="@+id/radioGroup_id" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <RadioButton android:textSize="14sp" android:id="@+id/adharRadio" android:layout_width="match_parent" android:layout_height="wrap_content" android:checked="true" android:text="@string/aadhar_no" android:layout_weight="1"/>
+                            <RadioButton android:textSize="14sp" android:id="@+id/vidRadio" android:layout_width="match_parent" android:layout_height="wrap_content" android:checked="false" android:text="@string/vid" android:layout_weight="1"/>
+                        </LinearLayout>
+                    </RadioGroup>
+                    <EditText android:textColor="@color/black" android:id="@+id/et_otp" android:background="@drawable/sign_in_back" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:hint="Enter your id no." android:textAllCaps="true"/>
+                    <LinearLayout android:orientation="horizontal" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp">
+                        <CheckBox android:gravity="center" android:id="@+id/decKyc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp"/>
+                        <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="top|left|center_vertical|center_horizontal|center" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginTop="15dp" android:text="@string/agree_with_terms"/>
+                    </LinearLayout>
+                    <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/black" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="@string/notes"/>
+                    <TextView android:textColor="@color/black" android:gravity="left|center_vertical|center_horizontal|center" android:padding="5dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="@string/mentioned_services" android:justificationMode="1"/>
+                    <TextView android:textColor="@color/black" android:gravity="left|center_vertical|center_horizontal|center" android:padding="5dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/accept_app" android:justificationMode="1"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="bottom" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="15dp" android:layout_alignParentBottom="true">
+            <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/txt_reset" android:background="@drawable/sign_in_new" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:minHeight="50dp" android:text="@string/reset" android:layout_weight="1"/>
+            <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/txt_service_submit" android:background="@drawable/sign_in_new" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:minHeight="50dp" android:text="@string/generate_otp" android:layout_weight="1"/>
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

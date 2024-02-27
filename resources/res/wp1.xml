@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="270dp" android:layout_height="wrap_content">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@+id/linear_parent" android:background="@drawable/nexgen_alerts_shape" android:paddingLeft="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="3dp" android:minHeight="150dp">
+                <TextView android:textSize="15dp" android:textStyle="bold" android:textColor="#071219" android:gravity="center_vertical" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="5dp" android:text="Alerts" android:fontFamily="@font/poppins_regular"/>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="45dp" android:weightSum="2">
+                    <TextView android:textSize="14dp" android:textStyle="bold" android:textColor="#071219" android:gravity="center" android:id="@+id/text" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:text="Vehicle No." android:layout_weight="1" android:fontFamily="@font/poppins_semi_bold"/>
+                    <TextView android:textSize="15dp" android:textStyle="bold" android:textColor="#15bbff" android:gravity="center" android:id="@+id/vehicle_text_alerts" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:fontFamily="@font/robot_bold"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                    <TextView android:textSize="15dp" android:background="#d6d9da" android:layout_width="match_parent" android:layout_height="1dp"/>
+                    <LinearLayout android:orientation="vertical" android:id="@+id/insurance_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="5" android:minWidth="35dp">
+                            <TextView android:textSize="13dp" android:textColor="#071219" android:gravity="center_vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:minHeight="30dp" android:text="Insurance" android:layout_weight="2" android:fontFamily="@font/nexgenttf"/>
+                            <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="@color/danger" android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/expire_insurance" android:paddingRight="5dp" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                            <TextView android:textSize="12dp" android:textColor="#071219" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Expiry Date:"/>
+                            <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/insurance_expire_date" android:paddingLeft="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:weightSum="5">
+                            <TextView android:textSize="11dp" android:textColor="#071219" android:gravity="center_vertical" android:id="@+id/insurace_company_name" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="5"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="5dp" android:weightSum="5">
+                            <TextView android:textSize="10dp" android:textColor="#6089b5" android:gravity="center_vertical" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="We will notify you 15 days before your expiry." android:layout_weight="5"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@+id/pucc_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="5dp">
+                        <TextView android:textSize="15dp" android:background="#d6d9da" android:visibility="gone" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp"/>
+                        <TextView android:textSize="15dp" android:background="#d6d9da" android:layout_width="match_parent" android:layout_height="1dp"/>
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="5">
+                            <TextView android:textSize="13dp" android:textColor="#071219" android:gravity="center_vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:minHeight="30dp" android:text="PUCC" android:layout_weight="2" android:fontFamily="@font/nexgenttf"/>
+                            <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="@color/danger" android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/pucc_expire_day" android:paddingRight="5dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="3" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                            <TextView android:textSize="12dp" android:textColor="#071219" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Expiry Date:"/>
+                            <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/pucc_expire_date" android:paddingLeft="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="5">
+                            <TextView android:textSize="10dp" android:textColor="@color/never_mix" android:gravity="center_vertical" android:id="@+id/get_pucc_center" android:paddingRight="5dp" android:visibility="gone" android:layout_width="0dp" android:layout_height="match_parent" android:text="Get Pucc Certificate before it expires(Click here to search nearby Pucc Centers)" android:layout_weight="5"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@+id/mvvtax_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="5dp" android:minWidth="50dp">
+                        <TextView android:textSize="15dp" android:background="#d6d9da" android:visibility="gone" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp"/>
+                        <TextView android:textSize="15dp" android:background="#d6d9da" android:layout_width="match_parent" android:layout_height="1dp"/>
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="5">
+                            <TextView android:textSize="13dp" android:textColor="#071219" android:gravity="center_vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:minHeight="30dp" android:text="MV Tax" android:layout_weight="2" android:fontFamily="@font/nexgenttf"/>
+                            <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="@color/danger" android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/tax_expire_day" android:paddingRight="5dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="3" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                            <TextView android:textSize="12dp" android:textColor="#071219" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Expiry Date:"/>
+                            <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/tax_expire_date" android:paddingLeft="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/nexgenttf"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="5">
+                            <TextView android:textSize="10dp" android:textColor="#6089b5" android:gravity="center_vertical" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginTop="5dp" android:text="We will notify you 15 days before your expiry." android:layout_weight="5"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <TextView android:background="#ebf2f5" android:layout_width="match_parent" android:layout_height="1dp"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <ProgressBar android:id="@+id/progress_bar" android:visibility="gone" android:layout_width="50dp" android:layout_height="50dp" android:layout_centerInParent="true" android:progressTintMode="src_in"/>
+    </RelativeLayout>
+</LinearLayout>

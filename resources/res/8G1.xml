@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.google.android.material.card.MaterialCardView android:orientation="vertical" android:id="@+id/container_card" android:layout_width="match_parent" android:layout_height="300dp" android:layout_margin="15dp" android:minHeight="300dp" android:layout_below="@+id/toolbar">
+        <LinearLayout android:orientation="vertical" android:id="@+id/top_view" android:layout_width="match_parent" android:layout_height="300dp" android:weightSum="10">
+            <FrameLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="9">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="105dp">
+                    <ImageView android:layout_width="match_parent" android:layout_height="105dp" android:src="@drawable/dlheader" android:scaleType="fitXY"/>
+                    <LinearLayout android:background="@drawable/dl_design" android:layout_width="match_parent" android:layout_height="32dp" android:layout_marginLeft="90dp" android:layout_marginTop="73dp"/>
+                </RelativeLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:weightSum="10">
+                    <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="8">
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="105dp">
+                            <ImageView android:padding="10dp" android:layout_width="80dp" android:layout_height="105dp" android:src="@drawable/emblem"/>
+                            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="30dp" android:layout_marginTop="5dp">
+                                <TextView android:textSize="17sp" android:textStyle="bold" android:textColor="@color/text_color" android:id="@+id/head1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="Government of NCT of Delhi"/>
+                                <TextView android:textSize="16sp" android:textColor="@color/text_color" android:id="@+id/head2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Indian Union Driving Licence" android:layout_below="@+id/head1"/>
+                                <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/text_color" android:id="@+id/head3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="25dp" android:text="BR3720100000050" android:layout_below="@+id/head2"/>
+                            </RelativeLayout>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="5dp" android:layout_marginTop="15dp" android:layout_marginRight="5dp" android:weightSum="10">
+                            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="3">
+                                    <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_weight="1">
+                                        <TextView android:textColor="@color/gray" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Date of Issue"/>
+                                        <TextView android:textStyle="bold" android:textColor="@color/text_color" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="20-12-2004"/>
+                                    </LinearLayout>
+                                    <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                                        <TextView android:textColor="@color/gray" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Validity(NT" android:textAlignment="center"/>
+                                        <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="20-12-2004" android:textAlignment="center"/>
+                                    </LinearLayout>
+                                    <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                                        <TextView android:textColor="@color/gray" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Validity" android:textAlignment="center"/>
+                                        <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="20-12-2004" android:textAlignment="center"/>
+                                    </LinearLayout>
+                                </LinearLayout>
+                                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="20dp">
+                                    <TextView android:textColor="@color/gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Name: "/>
+                                    <TextView android:textStyle="bold" android:textColor="@color/text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:text="Aman Kaushik"/>
+                                </LinearLayout>
+                                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="20dp">
+                                    <TextView android:textColor="@color/gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Son/Daughter/Wife of: "/>
+                                    <TextView android:textStyle="bold" android:textColor="@color/text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:text="Arivnd Kaushik"/>
+                                </LinearLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="match_parent" android:weightSum="8" android:layout_weight="2">
+                        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginTop="15dp" android:layout_weight="2">
+                            <LinearLayout android:gravity="center" android:background="@drawable/circle_white" android:layout_width="32dp" android:layout_height="32dp">
+                                <TextView android:textColor="@color/text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="BR"/>
+                            </LinearLayout>
+                            <LinearLayout android:gravity="center" android:background="@drawable/circle_white" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginLeft="15dp">
+                                <TextView android:textColor="@color/text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="NT"/>
+                            </LinearLayout>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="4">
+                            <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="4dp" android:layout_marginRight="4dp" android:src="@drawable/pic"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="2">
+                            <ImageView android:padding="20dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="4dp" android:layout_marginRight="4dp" android:src="@drawable/celentano_signature"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </FrameLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginLeft="5dp" android:layout_marginTop="10dp" android:layout_marginRight="5dp" android:weightSum="3" android:layout_weight="1">
+                <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_weight="2">
+                    <TextView android:textColor="@color/gray" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Date of Birth:-" android:textAlignment="center"/>
+                    <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:text="25-12-1993" android:textAlignment="center"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                    <TextView android:textColor="@color/gray" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="center"/>
+                    <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:text="O +" android:textAlignment="center"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                    <TextView android:textColor="@color/gray" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="center"/>
+                    <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:textAlignment="center"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/back_view" android:visibility="gone" android:layout_width="match_parent" android:layout_height="300dp" android:weightSum="6">
+            <FrameLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/dlheader" android:scaleType="fitXY"/>
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/text_color" android:id="@+id/head4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:text="BR3720100000050"/>
+                    <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/text_color" android:id="@+id/head5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="30dp" android:text="Badge No." android:layout_alignParentRight="true" android:layout_alignParentEnd="true"/>
+                </RelativeLayout>
+            </FrameLayout>
+            <LinearLayout android:layout_width="match_parent" android:layout_height="0dp" android:weightSum="10" android:layout_weight="3">
+                <RelativeLayout android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="4">
+                    <ImageView android:id="@+id/qr_image" android:padding="10dp" android:layout_width="140dp" android:layout_height="140dp" android:layout_marginLeft="10dp" android:src="@drawable/ic_qr_img"/>
+                    <LinearLayout android:gravity="center" android:id="@+id/circle" android:background="@drawable/circle1" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginRight="30dp" android:layout_alignParentRight="true" android:layout_centerInParent="true" android:layout_alignParentEnd="true">
+                        <TextView android:textColor="@color/text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="BR"/>
+                    </LinearLayout>
+                </RelativeLayout>
+                <LinearLayout android:orientation="vertical" android:padding="10dp" android:layout_width="0dp" android:layout_height="match_parent" android:weightSum="4" android:layout_weight="6">
+                    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:weightSum="10" android:layout_weight="1">
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="6">
+                            <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Class of vehicle" android:textAlignment="center"/>
+                        </LinearLayout>
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="4">
+                            <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Date of issue" android:textAlignment="center"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:weightSum="10" android:layout_weight="1">
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3">
+                            <ImageView android:padding="3dp" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/bike"/>
+                        </LinearLayout>
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3">
+                            <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:text="MCYL" android:textAlignment="center"/>
+                        </LinearLayout>
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="4">
+                            <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:text="22-08-2018" android:textAlignment="center"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:weightSum="10" android:layout_weight="1">
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3">
+                            <ImageView android:padding="3dp" android:layout_width="match_parent" android:layout_height="match_parent" app:srcCompat="@drawable/ic_car"/>
+                        </LinearLayout>
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3">
+                            <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:text="LMV" android:textAlignment="center"/>
+                        </LinearLayout>
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="4">
+                            <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:text="22-08-2018" android:textAlignment="center"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:weightSum="10" android:layout_weight="1">
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3"/>
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3"/>
+                        <LinearLayout android:background="@drawable/cell" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="4"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:weightSum="3" android:layout_weight="2">
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginLeft="10dp" android:layout_weight="0.75">
+                    <TextView android:textColor="@color/gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/aadhaar_no"/>
+                    <TextView android:textStyle="bold" android:textColor="@color/text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="VD83484937449"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:weightSum="2" android:layout_weight="1.25">
+                    <ImageView android:padding="3dp" android:layout_width="0dp" android:layout_height="match_parent" android:src="@drawable/celentano_signature" android:layout_weight="0.35"/>
+                    <ImageView android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginLeft="10dp" android:weightSum="2" android:layout_weight="1">
+                    <TextView android:textStyle="bold" android:textColor="@color/text_color" android:layout_width="0dp" android:layout_height="match_parent" android:text="Issuing Authority Sign" android:layout_weight="1"/>
+                    <TextView android:textStyle="bold" android:textColor="@color/text_color" android:gravity="center_horizontal" android:layout_width="0dp" android:layout_height="match_parent" android:text="Invalid Carriage" android:layout_weight="1" android:textAlignment="center"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</LinearLayout>

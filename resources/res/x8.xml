@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="bottom" android:layout_gravity="bottom" android:id="@+id/bottomSheet" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center" android:background="@drawable/corner_rectangle_bg_17" android:layout_width="match_parent" android:layout_height="64dp" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:weightSum="5">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/home_layout" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginTop="5dp" android:layout_weight="1">
+            <ImageView android:background="@drawable/home321" android:layout_width="23dp" android:layout_height="23dp"/>
+            <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/txt_home" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="30dp" android:text="Home" android:fontFamily="@font/lato"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/virtual_doc" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginTop="5dp" android:layout_weight="1">
+            <ImageView android:id="@+id/v_rc" android:background="@drawable/user_profile_white_line" android:layout_width="23dp" android:layout_height="23dp"/>
+            <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/txt_profile" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="30dp" android:text="My Profile" android:fontFamily="@font/lato"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/ll_payment_bottom" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginTop="5dp" android:layout_weight="1">
+            <androidx.appcompat.widget.AppCompatImageView android:background="@drawable/nearby_white" android:layout_width="23dp" android:layout_height="23dp" app:tint="@color/white"/>
+            <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/txt_near_by" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="30dp" android:text="Scan QR" android:fontFamily="@font/lato"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/ll_setting" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginTop="5dp" android:layout_weight="1">
+            <ImageView android:background="@drawable/setting" android:layout_width="23dp" android:layout_height="23dp"/>
+            <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/text_setting" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="30dp" android:text="Settings" android:fontFamily="@font/lato"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/help" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginTop="5dp" android:layout_weight="1">
+            <ImageView android:background="@drawable/support_hiv" android:layout_width="23dp" android:layout_height="23dp"/>
+            <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/text_help" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="30dp" android:text="Help" android:fontFamily="@font/lato"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

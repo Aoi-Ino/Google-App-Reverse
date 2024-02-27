@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="10dp" android:paddingRight="5dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="100dp" android:weightSum="2">
+        <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/myvehicle" android:background="@drawable/alert_shape" android:layout_width="145dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:minHeight="93dp">
+                <ImageView android:background="@drawable/vehicle_alert" android:layout_width="42dp" android:layout_height="34dp"/>
+                <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:id="@+id/my_virtual_rc" android:paddingBottom="3dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="My Virtual RC(s)" android:fontFamily="@font/lato" style="@style/TextAppearance.AppCompat.Body2"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="left|center_vertical|center_horizontal|center" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/mylicence" android:background="@drawable/alert_shape" android:layout_width="145dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:minHeight="93dp">
+                <ImageView android:background="@drawable/driving_licence_alert" android:layout_width="42dp" android:layout_height="34dp"/>
+                <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:id="@+id/my_virtual_dl" android:paddingBottom="3dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="My Virtual DL" android:fontFamily="@font/lato" style="@style/TextAppearance.AppCompat.Body2"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/alert_mes_layout" android:background="@drawable/alert_boarder" android:visibility="gone" android:layout_width="match_parent" android:layout_height="120dp" android:layout_margin="16dp">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:background="@drawable/bcircle" android:layout_width="10dp" android:layout_height="10dp" android:layout_marginLeft="10dp"/>
+            <TextView android:textSize="12dp" android:textColor="@color/blue_color" android:id="@+id/label_vrc_and_dl" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="You can place your Vehicle Registration Certificates and Driving Licence." android:fontFamily="@font/robot_bold"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+            <ImageView android:background="@drawable/bcircle" android:layout_width="10dp" android:layout_height="10dp" android:layout_marginLeft="10dp"/>
+            <TextView android:textSize="12dp" android:textColor="@color/blue_color" android:id="@+id/label_pull_rc_and_dl" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="Please use the facility available in this app to pull your RC/DL from Transport Repository." android:fontFamily="@font/robot_bold"/>
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:textSize="15dp" android:textStyle="bold" android:textColor="#071219" android:gravity="center_vertical" android:id="@+id/alerts_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_marginTop="5dp" android:text="Alerts" android:fontFamily="@font/poppins_regular"/>
+    <HorizontalScrollView android:scrollbars="none" android:layout_width="match_parent" android:layout_height="wrap_content" android:nestedScrollingEnabled="true">
+        <RelativeLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="15dp">
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/rc_new_design" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/alerst_recycle_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@+id/rc_new_design"/>
+        </RelativeLayout>
+    </HorizontalScrollView>
+    <com.smarteist.autoimageslider.SliderView android:id="@+id/slider" android:layout_width="match_parent" android:layout_height="180dp" android:layout_marginLeft="15dp" android:layout_marginTop="8dp" android:layout_marginRight="15dp" app:sliderAnimationDuration="600" app:sliderAutoCycleDirection="2" app:sliderAutoCycleEnabled="true" app:sliderIndicatorAnimationDuration="600" app:sliderIndicatorGravity="51" app:sliderIndicatorMargin="15dp" app:sliderIndicatorOrientation="0" app:sliderIndicatorPadding="3dp" app:sliderIndicatorRadius="1dp" app:sliderIndicatorSelectedColor="#5a5a5a" app:sliderIndicatorUnselectedColor="#fff" app:sliderScrollTimeInSec="2" app:sliderStartAutoCycle="true"/>
+</LinearLayout>

@@ -1,0 +1,9866 @@
+[
+
+ {
+
+  "text_code": "logout_success",
+
+  "text_value": "আপনি সফলভাবে লগ-আউট হয়েছেন।"
+
+ },
+
+ {
+
+  "text_code": "title_sign_in_to",
+
+  "text_value": "সাইন ইন"
+
+ },
+
+ {
+
+  "text_code": "title_your_account",
+
+  "text_value": "আপনার অ্যাকাউন্ট!"
+
+ },
+
+ {
+
+  "text_code": "btn_generate_mpin",
+
+  "text_value": "এম- পি- আই- এন তৈরি করুন"
+
+ },
+
+ {
+
+  "text_code": "edit_securityMpin",
+
+  "text_value": "6 ডিজিটের নিরাপত্তা এমপিআইএন সেট করুন।"
+
+ },
+
+ {
+
+  "text_code": "lbl_update_version",
+
+  "text_value": "আপনার নেক্সটজেন এমপরিবহন অ্যাপ্লিকেশন আপডেট করতে ক্লিক করুন।"
+
+ },
+
+ {
+
+  "text_code": "lbl_update_version_title",
+
+  "text_value": "হালনাগাদ সংস্করণ বিদ্যমান"
+
+ },
+
+ {
+
+  "text_code": "lbl_success_title",
+
+  "text_value": "সাফল্য"
+
+ },
+
+ {
+
+  "text_code": "lbl_try_after_some_time",
+
+  "text_value": "কিছুক্ষণ পর আবার চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "lbl_failed_title",
+
+  "text_value": "ব্যর্থ"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_remarks",
+
+  "text_value": "অনুগ্রহ করে মন্তব্য লিখুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_valid_number",
+
+  "text_value": "অনুগ্রহ করে একটি বৈধ মোবাইল নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "lbl_mpin_success",
+
+  "text_value": "এমপিআইএন সফলভাবে সেট করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_new_mobile",
+
+  "text_value": "অনুগ্রহ করে একটি নতুন মোবাইল নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_old_mobile_number",
+
+  "text_value": "দয়া করে পুরনো মোবাইল নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_welcome",
+
+  "text_value": "নেক্সটজেন এমপরিবহনে স্"
+
+ },
+
+ {
+
+  "text_code": "title_sign_desc",
+
+  "text_value": "ড্রাইভিং লাইসেন্স (ডিএল), রেজিস্ট্রেশন সার্টিফিকেট (আরসি), এবং এমপরিবহন প্ল্যাটফর্মের মাধ্যমে উপস্থাপিত অন্যান্য নথিগুলির ভার্চুয়াল কপিগুলি আইটি আইন 2000 এবং মোটরয়ান আইন অনুসারে মূল নথিগুলির মতোই বৈধ।"
+
+ },
+
+ {
+
+  "text_code": "btn_new_mparivahan",
+
+  "text_value": "এমপরিবহনে নতুন?"
+
+ },
+
+ {
+
+  "text_code": "edit_mobile_no",
+
+  "text_value": "মোবাইল নম্বর।"
+
+ },
+
+ {
+
+  "text_code": "edit_security_mpin",
+
+  "text_value": "ছয় ডিজিটের এমপিআইএন সিকিউরিটি কোড"
+
+ },
+
+ {
+
+  "text_code": "label_another_account",
+
+  "text_value": "অন্য অ্যাকাউন্ট ব্যবহার করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_forgot_mpin",
+
+  "text_value": "অন্য অ্যাকাউন্ট ব্যবহার করুন। নিরাপত্তা এম- পি- আই- এন ভুলে গেছেন"
+
+ },
+
+ {
+
+  "text_code": "butt_signin_mpin",
+
+  "text_value": "আপনার এমপিআইএন দিয়ে সাইন ইন করুন।"
+
+ },
+
+ {
+
+  "text_code": "butt_signin_otp",
+
+  "text_value": "বিকল্পভাবে, একটি ওটিপি দিয়ে সাইন ইন করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_dont_account",
+
+  "text_value": "অ্যাকাউন্ট নেই?"
+
+ },
+
+ {
+
+  "text_code": "label_signup",
+
+  "text_value": "সাইন আপ"
+
+ },
+
+ {
+
+  "text_code": "title_create_new",
+
+  "text_value": "নতুন তৈরি করুন"
+
+ },
+
+ {
+
+  "text_code": "title_security_mpin",
+
+  "text_value": "নিরাপত্তা এমপিআইএন"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_mpin",
+
+  "text_value": "অনুগ্রহ করে আপনার নতুন 6-অঙ্কের MPIN লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "title_create_account",
+
+  "text_value": "অ্যাকাউন্ট তৈরি করুন"
+
+ },
+
+ {
+
+  "text_code": "title_fast_easy",
+
+  "text_value": "সহজ এবং দ্রুত"
+
+ },
+
+ {
+
+  "text_code": "edit_full_name",
+
+  "text_value": "পুরো নাম (আরসি বা ডিএল অনুয়ায়ী)"
+
+ },
+
+ {
+
+  "text_code": "label_already_account",
+
+  "text_value": "আপনার কি আগে থেকেই অ্যাকাউন্ট আছে?"
+
+ },
+
+ {
+
+  "text_code": "label_signin",
+
+  "text_value": "সাইন ইন"
+
+ },
+
+ {
+
+  "text_code": "label_privacy_policy",
+
+  "text_value": "সাইন আপ করার মাধ্যমে, আপনি পরিবহন শর্তাবলী এবং গোপনীয়তা নীতিতে সম্মত হন।"
+
+ },
+
+ {
+
+  "text_code": "title_forgot",
+
+  "text_value": "বিস্মৃত"
+
+ },
+
+ {
+
+  "text_code": "title_secu_mpin",
+
+  "text_value": "সিকিউরিটি এমপিআইএন?"
+
+ },
+
+ {
+
+  "text_code": "label_verify_otp",
+
+  "text_value": "ওটিপি যাচাই করুন"
+
+ },
+
+ {
+
+  "text_code": "label_sent_otp",
+
+  "text_value": "এমপারিবাহন আপনার কাছে একটি ওটিপি পাঠিয়েছে"
+
+ },
+
+ {
+
+  "text_code": "label_wait_otp",
+
+  "text_value": "ওটিপি আসার জন্য কিছু সময় অপেক্ষা করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_refresh_close",
+
+  "text_value": "রিফ্রেশ বা ক্লোজ করবেন না।"
+
+ },
+
+ {
+
+  "text_code": "label_get_otp",
+
+  "text_value": "ওটিপি পাননি?"
+
+ },
+
+ {
+
+  "text_code": "label_login_not_regt",
+
+  "text_value": "এই মোবাইল নম্বরটি এমপরিবহনের সঙ্গে নিবন্ধিত নয়। রেজিস্ট্রেশন প্রক্রিয়া সম্পন্ন করার জন্য অনুগ্রহ করে সাইন আপ করুন।"
+
+ },
+
+ {
+
+  "text_code": "btn_ok",
+
+  "text_value": "ঠিক আছে"
+
+ },
+
+ {
+
+  "text_code": "label_log_alrad_regt",
+
+  "text_value": "আপনি যদি ইতিমধ্যেই রেজিস্ট্রেশন করে থাকেন তাহলে অনুগ্রহ করে সাইন ইন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_sigin",
+
+  "text_value": "আপনি যদি সাইন ইন করতে না পারেন তবে অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_sigup",
+
+  "text_value": "অনুগ্রহ করে পুনরায় চেষ্টা করুন যদি আপনি সাইন-আপ করতে না পারেন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_sel_state",
+
+  "text_value": "অনুগ্রহ করে একটি রাজ্য নির্বাচন করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_name",
+
+  "text_value": "অনুগ্রহ করে সম্পূর্ণ নাম লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_vali_mobno",
+
+  "text_value": "অনুগ্রহ করে একটি বৈধ মোবাইল নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_valid_dig_pin",
+
+  "text_value": "অনুগ্রহ করে একটি বৈধ 6- ডিজিট MPIN লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_emaiid",
+
+  "text_value": "অনুগ্রহ করে ইমেইল আইডি লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_valid_email",
+
+  "text_value": "অনুগ্রহ করে একটি বৈধ ইমেইল আইডি লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_ctrt_mpin",
+
+  "text_value": "MPIN তৈরি করা যায়নি; অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_mpin_rest_succ",
+
+  "text_value": "এমপিআইএন সফলভাবে রিসেট করা হয়েছে!"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_val_otp",
+
+  "text_value": "দয়া করে ওটিপি দিন।"
+
+ },
+
+ {
+
+  "text_code": "LABEL_LOG_ENTR_VAL_OTP",
+
+  "text_value": "দয়া করে একটি বৈধ ওটিপি দিন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_invalid_otp",
+
+  "text_value": "আপনি যে ওটিপি দিয়েছেন তা অবৈধ। দয়া করে সঠিক ওটিপি দিন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_veri_otp",
+
+  "text_value": "OTP ভেরিফাই করতে না পেরে কিছু সময় পর চেষ্টা করুন"
+
+ },
+
+ {
+
+  "text_code": "label_log_resend_otp",
+
+  "text_value": "আমরা আপনার মোবাইলে একটি ওটিপি ভেরিফিকেশন কোড পাঠিয়েছি।"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_resend_otp",
+
+  "text_value": "ওটিপি পুনরায় প্রেরণ করতে ব্যর্থ, অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_regt_mobile",
+
+  "text_value": "নিবন্ধিত মোবাইল"
+
+ },
+
+ {
+
+  "text_code": "label_log_succ_login",
+
+  "text_value": "ব্যবহারকারী সফলভাবে mParivahan-এ লগ-ইন করেছেন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_check_internet",
+
+  "text_value": "দয়া করে আপনার ইন্টারনেট সংয়োগ পরীক্ষা করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_mob_no",
+
+  "text_value": "দয়া করে আপনার মোবাইল নম্বর দিন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_welcome",
+
+  "text_value": "স্বাগত"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_six_mpin",
+
+  "text_value": "অনুগ্রহ করে 6- ডিজিটের এমপিআইএন লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_set_mpin",
+
+  "text_value": "আপনি এখনও এমপিআইএন নির্ধারণ করেননি। অনুগ্রহ করে \"Forgot security MPIN.\" ব্যবহার করে নতুন MPIN এর জন্য অনুরোধ করুন"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_sign_mpin",
+
+  "text_value": "এমপিআইএন দিয়ে সাইন ইন করতে না পারলে সঠিক এমপিআইএন দিন।"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_reset",
+
+  "text_value": "রিসেট করতে ব্যর্থ, অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_change_rest",
+
+  "text_value": "অনুগ্রহ করে এমপিআইএন পরিবর্তন করতে না পারলে কিছু সময় পর পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_welcome",
+
+  "text_value": "স্বাগত"
+
+ },
+
+ {
+
+  "text_code": "label_vehicle",
+
+  "text_value": "বাহন"
+
+ },
+
+ {
+
+  "text_code": "label_search",
+
+  "text_value": "অনুসন্ধান করা"
+
+ },
+
+ {
+
+  "text_code": "label_transport_services",
+
+  "text_value": "পরিবহন সেবা"
+
+ },
+
+ {
+
+  "text_code": "label_my_documents",
+
+  "text_value": "আমার ডকুমেন্টস"
+
+ },
+
+ {
+
+  "text_code": "label_citizen_sentinel",
+
+  "text_value": "নাগরিক সেন্টিনেল"
+
+ },
+
+ {
+
+  "text_code": "label_informational_services",
+
+  "text_value": "তথ্য পরিষেবা"
+
+ },
+
+ {
+
+  "text_code": "label_my_vehicle",
+
+  "text_value": "আমার বাহন"
+
+ },
+
+ {
+
+  "text_code": "label_my_dl",
+
+  "text_value": "আমার ড্রাইভিং লাইসেন্স"
+
+ },
+
+ {
+
+  "text_code": "label_vrc_and_dl",
+
+  "text_value": "গাড়ির রেজিস্ট্রেশন সার্টিফিকেট এবং ড্রাইভিং লাইসেন্স দিতে পারবেন।"
+
+ },
+
+ {
+
+  "text_code": "label_pull_rc_and_dl",
+
+  "text_value": "ট্রান্সপোর্ট রিপোজিটরি থেকে আপনার আরসি বা ডিএল টানার জন্য দয়া করে এই অ্যাপে পাওয়া সুবিধাটি ব্যবহার করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_home",
+
+  "text_value": "Home"
+
+ },
+
+ {
+
+  "text_code": "label_virtual_documents",
+
+  "text_value": "ভার্চুয়াল ডকুমেন্ট"
+
+ },
+
+ {
+
+  "text_code": "label_near_by",
+
+  "text_value": "কাছাকাছি"
+
+ },
+
+ {
+
+  "text_code": "label_setting",
+
+  "text_value": "Setting"
+
+ },
+
+ {
+
+  "text_code": "label_vehicle_related",
+
+  "text_value": "যানবাহন-সংশ্লিষ্ট পরিষেবা"
+
+ },
+
+ {
+
+  "text_code": "label_pay_tax",
+
+  "text_value": "আপনার কর পরিশোধ করুন"
+
+ },
+
+ {
+
+  "text_code": "label_duplicate_rc",
+
+  "text_value": "Duplicate RC"
+
+ },
+
+ {
+
+  "text_code": "label_hypothetication_termination",
+
+  "text_value": "অনুমান সমাপ্তি"
+
+ },
+
+ {
+
+  "text_code": "label_view_more",
+
+  "text_value": "আরও দেখুন"
+
+ },
+
+ {
+
+  "text_code": "label_change_of_address",
+
+  "text_value": "ঠিকানা পরিবর্তন"
+
+ },
+
+ {
+
+  "text_code": "label_hypothetication_addition",
+
+  "text_value": "অনুমান যোগ"
+
+ },
+
+ {
+
+  "text_code": "label_hypothetication_continuation",
+
+  "text_value": "অনুমানের ধারাবাহিকতা"
+
+ },
+
+ {
+
+  "text_code": "label_noc",
+
+  "text_value": "অনাপত্তিপত্র (এনওসি)"
+
+ },
+
+ {
+
+  "text_code": "label_rc_particular",
+
+  "text_value": "আরসি বিশেষ"
+
+ },
+
+ {
+
+  "text_code": "label_dispose_applicationl",
+
+  "text_value": "আবেদন নিষ্পত্তি"
+
+ },
+
+ {
+
+  "text_code": "label_application_status",
+
+  "text_value": "অ্যাপ্লিকেশন স্ট্যাটাস"
+
+ },
+
+ {
+
+  "text_code": "label_verify_payment",
+
+  "text_value": "পেমেন্ট যাচাই"
+
+ },
+
+ {
+
+  "text_code": "label_driving_licence_related",
+
+  "text_value": "ড্রাইভিং লাইসেন্স সম্পর্কিত সেবা"
+
+ },
+
+ {
+
+  "text_code": "label_renewal_of_dl",
+
+  "text_value": "ডিএল নবায়ন"
+
+ },
+
+ {
+
+  "text_code": "label_duplicate_dl",
+
+  "text_value": "ডুপ্লিকেট ডিএল"
+
+ },
+
+ {
+
+  "text_code": "label_coa_in_dl",
+
+  "text_value": "ডিএল-এ ঠিকানা পরিবর্তন"
+
+ },
+
+ {
+
+  "text_code": "label_international_driv_permit",
+
+  "text_value": "আন্তর্জাতিক ড্রাইভিং পারমিট"
+
+ },
+
+ {
+
+  "text_code": "label_dl_extract",
+
+  "text_value": "ডিএল এক্সট্র্যাক্ট"
+
+ },
+
+ {
+
+  "text_code": "label_dl_replacement",
+
+  "text_value": "ডিএল প্রতিস্থাপন"
+
+ },
+
+ {
+
+  "text_code": "label_withdraw_services",
+
+  "text_value": "সেবা প্রত্যাহার করুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_related",
+
+  "text_value": "চালান সম্পর্কিত পরিষেবা"
+
+ },
+
+ {
+
+  "text_code": "label_verify_challan_payment",
+
+  "text_value": "চালান সম্পর্কিত পরিষেবা"
+
+ },
+
+ {
+
+  "text_code": "label_help_support",
+
+  "text_value": "সাহায়্য ও সমর্থন"
+
+ },
+
+ {
+
+  "text_code": "label_share",
+
+  "text_value": "ভাগাভাগি করা"
+
+ },
+
+ {
+
+  "text_code": "label_about_us",
+
+  "text_value": "আমাদের সম্পর্কে"
+
+ },
+
+ {
+
+  "text_code": "label_logout",
+
+  "text_value": "লগআউট"
+
+ },
+
+ {
+
+  "text_code": "label_report_trafic_voilation",
+
+  "text_value": "রিপোর্ট ট্র্যাফিক ভয়েলেশন"
+
+ },
+
+ {
+
+  "text_code": "label_report_accident",
+
+  "text_value": "রিপোর্ট দুর্ঘটনা"
+
+ },
+
+ {
+
+  "text_code": "label_about_maprivahan",
+
+  "text_value": "এমপরিবহন সম্পর্কে"
+
+ },
+
+ {
+
+  "text_code": "label_virtual_rc",
+
+  "text_value": "ভার্চুয়াল আরসি"
+
+ },
+
+ {
+
+  "text_code": "label_virtual_dl",
+
+  "text_value": "ভার্চুয়াল ডিএল"
+
+ },
+
+ {
+
+  "text_code": "label_shared_rc",
+
+  "text_value": "ভাগাভাগি আরসি"
+
+ },
+
+ {
+
+  "text_code": "label_received_rc",
+
+  "text_value": "প্রাপ্ত আরসি"
+
+ },
+
+ {
+
+  "text_code": "label_rc_search",
+
+  "text_value": "আরসি অনুসন্ধান"
+
+ },
+
+ {
+
+  "text_code": "label_dl_search",
+
+  "text_value": "ডিএল অনুসন্ধান"
+
+ },
+
+ {
+
+  "text_code": "label_about_vehicle",
+
+  "text_value": "বাহন সম্পর্কে"
+
+ },
+
+ {
+
+  "text_code": "label_transfer_ownership",
+
+  "text_value": "মালিকানা হস্তান্তর"
+
+ },
+
+ {
+
+  "text_code": "label_hp_endorsement",
+
+  "text_value": "এইচপি এন্ডোর্সমেন্ট"
+
+ },
+
+ {
+
+  "text_code": "label_about_licence",
+
+  "text_value": "লাইসেন্স সম্পর্কে"
+
+ },
+
+ {
+
+  "text_code": "label_notifications_and_advisories",
+
+  "text_value": "বিজ্ঞপ্তি এবং পরামর্শ"
+
+ },
+
+ {
+
+  "text_code": "label_notifications",
+
+  "text_value": "বিজ্ঞপ্তি"
+
+ },
+
+ {
+
+  "text_code": "label_sos",
+
+  "text_value": "এসওএস"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_status",
+
+  "text_value": "অ্যাপ্লিকেশন স্ট্যাটাস"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_no",
+
+  "text_value": "আবেদন নং।"
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_application_no",
+
+  "text_value": "আবেদনপত্রের নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "vahan_chassis_no",
+
+  "text_value": "চেসিস নং"
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_chassis_no",
+
+  "text_value": "চেসিস নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "vahan_engine_no",
+
+  "text_value": "ইঞ্জিন নং"
+
+ },
+
+ {
+
+  "text_code": "vahan_engine_no_last_five",
+
+  "text_value": "ইঞ্জিন নম্বরের শেষ চার অঙ্ক লিখুন"
+
+ },
+
+ {
+
+  "text_code": "vahan_chassis_no_last_five",
+
+  "text_value": "চেসিস নম্বরের শেষ পাঁচ অঙ্ক লিখুন"
+
+ },
+
+ {
+
+  "text_code": "vahan_btn_submit",
+
+  "text_value": "দয়া করে জমা দিন"
+
+ },
+
+ {
+
+  "text_code": "vahan_btn_cancel",
+
+  "text_value": "অনুগ্রহ করে বাতিল করুন"
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_otp_msg",
+
+  "text_value": "আপনার রেজিস্ট্রেশন করা মোবাইল নম্বরে যে ওটিপি পাঠানো হয়েছিল, তা নিচের ফিল্ডে দিন।"
+
+ },
+
+ {
+
+  "text_code": "vahan_resend_otp",
+
+  "text_value": "অনুগ্রহ করে OTP পুনরায় প্রেরণ করুন"
+
+ },
+
+ {
+
+  "text_code": "vahan_btn_verify",
+
+  "text_value": "দয়া করে যাচাই করুন"
+
+ },
+
+ {
+
+  "text_code": "vahan_dispose_application",
+
+  "text_value": "অনুগ্রহ করে অ্যাপ্লিকেশন ডিসপোজ করুন"
+
+ },
+
+ {
+
+  "text_code": "vahan_registration_no",
+
+  "text_value": "রেজিস্ট্রেশন নং।"
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_registration_no",
+
+  "text_value": "রেজিস্ট্রেশন নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "vahan_verify_pending_transaction",
+
+  "text_value": "পেন্ডিং ট্রানজাকশন চেক করুন"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_id",
+
+  "text_value": "লেনদেন আইডি"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_no",
+
+  "text_value": "লেনদেনের নম্বর দিন।"
+
+ },
+
+ {
+
+  "text_code": "vahan_get_details",
+
+  "text_value": "বিস্তারিত জেনে নিন"
+
+ },
+
+ {
+
+  "text_code": "vahan_search",
+
+  "text_value": "অনুসন্ধান করা"
+
+ },
+
+ {
+
+  "text_code": "vahan_payment_details",
+
+  "text_value": "পেমেন্টের তথ্য"
+
+ },
+
+ {
+
+  "text_code": "vahan_owner_name",
+
+  "text_value": "মালিকের নাম"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_date",
+
+  "text_value": "আবেদনের তারিখ"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_name",
+
+  "text_value": "আবেদনপত্রের নাম"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_date",
+
+  "text_value": "লেনদেনের তারিখ"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_name",
+
+  "text_value": "লেনদেনের নাম"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_applied",
+
+  "text_value": "লেনদেন (গুলি) প্রয়োজ্য"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_status",
+
+  "text_value": "লেনদেনের অবস্থা"
+
+ },
+
+ {
+
+  "text_code": "vahan_amount",
+
+  "text_value": "পরিমাণ"
+
+ },
+
+ {
+
+  "text_code": "vahan_state",
+
+  "text_value": "রাজ্য"
+
+ },
+
+ {
+
+  "text_code": "vahan_rto",
+
+  "text_value": "আরটিও"
+
+ },
+
+ {
+
+  "text_code": "vahan_rto_name",
+
+  "text_value": "আরটিও-র নাম"
+
+ },
+
+ {
+
+  "text_code": "vahan_duplicate_rc",
+
+  "text_value": "নকল আরসি"
+
+ },
+
+ {
+
+  "text_code": "vahan_change_of_address",
+
+  "text_value": "ঠিকানা পরিবর্তন"
+
+ },
+
+ {
+
+  "text_code": "vahan_payment_status",
+
+  "text_value": "পেমেন্ট স্ট্যাটাস"
+
+ },
+
+ {
+
+  "text_code": "vahan_verify_payment",
+
+  "text_value": "পেমেন্ট যাচাই"
+
+ },
+
+ {
+
+  "text_code": "vahan_print",
+
+  "text_value": "ছাপানো"
+
+ },
+
+ {
+
+  "text_code": "vahan_receipt",
+
+  "text_value": "রসিদ"
+
+ },
+
+ {
+
+  "text_code": "vahan_wait_for_sometime_msg",
+
+  "text_value": "ওটিপি আসার জন্য কিছু সময় অপেক্ষা করুন।"
+
+ },
+
+ {
+
+  "text_code": "vahan_agree_to_term_msg",
+
+  "text_value": "শর্তে রাজি আছি।"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_draft",
+
+  "text_value": "আবেদন খসড়া"
+
+ },
+
+ {
+
+  "text_code": "vahan_fee_payment",
+
+  "text_value": "ফি পেমেন্ট"
+
+ },
+
+ {
+
+  "text_code": "vahan_upload_document",
+
+  "text_value": "নথি আপলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "vahan_final_submit",
+
+  "text_value": "নথি আপলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "vahan_slot_booking",
+
+  "text_value": "স্লট বুকিং"
+
+ },
+
+ {
+
+  "text_code": "label_app_no",
+
+  "text_value": "আবেদন নং"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_app_no",
+
+  "text_value": "প্রয়োজনীয় নথি আপলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "label_enter_otp_below",
+
+  "text_value": "আপনার রেজিস্ট্রেশন করা মোবাইল নম্বরে যে ওটিপি পাঠানো হয়েছিল, তা নিচের ফিল্ডে দিন।"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_otp",
+
+  "text_value": "ওটিপি দিন"
+
+ },
+
+ {
+
+  "text_code": "label_resend_otp",
+
+  "text_value": "অনুগ্রহ করে OTP পুনরায় প্রেরণ করুন"
+
+ },
+
+ {
+
+  "text_code": "label_applicant_name",
+
+  "text_value": "আবেদনকারীর নাম"
+
+ },
+
+ {
+
+  "text_code": "label_appl_status_rto_code",
+
+  "text_value": "আরটিও কোড"
+
+ },
+
+ {
+
+  "text_code": "label_appl_status_rto_name",
+
+  "text_value": "আরটিও-র নাম"
+
+ },
+
+ {
+
+  "text_code": "label_transaction_s_applied",
+
+  "text_value": "লেনদেন (গুলি) প্রয়োজ্য"
+
+ },
+
+ {
+
+  "text_code": "label_transaction_status",
+
+  "text_value": "লেনদেনের অবস্থা"
+
+ },
+
+ {
+
+  "text_code": "proceed_arrow",
+
+  "text_value": "দয়া করে এগিয়ে যান"
+
+ },
+
+ {
+
+  "text_code": "button_dispose",
+
+  "text_value": "নিষ্পত্তি করা"
+
+ },
+
+ {
+
+  "text_code": "button_verify",
+
+  "text_value": "দয়া করে যাচাই করুন"
+
+ },
+
+ {
+
+  "text_code": "button_cancel",
+
+  "text_value": "অনুগ্রহ করে বাতিল করুন"
+
+ },
+
+ {
+
+  "text_code": "button_proceed",
+
+  "text_value": "দয়া করে এগিয়ে যান"
+
+ },
+
+ {
+
+  "text_code": "label_note",
+
+  "text_value": "দয়া করে লক্ষ্য করুন"
+
+ },
+
+ {
+
+  "text_code": "note_info",
+
+  "text_value": "আবেদন বাতিলের প্রক্রিয়াটি অপরিবর্তনীয়, এবং আবেদন (ফাইল) সম্পূর্ণরূপে বন্ধ হয়ে যাবে এবং পুনরুদ্ধার করা যাবে না।সব তথ্য-উপাত্ত বাতিল হয়ে যাবে। আবেদনকারী সেবা চাইলে নতুন করে আবেদন করতে হবে। সব প্রক্রিয়া আবার অনুসরণ করতে হবে। যদি এই অ্যাপ্লিকেশন নম্বরের জন্য স্লট নেওয়া হয়, তবে এলএল বা ডিএল-এর জন্য সংশ্লিষ্ট স্লটগুলিও বাতিল করা হবে এবং যদি কোনও অর্থ প্রদান করা হয়, তবে অর্থ ফেরত দেওয়া হবে না।"
+
+ },
+
+ {
+
+  "text_code": "button_withdraw",
+
+  "text_value": "অনুগ্রহ করে প্রত্যাহার করুন"
+
+ },
+
+ {
+
+  "text_code": "label_dispose_application",
+
+  "text_value": "আবেদন নিষ্পত্তি"
+
+ },
+
+ {
+
+  "text_code": "label_transaction_name",
+
+  "text_value": "লেনদেনের নাম"
+
+ },
+
+ {
+
+  "text_code": "label_reason_remarks",
+
+  "text_value": "কারণ \/ মন্তব্য"
+
+ },
+
+ {
+
+  "text_code": "label_ackno_slip",
+
+  "text_value": "স্"
+
+ },
+
+ {
+
+  "text_code": "label_application_prefilled",
+
+  "text_value": "আবেদন ফরম (প্রস্তুত)"
+
+ },
+
+ {
+
+  "text_code": "label_form_1",
+
+  "text_value": "ফর্ম 1"
+
+ },
+
+ {
+
+  "text_code": "label_form_1a",
+
+  "text_value": "ফর্ম 1A"
+
+ },
+
+ {
+
+  "text_code": "label_fee_receipt",
+
+  "text_value": "ফি রিসিপ্ট"
+
+ },
+
+ {
+
+  "text_code": "label_slot_ackno_slip",
+
+  "text_value": "স্লট স্"
+
+ },
+
+ {
+
+  "text_code": "dispose_popup_msg",
+
+  "text_value": "আবেদন বাতিলের প্রক্রিয়াটি অপরিবর্তনীয়, এবং আবেদন (ফাইল) সম্পূর্ণরূপে বন্ধ হয়ে যাবে এবং পুনরুদ্ধার করা যাবে না।সব তথ্য-উপাত্ত বাতিল হয়ে যাবে। আবেদনকারী সেবা চাইলে নতুন করে আবেদন করতে হবে। সব প্রক্রিয়া আবার অনুসরণ করতে হবে। যদি এই অ্যাপ্লিকেশন নম্বরের জন্য স্লট নেওয়া হয়, তবে এলএল বা ডিএল-এর জন্য সংশ্লিষ্ট স্লটগুলিও বাতিল করা হবে এবং যদি কোনও অর্থ প্রদান করা হয়, তবে অর্থ ফেরত দেওয়া হবে না। অনুগ্রহ করে নিশ্চিত করুন যে আপনি এখনও আপনার অ্যাপ্লিকেশন বাতিল করতে চান।"
+
+ },
+
+ {
+
+  "text_code": "withdraw_popup_msg",
+
+  "text_value": "প্রত্যাহারের জন্য আপনি নিম্নলিখিত সেবা নির্বাচন করেছেন- ডুপ্লিকেট ডিএল,  চেঞ্জ অব অ্যাড্রেস ইস্যু I আপনি কি নিশ্চিত যে আপনি এগিয়ে যেতে চান?"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_dob",
+
+  "text_value": "DD-MM-YYYY"
+
+ },
+
+ {
+
+  "text_code": "popup_do_want",
+
+  "text_value": "আপনি কি সংরক্ষণ করতে চান"
+
+ },
+
+ {
+
+  "text_code": "button_open_pdf",
+
+  "text_value": "ওপেন পিডিএফ"
+
+ },
+
+ {
+
+  "text_code": "popup_pdf_desc",
+
+  "text_value": "আপনাদের পিডিএফ ফাইলটি ডাউনলোডে সংরক্ষিত আছে -> mParivahan ফোল্ডার Adobe Reader আপনার ফোনে ইনস্টল করা উচিত পিডিএফ ফাইলটি দেখতে"
+
+ },
+
+ {
+
+  "text_code": "popup_pdf_error",
+
+  "text_value": "(PDF) দেখার জন্য কোন অ্যাপ্লিকেশন পাওয়া যায় না"
+
+ },
+
+ {
+
+  "text_code": "label_term_condt",
+
+  "text_value": "আমি শর্তাবলীর সাথে একমত"
+
+ },
+
+ {
+
+  "text_code": "popup_empty_mobile_no",
+
+  "text_value": "মোবাইল নম্বর পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "title_challan_status",
+
+  "text_value": "চালান স্ট্যাটাস"
+
+ },
+
+ {
+
+  "text_code": "title_online_challan_payment",
+
+  "text_value": " অনলাইন চালান পেমেন্ট"
+
+ },
+
+ {
+
+  "text_code": "title_verify_challan_payment",
+
+  "text_value": "চালান পেমেন্ট যাচাই করুন"
+
+ },
+
+ {
+
+  "text_code": "logo_pay_your_challan",
+
+  "text_value": "আপনার চালান পরিশোধ করুন"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_trans_status",
+
+  "text_value": "লেনদেনের অবস্থা"
+
+ },
+
+ {
+
+  "text_code": "logo_reprint_receipt",
+
+  "text_value": "রিপ্রিন্ট প্রাপ্তি"
+
+ },
+
+ {
+
+  "text_code": "radio_btn_challan_no",
+
+  "text_value": "চালান নম্বর"
+
+ },
+
+ {
+
+  "text_code": "radio_btn_vehicle_no",
+
+  "text_value": "গাড়ির নম্বর"
+
+ },
+
+ {
+
+  "text_code": "radio_btn_dl_no",
+
+  "text_value": "ড্রাইভিং লাইসেন্স নম্বর"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_challan_no",
+
+  "text_value": "চালান নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_get_details",
+
+  "text_value": "বিস্তারিত জেনে নিন"
+
+ },
+
+ {
+
+  "text_code": "tab_btn_challan_all",
+
+  "text_value": "সমস্ত"
+
+ },
+
+ {
+
+  "text_code": "tab_btn_challan_pending",
+
+  "text_value": "অপেক্ষমান"
+
+ },
+
+ {
+
+  "text_code": "tab_btn_challan_disposed",
+
+  "text_value": "নির্ণীত"
+
+ },
+
+ {
+
+  "text_code": "label_total_challan",
+
+  "text_value": "মোট চালান"
+
+ },
+
+ {
+
+  "text_code": "label_no_challan_found",
+
+  "text_value": "কোনো চালান পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "label_no_pending_trans",
+
+  "text_value": "কোনও পেমেন্ট ট্রানজাকশন পেন্ডিং নেই"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no_trans_found",
+
+  "text_value": "কোনো লেনদেন পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_details",
+
+  "text_value": "চালানের বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_payment",
+
+  "text_value": "পরিশোধ"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_receipt",
+
+  "text_value": "রসিদ "
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_rc_no",
+
+  "text_value": "ডিএল\/আরসি নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_challan_state",
+
+  "text_value": "রাজ্য"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no",
+
+  "text_value": "চালান নং"
+
+ },
+
+ {
+
+  "text_code": "label_payment_status",
+
+  "text_value": "পেমেন্ট স্ট্যাটাস"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_print_receipt",
+
+  "text_value": "প্রিন্ট রসিদ"
+
+ },
+
+ {
+
+  "text_code": "btn_print_challan",
+
+  "text_value": "অনুগ্রহ করে চালান মুদ্রণ করুন"
+
+ },
+
+ {
+
+  "text_code": "btn_pay_now",
+
+  "text_value": "দয়া করে এখন পরিশোধ করুন"
+
+ },
+
+ {
+
+  "text_code": "btn_verify_payment",
+
+  "text_value": "পেমেন্ট যাচাই"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_paid",
+
+  "text_value": "পরিশোধিত"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_status",
+
+  "text_value": "অবস্থা"
+
+ },
+
+ {
+
+  "text_code": "btn_try_again",
+
+  "text_value": "আবার চেষ্টা করুন"
+
+ },
+
+ {
+
+  "text_code": "btn_go_back",
+
+  "text_value": "আগের মেনুতে ফিরে যান"
+
+ },
+
+ {
+
+  "text_code": "title_challan_trans_success",
+
+  "text_value": "লেনদেন সাফল্য"
+
+ },
+
+ {
+
+  "text_code": "title_challan_trans_pending",
+
+  "text_value": "লেনদেন পেন্ডিং"
+
+ },
+
+ {
+
+  "text_code": "title_challan_trans_failed",
+
+  "text_value": "লেনদেন ব্যর্থ হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "title_dl_details",
+
+  "text_value": "ডিএল বিস্তারিত"
+
+ },
+
+ {
+
+  "text_code": "label_dl_holder_name",
+
+  "text_value": "ডিএল হোল্ডারের নাম"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_expiry_date",
+
+  "text_value": "মেয়াদোত্তীর্ণ তারিখ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_ekyc_demographic_details",
+
+  "text_value": "eKYC ডেমোগ্রাফিক ডিটেলস"
+
+ },
+
+ {
+
+  "text_code": "label_dl_ownername_as_aadhaar",
+
+  "text_value": "মালিকের নাম (আধার অনুয়ায়ী)"
+
+ },
+
+ {
+
+  "text_code": "label_dl_current_addr_as_aadhaar",
+
+  "text_value": "বর্তমান ঠিকানা (আধার অনুয়ায়ী)"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_next",
+
+  "text_value": "পরবর্তী"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_renewal",
+
+  "text_value": "ডিএল নবায়ন"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_details",
+
+  "text_value": "ড্রাইভিং লাইসেন্সের বিস্তারিত তথ্য"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_upload_photo_sign",
+
+  "text_value": "ছবি ও স্"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_dms_upload_doc",
+
+  "text_value": "ডিএমএস (দস্তাবেজ আপলোড করুন)"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_fee_details",
+
+  "text_value": "ফি-র বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_appointment_book",
+
+  "text_value": "অ্যাপয়েন্টমেন্ট বুকিং"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_personal_info",
+
+  "text_value": "ব্যক্তিগত তথ্য"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_father_name",
+
+  "text_value": "বাবার নাম"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_permn_addr",
+
+  "text_value": "স্থায়ী ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_information",
+
+  "text_value": "ড্রাইভিং লাইসেন্সের তথ্য"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_issue_date",
+
+  "text_value": "ডিএল ইস্যুর তারিখ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_nt_valid_upto",
+
+  "text_value": "এনটি বর্তমান পর্যন্ত বৈধ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_issue_authority",
+
+  "text_value": "ইস্যু কর্তৃপক্ষ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_tr_valid_upto",
+
+  "text_value": "টিআর তারিখ পর্যন্ত বৈধ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_last_endor_state",
+
+  "text_value": "সর্বশেষ সমর্থিত স্টেট নেম"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_last_endor_rto",
+
+  "text_value": "শেষ এনডোর্সড আরটিও"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_class_vehicle",
+
+  "text_value": "গাড়ির শ্রেণী"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_present_addr",
+
+  "text_value": "বর্তমান ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_close",
+
+  "text_value": "দয়া করে বন্ধ করুন"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_duplicate_dl",
+
+  "text_value": "ডুপ্লিকেট ডিএল"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_idp",
+
+  "text_value": "আন্তর্জাতিক ড্রাইভিং পারমিট"
+
+ },
+
+ {
+
+  "text_code": "title_dl_services",
+
+  "text_value": "ড্রাইভিং লাইসেন্স সেবা"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_no",
+
+  "text_value": "ড্রাইভিং লাইসেন্স নং।"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_req_sub_state",
+
+  "text_value": "রাজ্যের কাছে জমা দেওয়া অনুরোধ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_req_sub_rto",
+
+  "text_value": "আরটিও-তে জমা দেওয়ার অনুরোধ"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_renewal_dl",
+
+  "text_value": "ডিএল নবায়ন"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_change_addr",
+
+  "text_value": "ডিএল-এ ঠিকানা পরিবর্তন"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_dupl_dl",
+
+  "text_value": "ডুপ্লিকেট ডিএল ইস্যু"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_intern_dl_perm",
+
+  "text_value": "আন্তর্জাতিক ড্রাইভিং পারমিট"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_extract_dl",
+
+  "text_value": "ডিএল এক্সট্র্যাক্ট"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_replacement_dl",
+
+  "text_value": "ডিএল-এর বদলি"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_my_dl",
+
+  "text_value": "আমার ড্রাইভিং লাইসেন্স"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_enter_dl",
+
+  "text_value": "ড্রাইভিং লাইসেন্স নম্বর দিন"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_go_aval",
+
+  "text_value": "সহজলভ্য সেবার জন্য যান"
+
+ },
+
+ {
+
+  "text_code": "btn_reset",
+
+  "text_value": "দয়া করে রিসেট করুন"
+
+ },
+
+ {
+
+  "text_code": "dl_serv_note",
+
+  "text_value": "আবেদনপত্র গ্রহণ আইনি বিধান অনুয়ায়ী আপলোড করা তথ্য ও নথির সফল যাচাই-বাছাই সাপেক্ষে।"
+
+ },
+
+ {
+
+  "text_code": "dl_serv_note_faceless_rto",
+
+  "text_value": "উল্লিখিত পরিষেবাগুলি মুখবিহীন, এবং তাদের জন্য আপনাকে আরটিও-তে যাওয়ার প্রয়োজন নেই।"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_mob_no",
+
+  "text_value": "মোবাইল নং।"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_update_mob",
+
+  "text_value": "মোবাইল নম্বর হালনাগাদ করুন"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_terms_cond",
+
+  "text_value": "আমি পড়েছি এবং শর্তের সঙ্গে একমত।"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_mob_no",
+
+  "text_value": "মোবাইল নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_dob",
+
+  "text_value": "জন্মতারিখ লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_enter_otp",
+
+  "text_value": "ওটিপি দিন"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_otp",
+
+  "text_value": "আপনার ওটিপি দিন"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_gen_otp",
+
+  "text_value": "ওটিপি তৈরি করুন"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_click_updt_mob",
+
+  "text_value": "আপনার মোবাইল নম্বর আপডেট করতে এখানে ক্লিক করুন।"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_downl_ackno",
+
+  "text_value": "স্"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_save_image",
+
+  "text_value": "ছবি হিসেবে সংরক্ষণ করুন"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_view_details",
+
+  "text_value": "ডিএল বিবরণ দেখুন"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_exist_addr",
+
+  "text_value": "বর্তমান ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_exist_curr_addr",
+
+  "text_value": "বর্তমান ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_exist_perm_addr",
+
+  "text_value": "বর্তমান স্থায়ী ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_new_curr_addr_detail",
+
+  "text_value": "নতুন বর্তমান ঠিকানার বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_valid_from",
+
+  "text_value": "তারিখ থেকে বৈধ"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_old_addr_detail",
+
+  "text_value": "পুরনো ঠিকানার বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_state",
+
+  "text_value": "রাজ্য"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_state",
+
+  "text_value": "একটি রাজ্য নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_district",
+
+  "text_value": "জেলা"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_district",
+
+  "text_value": "জেলা নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_block",
+
+  "text_value": "তালুকা \/ ব্লক"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_block",
+
+  "text_value": "তালুক\/ব্লক বেছে নিন"
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_village",
+
+  "text_value": "গ্রাম"
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_town",
+
+  "text_value": "শহর"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_town",
+
+  "text_value": "গ্রাম\/শহর বেছে নিন "
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_hous_door_flat",
+
+  "text_value": "বাড়ি \/ দরজা \/ ফ্ল্যাট নং"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_hous_door_flat",
+
+  "text_value": "ঘর\/দরজা\/ফ্ল্যাট নং বেছে নিন "
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_stree_loca_polic",
+
+  "text_value": "রাস্তা \/ লোকালয় \/ থানা"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_stree_loca_polic",
+
+  "text_value": "রাস্তা \/ লোকালয় \/ থানা বেছে নিন "
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_landmark",
+
+  "text_value": "ল্যান্ডমার্ক"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_landmark",
+
+  "text_value": "ল্যান্ডমার্ক লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_pincode",
+
+  "text_value": "পিনকোড"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_pincode",
+
+  "text_value": "পিনকোড লিখুন"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_same_curr_addr",
+
+  "text_value": "নতুন বর্তমান ঠিকানার মতই"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_new_perm_addr",
+
+  "text_value": "নতুন স্থায়ী ঠিকানার বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_detail_extr",
+
+  "text_value": "এক্সট্র্যাক্ট ডিএল-এর বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_reason",
+
+  "text_value": "কারণ"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_sel_reason",
+
+  "text_value": "কারণ নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_enter_reas_manul",
+
+  "text_value": "স্"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_note_detail",
+
+  "text_value": "মৃত্যু হলে অঙ্গ বা টিস্যু দান করতে রাজি আছি।"
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_yes",
+
+  "text_value": "হ্যাঁ"
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_no",
+
+  "text_value": "না"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_emer_cont_no",
+
+  "text_value": "আপনার ইমার্জেন্সি কনট্যাক্ট নম্বর দিন।"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_applicant_detail",
+
+  "text_value": "আবেদনকারীর বিস্তারিত তথ্য"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_appl_no",
+
+  "text_value": "আবেদন নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_appl_date",
+
+  "text_value": "আবেদনের তারিখ"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_upload_req_doc",
+
+  "text_value": "প্রয়োজনীয় নথি আপলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_allow_file_size",
+
+  "text_value": "অনুমোদিত ফাইলের ধরনগুলির মধ্যে রয়েছে জেপিইজি, জেপিজি এবং পিডিএফ, যার সর্বোচ্চ ফাইলের আকার 200 কেবি।"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_upload_doc",
+
+  "text_value": "নথি আপলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_detail_duplicate",
+
+  "text_value": "ডুপ্লিকেট ডিএল এর জন্য বিস্তারিত"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_birth_place",
+
+  "text_value": "জন্মস্থান"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_birth_plac",
+
+  "text_value": "আপনার জন্মস্থান লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_birth_country",
+
+  "text_value": "জন্ম দেশ"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_country",
+
+  "text_value": "দেশ নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_pass_no",
+
+  "text_value": "পাসপোর্ট নং"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_pass_no",
+
+  "text_value": "আপনার পাসপোর্ট নং এন্ট্রি করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_valid_upto",
+
+  "text_value": "পর্যন্ত বৈধ"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_pass_valid",
+
+  "text_value": "আপনার পাসপোর্টের বৈধতা তারিখ নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_disqu_dl_drive",
+
+  "text_value": "গাড়ি চালানোর জন্য ড্রাইভিং লাইসেন্স পাওয়ার জন্য আপনি কি কখনও অয়োগ্য হয়েছেন? যদি তাই হয়, তা হলে কেন?"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_what_reason",
+
+  "text_value": "যদি তাই হয়, তাহলে কী কারণ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_barred_curr_count_drive",
+
+  "text_value": "বর্তমান দেশ কি আপনাকে সে দেশে গাড়ি চালানো থেকে বারণ করেছে? যদি তাই হয়, তাহলে কোন কারণে?"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_count_visa_grant",
+
+  "text_value": "যে দেশের জন্য ভিসা দেওয়া হয়"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_click_restr_countr",
+
+  "text_value": "নিষিদ্ধ দেশের তালিকা দেখতে এখানে ক্লিক করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_visa_no",
+
+  "text_value": "ভিসা নং।"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_visa_no",
+
+  "text_value": "আপনার ভিসা নং এন্ট্রি করুন।"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_visa_valid",
+
+  "text_value": "আপনার ভিসার ভ্যালিডিটি সিলেক্ট করুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_cov_grades_idp",
+
+  "text_value": "সিওভি গ্রেড, যার জন্য আইডিপি- অনুরোধ করা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_cov_grade",
+
+  "text_value": "সিওভি গ্রেড নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_im_indian_embas",
+
+  "text_value": "আমি ইন্ডিয়ান অ্যাম্বাসি থেকে এসেছি"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_indian_embas_name",
+
+  "text_value": "ভারতীয় দূতাবাসের নাম"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_ind_embas_name",
+
+  "text_value": "আপনার ভারতীয় দূতাবাসের নাম লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_embas_place",
+
+  "text_value": "দূতাবাসের স্থান"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_embas_place",
+
+  "text_value": "দূতাবাসের স্থান লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_fore_nat_mob_no",
+
+  "text_value": "ফরেন নেশন মোবাইল নম্বর"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_fore_mob_no",
+
+  "text_value": "আপনার বিদেশী মোবাইল নং লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_date_verif_embass",
+
+  "text_value": "দূতাবাস কর্তৃক যাচাই-বাছাই তারিখ"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_date_verif_embass",
+
+  "text_value": "দূতাবাস কর্তৃক যাচাইয়ের তারিখ লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_embsy_endor_no",
+
+  "text_value": "দূতাবাসের এন্ডোর্সমেন্ট নম্বর"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_embsy_endor_no",
+
+  "text_value": "অ্যাম্বাসি এন্ডোর্সমেন্ট নং এন্টার করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_idp_applied_from",
+
+  "text_value": "আইডিপি তারিখ "
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_idp_applied_from",
+
+  "text_value": "থেকে আবেদনকৃত IDP নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_enter_addr_forg_doc",
+
+  "text_value": "দয়া করে বিদেশী ঠিকানা লিখুন যেখানে IDP ডকুমেন্ট প্রেরণ করতে হবে।"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_addr_one",
+
+  "text_value": "ঠিকানা 1"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_addr_two",
+
+  "text_value": "ঠিকানা 2"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_addr_three",
+
+  "text_value": "ঠিকানা 3"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_addr",
+
+  "text_value": "আপনার ঠিকানা লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_click_cov_grade",
+
+  "text_value": "সিওভি গ্রেডের বিবরণ দেখতে এখানে ক্লিক করুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_old_mob_no",
+
+  "text_value": "পুরনো মোবাইল নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_new_mob_no",
+
+  "text_value": "নতুন মোবাইল নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_rem_rea",
+
+  "text_value": "মন্তব্য \/ কারণ"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_reason",
+
+  "text_value": "কারণ লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_rto",
+
+  "text_value": "আরটিও"
+
+ },
+
+ {
+
+  "text_code": "label_duplicate_dl_not_allowed_",
+
+  "text_value": "আপনার ড্রাইভিং লাইসেন্সের জন্য ডুপ্লিকেট ডিএল পরিষেবা প্রদান অনুমোদিত নয়। কোনো সমস্যা হলে যোগায়োগ করতে পারেন helpdesk-sarathi@gov.in বা +91-0120-4925505 নম্বরে।"
+
+ },
+
+ {
+
+  "text_code": "label_idp_not_allowed_",
+
+  "text_value": "আপনার ড্রাইভিং লাইসেন্সের জন্য ডুপ্লিকেট ডিএল পরিষেবা প্রদান অনুমোদিত নয়। আরও কিছু প্রশ্ন থাকলে helpdesk-sarathi@gov.in বা +91-0120-4925505 নম্বরে যোগায়োগ করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_replace_dl_not_allowed",
+
+  "text_value": "আপনার ড্রাইভিং লাইসেন্সের জন্য ডিএল পরিষেবা প্রতিস্থাপন অনুমোদিত নয়। কোনো সমস্যা থাকলে আমাদের সঙ্গে যোগায়োগ করুন helpdesk-sarathi@gov.in অথবা +91-0120-4925505 নম্বরে।"
+
+ },
+
+ {
+
+  "text_code": "label_coa_not_allowed",
+
+  "text_value": "ড্রাইভিং লাইসেন্সের জন্য ডিএল পরিষেবায় ঠিকানা পরিবর্তন অনুমোদিত নয়। কোনো সমস্যা থাকলে আমাদের সঙ্গে যোগায়োগ করুন helpdesk-sarathi@gov.in অথবা +91-0120-4925505 নম্বরে।"
+
+ },
+
+ {
+
+  "text_code": "label_renewal_not_allowed",
+
+  "text_value": "আপনার ডিএল-এর মেয়াদ শেষ হয়ে যাওয়ায় ড্রাইভিং স্কিল টেস্টের প্রয়োজন হবে।"
+
+ },
+
+ {
+
+  "text_code": "label_unable_details",
+
+  "text_value": "অনুগ্রহ করে কিছু সময় পর পুনরায় চেষ্টা করুন যদি আপনি বিস্তারিত তথ্য পেতে অক্ষম হন।"
+
+ },
+
+ {
+
+  "text_code": "label_went_wrong",
+
+  "text_value": "কিছু একটা ভুল হয়ে গেল। কিছুক্ষণ পর আবার চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_ddl_expired",
+
+  "text_value": "আপনার ড্রাইভারের লাইসেন্স ইতিমধ্যে শেষ হয়ে গেছে, তাই ডুপ্লিকেট ড্রাইভিং লাইসেন্স দেওয়া অনুমোদিত নয়।পরবর্তী পদক্ষেপের জন্য দয়া করে আপনার ড্রাইভিং লাইসেন্স নবায়ন করুন। কোনো সমস্যা হলে যোগায়োগ করতে পারেন helpdesk-sarathi@gov.in অথবা +91-0120-4925505 নম্বরে।"
+
+ },
+
+ {
+
+  "text_code": "label_idp_expired",
+
+  "text_value": "কারণ আপনার ড্রাইভারের লাইসেন্সের মেয়াদ ইতিমধ্যে শেষ হয়ে গেছে, আন্তর্জাতিক ড্রাইভিং পারমিট দেওয়ার অনুমতি নেই।পরবর্তী পদক্ষেপের জন্য দয়া করে আপনার ড্রাইভিং লাইসেন্স নবায়ন করুন। কোনো সমস্যা থাকলে যোগায়োগ করুন helpdesk-sarathi@gov.in অথবা +91-0120-4925505 নম্বরে।"
+
+ },
+
+ {
+
+  "text_code": "label_replacement_expired",
+
+  "text_value": "আপনার ড্রাইভিং লাইসেন্সের মেয়াদ ইতিমধ্যেই শেষ হয়ে গিয়েছে, ডিএল রিপ্লেসমেন্ট সার্ভিস জারি করার অনুমতি নেই। পরবর্তী পদক্ষেপের জন্য দয়া করে আপনার ড্রাইভিং লাইসেন্স নবায়ন করুন। কোনো সমস্যা থাকলে আমাদের সঙ্গে যোগায়োগ করুন helpdesk-sarathi@gov.in অথবা +91-0120-4925505 নম্বরে।"
+
+ },
+
+ {
+
+  "text_code": "label_coa_expired",
+
+  "text_value": "আপনার ড্রাইভিং লাইসেন্সের মেয়াদ ইতিমধ্যেই শেষ হয়ে গেছে, তাই ঠিকানা পরিবর্তন করা যাবে না। পরবর্তী পদক্ষেপের জন্য দয়া করে আপনার ড্রাইভিং লাইসেন্স নবায়ন করুন। কোনো সমস্যা হলে যোগায়োগ করুন helpdesk-sarathi@gov.in অথবা +91-0120-4925505 নম্বরে।"
+
+ },
+
+ {
+
+  "text_code": "label_renewal_expired",
+
+  "text_value": "আপনার ডিএল বৈধ; অতএব, ডিএল পুনর্নবীকরণ পরিষেবা বর্তমানে আপনার ড্রাইভিং লাইসেন্সে অনুমোদিত নয়।"
+
+ },
+
+ {
+
+  "text_code": "label_service_unavailable",
+
+  "text_value": "পরিষেবা সাময়িকভাবে পাওয়া যাচ্ছে না। অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_otp_sent_to_mobile",
+
+  "text_value": "মোবাইলে ওটিপি পাঠানো হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "label_house_flat_door",
+
+  "text_value": "বাড়ি \/ দরজা \/ ফ্ল্যাট নং (ঠিকানা 1)"
+
+ },
+
+ {
+
+  "text_code": "label_street_loc_ps",
+
+  "text_value": "রাস্তা \/ লোকালয় \/ থানা (ঠিকানা 2)"
+
+ },
+
+ {
+
+  "text_code": "label_loc_mark",
+
+  "text_value": "স্থান\/ল্যান্ডমার্ক (ঠিকানা 3)"
+
+ },
+
+ {
+
+  "text_code": "label_select_reason",
+
+  "text_value": "অনুগ্রহ করে কারণ নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_mb",
+
+  "text_value": "অনুগ্রহ করে মোবাইল নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_want_to_proceed",
+
+  "text_value": "আপনি নিশ্চিত, আপনি এগিয়ে যেতে চান"
+
+ },
+
+ {
+
+  "text_code": "label_point_a",
+
+  "text_value": "Point A-তে দয়া করে 'হ্যাঁ' \/ 'নো' অপশন সিলেক্ট করুন"
+
+ },
+
+ {
+
+  "text_code": "label_point_b",
+
+  "text_value": "Point B-তে দয়া করে 'হ্যাঁ' \/ 'নো' অপশন সিলেক্ট করুন"
+
+ },
+
+ {
+
+  "text_code": "label_point_c",
+
+  "text_value": "Point C-তে দয়া করে 'হ্যাঁ' \/ 'নো' অপশন সিলেক্ট করুন"
+
+ },
+
+ {
+
+  "text_code": "label_point_d",
+
+  "text_value": "Point D-তে দয়া করে 'হ্যাঁ' \/ 'নো' অপশন সিলেক্ট করুন"
+
+ },
+
+ {
+
+  "text_code": "label_point_e",
+
+  "text_value": "Point E-তে দয়া করে 'হ্যাঁ' \/ 'নো' অপশন সিলেক্ট করুন"
+
+ },
+
+ {
+
+  "text_code": "label_point_f",
+
+  "text_value": "Point F-তে দয়া করে 'হ্যাঁ' \/ 'নো' অপশন সিলেক্ট করুন"
+
+ },
+
+ {
+
+  "text_code": "label_point_g",
+
+  "text_value": "Point G-তে দয়া করে 'হ্যাঁ' \/ 'নো' অপশন সিলেক্ট করুন"
+
+ },
+
+ {
+
+  "text_code": "label_app_category",
+
+  "text_value": "আবেদনকারী ক্যাটাগরি নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_general",
+
+  "text_value": "সাধারণ"
+
+ },
+
+ {
+
+  "text_code": "label_Repatriate",
+
+  "text_value": "প্রত্যাবাসন করা"
+
+ },
+
+ {
+
+  "text_code": "label_Refugees",
+
+  "text_value": "উদ্"
+
+ },
+
+ {
+
+  "text_code": "label_servicemen",
+
+  "text_value": "প্রাক্তন সৈনিক"
+
+ },
+
+ {
+
+  "text_code": "label_foreigners",
+
+  "text_value": "বিদেশি (কূটনীতিক নয়)"
+
+ },
+
+ {
+
+  "text_code": "label_diplomat",
+
+  "text_value": "কূটনীতিক (বিদেশী)"
+
+ },
+
+ {
+
+  "text_code": "label_oci",
+
+  "text_value": "ওসিআই"
+
+ },
+
+ {
+
+  "text_code": "label_differently_abled",
+
+  "text_value": "ভিন্নভাবে প্রতিবন্ধী"
+
+ },
+
+ {
+
+  "text_code": "label_please_check_check_box",
+
+  "text_value": "ঘোষণা নিশ্চিত করতে অনুগ্রহ করে চেকবক্সে ক্লিক করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_select_doc",
+
+  "text_value": "নথি নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_issuer_Designation",
+
+  "text_value": "জারীকারী পদবি"
+
+ },
+
+ {
+
+  "text_code": "label_doc_number",
+
+  "text_value": "নথি  নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_contact_number",
+
+  "text_value": "যোগায়োগ নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_doc_issue_Date",
+
+  "text_value": "নথি ইস্যুর তারিখ"
+
+ },
+
+ {
+
+  "text_code": "label_Preview",
+
+  "text_value": "পূর্বাভাষ"
+
+ },
+
+ {
+
+  "text_code": "label_edit",
+
+  "text_value": "দয়া করে সম্পাদনা করুন"
+
+ },
+
+ {
+
+  "text_code": "label_capture",
+  "text_value":"ক্যাপচার"
+
+
+ },
+ {
+
+  "text_code": "label_view",
+  "text_value":"আরো দেখুন"
+
+ },
+
+ {
+
+  "text_code": "label_gallery",
+
+  "text_value": "গ্যালারি"
+
+ },
+
+
+
+ {
+
+  "text_code": "label_e_sign",
+
+  "text_value": "পরবর্তী প্রক্রিয়া হচ্ছে ই-সাইন ডকুমেন্ট"
+
+ },
+
+ {
+
+  "text_code": "label_attach_document",
+
+  "text_value": "অনুগ্রহ করে নথিটি সংয়ুক্ত করুন"
+
+ },
+
+ {
+
+  "text_code": "label_document_uploaded",
+
+  "text_value": "সফলভাবে নথি আপলোড করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "label_photo_sign_uploaded",
+
+  "text_value": "ছবি ও স্"
+
+ },
+
+ {
+
+  "text_code": "label_name",
+
+  "text_value": "নাম।"
+
+ },
+
+ {
+
+  "text_code": "label_sdf",
+
+  "text_value": "পুত্র \/ স্ত্রী \/ কন্যা"
+
+ },
+
+ {
+
+  "text_code": "label_Instructions",
+
+  "text_value": "নির্দেশ"
+
+ },
+
+ {
+
+  "text_code": "label_instructions_one",
+
+  "text_value": "ধাপ-1: ক্যাপচার ছবি: 'CAPTURE' বাটনে ক্লিক করলেই ক্যামেরা ওপেন হবে এবং ছবি ক্যাপচার করার পর তা ফটো বক্সে প্রদর্শিত হবে।"
+
+ },
+
+ {
+
+  "text_code": "label_instructions_three",
+
+  "text_value": "ধাপ-3: ছবি ও স্"
+
+ },
+
+ {
+
+  "text_code": "label_instructions_two",
+
+  "text_value": "ধাপ 2 : আপলোড সিগনেচার : 'গ্যালেরি' বাটন ক্লিক করলেই গ্যালারি ওপেন হয়ে যাবে এবং আপলোড করার জন্য সিগনেচার সিলেক্ট করতে পারবেন, সিলেক্ট করার পর সিগনেচার বক্সে প্রদর্শিত হবে।"
+
+ },
+
+ {
+
+  "text_code": "label_spec_ps",
+
+  "text_value": "ছবি ও স্"
+
+ },
+
+ {
+
+  "text_code": "label_photo_dimensions",
+
+  "text_value": "1) ফটো ডাইমেনশন - অটো অ্যাডজাস্ট করা হবে। 2) Signature Dimensions - Width 256 pixels x Height 64 pixels , Width 1.4 \/3.5cm X Height 0.44\/1.06cm (preferred)., 3) এই ফাইলগুলির আকার 10kb > 20kb এর মধ্যে হওয়া উচিত। 4) অনুমোদিত ফাইলের ধরনগুলি হ'ল - জেপিইজি \/ জেপিজি \/ জেপিজি \/ জেপিজি"
+
+ },
+
+ {
+
+  "text_code": "label_upload_clear_photo",
+
+  "text_value": "সতর্কীকরণ: দয়া করে একটি স্পষ্ট ছবি এবং স্"
+
+ },
+
+ {
+
+  "text_code": "label_app_photo",
+
+  "text_value": "আবেদনকারী ছবি"
+
+ },
+
+ {
+
+  "text_code": "label_app_signature",
+
+  "text_value": "আবেদনকারী স্"
+
+ },
+
+ {
+
+  "text_code": "label_avaialble",
+
+  "text_value": "সহজলভ্য"
+
+ },
+
+ {
+
+  "text_code": "label_booked",
+
+  "text_value": "বুক করা"
+
+ },
+
+ {
+
+  "text_code": "label_holiday",
+
+  "text_value": "ছুটি"
+
+ },
+
+ {
+
+  "text_code": "label_yet_to_open",
+
+  "text_value": "খোলা হয়নি"
+
+ },
+
+ {
+
+  "text_code": "label_sure_to_book_slot",
+
+  "text_value": "আপনি কি স্লট নম্বর বুক করতে নিশ্চিত"
+
+ },
+
+ {
+
+  "text_code": "label_slots_not_avl",
+
+  "text_value": "স্লট পাওয়া যাচ্ছে না"
+
+ },
+
+ {
+
+  "text_code": "label_dl_Service_instered",
+
+  "text_value": "ডিএল\/এলএল সার্ভিস এ্যাপয়েন্টমেন্ট ডিটেইলস সফল"
+
+ },
+
+ {
+
+  "text_code": "label_app_booking_successfully",
+
+  "text_value": "সময়সূচি তৈরি করা শেষ হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "label_app_date",
+
+  "text_value": "নিয়োগ তারিখ"
+
+ },
+
+ {
+
+  "text_code": "label_app_time",
+
+  "text_value": "নিয়োগ সময়"
+
+ },
+
+ {
+
+  "text_code": "label_app_submitted_successfully",
+
+  "text_value": "আপনার আবেদন সফলভাবে জমা দেওয়া হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "label_pdf_saved_in_download",
+
+  "text_value": "আপনার পিডিএফ ফাইলটি ডাউনলোড -> mParivahan ফোল্ডারে সংরক্ষণ করা হয়েছে। পিডিএফ ফাইল দেখার জন্য আপনার ফোনে অ্যাডোবি রিডার ইনস্টল করতে হবে।"
+
+ },
+
+ {
+
+  "text_code": "label_no_app_avl_pdf",
+
+  "text_value": "পিডিএফ দেখার জন্য কোনো অ্যাপ্লিকেশন পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "label_view_form_2",
+
+  "text_value": "ফরম 2 দেখুন"
+
+ },
+
+ {
+
+  "text_code": "label_view_form_1",
+
+  "text_value": "ফরম 1-A দেখুন"
+
+ },
+
+ {
+
+  "text_code": "label_view_forms",
+
+  "text_value": "ফরম  দেখুন"
+
+ },
+
+ {
+
+  "text_code": "label_view_fee_Receipt",
+
+  "text_value": "ফি প্রাপ্তি দেখুন"
+
+ },
+
+ {
+
+  "text_code": "label_app_number_is",
+
+  "text_value": "আপনার আবেদন সফলভাবে জমা দেওয়া হয়েছে। আগামী দিনের জন্য আবেদনপত্রের নম্বর ও প্রাপ্তি স্"
+
+ },
+
+ {
+
+  "text_code": "label_app_for",
+
+  "text_value": "আবেদন"
+
+ },
+
+ {
+
+  "text_code": "label_app_for_two",
+
+  "text_value": "সফলভাবে জমা দেওয়া হয়েছে, দয়া করে আবেদন নম্বর এবং ভবিষ্যতে রেফারেন্সের জন্য আপনার কাছে স্"
+
+ },
+
+ {
+
+  "text_code": "label_app_for_three",
+
+  "text_value": "আপনার আবেদন নং হ'ল :"
+
+ },
+
+ {
+
+  "text_code": "label_app_for_four",
+
+  "text_value": "আপনার আবেদন সফলভাবে জমা দেওয়া হয়েছে। অনুগ্রহ করে আগামী দিনের জন্য এই স্"
+
+ },
+
+ {
+
+  "text_code": "label_form_4",
+
+  "text_value": "ফরম 4-এ দেখুন"
+
+ },
+
+ {
+
+  "text_code": "label_ack_slip",
+
+  "text_value": "অ্যাকনলেজমেন্ট স্লিপ সফলভাবে স্টোরেজে সংরক্ষণ করা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "label_form1_download",
+
+  "text_value": "ফর্ম 1-এ স্টোরেজে সফলভাবে সংরক্ষণ করা হয়"
+
+ },
+
+ {
+
+  "text_code": "label_form2_download",
+
+  "text_value": "ফর্ম 2 স্টোরেজে সফলভাবে সংরক্ষণ করা হয়"
+
+ },
+
+ {
+
+  "text_code": "label_form4_download",
+
+  "text_value": "ফর্ম 4-এ স্টোরেজে সফলভাবে সংরক্ষণ করা হয়"
+
+ },
+
+ {
+
+  "text_code": "no_details",
+
+  "text_value": "বিস্তারিত জানা যায়নি"
+
+ },
+
+ {
+
+  "text_code": "select_rto",
+
+  "text_value": "অনুগ্রহ করে RTO নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "service_is_not_availaible",
+
+  "text_value": "সার্ভিসটি সাময়িকভাবে অনুপলব্ধ। কিছু সময় পর চেষ্টা করুন"
+
+ },
+
+ {
+
+  "text_code": "plz_accept_term_conditions",
+
+  "text_value": "দয়া করে শর্ত মেনে নিন"
+
+ },
+
+ {
+
+  "text_code": "time_remaining",
+
+  "text_value": "বাকি সময়"
+
+ },
+
+ {
+
+  "text_code": "otp_resent",
+
+  "text_value": "সফলভাবে ওটিপি পাঠানো হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "dl_no",
+
+  "text_value": "ডিএল নং :"
+
+ },
+
+ {
+
+  "text_code": "select_app_cat",
+
+  "text_value": "অনুগ্রহ করে আবেদনকারী ক্যাটাগরি নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "select_state",
+
+  "text_value": "অনুগ্রহ করে বর্তমান রাজ্যর নাম নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "select_district",
+
+  "text_value": "অনুগ্রহ করে বর্তমান জেলা নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "select_taluka",
+
+  "text_value": "অনুগ্রহ করে বর্তমান তালুক নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "select_landmark",
+
+  "text_value": "অনুগ্রহ করে বর্তমান ল্যান্ডমার্ক লিখুন"
+
+ },
+
+ {
+
+  "text_code": "select_pincode",
+
+  "text_value": "অনুগ্রহ করে বর্তমান পিনকোড লিখুন"
+
+ },
+
+ {
+
+  "text_code": "select_pin_code",
+
+  "text_value": "অনুগ্রহ করে সঠিক পিনকোড লিখুন"
+
+ },
+
+ {
+
+  "text_code": "select_pstate",
+
+  "text_value": "অনুগ্রহ করে স্থায়ী রাজ্য নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "select_pdistrict",
+
+  "text_value": "অনুগ্রহ করে স্থায়ী জেলা নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "select_ptaluka",
+
+  "text_value": "দয়া করে স্থায়ী তালুক নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "select_plandmark",
+
+  "text_value": "অনুগ্রহ করে স্থায়ী ল্যান্ডমার্ক লিখুন"
+
+ },
+
+ {
+
+  "text_code": "select_ppincode",
+
+  "text_value": "অনুগ্রহ করে স্থায়ী পিনকোড লিখুন"
+
+ },
+
+ {
+
+  "text_code": "select_ppin_code",
+
+  "text_value": "অনুগ্রহ করে স্থায়ী পিনকোড লিখুন"
+
+ },
+
+ {
+
+  "text_code": "current_add_details",
+
+  "text_value": "বর্তমান ঠিকানার বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "permanent_add_details",
+
+  "text_value": "স্থায়ী ঠিকানার বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "no_taluka_found",
+
+  "text_value": "নির্বাচিত জেলার জন্য কোন তালুক\/ব্লক পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "no_vill_found",
+
+  "text_value": "নির্বাচিত তালুক\/ব্লকের জন্য কোন গ্রাম\/শহর পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "x",
+
+  "text_value": "অনুগ্রহ করে আপনার বৈধ জরুরী যোগায়োগ নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "confirm_declaration",
+
+  "text_value": "অনুগ্রহ করে ডিক্লারেশন নিশ্চিত করুন।"
+
+ },
+
+ {
+
+  "text_code": "disqualified_reason",
+
+  "text_value": "অয়োগ্যতার কারণ কী?"
+
+ },
+
+ {
+
+  "text_code": "barred_reason",
+
+  "text_value": "বাধা দেওয়ার কারণ কী?"
+
+ },
+
+ {
+
+  "text_code": "upload_file_types",
+
+  "text_value": "আপনি কেবলমাত্র জেপিইজি, জেপিজি, বা পিডিএফ ফাইল আপলোড করতে পারেন, এবং সর্বাধিক ফাইলের আকার 200 কেবি।"
+
+ },
+
+ {
+
+  "text_code": "previous_date",
+
+  "text_value": "আপনি আগের তারিখ নির্বাচন করতে পারবেন না।"
+
+ },
+
+ {
+
+  "text_code": "reg_authority",
+
+  "text_value": "রেজিস্ট্রি কর্তৃপক্ষ (কোড)"
+
+ },
+
+ {
+
+  "text_code": "save_receipt",
+
+  "text_value": "আপনি কি পেমেন্ট রিসিপ্ট সেভ করতে চান?"
+
+ },
+
+ {
+
+  "text_code": "download",
+
+  "text_value": "ডাউনলোড"
+
+ },
+
+ {
+
+  "text_code": "view_slip",
+
+  "text_value": "অ্যাপয়েন্টমেন্ট স্লিপ দেখুন"
+
+ },
+
+ {
+
+  "text_code": "app_slip_saved",
+
+  "text_value": "অ্যাপয়েন্টমেন্ট রিসিট সফলভাবে সংরক্ষণ করা হয় স্টোরেজে"
+
+ },
+
+ {
+
+  "text_code": "label_challan_status",
+
+  "text_value": "চালান স্ট্যাটাস"
+
+ },
+
+ {
+
+  "text_code": "label_challan_number",
+
+  "text_value": "চালান নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_challan_vehicle_number",
+
+  "text_value": "গাড়ির নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_number",
+
+  "text_value": "ড্রাইভিং লাইসেন্স নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_challan_my_vehicle_no",
+
+  "text_value": "আমার যানবাহন (গুলি)"
+
+ },
+
+ {
+
+  "text_code": "label_challan_my_dl_number",
+
+  "text_value": "আমার ড্রাইভিং লাইসেন্স"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_vehicle_no",
+
+  "text_value": "গাড়ির নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_chassis_no",
+
+  "text_value": "চেসিস নম্বরের শেষ পাঁচ অঙ্ক লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_chassis_no",
+
+  "text_value": "চেসিস নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_engine_no",
+
+  "text_value": "ইঞ্জিন নম্বরের শেষ পাঁচ অঙ্ক লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_engine_no",
+
+  "text_value": "ইঞ্জিন নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_challan_no",
+
+  "text_value": "চালান নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_vehicle_no",
+
+  "text_value": "যানবাহন নং"
+
+ },
+
+ {
+
+  "text_code": "label_challan_view_receipt",
+
+  "text_value": "প্রাপ্তি দেখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_wait",
+
+  "text_value": "দয়া করে অপেক্ষা করুন..।"
+
+ },
+
+ {
+
+  "text_code": "label_challan_get_details",
+
+  "text_value": "বিস্তারিত জেনে নিন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_no",
+
+  "text_value": "ড্রাইভিং লাইসেন্স নং"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_dl_no",
+
+  "text_value": "ড্রাইভিং লাইসেন্স নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_select_one_search_type",
+
+  "text_value": "অনুগ্রহ করে একটি অনুসন্ধানের ধরন নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_enter_challan_no",
+
+  "text_value": "দয়া করে চালান নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_first_two_char_as_state",
+
+  "text_value": "অনুগ্রহ করে স্টেট কোড হিসেবে প্রথম দুটি অক্ষর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_min_length_validation",
+
+  "text_value": "অনুগ্রহ করে চালান সঙ্খ্যার সর্বনিম্ন 12 অক্ষর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_max_length_validation",
+
+  "text_value": "অনুগ্রহ করে চালান সঙ্খ্যার সর্বোচ্চ 30 অক্ষর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_enter_vehicle_no",
+
+  "text_value": "দয়া করে গাড়ির নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_min_char_vehicle_no",
+
+  "text_value": "যানবাহন সঙ্খ্যা ন্যূনতম 4 অক্ষরের অনুমতি দেয়।"
+
+ },
+
+ {
+
+  "text_code": "label_challan_rc_validation",
+
+  "text_value": "দয়া করে গাড়ির নম্বর লিখুন। সর্বনিম্ন 4 এবং সর্বোচ্চ 10 অক্ষর"
+
+ },
+
+ {
+
+  "text_code": "label_challan_invalid_vehicle_no",
+
+  "text_value": "অকার্যকর যানবাহন সঙ্খ্যা"
+
+ },
+
+ {
+
+  "text_code": "label_challan_valid_chassis_no",
+
+  "text_value": "অনুগ্রহ করে চেসিস সঙ্খ্যার বৈধ শেষ 5 সঙ্খ্যালিখুন।"
+
+ },
+
+ {
+
+  "text_code": "label_challan_valid_engine_no",
+
+  "text_value": "অনুগ্রহ করে আপনার ইঞ্জিন নম্বরের শেষ 5টি সঙ্খ্যা লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "label_challan_valid_dl_no",
+
+  "text_value": "অনুগ্রহ করে একটি বৈধ DL নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "label_challan_min_char_dl_validation",
+
+  "text_value": "অনুগ্রহ করে DL সঙ্খ্যার জন্য কমপক্ষে 10 অক্ষর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "label_challan_ok_dialog_text",
+
+  "text_value": "ঠিক আছে"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_dl_get_details",
+
+  "text_value": "বিস্তারিত জানতে ডিএল নম্বর দিন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_search",
+
+  "text_value": "অনুসন্ধান করা"
+
+ },
+
+ {
+
+  "text_code": "label_challan_all",
+
+  "text_value": "সমস্ত"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pending",
+
+  "text_value": "অপেক্ষমান"
+
+ },
+
+ {
+
+  "text_code": "label_challan_disposed",
+
+  "text_value": "নির্ণীত"
+
+ },
+
+ {
+
+  "text_code": "label_challan_total",
+
+  "text_value": "মোট চালান :"
+
+ },
+
+ {
+
+  "text_code": "label_challan_not_found",
+
+  "text_value": "কোনো চালান পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "label_challan_totals",
+
+  "text_value": "মোট চালান (গুলি):"
+
+ },
+
+ {
+
+  "text_code": "label_challan_view_details",
+
+  "text_value": "বিস্তারিত দেখুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment",
+
+  "text_value": "পরিশোধ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_details",
+
+  "text_value": "চালান বিস্তারিত"
+
+ },
+
+ {
+
+  "text_code": "label_challan_receipt",
+
+  "text_value": "প্রাপ্তি"
+
+ },
+
+ {
+
+  "text_code": "label_challan_detail",
+
+  "text_value": "চালানের বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_rc_number",
+
+  "text_value": "ডিএল\/আরসি নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_challan_state",
+
+  "text_value": "রাজ্য"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no",
+
+  "text_value": "চালান নং"
+
+ },
+
+ {
+
+  "text_code": "label_challan_date",
+
+  "text_value": "চালান তারিখ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_amount",
+
+  "text_value": "পরিমাণ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_status",
+
+  "text_value": "পেমেন্ট স্ট্যাটাস"
+
+ },
+
+ {
+
+  "text_code": "label_challan_download",
+
+  "text_value": "চালান ডাউনলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_download_receipt",
+
+  "text_value": "পেমেন্ট রিসিপ্ট ডাউনলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_double_click_exit",
+
+  "text_value": "অনুগ্রহ করে প্রস্থানের জন্য পুনরায় BACK-এ ক্লিক করুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_search",
+
+  "text_value": "চালান পেমেন্ট"
+
+ },
+
+ {
+
+  "text_code": "label_pay_your_challan",
+
+  "text_value": "আপনার চালান পরিশোধ করুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_transaction_status",
+
+  "text_value": "লেনদেনের অবস্থা"
+
+ },
+
+ {
+
+  "text_code": "label_challan_reprint_receipt",
+
+  "text_value": "রিপ্রিন্ট প্রাপ্তি"
+
+ },
+
+ {
+
+  "text_code": "label_challan_verify_payment",
+
+  "text_value": "পেমেন্ট যাচাই"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pay_now",
+
+  "text_value": "দয়া করে এখন পরিশোধ করুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pay_status",
+
+  "text_value": "অবস্থা"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pay_paid",
+
+  "text_value": "পরিশোধিত"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_verification",
+
+  "text_value": "পেমেন্ট ভেরিফিকেশনের কাজ চলছে। দয়া করে OK বাটনে ক্লিক করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_challan_send_to_court",
+
+  "text_value": "আদালতে তথ্য পাঠান"
+
+ },
+
+ {
+
+  "text_code": "label_challan_court_name",
+
+  "text_value": "আদালতের নাম"
+
+ },
+
+ {
+
+  "text_code": "label_challan_court_add",
+
+  "text_value": "আদালতের ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "label_challan_send_to_court_on",
+
+  "text_value": "আদালতে পাঠানোর তারিখ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_virtual_court_link",
+
+  "text_value": "ভার্চুয়াল কোর্টে পাঠানো চালানের স্ট্যাটাসের জন্য https:\/\/vcourts.gov.in ক্লিক করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_challan_status_from_court",
+
+  "text_value": "ভার্চুয়াল কোর্ট থেকে স্ট্যাটাস"
+
+ },
+
+ {
+
+  "text_code": "label_challan_proceeding_data",
+
+  "text_value": "তথ্য অগ্রসর করা হচ্ছে"
+
+ },
+
+ {
+
+  "text_code": "label_challan_proceeding_date",
+
+  "text_value": "কার্যবিবরণী তারিখ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_fine_imposed",
+
+  "text_value": "জরিমানা আরোপিত"
+
+ },
+
+ {
+
+  "text_code": "label_challan_party_name",
+
+  "text_value": "অভিয়ুক্তের নাম"
+
+ },
+
+ {
+
+  "text_code": "label_challan_contested_data",
+
+  "text_value": "প্রতিয়োগিতামূলক তথ্য"
+
+ },
+
+ {
+
+  "text_code": "label_challan_case_no",
+
+  "text_value": "মামলা নং"
+
+ },
+
+ {
+
+  "text_code": "label_challan_transfer_to_regular_court",
+
+  "text_value": "নিয়মিত আদালতে স্থানান্তরিত"
+
+ },
+
+ {
+
+  "text_code": "label_challan_ci_no",
+
+  "text_value": "সিআই নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_challan_court_number",
+
+  "text_value": "আদালত নং"
+
+ },
+
+ {
+
+  "text_code": "label_challan_getting_details",
+
+  "text_value": "বিস্তারিত তথ্য পাওয়া যাচ্ছে..।"
+
+ },
+
+ {
+
+  "text_code": "label_challan_print",
+
+  "text_value": "ছাপা চালান"
+
+ },
+
+ {
+
+  "text_code": "label_challan_print_receipt",
+
+  "text_value": "প্রিন্ট রসিদ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_is_pending",
+
+  "text_value": "এই চালানের জন্য পেমেন্ট বাকি রয়েছে"
+
+ },
+
+ {
+
+  "text_code": "label_challan_verify_payment_status",
+
+  "text_value": "চালান পেমেন্ট যাচাই করুন"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no_payment_trans_pending",
+
+  "text_value": "কোনও পেমেন্ট ট্রানজাকশন পেন্ডিং নেই"
+
+ },
+
+ {
+
+  "text_code": "label_verify_payment_status",
+
+  "text_value": "পেমেন্ট যাচাই"
+
+ },
+
+ {
+
+  "text_code": "label_challan_violator_name",
+
+  "text_value": "লঙ্ঘনকারীর নাম"
+
+ },
+
+ {
+
+  "text_code": "change_of_address_in_rc",
+
+  "text_value": "আরসি-তে ঠিকানা পরিবর্তনের আবেদন সফলভাবে খসড়ায় সংরক্ষণ করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "no_forms_available",
+
+  "text_value": "ডাউনলোডের জন্য কোন ফর্ম পাওয়া যাচ্ছে না।"
+
+ },
+
+ {
+
+  "text_code": "download_form_22",
+
+  "text_value": "ডাউনলোড Form22"
+
+ },
+
+ {
+
+  "text_code": "download_from_14",
+
+  "text_value": "ডাউনলোড Form14"
+
+ },
+
+ {
+
+  "text_code": "download_form_26",
+
+  "text_value": "ডাউনলোড Form 16"
+
+ },
+
+ {
+
+  "text_code": "download_From_28",
+
+  "text_value": "ডাউনলোড Form28"
+
+ },
+
+ {
+
+  "text_code": "download_form_29",
+
+  "text_value": "ডাউনলোড Form29"
+
+ },
+
+ {
+
+  "text_code": "download_form_30",
+
+  "text_value": "ডাউনলোড Form30"
+
+ },
+
+ {
+
+  "text_code": "download_form_31",
+
+  "text_value": "ডাউনলোড Form 31"
+
+ },
+
+ {
+
+  "text_code": "download_form_32",
+
+  "text_value": "ডাউনলোড Form32"
+
+ },
+
+ {
+
+  "text_code": "download_from_33",
+
+  "text_value": "ডাউনলোড Form 33"
+
+ },
+
+ {
+
+  "text_code": "download_form_34",
+
+  "text_value": "ডাউনলোড Form 34"
+
+ },
+
+ {
+
+  "text_code": "download_form_35",
+
+  "text_value": "ডাউনলোড Form 35"
+
+ },
+
+ {
+
+  "text_code": "download_form_36",
+
+  "text_value": "ডাউনলোড Form 36"
+
+ },
+
+ {
+
+  "text_code": "vehicle_no_dlyyxx0000",
+
+  "text_value": "গাড়ি নং। (DLYYXX0000)"
+
+ },
+
+ {
+
+  "text_code": "view_vehicle_details",
+
+  "text_value": "গাড়ির বিস্তারিত বিবরণ দেখুন"
+
+ },
+
+ {
+
+  "text_code": "description",
+
+  "text_value": "বর্ণনা"
+
+ },
+
+ {
+
+  "text_code": "service_charges",
+
+  "text_value": "সার্ভিস চার্জ"
+
+ },
+
+ {
+
+  "text_code": "fee_amount",
+
+  "text_value": "ফি পরিমাণ"
+
+ },
+
+ {
+
+  "text_code": "fine_amount",
+
+  "text_value": "জরিমানার পরিমাণ"
+
+ },
+
+ {
+
+  "text_code": "total_amount",
+
+  "text_value": "মোট পরিমাণ"
+
+ },
+
+ {
+
+  "text_code": "new_current_address",
+
+  "text_value": "নতুন বর্তমান ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "new_permanent_address",
+
+  "text_value": "নতুন স্থায়ী ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "skip",
+
+  "text_value": "এড়িয়ে চলা"
+
+ },
+
+ {
+
+  "text_code": "change_of_address_in_rc2",
+
+  "text_value": "আরসি-তে ঠিকানা পরিবর্তন"
+
+ },
+
+ {
+
+  "text_code": "existing_address",
+
+  "text_value": "বর্তমান ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "current_address",
+
+  "text_value": "বর্তমান ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "permanent_address",
+
+  "text_value": "স্থায়ী ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "select_date",
+
+  "text_value": "তারিখ নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "village_town_city",
+
+  "text_value": "গ্রাম\/শহর"
+
+ },
+
+ {
+
+  "text_code": "landmark_police_station",
+
+  "text_value": "ল্যান্ডমার্ক \/ পুলিশ স্টেশন"
+
+ },
+
+ {
+
+  "text_code": "same_as_current_address",
+
+  "text_value": "বর্তমান ঠিকানার মতই"
+
+ },
+
+ {
+
+  "text_code": "house_no_and_street_name",
+
+  "text_value": "বাড়ি নং এবং রাস্তার নাম"
+
+ },
+
+ {
+
+  "text_code": "owner_details",
+
+  "text_value": "মালিকের বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "vehicle_details",
+
+  "text_value": "গাড়ির বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "relation",
+
+  "text_value": "পুত্র \/ কন্যা \/ স্ত্রী"
+
+ },
+
+ {
+
+  "text_code": "as_per_aadhar",
+
+  "text_value": "eKYC ডেমোগ্রাফিক ডিটেইলস [font color]\"[008ed8]\"(আধার অনুয়ায়ী)"
+
+ },
+
+ {
+
+  "text_code": "maker_name",
+
+  "text_value": "নির্মাতার নাম"
+
+ },
+
+ {
+
+  "text_code": "maker_model",
+
+  "text_value": "মডেলের নাম"
+
+ },
+
+ {
+
+  "text_code": "registration_date",
+
+  "text_value": "রেজিস্ট্রেশন তারিখ"
+
+ },
+
+ {
+
+  "text_code": "fuel_type",
+
+  "text_value": "জ্"
+
+ },
+
+ {
+
+  "text_code": "norms_description",
+
+  "text_value": "Norms বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "fitness_valid_upto",
+
+  "text_value": "ফিটনেস বৈধ"
+
+ },
+
+ {
+
+  "text_code": "tax_valid_upto",
+
+  "text_value": "ট্যাক্স বৈধ"
+
+ },
+
+ {
+
+  "text_code": "pucc_details",
+
+  "text_value": "পিইউসিসির বিস্তারিত বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "pucc_no",
+
+  "text_value": "পিইউসিসি নং।"
+
+ },
+
+ {
+
+  "text_code": "pucc_valid_upto",
+
+  "text_value": "PUCC বৈধ"
+
+ },
+
+ {
+
+  "text_code": "insurance_details",
+
+  "text_value": "বিমা বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "insurance_policy_no",
+
+  "text_value": "বীমা পলিসি নং।"
+
+ },
+
+ {
+
+  "text_code": "enter_insurance_policy_number",
+
+  "text_value": "ইন্স্যুরেন্স পলিসি নং এন্ট্রি করুন"
+
+ },
+
+ {
+
+  "text_code": "insurance_company_name",
+
+  "text_value": "বীমা কোম্পানির নাম"
+
+ },
+
+ {
+
+  "text_code": "insurance_company",
+
+  "text_value": "বীমা কোম্পানি"
+
+ },
+
+ {
+
+  "text_code": "insurance_valid_upto",
+
+  "text_value": "বীমা বৈধ"
+
+ },
+
+ {
+
+  "text_code": "financer_details",
+
+  "text_value": "ফিনান্সারের বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "financed_from",
+
+  "text_value": "তারিখ থেকে ফিনান্স এন্টার করুন"
+
+ },
+
+ {
+
+  "text_code": "permit_details",
+
+  "text_value": "পারমিট সঙ্ক্রান্ত বিস্তারিত তথ্য"
+
+ },
+
+ {
+
+  "text_code": "permit_no",
+
+  "text_value": "পারমিট নং।"
+
+ },
+
+ {
+
+  "text_code": "enter_permit_no",
+
+  "text_value": "পারমিট নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "permit_type",
+
+  "text_value": "পারমিট ধরন"
+
+ },
+
+ {
+
+  "text_code": "enter_permit_type",
+
+  "text_value": "পারমিট টাইপ লিখুন"
+
+ },
+
+ {
+
+  "text_code": "permit_issue_date",
+
+  "text_value": "পারমিট ইস্যু করার তারিখ লিখুন"
+
+ },
+
+ {
+
+  "text_code": "permit_valid_from",
+
+  "text_value": "পারমিট বৈধ তারিখ "
+
+ },
+
+ {
+
+  "text_code": "enter_permit_valid_from",
+
+  "text_value": "পারমিট বৈধ তারিখ  লিখুন"
+
+ },
+
+ {
+
+  "text_code": "permit_valid_upto",
+
+  "text_value": "পর্যন্ত বৈধ পারমিট"
+
+ },
+
+ {
+
+  "text_code": "national_permit_no",
+
+  "text_value": "জাতীয় পারমিট নম্বর"
+
+ },
+
+ {
+
+  "text_code": "national_permit_issued_by",
+
+  "text_value": "জাতীয় পারমিট ইস্যু করা হয়"
+
+ },
+
+ {
+
+  "text_code": "enter_permit_issued_by",
+
+  "text_value": "দ্"
+
+ },
+
+ {
+
+  "text_code": "national_permit_valid_upto",
+
+  "text_value": "জাতীয় পারমিট বৈধ"
+
+ },
+
+ {
+
+  "text_code": "redirect_link_to_application_status",
+
+  "text_value": "আবেদনপত্রের অবস্থা জানতে এখানে ক্লিক করুন।"
+
+ },
+
+ {
+
+  "text_code": "pay_tax",
+
+  "text_value": "কর প্রদান"
+
+ },
+
+ {
+
+  "text_code": "enter_vehicle_no",
+
+  "text_value": "গাড়ির নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "my_vehicles",
+
+  "text_value": "আমার বাহন"
+
+ },
+
+ {
+
+  "text_code": "other_new_vehicle",
+
+  "text_value": "নতুন গাড়ি নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "vehicle_no",
+
+  "text_value": "গাড়ির নম্বর"
+
+ },
+
+ {
+
+  "text_code": "enter_rc_no_for_pending_transaction",
+
+  "text_value": "গাড়ির নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "enter_last_five_digits",
+
+  "text_value": "শেষ পাঁচ অঙ্ক লিখুন"
+
+ },
+
+ {
+
+  "text_code": "notes",
+
+  "text_value": "দ্রষ্টব্য :-"
+
+ },
+
+ {
+
+  "text_code": "vehicle_service",
+
+  "text_value": "যানবাহন পরিষেবা"
+
+ },
+
+ {
+
+  "text_code": "vehicle_number",
+
+  "text_value": "যানবাহন নং"
+
+ },
+
+ {
+
+  "text_code": "please_enter_aadhaar",
+
+  "text_value": "দয়া করে আপনার আধার বা ভিআইডি (ভার্চুয়াল আইডি) দিন"
+
+ },
+
+ {
+
+  "text_code": "aadhar_no",
+
+  "text_value": "আধার নং।"
+
+ },
+
+ {
+
+  "text_code": "vid",
+
+  "text_value": "ভিআইডি"
+
+ },
+
+ {
+
+  "text_code": "enter_aadhaar_number",
+
+  "text_value": "আধার নম্বর দিন"
+
+ },
+
+ {
+
+  "text_code": "agree_with_aadhar_terms",
+
+  "text_value": "আমি আধার ভিত্তিক ই-কেওয়াইসি সম্মতিতে পড়েছি এবং সম্মত হয়েছি"
+
+ },
+
+ {
+
+  "text_code": "resend_otp",
+
+  "text_value": "ওটিপি পুনরায় পাঠাও"
+
+ },
+
+ {
+
+  "text_code": "faceless_services",
+
+  "text_value": "উল্লিখিত পরিষেবাগুলি মুখবিহীন, এবং তাদের জন্য আপনাকে আরটিও-তে যাওয়ার প্রয়োজন নেই।"
+
+ },
+
+ {
+
+  "text_code": "issue_of_duplicate_rc",
+
+  "text_value": "ডুপ্লিকেট আরসি ইস্যু"
+
+ },
+
+ {
+
+  "text_code": "hypothecation_addition",
+
+  "text_value": "বন্ধক সংয়োজন"
+
+ },
+
+ {
+
+  "text_code": "hypothecation_termination",
+
+  "text_value": "বন্ধক সমাপ্তি"
+
+ },
+
+ {
+
+  "text_code": "hypothecation_continuation",
+
+  "text_value": "বন্ধক অবিচ্ছিন্নতা"
+
+ },
+
+ {
+
+  "text_code": "no_objection_certificate_noc",
+
+  "text_value": "অনাপত্তিপত্র (এনওসি)"
+
+ },
+
+ {
+
+  "text_code": "otp_verification",
+
+  "text_value": "ওটিপি ভেরিফিকেশন"
+
+ },
+
+ {
+
+  "text_code": "nex_parivahan",
+
+  "text_value": "নেক্সটজেন এমপরিবহন"
+
+ },
+
+ {
+
+  "text_code": "blood_group",
+
+  "text_value": "রক্ত গ্রুপ"
+
+ },
+
+ {
+
+  "text_code": "app_category",
+
+  "text_value": "আবেদনকারী ক্যাটাগরি"
+
+ },
+
+ {
+
+  "text_code": "dl_validation_msg",
+
+  "text_value": "অনুগ্রহ করে সর্বনিম্ন 10 এবং সর্বোচ্চ 18 অক্ষর লিখুন। শুধুমাত্র হাইফেন(-), ফরওয়ার্ড স্ল্যাশ(\/) এবং স্পেস অনুমোদিত"
+
+ },
+
+ {
+
+  "text_code": "resend_otp_enabled",
+
+  "text_value": "রি-সেন্ড ওটিপি চালু হয়ে যাবে"
+
+ },
+
+ {
+
+  "text_code": "kindly_etner_correct_details",
+
+  "text_value": "দয়া করে সঠিক তথ্য দিন"
+
+ },
+
+ {
+
+  "text_code": "please_enter_dl_details",
+
+  "text_value": "দয়া করে DL তথ্য দিন"
+
+ },
+
+ {
+
+  "text_code": "please_enter_bd",
+
+  "text_value": "দয়া করে জন্মতারিখ দিন"
+
+ },
+
+ {
+
+  "text_code": "update_Mobile_No",
+
+  "text_value": "হালনাগাদ মোবাইল নং।"
+
+ },
+
+ {
+
+  "text_code": "click_here",
+
+  "text_value": "এখানে ক্লিক করুন"
+
+ },
+
+ {
+
+  "text_code": "to_view_the_list",
+
+  "text_value": "নিষিদ্ধ দেশের তালিকা দেখার জন্য"
+
+ },
+
+ {
+
+  "text_code": "Email_id",
+
+  "text_value": "ই-মেইল আইডি"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_chassisNo_full",
+
+  "text_value": "পূর্ণ চেসিস নং।"
+
+ },
+
+ {
+
+  "text_code": "no_input_required",
+
+  "text_value": "এই পরিষেবার জন্য কোনো ইনপুটের প্রয়োজন নেই; এটি সফলভাবে গ্রহণ করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "i_here_by_declare",
+
+  "text_value": "আমি এতদ্"
+
+ },
+
+ {
+
+  "text_code": "detail_duplicate_dl",
+
+  "text_value": "ডুপ্লিকেট ডিএলের জন্য বিস্তারিত"
+
+ },
+
+ {
+
+  "text_code": "submit_request_to",
+
+  "text_value": "আবেদনটি জমা দিন"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_engineNo_full",
+
+  "text_value": "পূর্ণ ইঞ্জিন নং"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_registration_upto_date",
+
+  "text_value": "রেজিস্ট্রেশনের তারিখ পর্যন্ত"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_enter_engine_no",
+
+  "text_value": "ইঞ্জিনে দিন"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_enter_application_number",
+
+  "text_value": "আবেদন নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_registration_number",
+
+  "text_value": "রেজিস্ট্রেশন নম্বর"
+
+ },
+
+ {
+
+  "text_code": "lbl_Verify_Payment_Status",
+
+  "text_value": "পেমেন্ট যাচাই"
+
+ },
+
+ {
+
+  "text_code": "lbl_Dl_Application_Status",
+
+  "text_value": "ড্রাইভিং লাইসেন্স অ্যাপ্লিকেশন অবস্থা"
+
+ },
+
+ {
+
+  "text_code": "lbl_Payment_Receipt",
+
+  "text_value": "পেমেন্ট রসিদ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Payment_Success",
+
+  "text_value": "পেমেন্ট সাফল্য"
+
+ },
+
+ {
+
+  "text_code": "btn_Download_Receipt",
+
+  "text_value": "Download Receipt"
+
+ },
+
+ {
+
+  "text_code": "doc_documents",
+
+  "text_value": "নথি"
+
+ },
+
+ {
+
+  "text_code": "select_documents",
+
+  "text_value": "নথি নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "issuer",
+
+  "text_value": "জারীকারী পদবি"
+
+ },
+
+ {
+
+  "text_code": "doc_number",
+
+  "text_value": "ডকুমেন্ট নম্বর"
+
+ },
+
+ {
+
+  "text_code": "con_number",
+
+  "text_value": "যোগায়োগ নম্বর"
+
+ },
+
+ {
+
+  "text_code": "d_i_d",
+
+  "text_value": "নথি ইস্যুর তারিখ"
+
+ },
+
+ {
+
+  "text_code": "select_doc_type",
+
+  "text_value": "অনুগ্রহ করে নথির ধরন নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_State_Name",
+
+  "text_value": "রাজ্যের নাম"
+
+ },
+
+ {
+
+  "text_code": "lbl_dob",
+
+  "text_value": "জন্মতারিখ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Document_Upload",
+
+  "text_value": "নথি আপলোড"
+
+ },
+
+ {
+
+  "text_code": "lbl_Appointment",
+
+  "text_value": "অ্যাপয়েন্টমেন্ট"
+
+ },
+
+ {
+
+  "text_code": "lbl_Book_Appointment",
+
+  "text_value": "বুক অ্যাপয়েন্টমেন্ট"
+
+ },
+
+ {
+
+  "text_code": "enter_valid_otp",
+
+  "text_value": "দয়া করে বৈধ ওটিপি দিন"
+
+ },
+
+ {
+
+  "text_code": "enter_otp",
+
+  "text_value": "অনুগ্রহ করে ওটিপি দিন"
+
+ },
+
+ {
+
+  "text_code": "app_red",
+
+  "text_value": "মোবাইল নম্বরটি সফলভাবে হালনাগাদ করা হয়েছে। অ্যাপটি আপনাকে ড্যাশবোর্ডে নিয়ে যাচ্ছে।"
+
+ },
+
+ {
+
+  "text_code": "View_Forms",
+
+  "text_value": "ফর্ম দেখুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_name_as_per_aadhaar",
+
+  "text_value": "নাম লিখুন (আধার অনুয়ায়ী)"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_mobileNo_as_per_aadhaar",
+
+  "text_value": "সেবা প্রত্যাহারের জন্য আপনার অনুরোধ গ্রহণ করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "enter_New_Mobile_No",
+
+  "text_value": "নতুন মোবাইল নম্বর দিন।"
+
+ },
+
+ {
+
+  "text_code": "ekyc_terms_condition",
+
+  "text_value": "আমি আধার-ভিত্তিক ই-কেওয়াইসি সম্মতির কথা পড়েছি এবং তার সঙ্গে একমত।"
+
+ },
+
+ {
+
+  "text_code": "lbl_View_Form",
+
+  "text_value": "ফরম দেখুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_Receipt_No",
+
+  "text_value": "রসিদ নং।"
+
+ },
+
+ {
+
+  "text_code": "btn_Download_Fee_Receipt",
+
+  "text_value": "ফি-র রসিদ ডাউনলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_Appointment_Slip_No",
+
+  "text_value": "অ্যাপয়েন্টমেন্ট স্লিপ নং"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_Appointment_Slip_No",
+
+  "text_value": "অ্যাপয়েন্টমেন্ট স্লিপ নং এন্টার করুন"
+
+ },
+
+ {
+
+  "text_code": "btn_Download_Appointment_Slip",
+
+  "text_value": "অ্যাপয়েন্টমেন্ট স্লিপ ডাউনলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_available_slot",
+
+  "text_value": "অ্যাপয়েন্টমেন্ট বুক করার জন্য উপলব্ধ স্লট নির্বাচন করুন।"
+
+ },
+
+ {
+
+  "text_code": "lbl_no_slot_available_msg",
+
+  "text_value": "নির্বাচিত তারিখে কোন উপলব্ধ স্লট নেই।দয়া করে আরটিও-র সঙ্গে যোগায়োগ করুন।"
+
+ },
+
+ {
+
+  "text_code": "btn_Update",
+
+  "text_value": "দয়া করে হালনাগাদ করুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_Hypothecation_Details",
+
+  "text_value": "বাজেয়াপ্তকরণ বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Continuation_of_hypothecation",
+
+  "text_value": "বন্ধক অবিচ্ছিন্নতা"
+
+ },
+
+ {
+
+  "text_code": "lbl_Termination_of_hypothecation",
+
+  "text_value": "বন্ধক সমাপ্তি"
+
+ },
+
+ {
+
+  "text_code": "lbl_NOC_Vehicle_Details",
+
+  "text_value": "এনওসি গাড়ির বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Reason_for_NOC",
+
+  "text_value": "এনওসি নেওয়ার কারণ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Authority_To",
+
+  "text_value": "কর্তৃৎ"
+
+ },
+
+ {
+
+  "text_code": "lbl_NCRB_clearance_No.",
+
+  "text_value": "এনসিআরবি ছাড়পত্র নম্বর"
+
+ },
+
+ {
+
+  "text_code": "lbl_Transferee_Name",
+
+  "text_value": "হস্তান্তরকারীর নাম"
+
+ },
+
+ {
+
+  "text_code": "lbl_Type",
+
+  "text_value": "ধরন"
+
+ },
+
+ {
+
+  "text_code": "lbl_Financer_Name",
+
+  "text_value": "ফিনান্সারের নাম"
+
+ },
+
+ {
+
+  "text_code": "lbl_Financer_Address",
+
+  "text_value": "ফিনান্সারের ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "lbl_Finance_From_Date",
+
+  "text_value": "তারিখ থেকে অর্থসংস্থান"
+
+ },
+
+ {
+
+  "text_code": "lbl_Finance_Upto_Date",
+
+  "text_value": "ফিনান্স আপ টু ডেট"
+
+ },
+
+ {
+
+  "text_code": "btn_Submit_Request",
+
+  "text_value": "অনুরোধ জমা দিন"
+
+ },
+
+ {
+
+  "text_code": "lbl_Fill_detail",
+
+  "text_value": "অনুগ্রহ করে নিচের প্রয়োজনীয় ক্ষেত্রগুলি পূরণ করুন।"
+
+ },
+
+ {
+
+  "text_code": "lbl_Remarks",
+
+  "text_value": "মন্তব্য"
+
+ },
+
+ {
+
+  "text_code": "lbl_FIR_No_Police_Report_No",
+
+  "text_value": "এফআইআর নং \/ পুলিশ রিপোর্ট নং."
+
+ },
+
+ {
+
+  "text_code": "lbl_FIR_Date",
+
+  "text_value": "এফআইআর তারিখ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Police_Station",
+
+  "text_value": "থানা"
+
+ },
+
+ {
+
+  "text_code": "lbl_Hypothecation_Addition",
+
+  "text_value": "হাইপোথিকেশন অ্যাডিশন (এইচপিএ)"
+
+ },
+
+ {
+
+  "text_code": "lbl_Hypothecation_Addition_Details",
+
+  "text_value": "বাজেয়াপ্তকরণ যোগের বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_Finance_From_Date",
+
+  "text_value": "তারিখ থেকে অর্থসংস্থান"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_pincode",
+
+  "text_value": "পিনকোড লিখুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_Landmark_Police_station",
+
+  "text_value": "ল্যান্ডমার্ক\/পুলিশ স্টেশন লিখুন"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_Village_Town_City",
+
+  "text_value": "গ্রাম\/শহর বেছে নিন "
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_House_no",
+
+  "text_value": "ঘর নং"
+
+ },
+
+ {
+
+  "text_code": "share",
+
+  "text_value": "শেয়ার করুন"
+
+ },
+
+ {
+
+  "text_code": "My_Virtual_DL",
+
+  "text_value": "আমার ভার্চুয়াল ডিএল"
+
+ },
+
+ {
+
+  "text_code": "My_Virtual_RC",
+
+  "text_value": "আমার ভার্চুয়াল আরসি"
+
+ },
+
+ {
+
+  "text_code": "police_Station",
+
+  "text_value": "থানা"
+
+ },
+
+ {
+
+  "text_code": "authority_sign",
+
+  "text_value": "কর্তৃপক্ষ জারি করার স্"
+
+ },
+
+ {
+
+  "text_code": "aadhaarNo",
+
+  "text_value": "আধার নং।"
+
+ },
+
+ {
+
+  "text_code": "address",
+
+  "text_value": "ঠিকানা"
+
+ },
+
+ {
+
+  "text_code": "validity",
+
+  "text_value": "বৈধতা"
+
+ },
+
+ {
+
+  "text_code": "validity_nt",
+
+  "text_value": "বৈধতা (এনটি)"
+
+ },
+
+ {
+
+  "text_code": "indian_lic",
+
+  "text_value": "ইন্ডিয়ান ইউনিয়ন ড্রাইভিং লাইসেন্স"
+
+ },
+
+ {
+
+  "text_code": "v_dl_l",
+
+  "text_value": "ভার্চুয়াল ড্রাইভিং লাইসেন্স"
+
+ },
+
+ {
+
+  "text_code": "Licensing_authority",
+
+  "text_value": "লাইসেন্সিং কর্তৃপক্ষ"
+
+ },
+
+ {
+
+  "text_code": "vehicle_impound",
+
+  "text_value": "যানবাহন ইমপাউন্ড"
+
+ },
+
+ {
+
+  "text_code": "dl_search_txt",
+
+  "text_value": "ড্রাইভিং লাইসেন্স অনুসন্ধান"
+
+ },
+
+ {
+
+  "text_code": "view_alert",
+
+  "text_value": "সতর্ক"
+
+ },
+
+ {
+
+  "text_code": "create_a_virtual_dl",
+
+  "text_value": "একটি ভার্চুয়াল ডিএল তৈরি করুন"
+
+ },
+
+ {
+
+  "text_code": "recent_challan",
+
+  "text_value": "সাম্প্রতিক চালান"
+
+ },
+
+ {
+
+  "text_code": "driving_licence_impound",
+
+  "text_value": "ড্রাইভিং লাইসেন্স বাতিল"
+
+ },
+
+ {
+
+  "text_code": "tap_notify",
+
+  "text_value": "যেকোনো মেয়াদ শেষ হওয়ার 30 দিন আগে আমরা আপনাকে অবহিত করব।"
+
+ },
+
+ {
+
+  "text_code": "tap_to_check",
+
+  "text_value": "ড্রাইভিং লাইসেন্স ইমপাউন্ড এবং বাজেয়াপ্ত নথির অবস্থা পরীক্ষা করতে ট্যাপ করুন।"
+
+ },
+
+ {
+
+  "text_code": "valid_till_trans",
+
+  "text_value": "লাইসেন্স বৈধতা (TR)"
+
+ },
+
+ {
+
+  "text_code": "valid_till",
+
+  "text_value": "বৈধতা"
+
+ },
+
+ {
+
+  "text_code": "label_challan_owner_name",
+
+  "text_value": "মালিকের নাম"
+
+ },
+
+ {
+
+  "text_code": "last_update",
+
+  "text_value": "সর্বশেষ হালনাগাদ"
+
+ },
+
+ {
+
+  "text_code": "virtual_dl",
+
+  "text_value": "ভার্চুয়াল ডিএল"
+
+ },
+
+ {
+
+  "text_code": "v_d_l_c",
+
+  "text_value": "ভার্চুয়াল ড্রাইভিং লাইসেন্স সার্টিফিকেট"
+
+ },
+
+ {
+
+  "text_code": "clear_all",
+
+  "text_value": "অনুগ্রহ করে সব মুছে ফেলুন"
+
+ },
+
+ {
+
+  "text_code": "recent_search",
+
+  "text_value": "সাম্প্রতিক অনুসন্ধান"
+
+ },
+
+ {
+
+  "text_code": "create_v_dl",
+
+  "text_value": "ভার্চুয়াল DL তৈরি করুন"
+
+ },
+
+ {
+
+  "text_code": "not_create_v_dl",
+
+  "text_value": "আপনি ভার্চুয়াল DL তৈরি করেননি।"
+
+ },
+
+ {
+
+  "text_code": "tr_valid",
+
+  "text_value": "TR বৈধতা"
+
+ },
+
+ {
+
+  "text_code": "label_view_challan",
+
+  "text_value": "ভিউ চালান"
+
+ },
+
+ {
+
+  "text_code": "add_to_dash",
+
+  "text_value": "ভার্চুয়াল DL-এর জন্য ড্যাশবোর্ডে যোগ করুন"
+
+ },
+
+ {
+
+  "text_code": "registering_auth_title",
+
+  "text_value": "লাইসেন্সিং কর্তৃপক্ষ (কোড)"
+
+ },
+
+ {
+
+  "text_code": "registeringAuthTitle",
+
+  "text_value": "লাইসেন্সিং কর্তৃপক্ষ"
+
+ },
+
+ {
+
+  "text_code": "makerTitle_t",
+
+  "text_value": "লাইসেন্স বৈধতা (TR)"
+
+ },
+
+ {
+
+  "text_code": "makerTitle",
+
+  "text_value": "লাইসেন্সের বৈধতা (NT)"
+
+ },
+
+ {
+
+  "text_code": "issue_date",
+
+  "text_value": "ইস্যু তারিখ"
+
+ },
+
+ {
+
+  "text_code": "vehicle_class",
+
+  "text_value": "যানবাহন ক্লাস"
+
+ },
+
+ {
+
+  "text_code": "holder_name",
+
+  "text_value": "ডিএল নম্বর হোল্ডারের নাম"
+
+ },
+
+ {
+
+  "text_code": "dl_number",
+
+  "text_value": "ডিএল নম্বর"
+
+ },
+
+ {
+
+  "text_code": "dl_dashboard",
+
+  "text_value": "ডিএল ড্যাশবোর্ড"
+
+ },
+
+ {
+
+  "text_code": "rc_dashboard",
+
+  "text_value": "আরসি ড্যাশবোর্ড"
+
+ },
+
+ {
+
+  "text_code": "trans_services",
+
+  "text_value": "ট্রসপোর্ট সার্ভিস"
+
+ },
+
+ {
+
+  "text_code": "my_docs",
+
+  "text_value": "আমার ডকুমেন্টস"
+
+ },
+
+ {
+
+  "text_code": "welcome",
+
+  "text_value": "স্বাগত"
+
+ },
+
+ {
+
+  "text_code": "txt_md",
+
+  "text_value": "আমার লেনদেন"
+
+ },
+
+ {
+
+  "text_code": "txt_cs",
+
+  "text_value": "ভার্চুয়াল ডকুমেন্ট"
+
+ },
+
+ {
+
+  "text_code": "inf_Serv",
+
+  "text_value": "তথ্য পরিষেবা"
+
+ },
+
+ {
+
+  "text_code": "txt_is",
+
+  "text_value": "তথ্য পরিষেবা"
+
+ },
+
+ {
+
+  "text_code": "no_doc",
+
+  "text_value": "কোন ডকুমেন্ট উপলব্ধ নেই"
+
+ },
+
+ {
+
+  "text_code": "avail_soon",
+
+  "text_value": "শীঘ্রই পাওয়া যাবে"
+
+ },
+
+ {
+
+  "text_code": "documents",
+
+  "text_value": "নথি"
+
+ },
+
+ {
+
+  "text_code": "avail_service_for_states",
+
+  "text_value": "রাজ্যগুলির জন্য উপলব্ধ পরিষেবা"
+
+ },
+
+ {
+
+  "text_code": "my_profile",
+
+  "text_value": "আমার প্রোফাইল"
+
+ },
+
+ {
+
+  "text_code": "near_by",
+
+  "text_value": "কাছাকাছি"
+
+ },
+
+ {
+
+  "text_code": "log_out",
+
+  "text_value": "লগ আউট"
+
+ },
+
+ {
+
+  "text_code": "about_nexgen",
+
+  "text_value": "নেক্সটজেন সম্পর্কে"
+
+ },
+
+ {
+
+  "text_code": "rc_perticular",
+
+  "text_value": "আরসি বিশেষ"
+
+ },
+
+ {
+
+  "text_code": "Hypothetication_endorsement",
+
+  "text_value": "বন্ধক অনুমোদন"
+
+ },
+
+ {
+
+  "text_code": "advisory",
+
+  "text_value": "পরামর্শ"
+
+ },
+
+ {
+
+  "text_code": "Draft_Notifications",
+
+  "text_value": "খসড়া বিজ্ঞপ্তি"
+
+ },
+
+ {
+
+  "text_code": "ALL_FORMS",
+
+  "text_value": "সব ফর্ম"
+
+ },
+
+ {
+
+  "text_code": "motor_vehicle_dealers",
+
+  "text_value": "যানবাহন ডিলার"
+
+ },
+
+ {
+
+  "text_code": "permit",
+
+  "text_value": "পারমিট"
+
+ },
+
+ {
+
+  "text_code": "Addition_of_Class",
+
+  "text_value": "ক্লাস সংয়োজন"
+
+ },
+
+ {
+
+  "text_code": "vehicle_registration",
+
+  "text_value": "যানবাহন নিবন্ধন"
+
+ },
+
+ {
+
+  "text_code": "vehicle_details",
+
+  "text_value": "গাড়ির বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "About_Permit",
+
+  "text_value": "পারমিট সম্পর্কে"
+
+ },
+
+ {
+
+  "text_code": "Act_Rules_Policies",
+
+  "text_value": "আইন, বিধি ও নীতি"
+
+ },
+
+ {
+
+  "text_code": "Fees_User_Charges",
+
+  "text_value": "ফি এবং ইউজার চার্জ"
+
+ },
+
+ {
+
+  "text_code": "manual",
+
+  "text_value": "ম্যানুয়াল"
+
+ },
+
+ {
+
+  "text_code": "faq_text",
+
+  "text_value": "ঘন ঘন প্রশ্ন"
+
+ },
+
+ {
+
+  "text_code": "License_Related_Fees_and_Charges",
+
+  "text_value": "লাইসেন্স সম্পর্কিত ফি এবং চার্জ"
+
+ },
+
+ {
+
+  "text_code": "download_forms",
+
+  "text_value": "ফরম ডাউনলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "receipt_date",
+
+  "text_value": "প্রাপ্তির তারিখ"
+
+ },
+
+ {
+
+  "text_code": "delete",
+
+  "text_value": "মুছে ফেলুন"
+
+ },
+
+ {
+
+  "text_code": "issue_of_noc",
+
+  "text_value": "এনওসি ইস্যু"
+
+ },
+
+ {
+
+  "text_code": "paymentDate",
+
+  "text_value": "অর্থপ্রদানের তারিখ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_state",
+
+  "text_value": "চালান রাজ্য"
+
+ },
+
+ {
+
+  "text_code": "help",
+
+  "text_value": "সাহায়্য"
+
+ },
+
+ {
+
+  "text_code": "Challan_Transactions",
+
+  "text_value": "চালান লেনদেন"
+
+ },
+
+ {
+
+  "text_code": "Vehicle_Transactions",
+
+  "text_value": "যানবাহন লেনদেন"
+
+ },
+
+ {
+
+  "text_code": "Driving_Licence_Transactions",
+
+  "text_value": "ড্রাইভিং লাইসেন্সের লেনদেন"
+
+ },
+
+ {
+
+  "text_code": "Driving_Licence_Search_History",
+
+  "text_value": "ড্রাইভিং লাইসেন্স সার্চ হিস্ট্রি"
+
+ },
+
+ {
+
+  "text_code": "Vehicle_Search_History",
+
+  "text_value": "যানবাহন অনুসন্ধানের ইতিহাস"
+
+ },
+
+ {
+
+  "text_code": "Emergency_Service",
+
+  "text_value": "জরুরি সেবা"
+
+ },
+
+ {
+
+  "text_code": "create_ep",
+
+  "text_value": "ইমার্জেন্সি প্রোফাইল তৈরি করুন"
+
+ },
+
+ {
+
+  "text_code": "quick_access",
+
+  "text_value": "জরুরি অবস্থায় দ্রুত যোগায়োগের জন্য জরুরি যোগায়োগ যোগ করুন।"
+
+ },
+
+ {
+
+  "text_code": "Manage_Contact",
+
+  "text_value": "পরিচিতি পরিচালনা করুন"
+
+ },
+
+ {
+
+  "text_code": "Call_Ambulance",
+
+  "text_value": "অ্যাম্বুল্যান্সে ফোন করুন"
+
+ },
+
+ {
+
+  "text_code": "tap_102",
+
+  "text_value": "102 নম্বরে ডায়াল করতে এখানে ক্লিক করুন"
+
+ },
+
+ {
+
+  "text_code": "tap_contacts",
+
+  "text_value": "কন্টাক্টস নোটিফিকেশন করতে ট্যাপ করুন"
+
+ },
+
+ {
+
+  "text_code": "Emergency_Contact",
+
+  "text_value": "জরুরি যোগায়োগ"
+
+ },
+
+ {
+
+  "text_code": "Add_Alarm",
+
+  "text_value": "অ্যালার্ম যোগ করুন"
+
+ },
+
+ {
+
+  "text_code": "manage_contact",
+
+  "text_value": "আপনার জরুরি যোগায়োগ ব্যবস্থা পরিচালনা করুন।"
+
+ },
+
+ {
+
+  "text_code": "add_emergency_contact",
+
+  "text_value": "একটি জরুরী যোগায়োগ যোগ করুন"
+
+ },
+
+ {
+
+  "text_code": "i_can_help",
+
+  "text_value": "যদি আমার কাছে কেউ আসে, তা হলে আমি সঙ্কটময় মুহূর্তে সর্বোত্তমভাবে সাহায়্য করতে পারি। এগিয়ে যান এবং (+) বাটনটি ট্যাপ করে কাউকে যোগ করুন।"
+
+ },
+
+ {
+
+  "text_code": "dl_suss_updated",
+
+  "text_value": "ড্রাইভিং লাইসেন্স সফলভাবে হালনাগাদ করা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "unable_dlt_rc",
+
+  "text_value": "আপনি যদি ভার্চুয়াল আরসি মুছে ফেলতে না পারেন তবে দয়া করে কিছু সময় পর পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "unable_dlt_dl",
+
+  "text_value": "আপনি যদি ভার্চুয়াল DL মুছে ফেলতে না পারেন তবে অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "virtual_Device",
+
+  "text_value": "মনে হচ্ছে ডিভাইসটি ভার্চুয়াল। অনুগ্রহ করে আসল ডিভাইসটি ব্যবহার করুন।"
+
+ },
+
+ {
+
+  "text_code": "rc_deleted",
+
+  "text_value": "ভার্চুয়াল RC সফলভাবে মুছে ফেলা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "enter_mpin",
+
+  "text_value": "অনুগ্রহ করে MPIN লিখুন"
+
+ },
+
+ {
+
+  "text_code": "enter_valid_mpin",
+
+  "text_value": "অনুগ্রহ করে বৈধ MPIN লিখুন"
+
+ },
+
+ {
+
+  "text_code": "register_app",
+
+  "text_value": "ব্যবহারকারী সফলভাবে নেক্সটজেন এমপরিবহনের সাথে নিবন্ধন করেছেন।"
+
+ },
+
+ {
+
+  "text_code": "dl_created",
+
+  "text_value": "ভার্চুয়াল ডিএল সফলভাবে তৈরি করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "dl_updated",
+
+  "text_value": "ভার্চুয়াল ডিএল সফলভাবে হালনাগাদ করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "unable_to_add_rc",
+
+  "text_value": "আপনি যদি ভার্চুয়াল RC যোগ করতে না পারেন তবে অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "unable_to_add_dl",
+
+  "text_value": "ভার্চুয়াল DL তৈরি করা যায়নি; অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "vehicle_Added",
+
+  "text_value": "আমার গাড়ি সফলভাবে যুক্ত হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "unable_to_Add_vehicle",
+
+  "text_value": "আপনি যদি গাড়ি যোগ করতে না পারেন তবে অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "virtualrc_created",
+
+  "text_value": "ভার্চুয়াল আরসি সফলভাবে তৈরি করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "virtualrc_updated",
+
+  "text_value": "ভার্চুয়াল আরসি সফলভাবে হালনাগাদ করা হয়েছিল।"
+
+ },
+
+ {
+
+  "text_code": "virtualdl_dltd",
+
+  "text_value": "ভার্চুয়াল ডিএল সফলভাবে মুছে ফেলা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "unable_to_crate_virtual_rc",
+
+  "text_value": "ভার্চুয়াল RC তৈরি করা যায়নি। অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "no_virtual_rc",
+
+  "text_value": "আপনার অ্যাকাউন্টের জন্য কোন ভার্চুয়াল আরসি পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "no_shared_rc_account",
+
+  "text_value": "আপনার অ্যাকাউন্টের জন্য কোনো শেয়ার করা আরসি পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "no_shared_rc",
+
+  "text_value": "শেয়ার করা আরসি পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "number_mparivahan",
+
+  "text_value": "এই মোবাইল নম্বরটি NextGen mParivahan-এর সাথে নিবন্ধিত নয়"
+
+ },
+
+ {
+
+  "text_code": "no_rcv_rc_acc",
+
+  "text_value": "আপনার অ্যাকাউন্টের জন্য কোন রিসিভ করা আরসি পাওয়া যায়নি।"
+
+ },
+
+ {
+
+  "text_code": "no_rcv_rc",
+
+  "text_value": "কোনো প্রাপ্ত RC পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "share_rc_deleted",
+
+  "text_value": "শেয়ার করা RC সফলভাবে মুছে ফেলা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "rcv_rc_deleted",
+
+  "text_value": "প্রাপ্ত RC সফলভাবে মুছে ফেলা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "unable_share_rc_deleted",
+
+  "text_value": "শেয়ার করা আরসি মুছে ফেলতে ব্যর্থ, অনুগ্রহ করে কিছু সময় পর চেষ্টা করুন"
+
+ },
+
+ {
+
+  "text_code": "unable_rcv_rc_deleted",
+
+  "text_value": "প্রাপ্ত RC মুছে ফেলতে ব্যর্থ, অনুগ্রহ করে কিছু সময় পর চেষ্টা করুন"
+
+ },
+
+ {
+
+  "text_code": "unable_update_rc",
+
+  "text_value": "ভার্চুয়াল RC হালনাগাদ করতে ব্যর্থ, অনুগ্রহ করে কিছু সময় পর চেষ্টা করুন"
+
+ },
+
+ {
+
+  "text_code": "unable_update_dl",
+
+  "text_value": "ভার্চুয়াল DL হালনাগাদ করতে ব্যর্থ, অনুগ্রহ করে কিছু সময় পর চেষ্টা করুন"
+
+ },
+
+ {
+
+  "text_code": "no_virtual_dl_found",
+
+  "text_value": "কোন ভার্চুয়াল DL পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "no_virtual_dl_found_acc",
+
+  "text_value": "আপনার অ্যাকাউন্টের জন্য কোন ভার্চুয়াল ডিএল পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "please_enter_valid_dob",
+
+  "text_value": "দয়া করে বৈধ জন্মতারিখ দিন"
+
+ },
+
+ {
+
+  "text_code": "va_updated",
+
+  "text_value": "গাড়ির সতর্কতা সফলভাবে হালনাগাদ করা হয়েছে!"
+
+ },
+
+ {
+
+  "text_code": "unable_va_updated",
+
+  "text_value": "গাড়ির সতর্কতা হালনাগাদ করা যায়নি; অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "follwoing_Services_allowed",
+
+  "text_value": "আপনার রাজ্যের জন্য নিম্নলিখিত পরিষেবাগুলি অনুমোদিত:"
+
+ },
+
+ {
+
+  "text_code": "no_rc_search_history",
+
+  "text_value": "আপনার অ্যাকাউন্টের জন্য কোন অনুসন্ধান ইতিহাস পাওয়া যায়নি।"
+
+ },
+
+ {
+
+  "text_code": "no_trans_history",
+
+  "text_value": "আপনার অ্যাকাউন্টের জন্য কোনো লেনদেন পাওয়া যায়নি।"
+
+ },
+
+ {
+
+  "text_code": "refresh",
+
+  "text_value": "রিফ্রেশ।"
+
+ },
+
+ {
+
+  "text_code": "sure_to_dlt",
+
+  "text_value": "আপনি কি নিশ্চিতরূপে মুছে ফেলতে চান?"
+
+ },
+
+ {
+
+  "text_code": "view_profile",
+
+  "text_value": "প্রোফাইল দেখুন"
+
+ },
+
+ {
+
+  "text_code": "edit_profile",
+
+  "text_value": "প্রোফাইল সম্পাদনা করুন"
+
+ },
+
+ {
+
+  "text_code": "update_profile",
+
+  "text_value": "প্রোফাইল হালনাগাদ করুন"
+
+ },
+
+ {
+
+  "text_code": "valid_name",
+
+  "text_value": "অনুগ্রহ করে বৈধ নাম লিখুন"
+
+ },
+
+ {
+
+  "text_code": "enter_email",
+
+  "text_value": "অনুগ্রহ করে ইমেইল আইডি লিখুন"
+
+ },
+
+ {
+
+  "text_code": "profile_updated",
+
+  "text_value": "আপনার প্রোফাইল সফলভাবে হালনাগাদ করা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "view_map",
+
+  "text_value": "মানচিত্র দেখুন"
+
+ },
+
+ {
+
+  "text_code": "tvPollutionChecking",
+
+  "text_value": "নিকটবর্তী দূষণ পরীক্ষা কেন্দ্র"
+
+ },
+
+ {
+
+  "text_code": "tvFuelPump",
+
+  "text_value": "নিকটতম Fuel পাম্প"
+
+ },
+
+ {
+
+  "text_code": "tvHospital",
+
+  "text_value": "নিকটবর্তী হাসপাতাল"
+
+ },
+
+ {
+
+  "text_code": "tvRto",
+
+  "text_value": "নিকটতম আরটিও"
+
+ },
+
+ {
+
+  "text_code": "change_mpain",
+
+  "text_value": "এমপিআইএন পরিবর্তন করুন"
+
+ },
+
+ {
+
+  "text_code": "enter_old_pin",
+
+  "text_value": "আপনার পুরনো এমপিআইএন দিন"
+
+ },
+
+ {
+
+  "text_code": "enter_new_pin",
+
+  "text_value": "নতুন MPIN লিখুন"
+
+ },
+
+ {
+
+  "text_code": "confirm_new_pin",
+
+  "text_value": "নতুন MPIN নিশ্চিত করুন"
+
+ },
+
+ {
+
+  "text_code": "pin_changed",
+
+  "text_value": "আপনার MPIN সফলভাবে পরিবর্তিত হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "pin_not_match",
+
+  "text_value": "পুরনো এমপিআইএন মিলছে না। দয়া করে আবার চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "six_digit_new_pin",
+
+  "text_value": "অনুগ্রহ করে নতুন MPIN লিখুন"
+
+ },
+
+ {
+
+  "text_code": "six_digit_con_pin",
+
+  "text_value": "অনুগ্রহ করে নিশ্চিতকরণ MPIN লিখুন"
+
+ },
+
+ {
+
+  "text_code": "six_digit_corr_pin",
+
+  "text_value": "অনুগ্রহ করে সঠিক MPIN লিখুন"
+
+ },
+
+ {
+
+  "text_code": "raise_complain",
+
+  "text_value": "একটি অভিয়োগ উত্থাপন করুন"
+
+ },
+
+ {
+
+  "text_code": "enter_remarks",
+
+  "text_value": "মন্তব্য লিখুন"
+
+ },
+
+ {
+
+  "text_code": "attach",
+
+  "text_value": "সংয়ুক্ত করা"
+
+ },
+
+ {
+
+  "text_code": "veh_or_dl",
+
+  "text_value": "গাড়ির নম্বর বা ড্রাইভিং লাইসেন্স নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "enter_challan_number",
+
+  "text_value": "চালান নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "select_comp_type",
+
+  "text_value": "অনুগ্রহ করে অভিয়োগ টাইপ নির্বাচন করুন।"
+
+ },
+
+ {
+
+  "text_code": "select_sub_comp_type",
+
+  "text_value": "অনুগ্রহ করে উপ-অভিয়োগের ধরন নির্বাচন করুন।"
+
+ },
+
+ {
+
+  "text_code": "select_service",
+
+  "text_value": "অনুগ্রহ করে সার্ভিস নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "file_uploaded",
+
+  "text_value": "ফাইলটি সফলভাবে আপলোড করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "valid_vehicle_number",
+
+  "text_value": "দয়া করে একটি বৈধ গাড়ি নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "valid_dl_number",
+
+  "text_value": "দয়া করে একটি বৈধ ড্রাইভিং লাইসেন্স নম্বর লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "valid_dl_or_vehicle_number",
+
+  "text_value": "দয়া করে একটি বৈধ ড্রাইভিং লাইসেন্স নম্বর বা যানবাহন লিখুন না।"
+
+ },
+
+ {
+
+  "text_code": "give_details",
+
+  "text_value": "অনুগ্রহ করে আপনার অভিয়োগের বিবরণ দিন।"
+
+ },
+
+ {
+
+  "text_code": "min_30_words",
+
+  "text_value": "দয়া করে কমপক্ষে 30 শব্দ লিখুন"
+
+ },
+
+ {
+
+  "text_code": "select_Category",
+
+  "text_value": "ক্যাটাগরি নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "srch_rel_comp",
+
+  "text_value": "অনুসন্ধান সঙ্ক্রান্ত অভিয়োগ"
+
+ },
+
+ {
+
+  "text_code": "vd_rel_comp",
+
+  "text_value": "ভার্চুয়াল নথি সঙ্ক্রান্ত অভিয়োগ"
+
+ },
+
+ {
+
+  "text_code": "ts_rel_comp",
+
+  "text_value": " পরিবহন সেবা সঙ্ক্রান্ত অভিয়োগ"
+
+ },
+
+ {
+
+  "text_code": "pucc",
+
+  "text_value": "পিইউসিসি"
+
+ },
+
+ {
+
+  "text_code": "mv_tax",
+
+  "text_value": "মোটর ভেহিকল ট্যাক্স"
+
+ },
+
+ {
+
+  "text_code": "national_permit",
+
+  "text_value": "জাতীয় পারমিট"
+
+ },
+
+ {
+
+  "text_code": "Insurance",
+
+  "text_value": "বীমা"
+
+ },
+
+ {
+
+  "text_code": "unable_to_regsiter",
+
+  "text_value": "ব্যবহারকারীকে নিবন্ধন করতে ব্যর্থ। কিছুক্ষণ পর আবার চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "unable_to_reset_mpin",
+
+  "text_value": "এমপিআইএন রিসেট করতে ব্যর্থ, অনুগ্রহ করে কিছু সময় পর পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "verify_your_dl",
+
+  "text_value": "আপনার ডিএল যাচাই করুন"
+
+ },
+
+ {
+
+  "text_code": "dl_alert_updated",
+
+  "text_value": "ড্রাইভিং লাইসেন্স অ্যালার্ট সফলভাবে হালনাগাদ করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "no_impound_dl",
+
+  "text_value": "তল্লাশি করা ডিএল নম্বরের বিপরীতে কোনও যানবাহন বা বাজেয়াপ্ত নথি ইমপাউন্ড করা হয়নি।"
+
+ },
+
+ {
+
+  "text_code": "no_impound_rc",
+
+  "text_value": "তল্লাশি করা আরসি নম্বরের বিপরীতে কোনও যানবাহন বা বাজেয়াপ্ত নথি আটকে দেওয়া হয়নি।"
+
+ },
+
+ {
+
+  "text_code": "select_duration",
+
+  "text_value": "অনুগ্রহ করে সময়সীমা নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "Name_text",
+
+  "text_value": "নাম"
+
+ },
+
+ {
+
+  "text_code": "model_name",
+
+  "text_value": "মডেলের নাম"
+
+ },
+
+ {
+
+  "text_code": "vehicle_Desc",
+
+  "text_value": "গাড়ির বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "color",
+
+  "text_value": "রঙ"
+
+ },
+
+ {
+
+  "text_code": "Seat_Capacity",
+
+  "text_value": "বসার ক্ষমতা"
+
+ },
+
+ {
+
+  "text_code": "standing_Capacity",
+
+  "text_value": "স্থায়ী ক্ষমতা"
+
+ },
+
+ {
+
+  "text_code": "financier_Capacity",
+
+  "text_value": "অর্থদাতা"
+
+ },
+
+ {
+
+  "text_code": "Registering_Authority",
+
+  "text_value": "নিবন্ধন কর্তৃপক্ষ"
+
+ },
+
+ {
+
+  "text_code": "notes_new",
+
+  "text_value": "দূষণ সনদপত্র, বিমা, কর ইত্যাদির অবস্থা যদি উপরে না পাওয়া যায়, তা হলে তা ভৌত কাগজপত্র থেকে যাচাই করা যেতে পারে।"
+
+ },
+
+ {
+
+  "text_code": "note1",
+
+  "text_value": "নোট: রেজিস্ট্রেশন সার্টিফিকেটের জন্য এই তথ্য এমপরিবহন দ্"
+
+ },
+
+ {
+
+  "text_code": "shared_to",
+
+  "text_value": "ভাগ করা"
+
+ },
+
+ {
+
+  "text_code": "shared_date",
+
+  "text_value": "ভাগাভাগি তারিখ"
+
+ },
+
+ {
+
+  "text_code": "Received_Date",
+
+  "text_value": "প্রাপ্ত তারিখ"
+
+ },
+
+ {
+
+  "text_code": "vehicle_search",
+
+  "text_value": "যানবাহন অনুসন্ধান"
+
+ },
+
+ {
+
+  "text_code": "vehicle_age",
+
+  "text_value": "যানবাহন বয়স"
+
+ },
+
+ {
+
+  "text_code": "vehicle_status",
+
+  "text_value": "গাড়ির অবস্থা"
+
+ },
+
+ {
+
+  "text_code": "vehicle_impound_status",
+
+  "text_value": "গাড়ির ইমপাউন্ড এবং বাজেয়াপ্ত নথির অবস্থা পরীক্ষা করার জন্য ট্যাপ করুন।"
+
+ },
+
+ {
+
+  "text_code": "create_vir_rc",
+
+  "text_value": "ভার্চুয়াল RC তৈরি করুন"
+
+ },
+
+ {
+
+  "text_code": "create_vir_rc_already",
+
+  "text_value": "আপনি ইতিমধ্যেই ভার্চুয়াল আরসি তৈরি করেছেন"
+
+ },
+
+ {
+
+  "text_code": "insurance_search",
+
+  "text_value": "বীমা অনুসন্ধান"
+
+ },
+
+ {
+
+  "text_code": "pucc_Search",
+
+  "text_value": "পিইউসিসি অনুসন্ধান"
+
+ },
+
+ {
+
+  "text_code": "share_rc",
+
+  "text_value": "শেয়ার আরসি"
+
+ },
+
+ {
+
+  "text_code": "generate",
+
+  "text_value": "সৃষ্টি করুন"
+
+ },
+
+ {
+
+  "text_code": "SAVE_AND_RETURN",
+
+  "text_value": "ফিরে আসুন হোম স্ক্রিনে"
+
+ },
+
+ {
+
+  "text_code": "ADD_MY_VEHICLE_S",
+
+  "text_value": "আমার যানবাহন যোগ করুন"
+
+ },
+
+ {
+
+  "text_code": "MY_VIRTUAL_RC_S",
+
+  "text_value": "আমার ভার্চুয়াল আরসি(গুলি)"
+
+ },
+
+ {
+
+  "text_code": "MY_VIRTUAL_VIEW",
+
+  "text_value": "ভার্চুয়াল আরসি দেখুন"
+
+ },
+
+ {
+
+  "text_code": "mobile_number_is_added",
+
+  "text_value": "যদি মোবাইল নম্বর ভুল হয় বা আপডেট করতে হয় তাহলে \"Update Mobile No.\" ক্লিক করুন"
+
+ },
+
+ {
+
+  "text_code": "proceed_with_adhar",
+
+  "text_value": "আধার\/ভিআইডি দিয়ে এগিয়ে যান"
+
+ },
+
+ {
+
+  "text_code": "proceed_with_mobile",
+
+  "text_value": "মোবাইল নম্বর নিয়ে এগিয়ে যান।"
+
+ },
+
+ {
+
+  "text_code": "BIRTH_COUNTRY",
+
+  "text_value": "জন্মের দেশ নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "no_history_found",
+
+  "text_value": "কোন ইতিহাস পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "Validate_with_Aadhaar",
+
+  "text_value": "আধারের মাধ্যমে বৈধতা"
+
+ },
+
+ {
+
+  "text_code": "enter_Existing_Owner_Name",
+
+  "text_value": "বাহন অনুয়ায়ী বর্তমান মালিকের নাম"
+
+ },
+
+ {
+
+  "text_code": "Enter_Existing_Mobile_No",
+
+  "text_value": "বর্তমান মোবাইল নম্বরটি দিন।"
+
+ },
+
+ {
+
+  "text_code": "lbl_owner_Mobile_no_as_per_Aadhaar",
+
+  "text_value": "বাহন অনুসারে বিদ্যমান মোবাইল নম্বর"
+
+ },
+
+ {
+
+  "text_code": "lbl_New_Mobile_No",
+
+  "text_value": "নতুন মোবাইল নং।"
+
+ },
+
+ {
+
+  "text_code": "help_support",
+
+  "text_value": "সাহায়্য ও সমর্থন"
+
+ },
+
+ {
+
+  "text_code": "help_support_query",
+
+  "text_value": "নেক্সটজেন এমপরিবহন অ্যাপ সম্পর্কে যেকোনো প্রশ্নের জন্য আমাদের সাথে যোগায়োগ করুন।"
+
+ },
+
+ {
+
+  "text_code": "help_support_call",
+
+  "text_value": "অনুগ্রহ করে আমাদের ফোন করুন "
+
+ },
+
+ {
+
+  "text_code": "help_support_write",
+
+  "text_value": "আমাদের কাছে লিখুন"
+
+ },
+
+ {
+
+  "text_code": "friday_13_november",
+
+  "text_value": "শুক্রবার 13 নভেম্বর"
+
+ },
+
+ {
+
+  "text_code": "selected_date",
+
+  "text_value": "নির্বাচিত তারিখ"
+
+ },
+
+ {
+
+  "text_code": "view_Details",
+
+  "text_value": "বিস্তারিত দেখুন"
+
+ },
+
+ {
+
+  "text_code": "download_appointment_receipt",
+
+  "text_value": "অ্যাপয়েন্টমেন্ট রিসিপ্ট ডাউনলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "MY_VIRTUAL_VIEW_DL",
+
+  "text_value": "ভার্চুয়াল DL দেখুন"
+
+ },
+
+ {
+
+  "text_code": "print_rc_particular",
+
+  "text_value": "আরসি শংসাপত্র মুদ্রণ করুন"
+
+ },
+
+ {
+
+  "text_code": "Document_Name_Text",
+
+  "text_value": "নথির নাম"
+
+ },
+
+ {
+
+  "text_code": "Document_type_Text",
+
+  "text_value": "নথির ধরন"
+
+ },
+
+ {
+
+  "text_code": "choose_language",
+
+  "text_value": "ভাষা নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "language",
+
+  "text_value": "ভাষা"
+
+ },
+
+ {
+
+  "text_code": "update_mobile_msg",
+
+  "text_value": "যদি মোবাইল নম্বরটি সঠিক না হয় বা যোগ করা হয়, তবে দয়া করে আপনার নম্বরটি আপডেট করার জন্য \"আপডেট মোবাইল নম্বর\" এ ক্লিক করুন।"
+
+ },
+
+ {
+
+  "text_code": "otp_error_msg",
+
+  "text_value": "ওটিপি পেতে ব্যর্থ, অনুগ্রহ করে কিছু সময় পর চেষ্টা করুন"
+
+ },
+
+ {
+
+  "text_code": "View_Payment_Receipt",
+
+  "text_value": "পেমেন্ট রিসিপ্ট দেখুন"
+
+ },
+
+ {
+
+  "text_code": "error_msg_to_leave",
+
+  "text_value": "আপনি কি নিশ্চিত আপনি চলে যেতে চান?"
+
+ },
+
+ {
+
+  "text_code": "error_msg_record_not_found",
+
+  "text_value": "রেকর্ড পাওয়া যায়নি।"
+
+ },
+
+ {
+
+  "text_code": "msg_proceed",
+
+  "text_value": "আপনি কি নিশ্চিত, আপনি এগিয়ে যেতে চান?"
+
+ },
+
+ {
+
+  "text_code": "error_msg_fee_detail",
+
+  "text_value": "ফি সঙ্ক্রান্ত বিস্তারিত তথ্য পেতে ব্যর্থ, অনুগ্রহ করে কিছু সময় পর চেষ্টা করুন!"
+
+ },
+
+ {
+
+  "text_code": "download_rc_particular",
+
+  "text_value": " আরসি ডাউনলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "payment_failed",
+
+  "text_value": "পেমেন্ট ব্যর্থ"
+
+ },
+
+ {
+
+  "text_code": "payment_pending",
+
+  "text_value": "পেমেন্ট পেন্ডিং"
+
+ },
+
+ {
+
+  "text_code": "or_lbl",
+
+  "text_value": "অথবা"
+
+ },
+
+ {
+
+  "text_code": "doc_uploaded_successfully",
+
+  "text_value": "সফলভাবে নথি আপলোড করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "please_upload_all_documents",
+
+  "text_value": "অনুগ্রহ করে সকল নথি আপলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "please_upload_all_required_documents",
+
+  "text_value": "দয়া করে সব প্রয়োজনীয় নথি আপলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "camera_not_avaialble",
+
+  "text_value": "ক্যামেরা পাওয়া যাচ্ছে না"
+
+ },
+
+ {
+
+  "text_code": "gallery_not_avaialble",
+
+  "text_value": "ফটো গ্যালারি পাওয়া যাচ্ছে না, অনুগ্রহ করে আপনার ফটো গ্যালারি পরীক্ষা করুন"
+
+ },
+
+ {
+
+  "text_code": "HPA_Confirm",
+
+  "text_value": "Hypothecation যোগের জন্য অ্যাপ্লিকেশনটি অ্যাপ্লিকেশন নম্বরের সাথে ড্রাফটে সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "duplicate_Confirm",
+
+  "text_value": "ডুপ্লিকেট আরসি ইস্যুর জন্য আবেদন সফলভাবে আবেদন নং সহ ড্রাফটে সংরক্ষণ করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "noc_Confirm",
+
+  "text_value": "নো অবজেকশন সার্টিফিকেট (এনওসি) আবেদন সফলভাবে সংরক্ষণ করা হয়েছে।"
+
+ },
+
+ {
+
+  "text_code": "HPT_Confirm",
+
+  "text_value": "খসড়ায় সফলভাবে হাইপোথিকেশনের সমাপ্তির জন্য আবেদন সংরক্ষণ করা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "change_of_Address_Confirm",
+
+  "text_value": "ঠিকানা পরিবর্তনের আবেদন আরসিতে, আমি সফলভাবে আবেদন নম্বর সহ একটি খসড়া সংরক্ষণ করেছি।"
+
+ },
+
+ {
+
+  "text_code": "image_size_error",
+
+  "text_value": "ছবির সাইজ 200 কেবির বেশি হবে না"
+
+ },
+
+ {
+
+  "text_code": "pdf_size_error",
+
+  "text_value": "পিডিএফ সাইজ 200 কেবির বেশি হবে না"
+
+ },
+
+ {
+
+  "text_code": "appointment_book_msg",
+
+  "text_value": "আপনার অ্যাপয়েন্টমেন্ট বুক করা হয়েছে অ্যাপয়েন্টমেন্টের সাথে:"
+
+ },
+
+ {
+
+  "text_code": "for_application_no",
+
+  "text_value": "আবেদন নম্বর:"
+
+ },
+
+ {
+
+  "text_code": "terms_conditions_error",
+
+  "text_value": "অনুগ্রহ করে শর্তাবলী নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "correct_information_as_per_aadhaar",
+
+  "text_value": "আধার অনুয়ায়ী সঠিক তথ্য দেওয়া নিশ্চিত করুন"
+
+ },
+
+ {
+
+  "text_code": "please_Select_the_reason",
+
+  "text_value": "অনুগ্রহ করে কারণ নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "please_enter_the_remark",
+
+  "text_value": "অনুগ্রহ করে মন্তব্যটি লিখুন"
+
+ },
+
+ {
+
+  "text_code": "please_enter_the_valid_fir_no",
+
+  "text_value": "দয়া করে বৈধ এফআইআর নং এন্ট্রি করুন।"
+
+ },
+
+ {
+
+  "text_code": "please_enter_fir_date",
+
+  "text_value": "দয়া করে এফআইআর-এর তারিখ লিখুন।"
+
+ },
+
+ {
+
+  "text_code": "please_enter_police_station",
+
+  "text_value": "দয়া করে থানা ইনপুট  করুন"
+
+ },
+
+ {
+
+  "text_code": "are_you_sure_you_want_to_leave",
+
+  "text_value": "আপনি কি নিশ্চিত আপনি চলে যেতে চান?"
+
+ },
+
+ {
+
+  "text_code": "please_enter_hypothentication_type",
+
+  "text_value": "অনুগ্রহ করে Hypothecation টাইপ লিখুন"
+
+ },
+
+ {
+
+  "text_code": "please_enter_the_financer_name",
+
+  "text_value": "অনুগ্রহ করে ফিনান্সারের নাম লিখুন"
+
+ },
+
+ {
+
+  "text_code": "please_enter_village_town_city",
+
+  "text_value": "দয়া করে গ্রাম\/শহর  লিখুন"
+
+ },
+
+ {
+
+  "text_code": "please_select_the_state",
+
+  "text_value": "অনুগ্রহ করে রাজ্য নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "please_select_district",
+
+  "text_value": "অনুগ্রহ করে জেলা নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "please_enter_valid_pincode",
+
+  "text_value": "অনুগ্রহ করে বৈধ পিন কোড লিখুন"
+
+ },
+
+ {
+
+  "text_code": "please_select_date",
+
+  "text_value": "অনুগ্রহ করে তারিখ নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "unable_to_process_your_request",
+
+  "text_value": "আপনার অনুরোধ প্রক্রিয়া করতে ব্যর্থ।"
+
+ },
+
+ {
+
+  "text_code": "please_Select_hypothentication_option",
+
+  "text_value": "অনুগ্রহ করে Hypothecation অপশনটি নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "please_select_noc_reason",
+
+  "text_value": "অনুগ্রহ করে NOC কারণ নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "please_select_authority",
+
+  "text_value": "অনুগ্রহ করে কর্তৃপক্ষ নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "please_select_ncrb_no",
+
+  "text_value": "দয়া করে এনসিআরবি নম্বর সিলেক্ট করুন।"
+
+ },
+
+ {
+
+  "text_code": "please_enter_name",
+
+  "text_value": "অনুগ্রহ করে নাম লিখুন"
+
+ },
+
+ {
+
+  "text_code": "please_enter_valid_name",
+
+  "text_value": "অনুগ্রহ করে বৈধ নাম লিখুন"
+
+ },
+
+ {
+
+  "text_code": "label_contact_removed_successfully",
+
+  "text_value": "পরিচিতি সফলভাবে অপসারণ করা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "label_phone_number",
+
+  "text_value": "ফোন নম্বর"
+
+ },
+
+ {
+
+  "text_code": "label_relation",
+
+  "text_value": "সম্পর্ক"
+
+ },
+
+ {
+
+  "text_code": "label_save",
+
+  "text_value": "সেভ করুন"
+
+ },
+
+ {
+
+  "text_code": "label_please_select_relation",
+
+  "text_value": "অনুগ্রহ করে সম্পর্ক নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_select_relation",
+
+  "text_value": "সম্পর্ক নির্বাচন করুন"
+
+ },
+
+ {
+
+  "text_code": "label_contact_added_successfully",
+
+  "text_value": "পরিচিতির বিবরণ সফলভাবে যোগ করা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "label_unable_add_contact",
+
+  "text_value": "আপনি যদি আপনার পরিচিতি তথ্য যোগ করতে না পারেন তবে অনুগ্রহ করে পরে পুনরায় চেষ্টা করুন।"
+
+ },
+
+ {
+
+  "text_code": "label_contact_updated_successfully",
+
+  "text_value": "পরিচিতির বিবরণ সফলভাবে হালনাগাদ করা হয়েছে"
+
+ },
+
+ {
+
+  "text_code": "label_contact_failed_to_remove",
+
+  "text_value": "পরিচিতি অপসারণ করতে ব্যর্থ"
+
+ },
+
+ {
+
+  "text_code": "lbl_rc_particular_against_fee",
+
+  "text_value": "ফি এর বিপরীতে আরসি বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "label_not_find_location",
+
+  "text_value": "আপনার অবস্থান খুঁজে পাওয়া যাচ্ছে না কিছু সময় পর চেষ্টা করুন"
+
+ },
+
+ {
+
+  "text_code": "label_location",
+
+  "text_value": "অবস্থান"
+
+ },
+
+ {
+
+  "text_code": "label_turn_on_your_loc",
+
+  "text_value": "আপনার অবস্থান বন্ধ। অনুগ্রহ করে আপনার অবস্থান সক্রিয় করুন।"
+
+ },
+
+ {
+
+  "text_code": "photo_signature",
+
+  "text_value": "অনুগ্রহ করে ছবি ও স্"
+
+ },
+
+ {
+
+  "text_code": "label_loc_permission_required",
+
+  "text_value": "অনুমতি নিতে হবে। আপনার অবস্থান সনাক্ত করতে এমপরিবহন অ্যাপকে অনুমতি দিন।"
+
+ },
+
+ {
+
+  "text_code": "label_phone_permission_required_to_call",
+
+  "text_value": "ফোন করার জন্য অনুমতি নিতে হবে"
+
+ },
+
+ {
+
+  "text_code": "doc_mandatory",
+
+  "text_value": "দয়া করে সমস্ত বাধ্যতামূলক নথি আপলোড করুন"
+
+ },
+
+ {
+
+  "text_code": "record_error_msg",
+
+  "text_value": "রেকর্ড পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "label_no_notification",
+
+  "text_value": "নো নোটিফিকেশন"
+
+ },
+
+ {
+
+  "text_code": "label_notify_user",
+
+  "text_value": "কিছু এলে আমরা আপনাকে জানাব।"
+
+ },
+
+ {
+
+  "text_code": "Final_Submission",
+
+  "text_value": "দয়া করে প্রয়োজনীয় সমস্ত নথি আপলোড করুন, এবং তারপরে আপনি আপনার আবেদন চূড়ান্ত জমা দিতে সক্ষম হবেন।"
+
+ },
+
+ {
+
+  "text_code": "declaration",
+
+  "text_value": "ঘোষণা"
+
+ },
+
+ {
+
+  "text_code": "sez_doc_details",
+
+  "text_value": "বাজেয়াপ্ত নথি"
+
+ },
+
+ {
+
+  "text_code": "validRc",
+
+  "text_value": "অনুগ্রহ করে বৈধ RC নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "validchassi",
+
+  "text_value": "অনুগ্রহ করে বৈধ চেসিস নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "validstate",
+
+  "text_value": "অনুগ্রহ করে এর বৈধ RC নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "addMyDl",
+
+  "text_value": "আমার ড্রাইভিং লাইসেন্স যোগ করুন"
+
+ },
+
+ {
+
+  "text_code": "expired_on",
+
+  "text_value": "মেয়াদোত্তীর্ণ"
+
+ },
+
+ {
+
+  "text_code": "vehicle_alerts",
+
+  "text_value": "যানবাহনের সতর্কতা"
+
+ },
+
+ {
+
+  "text_code": "app_version",
+
+  "text_value": "অ্যাপ ভার্সন 2.0.103"
+
+ },
+
+ {
+
+  "text_code": "clear_all_history",
+
+  "text_value": "আপনি কি নিশ্চিতরূপে সমস্ত অনুসন্ধানের ইতিহাস মুছে ফেলতে চান?"
+
+ },
+
+ {
+
+  "text_code": "PLEASE_ENTER_APPLICATION",
+
+  "text_value": "আবেদন নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "PLEASE_ENTER_REG",
+
+  "text_value": "দয়া করে রেজিস্ট্রেশন নম্বর লিখুন"
+
+ },
+
+ {
+
+  "text_code": "PLEASE_ENTER_CHASSI",
+
+  "text_value": "দয়া করে চেসিস নং লিখুন"
+
+ },
+
+ {
+
+  "text_code": "no_application_status",
+
+  "text_value": "এই অ্যাপ্লিকেশনের জন্য কোন অ্যাপ্লিকেশন স্ট্যাটাস পাওয়া যায়নি।"
+
+ },
+
+ {
+
+  "text_code": "no_application_with_rc",
+
+  "text_value": "এই গাড়ির জন্য কোন অ্যাপ্লিকেশন স্ট্যাটাস পাওয়া যায়নি।"
+
+ },
+
+ {
+
+  "text_code": "INVALID_CHASSI",
+
+  "text_value": "ইনভ্যালিড চেসিস!"
+
+ },
+
+ {
+
+  "text_code": "INVALID_ENGINE",
+
+  "text_value": "অকার্যকর ইঞ্জিন নং.!!"
+
+ },
+
+ {
+
+  "text_code": "REG_DATE",
+
+  "text_value": "অনুগ্রহ করে নিবন্ধনের তারিখ লিখুন"
+
+ },
+
+ {
+
+  "text_code": "REG_UPTO",
+
+  "text_value": "অনুগ্রহ করে রেজিস্ট্রেশনের বৈধ তারিখ লিখুন"
+
+ },
+
+ {
+
+  "text_code": "RC_Particulars_against_Fee",
+
+  "text_value": "আরসি বিবরণ"
+
+ },
+
+ {
+
+  "text_code": "no_pending_trans",
+
+  "text_value": "এই অ্যাপ্লিকেশন নং-এর জন্য কোনও বকেয়া লেনদেন পাওয়া যায়নি"
+
+ },
+
+ {
+
+  "text_code": "dl_validation",
+
+  "text_value": "অনুগ্রহ করে সর্বনিম্ন 10 ও সর্বোচ্চ 18 অক্ষর লিখুন।শুধুমাত্র হাইফেন(-), ফরওয়ার্ড স্ল্যাশ(\/) এবং স্পেস অনুমোদিত"
+
+ },
+ {
+  "text_code": "label_duplicate_rc",
+  "text_value": "Duplicate RC"
+ },
+ {
+  "text_code": "label_setting",
+  "text_value": "বিন্যাস"
+ },
+ {
+  "text_code": "emmission_norm_lbl",
+  "text_value": "নির্গমন আদর্শ"
+ },
+ {
+  "text_code": "label_home",
+  "text_value": "বাড়ি"
+ },
+ {
+  "text_code": "label_setting",
+  "text_value": "বিন্যাস"
+ },
+ {
+  "text_code": "label_duplicate_rc",
+  "text_value": "সদৃশ আরসি"
+ },
+ {
+  "text_code": "edit_enter_dob",
+  "text_value": "ডিডি-এমএম-ইয়ে"
+ },
+ {
+  "text_code": "label_capture",
+  "text_value": "ক্যাপচার"
+ },
+ {
+  "text_code": "label_view",
+  "text_value": "দেখুন"
+ },
+ {
+  "text_code": "btn_Download_Receipt",
+  "text_value": "রসিদ ডাউনলোড করুন"
+ },
+ {
+  "text_code": "lbl_enter_mobNo_as_per_aadhaar",
+  "text_value": "মোবাইল নং প্রবেশ করুন (আধার অনুযায়ী)"
+ },
+ {
+  "text_code": "lbl_NCRB_clearance_No",
+  "text_value": "এনসিআরবি ছাড়পত্র নং"
+ },
+ {
+  "text_code": "vehicle_Description",
+  "text_value": "গাড়ির বিবরণ"
+ },
+ {
+  "text_code": "note2",
+  "text_value": "দ্রষ্টব্য: ড্রাইভিং লাইসেন্সের জন্য এই তথ্যটি এমপিআরআইভাহান দ্বারা সড়ক পরিবহন ও মহাসড়ক মন্ত্রকের জাতীয় রেজিস্ট্রিতে ইস্যুকারী কর্তৃপক্ষ কর্তৃক প্রদত্ত তথ্য অনুসারে উত্পাদিত হয়। বৈদ্যুতিনভাবে ব্যবহৃত হলে এই দস্তাবেজটি আইটি আইন 2000 অনুসারে বৈধ।"
+ },
+ {
+  "text_code": "enter_ncrb_clearance",
+  "text_value": "এনসিআরবি ছাড়পত্র নং প্রবেশ করান"
+ },
+ {
+  "text_code": "lbl_Completed",
+  "text_value": "সম্পূর্ণ"
+ },
+ {
+  "text_code": "lbl_Rejected",
+  "text_value": "প্রত্যাখ্যাত"
+ },
+ {
+  "text_code": "lbl_ReUpload",
+  "text_value": "পুনরায় আপলোড"
+ },
+ {
+  "text_code": " lbl_change_of_address_in_rc ",
+  "text_value": "আরসিতে ঠিকানার পরিবর্তন"
+ },
+ {
+  "text_code": "lbl_enter_vid_number",
+  "text_value": "ভিড নম্বর লিখুন"
+ },
+ {
+  "text_code": "lbl_enter_registration_number",
+  "text_value": "নিবন্ধকরণ নম্বর লিখুন"
+ },
+ {
+  "text_code": "lbl_error_choose_msg",
+  "text_value": "এগিয়ে যাওয়ার জন্য আপনাকে অবশ্যই 1 টি পরিষেবা চয়ন করতে হবে।"
+ },
+ {
+  "text_code": "lbl_error_valid_vid",
+  "text_value": "বৈধ ভিড নম্বর লিখুন দয়া করে"
+ },
+ {
+  "text_code": "lbl_error_valid_aadhaar",
+  "text_value": "আদা নম্বর লিখুন দয়া করে।"
+ },
+ {
+  "text_code": "error_msg_rc_number",
+  "text_value": "কোনও বিশেষ চরিত্র ছাড়াই দয়া করে সর্বনিম্ন 4 এবং সর্বোচ্চ 10 টি সংখ্যা লিখুন"
+ },
+ {
+  "text_code": "alphabet_error_msg_rc_number",
+  "text_value": "দয়া করে আরসি নম্বরটির প্রথম দুটি চরিত্র প্রবেশ করুন বর্ণমালা হওয়া উচিত"
+ },
+ {
+  "text_code": "email_id_error_msg",
+  "text_value": "বৈধ ইমেল আইডি লিখুন"
+ },
+ {
+  "text_code": "date_of_birth_error_msg",
+  "text_value": "জন্ম তারিখ লিখুন দয়া করে"
+ },
+ {
+  "text_code": "full_name_error_msg",
+  "text_value": "পুরো নাম লিখুন দয়া করে"
+ },
+ {
+  "text_code": "dl_number_error_msg",
+  "text_value": "দয়া করে ডিএল নম্বর লিখুন"
+ },
+ {
+  "text_code": "valid_dl_number_error_msg",
+  "text_value": "বৈধ ডিএল নম্বর লিখুন দয়া করে"
+ },
+ {
+  "text_code": "application_number_error_msg",
+  "text_value": "দয়া করে অ্যাপ্লিকেশন নং লিখুন"
+ },
+ {
+  "text_code": "chassis_number_error_msg",
+  "text_value": "চ্যাসিস নম্বর লিখুন দয়া করে"
+ },
+ {
+  "text_code": "financer_upto_date_error_msg",
+  "text_value": "দয়া করে তারিখ পর্যন্ত ফিনান্সার প্রবেশ করুন"
+ },
+ {
+  "text_code": "application_status_error_msg",
+  "text_value": "এই অ্যাপ্লিকেশন নম্বরটির জন্য কোনও আবেদনের স্থিতি পাওয়া যায় নি"
+ },
+ {
+  "text_code": "vehicle_application_status_error_msg",
+  "text_value": "এই যানবাহনের নম্বরটির জন্য কোনও আবেদনের স্থিতি পাওয়া যায় না"
+ },
+ {
+  "text_code": "fee_payment_pending",
+  "text_value": "ফি প্রদান মুলতুবি রয়েছে, দয়া করে সম্পূর্ণ ফি প্রদান"
+ },
+ {
+  "text_code": "fee_payment_document_pending",
+  "text_value": "ফি প্রদান এবং ডকুমেন্ট আপলোড মুলতুবি রয়েছে, দয়া করে সম্পূর্ণ ফি প্রদান এবং ডকুমেন্ট আপলোড"
+ },
+ {
+  "text_code": "document_pending",
+  "text_value": "ডকুমেন্ট আপলোড মুলতুবি রয়েছে, দয়া করে সম্পূর্ণ ডকুমেন্ট আপলোড"
+ },
+ {
+  "text_code": "fee_details_error_msg",
+  "text_value": "ফি বিশদ পেতে অক্ষম, দয়া করে কিছু সময় পরে চেষ্টা করুন"
+ },
+ {
+  "text_code": "try_again_error_msg",
+  "text_value": "আরও এগিয়ে যেতে অক্ষম, দয়া করে কিছুক্ষণ পরে চেষ্টা করুন"
+ },
+ {
+  "text_code": "sub_district_label_present",
+  "text_value": "স্থায়ী সাব জেলা নির্বাচন করুন"
+ },
+ {
+  "text_code": "house_number_lablel_present",
+  "text_value": "দয়া করে স্থায়ী হাউস নম্বর লিখুন, যান নং, দরজা"
+ },
+ {
+  "text_code": "street_loacl_labelpresent",
+  "text_value": "স্থায়ী রাস্তা বা lacally লিখুন দয়া করে"
+ },
+ {
+  "text_code": "sub_district_label_current",
+  "text_value": "বর্তমান সাব জেলা নির্বাচন করুন"
+ },
+ {
+  "text_code": "house_number_lablel_current",
+  "text_value": "দয়া করে বর্তমান বাড়ির নম্বর লিখুন, নং ফ্লেট করুন। দরজা"
+ },
+ {
+  "text_code": "street_loacl_label_current",
+  "text_value": "দয়া করে বর্তমান রাস্তা বা লেসালিটি প্রবেশ করুন"
+ },
+ {
+  "text_code": "application_number_saved",
+  "text_value": "আপনার অ্যাপ্লিকেশন নম্বর ফটোতে সংরক্ষণ করা হয়েছে"
+ },
+ {
+  "text_code": "enter_application_number_msg",
+  "text_value": "অ্যাপ্লিকেশন নম্বর লিখুন দয়া করে"
+ },
+ {
+  "text_code": "five_digits_chassis_number_error_msg",
+  "text_value": "চ্যাসিস নং 5 টি সংখ্যা হওয়া উচিত"
+ },
+ {
+  "text_code": "update_mobile_no_error_msg",
+  "text_value": "আপনার মোবাইল কোনও প্রথমে আপডেট করুন না"
+ },
+ {
+  "text_code": "read_terms_condition",
+  "text_value": "শর্তাদি এবং শর্ত পড়ুন দয়া করে।"
+ },
+ {
+  "text_code": "proceed_slot_booking",
+  "text_value": "আপনি কি স্লট বুক করার ভবিষ্যতে এগিয়ে যাওয়ার বিষয়ে নিশ্চিত?"
+ },
+ {
+  "text_code": "select_previous_slot_date",
+  "text_value": "আপনি আগের তারিখটি নির্বাচন করতে পারবেন না।"
+ },
+ {
+  "text_code": "slot_booking_not_available",
+  "text_value": "এই তারিখে বুকিং পাওয়া যায় না"
+ },
+ {
+  "text_code": "label_slot",
+  "text_value": "স্লট"
+ },
+ {
+  "text_code": "label_slot_appointment_booked",
+  "text_value": "আপনার অ্যাপয়েন্টমেন্ট অ্যাপয়েন্টমেন্ট আইডি সহ বুক করা হয়েছে"
+ },
+ {
+  "text_code": "label_receipt_saved",
+  "text_value": "রসিদ স্টোরেজ সফলভাবে সংরক্ষণ করা"
+ },
+ {
+  "text_code": "registration_date_error_msg",
+  "text_value": "যানবাহন নিবন্ধকরণের তারিখ লিখুন"
+ },
+ {
+  "text_code": "registration_upto_date_error_msg",
+  "text_value": "তারিখ পর্যন্ত যানবাহন নিবন্ধকরণ প্রবেশ করুন"
+ },
+ {
+  "text_code": "aadhar_number_error_msg",
+  "text_value": "দয়া করে আধার নম্বর লিখুন"
+ },
+ {
+  "text_code": "existing_owner_name_error_msg",
+  "text_value": "দয়া করে বিদ্যমান মালিকের নাম লিখুন"
+ },
+ {
+  "text_code": "owner_name_error_msg",
+  "text_value": "মালিকের নাম 3 টি চরিত্রের চেয়ে কম হওয়া উচিত নয়"
+ },
+ {
+  "text_code": "phone_number_error_msg",
+  "text_value": "ফোন নম্বর লিখুন দয়া করে"
+ },
+ {
+  "text_code": "valid_phone_number_error_msg",
+  "text_value": "দয়া করে সঠিক ফোন নম্বর লিখুন"
+ },
+ {
+  "text_code": "verify_otp_error_msg",
+  "text_value": "ওটিপি যাচাই করতে অক্ষম, দয়া করে কিছুক্ষণ পরে চেষ্টা করুন"
+ },
+ {
+  "text_code": "application_number_limit_error_msg",
+  "text_value": "দয়া করে সর্বনিম্ন 10 অঙ্কের অ্যাপ্লিকেশন নং লিখুন"
+ },
+ {
+  "text_code": "no_application_number_error_msg",
+  "text_value": "কোনও আবেদন নম্বর পাওয়া যায় নি"
+ },
+ {
+  "text_code": "no_forms_error_msg",
+  "text_value": "ডাউনলোড করার জন্য কোনও ফর্ম উপলব্ধ নেই।"
+ },
+ {
+  "text_code": "appointment_no_error_msg",
+  "text_value": "অ্যাপয়েন্টমেন্ট নং লিখুন দয়া করে"
+ },
+ {
+  "text_code": "appointment_no_limit_error_msg",
+  "text_value": "দয়া করে সর্বনিম্ন 10 ডিজিটের অ্যাপয়েন্টমেন্ট নং লিখুন"
+ },
+ {
+  "text_code": "select_sub_category",
+  "text_value": "সাব বিভাগ নির্বাচন করুন"
+ },
+ {
+  "text_code": "camera_label",
+  "text_value": "ক্যামেরা"
+ },
+ {
+  "text_code": "enter_phone_number",
+  "text_value": "ফোন নম্বর লিখুন দয়া করে"
+ },
+ {
+  "text_code": "set_mpin_generate",
+  "text_value": "আপনি এই মোবাইলের জন্য এমপিআইএন সেট করেন নি, দয়া করে এমপিনের জন্য অনুরোধ করুন 'এমপিন তৈরি করুন' ব্যবহার করে"
+ },
+ {
+  "text_code": "enter_6digit_otp",
+  "text_value": "দয়া করে 6 ডিজিট ব্যবহারকারী ওটিপি লিখুন"
+ },
+ {
+  "text_code": "name_not_less3",
+  "text_value": "নাম 3 টি অক্ষরের চেয়ে কম হওয়া উচিত নয়"
+ },
+ {
+  "text_code": "btn_done",
+  "text_value": "সম্পন্ন"
+ },
+ {
+  "text_code": "accident_report_msg",
+  "text_value": "দুর্ঘটনার প্রতিবেদন সফলভাবে জমা দেওয়া হয়েছে"
+ },
+ {
+  "text_code": "dl_delete_msg",
+  "text_value": "ডিএল সফলভাবে মুছে ফেলা হয়েছে"
+ },
+ {
+  "text_code": "remark_validation_msg",
+  "text_value": "মন্তব্যগুলি 30 টি শব্দের চেয়ে কম হওয়া উচিত নয়"
+ },
+ {
+  "text_code": "complaint_succ_msg",
+  "text_value": "অভিযোগ সফলভাবে প্রেরণ"
+ },
+ {
+  "text_code": "send_email_validation",
+  "text_value": "ইমেল প্রেরণের জন্য দয়া করে একটি মেল অ্যাকাউন্ট সেট আপ করুন।"
+ },
+ {
+  "text_code": "challan_transc_dlt",
+  "text_value": "চালান লেনদেন সফলভাবে মুছে ফেলা হয়েছে"
+ },
+ {
+  "text_code": "fee_payment_error_msg",
+  "text_value": "ফি প্রদান শেষ হয় না।"
+ },
+ {
+  "text_code": "try_again_later",
+  "text_value": "পরে আবার চেষ্টা করুন"
+ },
+ {
+  "text_code": "book_appointment_msg",
+  "text_value": "আপনি কি অ্যাপয়েন্টমেন্ট বুক করতে চান?"
+ },
+ {
+  "text_code": "document_not_uploaded",
+  "text_value": "এই দস্তাবেজ আপলোড করা হয় না"
+ },
+ {
+  "text_code": "already_logged_in",
+  "text_value": "আপনি এই মোবাইল নম্বরটি ব্যবহার করে লগড-ইন করেছেন বলে আরসি ভাগ করা যাবে না"
+ },
+ {
+  "text_code": "enter_engine_validation",
+  "text_value": "আপনার ইঞ্জিন নম্বরটির শেষ 5 টি অঙ্ক লিখুন দয়া করে।"
+ },
+ {
+  "text_code": "enter_chasis_validation",
+  "text_value": "আপনার চ্যাসিস নম্বরটির শেষ 5 টি অঙ্ক লিখুন দয়া করে।"
+ },
+ {
+  "text_code": "remark_max_validation",
+  "text_value": "মন্তব্যগুলি 250 টির বেশি অক্ষরের বেশি হওয়া উচিত নয়"
+ },
+ {
+  "text_code": "remark_min_validation",
+  "text_value": "মন্তব্যগুলি সর্বনিম্ন 30 টি অক্ষর হওয়া উচিত"
+ },
+ {
+  "text_code": "remark_msg",
+  "text_value": "আপনার মন্তব্য লিখুন দয়া করে"
+ },
+ {
+  "text_code": "enter_end_date",
+  "text_value": "শেষ তারিখ লিখুন দয়া করে"
+ },
+ {
+  "text_code": "comment_max_validation",
+  "text_value": "মন্তব্যগুলি 500 টির বেশি অক্ষরের বেশি হওয়া উচিত নয়"
+ },
+ {
+  "text_code": "enter_comments",
+  "text_value": "মন্তব্য লিখুন"
+ },
+ {
+  "text_code": "enter_state_lbl",
+  "text_value": "দয়া করে রাজ্য প্রবেশ করুন"
+ },
+ {
+  "text_code": "enter_start_date",
+  "text_value": "প্রারম্ভিক তারিখ লিখুন দয়া করে"
+ },
+ {
+  "text_code": "enter_location_lbl",
+  "text_value": "অবস্থান লিখুন দয়া করে"
+ },
+ {
+  "text_code": "emmission_norm_lbl",
+  "text_value": "নির্গমন আদর্শ"
+ },
+ {
+  "text_code": "challan_validation_digit",
+  "text_value": "দয়া করে চালানের ন্যূনতম 12 টি সংখ্যা লিখুন"
+ },
+ {
+  "text_code": "fill_all_details",
+  "text_value": "সমস্ত বিবরণ পূরণ করুন"
+ },
+ {
+  "text_code": "update_error_msg",
+  "text_value": "আপনি কি আপডেট করতে চান তা নিশ্চিত?"
+ },
+ {
+  "text_code": "authority_error_msg",
+  "text_value": "কর্তৃপক্ষ নির্বাচন করুন"
+ },
+ {
+  "text_code": "ncrb_error_msg",
+  "text_value": "দয়া করে এনসিআরবি লিখুন"
+ },
+ {
+  "text_code": "valid_ncrb_error_msg",
+  "text_value": "বৈধ এনসিআরবি লিখুন দয়া করে"
+ },
+ {
+  "text_code": "transferee_name_error_msg",
+  "text_value": "স্থানান্তর নাম লিখুন দয়া করে"
+ },
+ {
+  "text_code": "valid_transferee_name_error_msg",
+  "text_value": "বৈধ স্থানান্তর নাম লিখুন দয়া করে"
+ },
+ {
+  "text_code": "finanace_upto_error_msg",
+  "text_value": "দয়া করে ফিনান্স পর্যন্ত প্রবেশ করুন"
+ },
+ {
+  "text_code": "choose_date_error_msg",
+  "text_value": "যে কোনও তারিখ চয়ন করুন।"
+ },
+ {
+  "text_code": "house_no_street_name_error_msg",
+  "text_value": "দয়া করে বর্তমান বাড়ি নং এবং রাস্তার নাম লিখুন"
+ },
+ {
+  "text_code": "valid_house_no_street_name_error_msg",
+  "text_value": "দয়া করে বৈধ কারেন্ট হাউস নং এবং রাস্তার নাম লিখুন"
+ },
+ {
+  "text_code": "current_village_town_city_error_msg",
+  "text_value": "দয়া করে বর্তমান গ্রাম\/শহর\/শহরে প্রবেশ করুন"
+ },
+ {
+  "text_code": "valid_current_village_town_city_error_msg",
+  "text_value": "বৈধ বর্তমান গ্রাম\/শহর\/শহর লিখুন দয়া করে"
+ },
+ {
+  "text_code": "valid_landmark_error_msg",
+  "text_value": "বৈধ বর্তমান ল্যান্ডমার্ক লিখুন দয়া করে"
+ },
+ {
+  "text_code": "valid_current_pin_code_error_msg",
+  "text_value": "বৈধ বর্তমান পিনকোড লিখুন দয়া করে"
+ },
+ {
+  "text_code": "current_pin_code_limit_error_msg",
+  "text_value": "বর্তমান পিনকোড 6 ডিজিটের চেয়ে বা 6 ডিজিটের চেয়ে কম গ্রেটার হওয়া উচিত নয়"
+ },
+ {
+  "text_code": "permanent_house_no_Street_name_error_msg",
+  "text_value": "স্থায়ী বাড়ি নং এবং রাস্তার নাম লিখুন দয়া করে"
+ },
+ {
+  "text_code": "valid_permanent_house_no_Street_name_error_msg",
+  "text_value": "বৈধ স্থায়ী বাড়ি নং এবং রাস্তার নাম লিখুন দয়া করে"
+ },
+ {
+  "text_code": "permanent_village_town_city_error_msg",
+  "text_value": "স্থায়ী গ্রাম\/শহর\/শহরে প্রবেশ করুন"
+ },
+ {
+  "text_code": "valid_permanent_village_town_city_error_msg",
+  "text_value": "বৈধ স্থায়ী গ্রাম\/শহর\/শহর লিখুন দয়া করে"
+ },
+ {
+  "text_code": "valid_permanent_landmark_error_msg",
+  "text_value": "বৈধ স্থায়ী ল্যান্ডমার্ক লিখুন দয়া করে"
+ },
+ {
+  "text_code": "valid_permanent_pincode_error_msg",
+  "text_value": "বৈধ স্থায়ী পিনকোড লিখুন দয়া করে"
+ },
+ {
+  "text_code": "permanent_pincode_limit_error_msg",
+  "text_value": "স্থায়ী পিনকোড 6 ডিজিটের চেয়ে বেশি বা 6 ডিজিটের চেয়ে কম হওয়া উচিত নয়"
+ },
+ {
+  "text_code": "remark_error_msg",
+  "text_value": "মন্তব্য লিখুন দয়া করে"
+ },
+ {
+  "text_code": "fir_no_error_msg",
+  "text_value": "দয়া করে ফার্স নং প্রবেশ করুন"
+ },
+ {
+  "text_code": "fir_date_error_msg",
+  "text_value": "দয়া করে এফআইআর তারিখ নির্বাচন করুন"
+ },
+ {
+  "text_code": "enter_police_station_error_msg",
+  "text_value": "দয়া করে থানায় প্রবেশ করুন"
+ },
+ {
+  "text_code": "hypothecation_type_error_msg",
+  "text_value": "হাইপোথেকশন প্রকারটি নির্বাচন করুন"
+ },
+ {
+  "text_code": "financier_name_error_msg",
+  "text_value": "ফিনান্সিয়ারের নাম লিখুন দয়া করে"
+ },
+ {
+  "text_code": "valid_financier_name_error_msg",
+  "text_value": "বৈধ ফিনান্সিয়ারের নাম লিখুন দয়া করে"
+ },
+ {
+  "text_code": "house_no_error_msg",
+  "text_value": "দয়া করে হাউস নং প্রবেশ করুন"
+ },
+ {
+  "text_code": "valid_house_no_error_msg",
+  "text_value": "বৈধ হাউস নং লিখুন দয়া করে"
+ },
+ {
+  "text_code": "valid_village_town_city_error_msg",
+  "text_value": "বৈধ গ্রাম\/শহর\/শহর প্রবেশ করুন"
+ },
+ {
+  "text_code": "landmark_error_msg",
+  "text_value": "ল্যান্ডমার্ক প্রবেশ করুন"
+ },
+ {
+  "text_code": "valid_landmark_error_msg",
+  "text_value": "বৈধ ল্যান্ডমার্ক লিখুন দয়া করে"
+ },
+ {
+  "text_code": "district_error_msg",
+  "text_value": "দয়া করে জেলা নির্বাচন করুন"
+ },
+ {
+  "text_code": "pincode_error_msg",
+  "text_value": "দয়া করে পিনকোড লিখুন"
+ },
+ {
+  "text_code": "valid_pincode_error_msg",
+  "text_value": "বৈধ পিনকোড লিখুন দয়া করে"
+ },
+ {
+  "text_code": "pincode_limit_error_msg",
+  "text_value": "পিনকোড 6 ডিজিটের বেশি বা 6 ডিজিটের চেয়ে কম হওয়া উচিত নয়"
+ },
+ {
+  "text_code": "finance_date_error_msg",
+  "text_value": "তারিখ থেকে অর্থ প্রবেশ করুন"
+ },
+ {
+  "text_code": "fitness_lbl",
+  "text_value": "ফিটনেস"
+ },
+ {
+  "text_code": "lbl_registered_mobile_no",
+  "text_value": "নিবন্ধিত মোবাইল নং"
+ },
+ {
+  "text_code": "vid_terms_condition",
+  "text_value": "আমি ভিআইডি ভিত্তিক ই-কেওয়াইসি সম্মতিতে পড়েছি এবং একমত হয়েছি"
+ },
+ {
+  "text_code": "no_rc_found",
+  "text_value": "কোনও ভার্চুয়াল আরসি পাওয়া যায় নি"
+ },
+ {
+  "text_code": "app_version_name",
+  "text_value": "অ্যাপ্লিকেশন সংস্করণ"
+ },
+ {
+  "text_code": "touch_id_lbl",
+  "text_value": "টাচ আইডি দিয়ে লগইন করুন"
+ },
+ {
+  "text_code": "face_id_lbl",
+  "text_value": "ফেস আইডি দিয়ে লগইন করুন"
+ },
+ {
+  "text_code": "enable_btn",
+  "text_value": "সক্ষম করুন"
+ },
+ {
+  "text_code": "faceId_notEnabled_error",
+  "text_value": "আপনার ফেস আইডি\/টাচ আইডি সক্ষম নয়"
+ },
+ {
+  "text_code": "faceId_verification_error",
+  "text_value": "আপনার পরিচয় যাচাই করতে সমস্যা ছিল।"
+ },
+ {
+  "text_code": "faceId_cancel_error",
+  "text_value": "আপনি বাতিল চাপ।"
+ },
+ {
+  "text_code": "faceId_password_selection_error",
+  "text_value": "আপনি পাসওয়ার্ড চাপলেন।"
+ },
+ {
+  "text_code": "faceId_notAvailable_error",
+  "text_value": "ফেস আইডি\/টাচ আইডি উপলভ্য নয়।"
+ },
+ {
+  "text_code": "faceId_notSetup_error",
+  "text_value": "ফেস আইডি\/টাচ আইডি সেট আপ করা হয় না।"
+ },
+ {
+  "text_code": "faceId_locked_error",
+  "text_value": "ফেস আইডি\/টাচ আইডি লক করা আছে।"
+ },
+ {
+  "text_code": "faceId_notConfigured_error",
+  "text_value": "ফেস আইডি\/টাচ আইডি কনফিগার করা যাবে না"
+ },
+ {
+  "text_code": "expiring_on_lbl",
+  "text_value": "মেয়াদ শেষ হচ্ছে"
+ },
+ {
+  "text_code": "total_notices_lbl",
+  "text_value": "মোট বিজ্ঞপ্তি (গুলি):"
+ },
+ {
+  "text_code": "noNotice_error_msg",
+  "text_value": "কোন বিজ্ঞপ্তি পাওয়া যায় না"
+ },
+ {
+  "text_code": "noNotice_error_desc",
+  "text_value": "এই নম্বরটির জন্য কোনও নোটিশ পাওয়া যায়নি।"
+ },
+ {
+  "text_code": "notice_status_lbl",
+  "text_value": "বিজ্ঞপ্তি স্থিতি"
+ },
+ {
+  "text_code": "notice_details_lbl",
+  "text_value": "নোটিশ বিশদ"
+ },
+ {
+  "text_code": "lbl_rc_number",
+  "text_value": "আরসি নং"
+ },
+ {
+  "text_code": "total_notice_lbl",
+  "text_value": "মোট বিজ্ঞপ্তি:"
+ },
+ {
+  "text_code": "notice_number_lbl",
+  "text_value": "নোটিশ নং"
+ },
+ {
+  "text_code": "notice_date_lbl",
+  "text_value": "নোটিশ তারিখ"
+ },
+ {
+  "text_code": "offence_lbl",
+  "text_value": "অপরাধ"
+ },
+ {
+  "text_code": "btn_download_notice",
+  "text_value": "বিজ্ঞপ্তি ডাউনলোড করুন"
+ },
+ {
+  "text_code": "notice_status_err",
+  "text_value": "স্থিতি ডেটা উপলব্ধ নয়"
+ },
+ {
+  "text_code": "notice_number_option_lbl",
+  "text_value": "বিজ্ঞপ্তি নম্বর"
+ },
+ {
+  "text_code": "enter_notice_txt",
+  "text_value": "নোটিশ নম্বর লিখুন"
+ },
+ {
+  "text_code": "release_details",
+  "text_value": "বিশদ প্রকাশ"
+ },
+ {
+  "text_code": "release_date",
+  "text_value": "মুক্তির তারিখ"
+ },
+ {
+  "text_code": "file_reference_no",
+  "text_value": "ফাইল রেফারেন্স নং"
+ },
+ {
+  "text_code": "approved_by",
+  "text_value": "দ্বারা স্বীকৃত"
+ },
+ {
+  "text_code": "apply_for_duplicate_fitness_certificate",
+  "text_value": "সদৃশ ফিটনেস শংসাপত্রের জন্য আবেদন করুন"
+ },
+ {
+  "text_code": "required_document",
+  "text_value": "প্রয়োজনীয় নথি"
+ },
+ {
+  "text_code": "apply_for_duplicate_permit",
+  "text_value": "সদৃশ পারমিটের জন্য আবেদন করুন"
+ },
+ {
+  "text_code": "apply_for_rc_cancellation",
+  "text_value": "আরসি বাতিল করার জন্য আবেদন করুন"
+ },
+ {
+  "text_code": "rc_cancellation_date",
+  "text_value": "আরসি বাতিল হওয়ার তারিখ"
+ },
+ {
+  "text_code": "apply_for_rc_surrender",
+  "text_value": "আরসি আত্মসমর্পণের জন্য আবেদন করুন"
+ },
+ {
+  "text_code": "document_surrender",
+  "text_value": "নথি আত্মসমর্পণ"
+ },
+ {
+  "text_code": "rc",
+  "text_value": "আরসি"
+ },
+ {
+  "text_code": "enter_rc_serial_no",
+  "text_value": "আরসি সিরিয়াল নং প্রবেশ করান।"
+ },
+ {
+  "text_code": "fitness_certificate",
+  "text_value": "ফিটনেস শংসাপত্র"
+ },
+ {
+  "text_code": "enter_fitness_certificate_no",
+  "text_value": "ফিটনেস শংসাপত্র নং প্রবেশ করান"
+ },
+ {
+  "text_code": "applying_for_tax_exemption",
+  "text_value": "কর ছাড়ের জন্য আবেদন করা হচ্ছে"
+ },
+ {
+  "text_code": "owner_name",
+  "text_value": "মালিকের নাম"
+ },
+ {
+  "text_code": "tax_from_date",
+  "text_value": "তারিখ থেকে কর"
+ },
+ {
+  "text_code": "tax_upto",
+  "text_value": "কর পর্যন্ত কর"
+ },
+ {
+  "text_code": "calculate_tax_details",
+  "text_value": "করের বিশদ গণনা করুন"
+ },
+ {
+  "text_code": "select_no_of_m_y_q",
+  "text_value": "এম\/ওয়াই\/কিউ নং নির্বাচন করুন"
+ },
+ {
+  "text_code": "tax_mode",
+  "text_value": "ট্যাক্স মোড"
+ },
+ {
+  "text_code": "enter_the_no_of_m_y_q",
+  "text_value": "এম\/ওয়াই\/কিউ নং প্রবেশ করান"
+ },
+ {
+  "text_code": "enter_the_no_year",
+  "text_value": "No.ear ুকুন"
+ },
+ {
+  "text_code": "final_amount",
+  "text_value": "চূড়ান্ত পরিমাণ"
+ },
+ {
+  "text_code": "calculate_tax",
+  "text_value": "কর গণনা"
+ },
+ {
+  "text_code": "please_wait",
+  "text_value": "অনুগ্রহপূর্বক অপেক্ষা করুন ..."
+ },
+ {
+  "text_code": "owner_current_tax_details",
+  "text_value": "মালিক & amp; বর্তমান করের বিশদ"
+ },
+ {
+  "text_code": "are_you_sure_you_want_to_Calcualte",
+  "text_value": "আপনি কি অবশ্যই গণনা করতে চান?"
+ },
+ {
+  "text_code": "pay_your_tax",
+  "text_value": "আপনার কর প্রদান"
+ },
+ {
+  "text_code": "please_select_tax_mode",
+  "text_value": "ট্যাক্স মোড নির্বাচন করুন"
+ },
+ {
+  "text_code": "are_you_sure_you_want_to_make_payment",
+  "text_value": "আপনি কি অবশ্যই অর্থ প্রদান করতে চান?"
+ },
+ {
+  "text_code": "please_try_after_some_time",
+  "text_value": "কিছু সময় পরে চেষ্টা করুন!"
+ },
+ {
+  "text_code": "amount_pay",
+  "text_value": "অর্থ প্রদান"
+ },
+ {
+  "text_code": "transaction_status",
+  "text_value": "লেনদেনের স্থিতি"
+ },
+ {
+  "text_code": "application_no",
+  "text_value": "আবেদন নম্বর"
+ },
+ {
+  "text_code": "receipt_no",
+  "text_value": "রশীদ নং"
+ },
+ {
+  "text_code": "reprint_receipt",
+  "text_value": "পুনরায় মুদ্রণ রশিদ"
+ },
+ {
+  "text_code": "try_again",
+  "text_value": "আবার চেষ্টা করুন."
+ },
+ {
+  "text_code": "are_you_sure_want_to_go_back",
+  "text_value": "আপনি কি ফিরে যেতে চান?"
+ },
+ {
+  "text_code": "view_notice_label",
+  "text_value": "বিজ্ঞপ্তি দেখুন"
+ },
+ {
+  "text_code": "notice_related_service",
+  "text_value": "ডিটিপি নোটিশ সম্পর্কিত পরিষেবা"
+ },
+ {
+  "text_code": "notice_payment_lbl",
+  "text_value": "অর্থ প্রদান"
+ },
+ {
+  "text_code": "no_receipt_found_err",
+  "text_value": "কোনও রসিদ পাওয়া যায় নি"
+ },
+ {
+  "text_code": "lbl_tax_from",
+  "text_value": "থেকে কর"
+ },
+ {
+  "text_code": "lbl_tax_amount",
+  "text_value": "করের পরিমাণ"
+ },
+ {
+  "text_code": "lbl_penality",
+  "text_value": "পেনালিটি"
+ },
+ {
+  "text_code": "lbl_surcharge",
+  "text_value": "সারচার্জ"
+ },
+ {
+  "text_code": "lbl_rebate",
+  "text_value": "ছাড়"
+ },
+ {
+  "text_code": "lbl_interest",
+  "text_value": "স্বার্থ"
+ },
+ {
+  "text_code": "lbl_additional_amount",
+  "text_value": "অতিরিক্ত পরিমাণ"
+ },
+ {
+  "text_code": "btn_calculate_tax",
+  "text_value": "কর গণনা"
+ },
+ {
+  "text_code": "lbl_select_tax_mode",
+  "text_value": "ট্যাক্স মোড নির্বাচন করুন"
+ },
+ {
+  "text_code": "lbl_Owner_Current_Tax_Detail",
+  "text_value": "মালিক এবং বর্তমান করের বিশদ"
+ },
+ {
+  "text_code": "lbl_enter_type",
+  "text_value": "প্রকার প্রবেশ করান"
+ },
+ {
+  "text_code": "lbl_enter_financer_name",
+  "text_value": "ফিনান্সারের নাম লিখুন"
+ },
+ {
+  "text_code": "lbl_enter_financer_address",
+  "text_value": "ফিনান্সার ঠিকানা লিখুন"
+ },
+ {
+  "text_code": "errorMsg_ImgUpload",
+  "text_value": "প্রোফাইল চিত্র আপলোড করতে অক্ষম, দয়া করে কিছুক্ষণ পরে"
+ },
+ {
+  "text_code": "enter_corectName",
+  "text_value": "সঠিক নাম লিখুন দয়া করে"
+ },
+ {
+  "text_code": "allow_location",
+  "text_value": "আপনাকে এই বৈশিষ্ট্যটির জন্য অবস্থানের অনুমতি দেওয়ার অনুমতি দিতে হবে, দয়া করে সেটিংসে যান এবং অবস্থানের অনুমতিগুলি চালু করুন"
+ },
+ {
+  "text_code": "allow_settings",
+  "text_value": "সেটিংস"
+ },
+ {
+  "text_code": "allow_Gps",
+  "text_value": "দয়া করে লোকেশন পরিষেবা বা জিপিএস চালু করুন"
+ },
+ {
+  "text_code": "title_lbl_now",
+  "text_value": "এখন"
+ },
+ {
+  "text_code": "title_lbl_later",
+  "text_value": "পরে"
+ },
+ {
+  "text_code": "mssg_lbl_succChangeMpin",
+  "text_value": "আপনি সফলভাবে এমপিন পরিবর্তন করেছেন"
+ },
+ {
+  "text_code": "mssg_lbl_enterCorrectOldMpin",
+  "text_value": "সঠিক পুরানো এমপিন লিখুন দয়া করে"
+ },
+ {
+  "text_code": "mssg_lbl_mpinNotLessThan6",
+  "text_value": "নতুন এমপিন 6 ডিজিটের চেয়ে কম নয়"
+ },
+ {
+  "text_code": "mssg_lbl_enterConfirmMpin",
+  "text_value": "দয়া করে এমপিন নিশ্চিত করুন"
+ },
+ {
+  "text_code": "err_lbl_confirmMpin",
+  "text_value": "নিশ্চিত করুন ওটিপি 6 অঙ্কের চেয়ে কম নয়"
+ },
+ {
+  "text_code": "err_lbl_shouldSameMpin",
+  "text_value": "নতুন এমপিন এবং নিশ্চিত এমপিন একই হওয়া উচিত"
+ },
+ {
+  "text_code": "err_lbl_oldMpinNotLess6",
+  "text_value": "পুরানো এমপিন 6 ডিজিটের চেয়ে কম নয়"
+ },
+ {
+  "text_code": "label_hpt_endorsement",
+  "text_value": "হাইপোথেকশন এন্ডোর্সমেন্ট"
+ },
+ {
+  "text_code": "label_ministryNotification",
+  "text_value": "মন্ত্রণালয়ের বিজ্ঞপ্তি"
+ },
+ {
+  "text_code": "label_receivedShared",
+  "text_value": "মন্ত্রণালয়ের বিজ্ঞপ্তি"
+ },
+ {
+  "text_code": "Open_gallery",
+  "text_value": "গ্যালারী খুলুন"
+ },
+ {
+  "text_code": "Open_document",
+  "text_value": "ডকুমেন্ট খোলা"
+ },
+ {
+  "text_code": "Choose_Option",
+  "text_value": "বিকল্প চয়ন করুন"
+ },
+ {
+  "text_code": "vehicle_Category",
+  "text_value": "যানবাহন বিভাগ"
+ },
+ {
+  "text_code": "msg_delete_notificationSuccess",
+  "text_value": "বিজ্ঞপ্তি সফলভাবে মুছে ফেলা হয়েছে"
+ },
+ {
+  "text_code": "lbl_not_applicable",
+  "text_value": "উপলভ্য নয় | প্রযোজ্য"
+ },
+ {
+  "text_code": "state_err_msg",
+  "text_value": "দয়া করে বৈধ আরসি নম্বর লিখুন"
+ },
+ {
+  "text_code": "vehicle_trans_deleted",
+  "text_value": "যানবাহন লেনদেন সফলভাবে মুছে ফেলা হয়েছে"
+ },
+ {
+  "text_code": "dl_transc_deleted",
+  "text_value": "ডিএল লেনদেন সফলভাবে মুছে ফেলা হয়েছে"
+ },
+ {
+  "text_code": "dl_alert_header",
+  "text_value": "ড্রাইভিং লাইসেন্স সতর্কতা"
+ },
+ {
+  "text_code": "successfully_take_Screen_Shot",
+  "text_value": "সাফল্যের সাথে স্ক্রিন শট নিন"
+ },
+ {
+  "text_code": "my_rc",
+  "text_value": "আমার আরসি"
+ },
+ {
+ "text_code":"sosRegisterMobileNoError",
+ "text_value":"নিবন্ধিত মোবাইল নম্বর Sos যোগাযোগ ফোন নম্বর হওয়া উচিত নয়"
+ },
+ {
+ "text_code":"appleMap",
+ "text_value":"আপেল ম্যাপস"
+ },
+ {
+ "text_code":"mail_id_not_configure",
+ "text_value":"এই ডিভাইসে মেল আইডি কনফিগার করা নেই"
+ },
+ {
+ "text_code":"googleMap",
+ "text_value":"গুগল ম্যাপস"
+ },
+ {
+ "text_code":"lbl_accusedName",
+ "text_value":"অভিযুক্তের নাম"
+ },
+ {
+ "text_code":"lbl_infoCorrectedData",
+ "text_value":"তথ্য সঠিক তথ্য"
+ },
+ {
+ "text_code":"lbl_infoCorrectedDate",
+ "text_value":"তথ্য সংশোধনের তারিখ"
+ },
+ {
+ "text_code":"lbl_congnizanceData",
+ "text_value":"জ্ঞান অস্বীকার করা তথ্য"
+ },
+ {
+ "text_code":"lbl_cnr",
+ "text_value":"সিএনআর"
+ },
+ {
+ "text_code":"lbl_judgeName",
+ "text_value":"বিচারকের নাম"
+ },
+ {
+ "text_code":"lbl_congnizanceDate",
+ "text_value":"জ্ঞান তারিখ"
+ }
+]

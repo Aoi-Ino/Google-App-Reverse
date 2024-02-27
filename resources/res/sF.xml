@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:minWidth="400dp">
+    <LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="380dp">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="center" android:id="@+id/updated_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="@string/updated_version_available" android:fontFamily="@font/railway_regular" style="@style/TextAppearance.AppCompat.Body2"/>
+            <TextView android:textSize="14sp" android:textColor="@color/black" android:gravity="center" android:layout_gravity="center" android:id="@+id/click_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/click_now_to_update_your_mparivahan_application" android:fontFamily="@font/railway_regular"/>
+            <TextView android:background="@color/gray" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="20dp"/>
+            <LinearLayout android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginTop="2dp" android:weightSum="2">
+                <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/blue" android:gravity="center" android:id="@+id/remind_later" android:layout_width="0dp" android:layout_height="match_parent" android:text="@string/later" android:layout_weight="1" android:fontFamily="@font/railway_regular"/>
+                <TextView android:background="@color/gray" android:layout_width="1dp" android:layout_height="match_parent"/>
+                <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/vehicle_fit" android:gravity="center" android:id="@+id/now" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginLeft="3dp" android:text="@string/now" android:layout_weight="1" android:fontFamily="@font/railway_regular"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

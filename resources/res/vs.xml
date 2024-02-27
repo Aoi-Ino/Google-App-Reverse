@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginTop="10dp">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/nexgenarrow" android:background="@color/tootlbarnexgen" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="15dp">
+                        <ImageView android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/nexgenarrow"/>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:id="@+id/nexgenlogo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_toRightOf="@+id/nexgenarrow">
+                        <ImageView android:layout_width="160dp" android:layout_height="55dp" android:src="@drawable/nexgenlogo"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentRight="true">
+                        <ImageView android:layout_width="35dp" android:layout_height="35dp" android:layout_marginRight="20dp" android:src="@drawable/nexgenallarm"/>
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:background="@drawable/mvvm_linear" android:paddingBottom="200dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:minWidth="1000dp">
+                <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@+id/page_txt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:fontFamily="sans-serif-light"/>
+                <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="center" android:id="@+id/nodocument" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="200dp" android:text="No Documents Available" android:fontFamily="sans-serif-light"/>
+                <LinearLayout android:orientation="vertical" android:padding="10dp" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="left|center_vertical|center_horizontal|center" android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="@+id/virtual_rc_textview" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:text="Virtual RC" android:fontFamily="sans-serif-light"/>
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/rec_rc_recycler" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp"/>
+                <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="left|center_vertical|center_horizontal|center" android:layout_gravity="left|center_vertical|center_horizontal|center" android:id="@+id/virtual_dl_textview" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:text="Virtual DL" android:fontFamily="sans-serif-light"/>
+                <include android:id="@+id/ll_dashboard_dl" layout="@layout/dl_dashboard"/>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

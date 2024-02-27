@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/white" android:padding="@dimen/_5sdp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/edit_text_style" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+            <TextView android:textSize="15dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/title" android:padding="3dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:layout_marginTop="@dimen/_2sdp" android:layout_weight="1" android:fontFamily="@font/robot_bold"/>
+            <ImageView android:layout_gravity="center" android:id="@+id/dlt_not" android:layout_width="22dp" android:layout_height="26dp" android:layout_marginRight="@dimen/_5sdp" android:src="@drawable/opt_menu" android:scaleType="fitCenter"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="top|center_vertical|center_horizontal|center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="5dp">
+            <TextView android:textSize="11dp" android:textColor="#071219" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/not_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/poppins_regular"/>
+            <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="#a1a1a1" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/not_date" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_2sdp" android:layout_weight="1" android:fontFamily="@font/poppins_regular"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

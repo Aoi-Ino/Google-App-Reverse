@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <tab icon="@drawable/ic_business_cards_database" id="@+id/my_rc" title="@string/my_rc"/>
+    <tab icon="@drawable/ic_car_repair_new" id="@+id/shared_rc" title="@string/shared_rc"/>
+    <tab icon="@drawable/ic_folder" id="@+id/received_rc" title="@string/received_rc"/>
+</tabs>

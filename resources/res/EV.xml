@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <include android:id="@+id/heder" layout="@layout/mvvm_header"/>
+            <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent">
+                <TextView android:textSize="17dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/notificationTitle" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="30dp" android:text="Notifications" android:fontFamily="@font/poppins_regular"/>
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/rec_not" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="10dp"/>
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/no_noti_linear" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <ImageView android:background="@drawable/noti_2" android:layout_width="160dp" android:layout_height="150dp" android:layout_marginBottom="10dp"/>
+                    <TextView android:textSize="16dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:id="@+id/noNotificationTv" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="No Notification" android:fontFamily="@font/poppins_regular"/>
+                    <TextView android:textSize="13dp" android:textStyle="bold" android:textColor="@color/gray" android:gravity="center" android:id="@+id/notifyTv" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="We&apos;ll notify you when something arrives." android:fontFamily="@font/poppins_regular"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

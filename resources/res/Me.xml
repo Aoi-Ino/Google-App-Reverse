@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:tag="layout/taxpaymentscreen_0" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/header_layout_in" android:tag="binding_1" android:layout_width="0dp" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+        <include android:id="@+id/header_layout" layout="@layout/mvvm_header"/>
+    </FrameLayout>
+    <FrameLayout android:id="@+id/paymentFeeFL" android:layout_width="match_parent" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/header_layout_in">
+        <com.facebook.shimmer.ShimmerFrameLayout android:layout_gravity="center" android:orientation="vertical" android:id="@+id/shimmer_view_container" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:orientation="vertical" android:tag="binding_2" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <include layout="@layout/sarathi_payment_data_placeholder_layout"/>
+            </LinearLayout>
+        </com.facebook.shimmer.ShimmerFrameLayout>
+        <WebView android:id="@+id/paymentWv" android:paddingTop="?attr/actionBarSize" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <WebView android:id="@+id/paymentFeeWv" android:paddingTop="?attr/actionBarSize" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <ImageView android:id="@+id/close_iv" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/cross" app:layout_constraintBottom_toBottomOf="@+id/paymentFeeFL" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toTopOf="0" app:layout_constraintVertical_bias="0"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

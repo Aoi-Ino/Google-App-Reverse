@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/report_traffic_parent" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <include android:id="@+id/header_acc_report" layout="@layout/mvvm_header"/>
+            <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp">
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingTop="3dp" android:paddingBottom="3dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="15dp" android:weightSum="3">
+                        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/ll_reg_complaint" android:background="@drawable/corner_rectangle_bg_17" android:layout_width="87dp" android:layout_height="105dp">
+                                <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" app:srcCompat="@drawable/ic_citizen_sentinel_selected"/>
+                                <TextView android:textSize="12dp" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/logo_reg_compln" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Register Complaint" android:fontFamily="@font/poppins_regular"/>
+                            </LinearLayout>
+                        </LinearLayout>
+                        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/ll_dashboard" android:background="@drawable/nexgendashboardmenu" android:layout_width="87dp" android:layout_height="105dp">
+                                <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" app:srcCompat="@drawable/ic_receipt"/>
+                                <TextView android:textSize="12dp" android:textColor="@color/black" android:gravity="center" android:id="@+id/logo_dashboard" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Dashboard" android:fontFamily="@font/poppins_regular"/>
+                            </LinearLayout>
+                        </LinearLayout>
+                        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/ll_comp_history" android:background="@drawable/nexgendashboardmenu" android:layout_width="87dp" android:layout_height="105dp">
+                                <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" app:srcCompat="@drawable/ic_accident_report"/>
+                                <TextView android:textSize="12dp" android:textColor="@color/black" android:gravity="center" android:id="@+id/logo_compl_hist" android:paddingLeft="4dp" android:paddingRight="4dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/comp_history" android:fontFamily="@font/poppins_regular"/>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+                        <TextView android:textSize="@dimen/_10ssp" android:textColor="@color/newred" android:id="@+id/tv_note" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_16sdp" android:layout_marginRight="@dimen/_16sdp" android:text="*Note: Video size must be equal or less than 8 MB" android:fontFamily="@font/roboto_medium" android:layout_marginHorizontal="@dimen/_16sdp"/>
+                        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+                            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/image_Linear" android:background="@drawable/image_button_style" android:layout_width="0dp" android:layout_height="66dp" android:layout_marginLeft="20dp" android:layout_marginRight="5dp" android:layout_weight="1">
+                                <ImageButton android:id="@+id/ibImagePicker" android:background="@drawable/ic_photo_add" android:layout_width="50dp" android:layout_height="35dp"/>
+                                <TextView android:textColor="@color/black" android:gravity="center" android:id="@+id/camera" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="3dp" android:text="Camera" android:fontFamily="@font/nexgenttf"/>
+                            </LinearLayout>
+                            <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/video_Linear" android:background="@drawable/image_button_style" android:layout_width="0dp" android:layout_height="66dp" android:layout_marginLeft="5dp" android:layout_marginRight="20dp" android:layout_weight="1">
+                                <ImageButton android:id="@+id/ibVideoPicker" android:background="@drawable/ic_video_add" android:layout_width="55dp" android:layout_height="35dp"/>
+                                <TextView android:textColor="@color/black" android:gravity="center" android:id="@+id/video" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="3dp" android:text="Video" android:fontFamily="@font/nexgenttf"/>
+                            </LinearLayout>
+                        </LinearLayout>
+                        <TextView android:id="@+id/tv_vehicle_no" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="23dp" android:layout_marginTop="18dp" android:text="Vehicle No. (Max.10 Characters)"/>
+                        <androidx.appcompat.widget.AppCompatEditText android:textSize="16sp" android:textColor="@color/gray" android:id="@+id/ev_vehicle_no" android:background="@drawable/edit_text_style" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="5dp" android:layout_marginRight="20dp" android:minHeight="@dimen/_35sdp" android:hint="@string/enter_rc_no_for_pending_transaction" android:singleLine="true" android:maxLength="10" android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890" android:inputType="textCapCharacters" android:imeOptions="actionDone" android:imeActionLabel="Done" android:textCursorDrawable="@color/blue"/>
+                        <TextView android:id="@+id/tv_violation_type" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="23dp" android:layout_marginTop="20dp" android:text="Violation Type"/>
+                        <FrameLayout android:background="@drawable/edit_text_style" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="@dimen/_2sdp" android:layout_marginRight="20dp">
+                            <androidx.appcompat.widget.AppCompatSpinner android:id="@+id/app_option" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/_35sdp" android:textAllCaps="true"/>
+                        </FrameLayout>
+                        <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <TextView android:id="@+id/tv_location" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="23dp" android:layout_marginTop="18dp" android:text="Offence Location (Max. 250 Characters)"/>
+                                <EditText android:textSize="16sp" android:textColor="@color/gray" android:gravity="top|left|center_vertical|center_horizontal|center" android:id="@+id/ev_location" android:background="@drawable/edit_text_style" android:padding="10dp" android:focusable="false" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20sp" android:layout_marginTop="5dp" android:layout_marginRight="20dp" android:minHeight="75dp" android:ems="10" android:maxLength="250" android:imeOptions="actionNext" android:textCursorDrawable="@color/blue"/>
+                            </LinearLayout>
+                            <ProgressBar android:layout_gravity="center" android:id="@+id/traffic_progress" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                        </FrameLayout>
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                                <TextView android:id="@+id/tv_date" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="23dp" android:layout_marginTop="18dp" android:text="Date"/>
+                                <TextView android:textSize="16sp" android:textColor="@color/gray" android:id="@+id/ev_calender_picker" android:background="@drawable/edit_text_style" android:padding="10dp" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="20dp" android:layout_marginTop="5dp" android:ems="10" android:drawableRight="@drawable/c21" android:inputType="none" android:textCursorDrawable="@color/blue"/>
+                            </LinearLayout>
+                            <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                                <TextView android:id="@+id/tv_time" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_marginTop="18dp" android:text="Time" android:layout_marginStart="23dp"/>
+                                <EditText android:textSize="16sp" android:textColor="@color/gray" android:id="@+id/ev_time_picker" android:background="@drawable/edit_text_style" android:padding="10dp" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="20sp" android:ems="10" android:drawableRight="@drawable/ic_time" android:inputType="none" android:imeOptions="actionDone" android:textCursorDrawable="@color/blue" android:drawableEnd="@drawable/ic_time"/>
+                            </LinearLayout>
+                        </LinearLayout>
+                        <TextView android:id="@+id/tv_state" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="23dp" android:layout_marginTop="20dp" android:text="State"/>
+                        <FrameLayout android:background="@drawable/edit_text_style" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="@dimen/_2sdp" android:layout_marginRight="20dp">
+                            <androidx.appcompat.widget.AppCompatSpinner android:id="@+id/spn_state" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/_35sdp" android:textAllCaps="true"/>
+                        </FrameLayout>
+                        <TextView android:id="@+id/tv_comment" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="23dp" android:layout_marginTop="18dp" android:text="Comment (Max. 500 Characters)"/>
+                        <EditText android:textSize="16sp" android:textColor="@color/gray" android:gravity="top|left|center_vertical|center_horizontal|center" android:id="@+id/editTextTextPersonName11" android:background="@drawable/edit_text_style" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="5dp" android:layout_marginRight="20dp" android:minHeight="75dp" android:ems="10" android:maxLength="500" android:inputType="textCapCharacters" android:textCursorDrawable="@color/blue"/>
+                        <androidx.appcompat.widget.AppCompatButton android:textColor="@color/white" android:id="@+id/complain_reg" android:background="@drawable/gradient_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="23dp" android:layout_marginBottom="23dp" android:text="Register" android:textAllCaps="false" android:layout_marginStart="23dp" android:layout_marginEnd="23dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <include android:id="@+id/topHeader" layout="@layout/mvvm_header"/>
+            <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent">
+                <TextView android:textSize="@dimen/_14sdp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/my_transations" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="30dp" android:layout_marginBottom="@dimen/_5sdp" android:text="Transactions" android:layout_marginStart="@dimen/_15sdp" android:layout_marginEnd="@dimen/_15sdp"/>
+                <RelativeLayout android:gravity="center" android:id="@+id/rl_notransaction" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/status_linear" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <ImageView android:id="@+id/status_image" android:background="@drawable/notransaction_edit" android:layout_width="120dp" android:layout_height="120dp"/>
+                        <TextView android:textSize="17sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:id="@+id/status_txt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="No Transaction Found" android:fontFamily="sans-serif-light"/>
+                        <TextView android:textSize="13sp" android:textStyle="bold" android:gravity="center" android:id="@+id/status_txt2" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="There is no Transaction (s) found \10 for your account" android:fontFamily="@font/poppins_regular"/>
+                    </LinearLayout>
+                </RelativeLayout>
+                <ProgressBar android:layout_gravity="center" android:id="@+id/trans_bar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/rv_vahan_trans" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="20dp" android:layout_marginRight="5dp"/>
+                <androidx.cardview.widget.CardView android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent" app:cardCornerRadius="20dp" app:elevation="0dp">
+                    <ProgressBar android:layout_gravity="center" android:id="@+id/tran_progress" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent"/>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

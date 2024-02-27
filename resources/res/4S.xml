@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <HorizontalScrollView android:id="@+id/horizontalScrollView" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="120dp">
+            <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:orientation="vertical" android:padding="5dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+                <ImageView android:background="@drawable/dldetail" android:layout_width="82dp" android:layout_height="92dp"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:padding="5dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp">
+                <ImageView android:background="@drawable/dms_white" android:layout_width="72dp" android:layout_height="90dp" android:scaleType="fitXY"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:padding="5dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="5dp">
+                <ImageView android:background="@drawable/feedetails" android:layout_width="72dp" android:layout_height="90dp"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/sign_in_new" android:padding="5dp" android:layout_width="72dp" android:layout_height="87dp" android:layout_margin="5dp">
+                <ImageView android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/white_myrc"/>
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_6sdp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/dl_details" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/dl_det" android:fontFamily="sans-serif-light"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="72dp" android:layout_height="87dp" android:layout_margin="5dp">
+                <ImageView android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/dms_docs"/>
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_6sdp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/dms_upload_doc" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/dms_upload_doc" android:fontFamily="sans-serif-light"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="72dp" android:layout_height="87dp" android:layout_margin="5dp">
+                <ImageView android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/myrcicon"/>
+                <com.nic.mparivahan.MyTextView android:textSize="8dp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/upload_photo_signature" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/upload_photo_signature" android:fontFamily="sans-serif-light"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="72dp" android:layout_height="87dp" android:layout_margin="5dp">
+                <ImageView android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/money"/>
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_6sdp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/fee_details" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/fee_details" android:fontFamily="sans-serif-light"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/paytax" android:padding="5dp" android:layout_width="72dp" android:layout_height="87dp" android:layout_margin="5dp">
+                <ImageView android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/c123"/>
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_6sdp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/text_app" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/app_booking" android:fontFamily="sans-serif-light"/>
+            </LinearLayout>
+        </LinearLayout>
+    </HorizontalScrollView>
+</LinearLayout>

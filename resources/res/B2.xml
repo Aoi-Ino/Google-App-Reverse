@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <include android:id="@+id/include" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" layout="@layout/item_rc_indicator"/>
+        <TextView android:textSize="@dimen/_14sdp" android:textColor="#071219" android:id="@+id/heading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="24dp" android:text="Fee Details" android:fontFamily="@font/robot_bold" android:layout_marginStart="24dp" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/include"/>
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/fine_recycler_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/heading"/>
+        <TextView android:id="@+id/textView3" android:background="#071219" android:layout_width="match_parent" android:layout_height="@dimen/_1sdp" android:layout_marginTop="@dimen/_10sdp" app:layout_constraintTop_toBottomOf="@+id/fine_recycler_view"/>
+        <androidx.appcompat.widget.LinearLayoutCompat android:orientation="horizontal" android:id="@+id/total_amount_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:layout_marginBottom="@dimen/_5sdp" android:weightSum="2" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="@+id/textView3">
+            <TextView android:textSize="@dimen/_14sdp" android:textColor="#071219" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Total Amount To Be Paid" android:layout_weight="0.8" android:fontFamily="@font/robot_bold"/>
+            <TextView android:textSize="@dimen/_14sdp" android:textColor="#071219" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="₹ 230.00" android:layout_weight="1.2" android:fontFamily="@font/robot_bold"/>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <TextView android:background="#071219" android:layout_width="match_parent" android:layout_height="@dimen/_1sdp" android:layout_marginTop="@dimen/_10sdp" app:layout_constraintTop_toBottomOf="@+id/total_amount_layout"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

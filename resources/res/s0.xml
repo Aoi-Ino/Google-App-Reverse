@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:id="@+id/vehicle_linear" android:background="@drawable/edit_text_style" android:padding="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/state_name" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/vehicle_no_1" android:layout_weight="1"/>
+            <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/blue_color" android:id="@+id/txtGoForAvailable" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/go_for_available_services"/>
+        </LinearLayout>
+        <ProgressBar android:layout_gravity="center" android:id="@+id/progress_bar" android:visibility="gone" android:layout_width="50dp" android:layout_height="50dp" android:layout_centerInParent="true" android:progressTintMode="src_in"/>
+    </RelativeLayout>
+</LinearLayout>

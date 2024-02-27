@@ -1,0 +1,19 @@
+package ub;
+
+import android.app.Dialog;
+import android.view.View;
+import com.nic.mparivahan.LLServices.editlearnerlicence.Activity.SelectedCovDetailsScreen;
+
+public final /* synthetic */ class a0 implements View.OnClickListener {
+
+    /* renamed from: e  reason: collision with root package name */
+    public final /* synthetic */ Dialog f17217e;
+
+    public /* synthetic */ a0(Dialog dialog) {
+        this.f17217e = dialog;
+    }
+
+    public final void onClick(View view) {
+        SelectedCovDetailsScreen.D1(this.f17217e, view);
+    }
+}

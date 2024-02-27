@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/bg_style" android:padding="20dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="10dp">
+        <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="@color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/vehicle_service"/>
+        <LinearLayout android:orientation="horizontal" android:background="@drawable/edit_text_style" android:paddingLeft="5dp" android:paddingRight="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+            <androidx.appcompat.widget.AppCompatButton android:textSize="10dp" android:textColor="@color/white" android:id="@+id/btnMyVehicle" android:background="@drawable/button_style" android:layout_width="0dp" android:layout_height="30dp" android:text="@string/my_vehicles" android:layout_weight="1" android:textAllCaps="false"/>
+            <androidx.appcompat.widget.AppCompatButton android:textSize="10dp" android:textColor="@color/black" android:id="@+id/btnOtherNewVehicle" android:background="@android:color/transparent" android:layout_width="0dp" android:layout_height="30dp" android:text="@string/other_new_vehicle" android:layout_weight="1" android:textAllCaps="false"/>
+        </LinearLayout>
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/vehicleServiceRecycler" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp"/>
+        <LinearLayout android:id="@+id/otherNewVehicleLayout" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <include layout="@layout/other_new_vehicle"/>
+        </LinearLayout>
+        <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="1. The mentioned services are faceless and hence you need not to visit RTO for the same."/>
+        <TextView android:textSize="10dp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="2. The acceptance of application is subject to successful scrutiny of uploaded data/documents in accordance with legal provisions."/>
+        <TextView android:textSize="10dp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="@string/note2"/>
+        <LinearLayout android:orientation="horizontal" android:paddingLeft="5dp" android:paddingRight="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp">
+            <androidx.appcompat.widget.AppCompatButton android:textSize="10dp" android:textColor="@color/white" android:background="@drawable/button_style" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/submit" android:layout_weight="1" android:textAllCaps="false" android:layout_marginEnd="5dp"/>
+            <androidx.appcompat.widget.AppCompatButton android:textSize="10dp" android:textColor="@color/white" android:background="@drawable/button_style" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:text="reset" android:layout_weight="1" android:textAllCaps="false" android:layout_marginStart="5dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

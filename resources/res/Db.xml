@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/mobile_navigation" app:startDestination="@+id/nav_home">
+    <fragment android:name="com.nic.mparivahan.Dashboard.ui.Home.HomeFragment" android:id="@+id/nav_home"/>
+</navigation>

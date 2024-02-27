@@ -1,0 +1,9835 @@
+[
+
+ {
+
+  "text_code": "logout_success",
+
+  "text_value": "നിങ്ങൾ വിജയകരമായി ലോഗ് ഔട്ട് ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "title_sign_in_to",
+
+  "text_value": "സൈൻ ഇൻ"
+
+ },
+
+ {
+
+  "text_code": "title_your_account",
+
+  "text_value": "നിങ്ങളുടെ അക്കൗണ്ട് !"
+
+ },
+
+ {
+
+  "text_code": "btn_generate_mpin",
+
+  "text_value": "MPIN സൃഷ്ടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "edit_securityMpin",
+
+  "text_value": "6 അക്ക സുരക്ഷാ MPIN* സജ്ജീകരിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "lbl_update_version",
+
+  "text_value": "നിങ്ങളുടെ NextGen mParivahan ആപ്ലിക്കേഷൻ അപ്ഡേറ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "lbl_update_version_title",
+
+  "text_value": "പുതുക്കിയ  പതിപ്പ് ലഭ്യമാണ്"
+
+ },
+
+ {
+
+  "text_code": "lbl_success_title",
+
+  "text_value": "വിജയകരമായി"
+
+ },
+
+ {
+
+  "text_code": "lbl_try_after_some_time",
+
+  "text_value": "കുറച്ച് സമയത്തിന് ശേഷം വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "lbl_failed_title",
+
+  "text_value": "പരാജയപ്പെട്ടു"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_remarks",
+
+  "text_value": "ദയവായി അഭിപ്രായങ്ങൾ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_valid_number",
+
+  "text_value": "ദയവായി ഒരു സാധുവായ മൊബൈൽ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "lbl_mpin_success",
+
+  "text_value": "MPIN വിജയകരമായി സജ്ജീകരിച്ചു."
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_new_mobile",
+
+  "text_value": "ദയവായി ഒരു പുതിയ മൊബൈൽ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_old_mobile_number",
+
+  "text_value": "ദയവായി പഴയ മൊബൈൽ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_welcome",
+
+  "text_value": "NextGen mParivahan-ലേക്ക് സ്വാഗതം"
+
+ },
+
+ {
+
+  "text_code": "title_sign_desc",
+
+  "text_value": "ഐടി ആക്ട് 2000, മോട്ടോർ വെഹിക്കിൾ ആക്റ്റ് എന്നിവ പ്രകാരം യഥാർത്ഥ ഡോക്യുമെന്റുകൾ പോലെ തന്നെ എംപരിവാഹൻ പ്ലാറ്റ്"
+
+ },
+
+ {
+
+  "text_code": "btn_new_mparivahan",
+
+  "text_value": "mParivahan-ൽ പുതിയതാണോ?"
+
+ },
+
+ {
+
+  "text_code": "edit_mobile_no",
+
+  "text_value": "മൊബൈൽ നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "edit_security_mpin",
+
+  "text_value": "ആറ് അക്കങ്ങളുള്ള MPIN സുരക്ഷാ കോഡ്"
+
+ },
+
+ {
+
+  "text_code": "label_another_account",
+
+  "text_value": "മറ്റൊരു അക്കൗണ്ട് ഉപയോഗിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_forgot_mpin",
+
+  "text_value": "സുരക്ഷാ MPIN മറന്നു"
+
+ },
+
+ {
+
+  "text_code": "butt_signin_mpin",
+
+  "text_value": "നിങ്ങളുടെ MPIN ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "butt_signin_otp",
+
+  "text_value": "പകരമായി, ഒരു OTP ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "label_dont_account",
+
+  "text_value": "അക്കൗണ്ട് ഇല്ലേ?"
+
+ },
+
+ {
+
+  "text_code": "label_signup",
+
+  "text_value": "സൈൻ അപ്പ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "title_create_new",
+
+  "text_value": "പുതിയത് സൃഷ്ടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "title_security_mpin",
+
+  "text_value": "സുരക്ഷാ MPIN"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_mpin",
+
+  "text_value": "നിങ്ങളുടെ പുതിയ 6 അക്ക MPIN നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "title_create_account",
+
+  "text_value": "അക്കൗണ്ട് സൃഷ്ടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "title_fast_easy",
+
+  "text_value": "വേഗതയേറിയതും എളുപ്പവുമാണ്!"
+
+ },
+
+ {
+
+  "text_code": "edit_full_name",
+
+  "text_value": "മുഴുവൻ പേര് (RC അല്ലെങ്കിൽ DL പ്രകാരം)"
+
+ },
+
+ {
+
+  "text_code": "label_already_account",
+
+  "text_value": "നിങ്ങൾക്ക് ഇതിനകം ഒരു അക്കൗണ്ട് ഉണ്ടോ?"
+
+ },
+
+ {
+
+  "text_code": "label_signin",
+
+  "text_value": "സൈൻ ഇൻ"
+
+ },
+
+ {
+
+  "text_code": "label_privacy_policy",
+
+  "text_value": "സൈൻ അപ്പ് ചെയ്യുന്നതിലൂടെ, നിങ്ങൾ പരിവാഹൻ നിബന്ധനകളും സ്വകാര്യതാ നയവും അംഗീകരിക്കുന്നു."
+
+ },
+
+ {
+
+  "text_code": "title_forgot",
+
+  "text_value": "മറന്നോ ?"
+
+ },
+
+ {
+
+  "text_code": "title_secu_mpin",
+
+  "text_value": "സുരക്ഷാ MPIN?"
+
+ },
+
+ {
+
+  "text_code": "label_verify_otp",
+
+  "text_value": "OTP പരിശോധിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_sent_otp",
+
+  "text_value": "mParivahan നിങ്ങൾക്ക് ഒരു OTP അയച്ചു"
+
+ },
+
+ {
+
+  "text_code": "label_wait_otp",
+
+  "text_value": "OTP ലഭിക്കാൻ കുറച്ച് സമയം കാത്തിരിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_refresh_close",
+
+  "text_value": "പുതുക്കുകയോ അടയ്ക്കുകയോ ചെയ്യരുത്."
+
+ },
+
+ {
+
+  "text_code": "label_get_otp",
+
+  "text_value": "നിങ്ങൾക്ക് OTP ലഭിച്ചില്ലേ?"
+
+ },
+
+ {
+
+  "text_code": "label_login_not_regt",
+
+  "text_value": "ഈ മൊബൈൽ നമ്പർ mParivahan-ൽ രജിസ്റ്റർ ചെയ്തിട്ടില്ല. രജിസ്ട്രേഷൻ പ്രക്രിയ പൂർത്തിയാക്കാൻ ദയവായി സൈൻ അപ്പ് ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "btn_ok",
+
+  "text_value": "ഓക്കേ "
+
+ },
+
+ {
+
+  "text_code": "label_log_alrad_regt",
+
+  "text_value": "നിങ്ങൾ ഇതിനകം രജിസ്റ്റർ ചെയ്തിട്ടുണ്ടെങ്കിൽ ദയവായി സൈൻ ഇൻ ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_sigin",
+
+  "text_value": "നിങ്ങൾക്ക് സൈൻ ഇൻ ചെയ്യാൻ കഴിയുന്നില്ലെങ്കിൽ പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_sigup",
+
+  "text_value": "നിങ്ങൾക്ക് സൈൻ അപ്പ് ചെയ്യാൻ കഴിയുന്നില്ലെങ്കിൽ പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_sel_state",
+
+  "text_value": "ദയവായി ഒരു സംസ്ഥാനം തിരഞ്ഞെടുക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_name",
+
+  "text_value": "ദയവായി മുഴുവൻ പേര് നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_vali_mobno",
+
+  "text_value": "ദയവായി ഒരു സാധുവായ മൊബൈൽ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_valid_dig_pin",
+
+  "text_value": "സാധുതയുള്ള 6 അക്ക MPIN നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_emaiid",
+
+  "text_value": "ഇമെയിൽ ഐഡി നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_valid_email",
+
+  "text_value": "ദയവായി സാധുവായ ഒരു ഇമെയിൽ ഐഡി നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_ctrt_mpin",
+
+  "text_value": "MPIN സൃഷ്ടിക്കാൻ കഴിഞ്ഞില്ല; ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_mpin_rest_succ",
+
+  "text_value": "MPIN വിജയകരമായി പുനഃസജ്ജീകരിച്ചു!"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_val_otp",
+
+  "text_value": "ദയവായി OTP നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "LABEL_LOG_ENTR_VAL_OTP",
+
+  "text_value": "ദയവായി ഒരു സാധുവായ OTP നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_invalid_otp",
+
+  "text_value": "നിങ്ങൾ നൽകിയ OTP അസാധുവാണ്. ദയവായി ശരിയായ OTP നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_veri_otp",
+
+  "text_value": "OTP പരിശോധിക്കാൻ കഴിയുന്നില്ല, കുറച്ച് സമയത്തിന് ശേഷം ശ്രമിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_log_resend_otp",
+
+  "text_value": "ഞങ്ങൾ നിങ്ങളുടെ മൊബൈൽ ഫോണിലേക്ക് OTP പരിശോധനാ കോഡ് അയച്ചു."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_resend_otp",
+
+  "text_value": "OTP വീണ്ടും അയയ്"
+
+ },
+
+ {
+
+  "text_code": "label_log_regt_mobile",
+
+  "text_value": "രജിസ്റ്റർ ചെയ്ത മൊബൈൽ"
+
+ },
+
+ {
+
+  "text_code": "label_log_succ_login",
+
+  "text_value": "ഉപയോക്താവ് mParivahan-ൽ വിജയകരമായി ലോഗിൻ ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "label_log_check_internet",
+
+  "text_value": "നിങ്ങളുടെ ഇന്റർനെറ്റ് കണക്ഷൻ പരിശോധിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_mob_no",
+
+  "text_value": "ദയവായി നിങ്ങളുടെ മൊബൈൽ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_welcome",
+
+  "text_value": "സ്വാഗതം"
+
+ },
+
+ {
+
+  "text_code": "label_log_entr_six_mpin",
+
+  "text_value": "ദയവായി 6 അക്ക MPIN നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_set_mpin",
+
+  "text_value": "നിങ്ങൾ ഇതുവരെ MPIN സജ്ജീകരിച്ചിട്ടില്ല. \"സുരക്ഷാ MPIN മറന്നു\" ഉപയോഗിച്ച് ദയവായി ഒരു പുതിയ MPIN അഭ്യർത്ഥിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_sign_mpin",
+
+  "text_value": "നിങ്ങളുടെ MPIN ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യാൻ കഴിയുന്നില്ലെങ്കിൽ, ശരിയായ MPIN നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_reset",
+
+  "text_value": "പുനഃസജ്ജമാക്കാൻ കഴിയുന്നില്ല; ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക!"
+
+ },
+
+ {
+
+  "text_code": "label_log_unbl_change_rest",
+
+  "text_value": "നിങ്ങൾക്ക് MPIN മാറ്റാൻ കഴിയുന്നില്ലെങ്കിൽ കുറച്ച് സമയത്തിന് ശേഷം വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_welcome",
+
+  "text_value": "സ്വാഗതം"
+
+ },
+
+ {
+
+  "text_code": "label_vehicle",
+
+  "text_value": "വാഹനം"
+
+ },
+
+ {
+
+  "text_code": "label_search",
+
+  "text_value": "തിരയുക"
+
+ },
+
+ {
+
+  "text_code": "label_transport_services",
+
+  "text_value": "ഗതാഗത സേവനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_my_documents",
+
+  "text_value": "എന്റെ രേഖകള്"
+
+ },
+
+ {
+
+  "text_code": "label_citizen_sentinel",
+
+  "text_value": "സിറ്റിസൺ സെന്റിനൽ"
+
+ },
+
+ {
+
+  "text_code": "label_informational_services",
+
+  "text_value": "വിവര സേവനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_my_vehicle",
+
+  "text_value": "എന്റെ വാഹനം"
+
+ },
+
+ {
+
+  "text_code": "label_my_dl",
+
+  "text_value": "എന്റെ ഡ്രൈവിംഗ് ലൈസൻസ്"
+
+ },
+
+ {
+
+  "text_code": "label_vrc_and_dl",
+
+  "text_value": "നിങ്ങളുടെ വാഹന രജിസ്ട്രേഷൻ സർട്ടിഫിക്കറ്റും ഡ്രൈവിംഗ് ലൈസൻസും നിങ്ങൾക്ക് സ്ഥാപിക്കാം."
+
+ },
+
+ {
+
+  "text_code": "label_pull_rc_and_dl",
+
+  "text_value": "ട്രാൻസ്"
+
+ },
+
+ {
+
+  "text_code": "label_home",
+
+  "text_value": "ഹോം"
+
+ },
+
+ {
+
+  "text_code": "label_virtual_documents",
+
+  "text_value": "വെർച്വൽ പ്രമാണങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_near_by",
+
+  "text_value": "സമീപത്ത്"
+
+ },
+
+ {
+
+  "text_code": "label_setting",
+
+  "text_value": "ക്രമീകരണം"
+
+ },
+
+ {
+
+  "text_code": "label_vehicle_related",
+
+  "text_value": "വാഹനവുമായി ബന്ധപ്പെട്ട സേവനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_pay_tax",
+
+  "text_value": "നിങ്ങളുടെ നികുതി അടയ്ക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_duplicate_rc",
+
+  "text_value": "ഡ്യൂപ്ലിക്കേറ്റ് RC"
+
+ },
+
+ {
+
+  "text_code": "label_hypothetication_termination",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ അവസാനിപ്പിക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "label_view_more",
+
+  "text_value": "കൂടുതൽ കാണു"
+
+ },
+
+ {
+
+  "text_code": "label_change_of_address",
+
+  "text_value": "വിലാസം മാറ്റം"
+
+ },
+
+ {
+
+  "text_code": "label_hypothetication_addition",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ കൂട്ടിച്ചേർക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "label_hypothetication_continuation",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ തുടർച്ച"
+
+ },
+
+ {
+
+  "text_code": "label_noc",
+
+  "text_value": "നോ ഒബ്ജക്ഷൻ സർട്ടിഫിക്കറ്റ് (എൻഒസി)"
+
+ },
+
+ {
+
+  "text_code": "label_rc_particular",
+
+  "text_value": "RC വിവരണം "
+
+ },
+
+ {
+
+  "text_code": "label_dispose_applicationl",
+
+  "text_value": "അപേക്ഷ തീർപ്പാക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_application_status",
+
+  "text_value": "അപേക്ഷാ നില"
+
+ },
+
+ {
+
+  "text_code": "label_verify_payment",
+
+  "text_value": "പണമടയ്ക്കൽ സ്ഥിരീകരിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_driving_licence_related",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസുമായി ബന്ധപ്പെട്ട സേവനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_renewal_of_dl",
+
+  "text_value": "DL പുതുക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "label_duplicate_dl",
+
+  "text_value": "ഡ്യൂപ്ലിക്കേറ്റ് DL"
+
+ },
+
+ {
+
+  "text_code": "label_coa_in_dl",
+
+  "text_value": "DL-ൽ വിലാസം മാറ്റം"
+
+ },
+
+ {
+
+  "text_code": "label_international_driv_permit",
+
+  "text_value": "ഇന്റർനാഷണൽ ഡ്രൈവിംഗ് പെർമിറ്റ്"
+
+ },
+
+ {
+
+  "text_code": "label_dl_extract",
+
+  "text_value": "DL എക്സ്ട്രാക്റ്റ്"
+
+ },
+
+ {
+
+  "text_code": "label_dl_replacement",
+
+  "text_value": "DL മാറ്റുക "
+
+ },
+
+ {
+
+  "text_code": "label_withdraw_services",
+
+  "text_value": "സേവനങ്ങൾ പിൻവലിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_related",
+
+  "text_value": "ചലാൻ അനുബന്ധ സേവനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_verify_challan_payment",
+
+  "text_value": "ചലാൻ പണമടയ്ക്കൽ പരിശോധിച്ചുറപ്പിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_help_support",
+
+  "text_value": "സഹായസഹകരണങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_share",
+
+  "text_value": "പങ്കിടുക"
+
+ },
+
+ {
+
+  "text_code": "label_about_us",
+
+  "text_value": "ഞങ്ങളേക്കുറിച്ച്"
+
+ },
+
+ {
+
+  "text_code": "label_logout",
+
+  "text_value": "പുറത്തുകടക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_report_trafic_voilation",
+
+  "text_value": "ഗതാഗത ലംഘനം റിപ്പോർട്ട് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "label_report_accident",
+
+  "text_value": "അപകടം റിപ്പോർട്ട് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "label_about_maprivahan",
+
+  "text_value": "mParivahanനെക്കുറിച്ച്"
+
+ },
+
+ {
+
+  "text_code": "label_virtual_rc",
+
+  "text_value": "വെർച്വൽ RC"
+
+ },
+
+ {
+
+  "text_code": "label_virtual_dl",
+
+  "text_value": "വെർച്വൽ DL"
+
+ },
+
+ {
+
+  "text_code": "label_shared_rc",
+
+  "text_value": "പങ്കിട്ട RC"
+
+ },
+
+ {
+
+  "text_code": "label_received_rc",
+
+  "text_value": "RC ലഭിച്ചു"
+
+ },
+
+ {
+
+  "text_code": "label_rc_search",
+
+  "text_value": "RC തിരയൽ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_search",
+
+  "text_value": "DL തിരയൽ"
+
+ },
+
+ {
+
+  "text_code": "label_about_vehicle",
+
+  "text_value": "വാഹനത്തെക്കുറിച്ച്"
+
+ },
+
+ {
+
+  "text_code": "label_transfer_ownership",
+
+  "text_value": "ഉടമസ്ഥാവകാശ കൈമാറ്റം"
+
+ },
+
+ {
+
+  "text_code": "label_hp_endorsement",
+
+  "text_value": "HP അംഗീകാരം"
+
+ },
+
+ {
+
+  "text_code": "label_about_licence",
+
+  "text_value": "ലൈസൻസിനെക്കുറിച്ച്"
+
+ },
+
+ {
+
+  "text_code": "label_notifications_and_advisories",
+
+  "text_value": "അറിയിപ്പുകളും ഉപദേശങ്ങളും"
+
+ },
+
+ {
+
+  "text_code": "label_notifications",
+
+  "text_value": "അറിയിപ്പുകൾ"
+
+ },
+
+ {
+
+  "text_code": "label_sos",
+
+  "text_value": "SOS"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_status",
+
+  "text_value": "അപേക്ഷാ നില"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_no",
+
+  "text_value": "അപേക്ഷ നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_application_no",
+
+  "text_value": "അപേക്ഷ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "vahan_chassis_no",
+
+  "text_value": "ചേസിസ് നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_chassis_no",
+
+  "text_value": "ചേസിസ് നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "vahan_engine_no",
+
+  "text_value": "എഞ്ചിൻ നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "vahan_engine_no_last_five",
+
+  "text_value": "എഞ്ചിൻ നമ്പർ (അവസാന നാല് അക്കങ്ങൾ നൽകുക)"
+
+ },
+
+ {
+
+  "text_code": "vahan_chassis_no_last_five",
+
+  "text_value": "ചേസിസ് നമ്പർ (അവസാന 5 അക്കങ്ങൾ)"
+
+ },
+
+ {
+
+  "text_code": "vahan_btn_submit",
+
+  "text_value": "സമർപ്പിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "vahan_btn_cancel",
+
+  "text_value": "റദ്ദാക്കുക"
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_otp_msg",
+
+  "text_value": "നിങ്ങളുടെ രജിസ്റ്റർ ചെയ്ത മൊബൈൽ നമ്പറിലേക്ക് അയച്ച OTP ചുവടെയുള്ള ഫീൽഡിൽ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "vahan_resend_otp",
+
+  "text_value": "OTP വീണ്ടും അയയ്"
+
+ },
+
+ {
+
+  "text_code": "vahan_btn_verify",
+
+  "text_value": "സ്ഥിരീകരിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "vahan_dispose_application",
+
+  "text_value": "അപേക്ഷ തീർപ്പാക്കുക"
+
+ },
+
+ {
+
+  "text_code": "vahan_registration_no",
+
+  "text_value": "രജിസ്ട്രേഷൻ നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "vahan_enter_registration_no",
+
+  "text_value": "രജിസ്ട്രേഷൻ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "vahan_verify_pending_transaction",
+
+  "text_value": "തീർപ്പാക്കാത്ത ഇടപാട് പരിശോധിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_id",
+
+  "text_value": "ഇടപാട് ഐഡി"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_no",
+
+  "text_value": "ഇടപാട് നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "vahan_get_details",
+
+  "text_value": "വിശദാംശങ്ങൾ നേടുക"
+
+ },
+
+ {
+
+  "text_code": "vahan_search",
+
+  "text_value": "തിരയുക"
+
+ },
+
+ {
+
+  "text_code": "vahan_payment_details",
+
+  "text_value": "പണമടയ്ക്കൽ  വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "vahan_owner_name",
+
+  "text_value": "ഉടമസ്ഥന്റെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_date",
+
+  "text_value": "അപേക്ഷിക്കേണ്ട തീയതി"
+
+ },
+
+ {
+
+  "text_code": "vahan_application_name",
+
+  "text_value": "അപേക്ഷയുടെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_date",
+
+  "text_value": "ഇടപാട് തീയതി"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_name",
+
+  "text_value": "ഇടപാടിന്റെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_applied",
+
+  "text_value": "ഇടപാട്(കൾ) പ്രയോഗിച്ചു"
+
+ },
+
+ {
+
+  "text_code": "vahan_transaction_status",
+
+  "text_value": "ഇടപാട് നില"
+
+ },
+
+ {
+
+  "text_code": "vahan_amount",
+
+  "text_value": "തുക"
+
+ },
+
+ {
+
+  "text_code": "vahan_state",
+
+  "text_value": "സംസ്ഥാനം"
+
+ },
+
+ {
+
+  "text_code": "vahan_rto",
+
+  "text_value": "ആർ.ടി.ഒ"
+
+ },
+
+ {
+
+  "text_code": "vahan_rto_name",
+
+  "text_value": "RTO പേര്"
+
+ },
+
+ {
+
+  "text_code": "vahan_duplicate_rc",
+
+  "text_value": "ഡ്യൂപ്ലിക്കേറ്റ് RC"
+
+ },
+
+ {
+
+  "text_code": "vahan_change_of_address",
+
+  "text_value": "വിലാസം മാറ്റം"
+
+ },
+
+ {
+
+  "text_code": "vahan_payment_status",
+
+  "text_value": "പണമടയ്ക്കൽ നില"
+
+ },
+
+ {
+
+  "text_code": "vahan_verify_payment",
+
+  "text_value": "പണമടയ്ക്കൽ  സ്ഥിരീകരിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "vahan_print",
+
+  "text_value": "അച്ചടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "vahan_receipt",
+
+  "text_value": "രസീത്"
+
+ },
+
+ {
+
+  "text_code": "vahan_wait_for_sometime_msg",
+
+  "text_value": "OTP വരാൻ കുറച്ച് സമയം കാത്തിരിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "vahan_agree_to_term_msg",
+
+  "text_value": "നിയമങ്ങളും വ്യവസ്തകളും ഞാന് അംഗീകരിക്കുന്നു."
+
+ },
+
+ {
+
+  "text_code": "vahan_application_draft",
+
+  "text_value": "ആപ്ലിക്കേഷൻ ഡ്രാഫ്റ്റ്"
+
+ },
+
+ {
+
+  "text_code": "vahan_fee_payment",
+
+  "text_value": "ഫീസ് പണമടയ്ക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "vahan_upload_document",
+
+  "text_value": "രേഖകൾ നല്കുക "
+
+ },
+
+ {
+
+  "text_code": "vahan_final_submit",
+
+  "text_value": "അന്തിമ സമർപ്പണം"
+
+ },
+
+ {
+
+  "text_code": "vahan_slot_booking",
+
+  "text_value": "സ്ലോട്ട് ബുക്കിംഗ്"
+
+ },
+
+ {
+
+  "text_code": "label_app_no",
+
+  "text_value": "അപേക്ഷ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_app_no",
+
+  "text_value": "ആവശ്യമായ രേഖകൾ അപ്"
+
+ },
+
+ {
+
+  "text_code": "label_enter_otp_below",
+
+  "text_value": "നിങ്ങളുടെ രജിസ്റ്റർ ചെയ്ത മൊബൈൽ നമ്പറിലേക്ക് അയച്ച OTP ചുവടെയുള്ള ഫീൽഡിൽ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "edit_enter_otp",
+
+  "text_value": "OTP നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_resend_otp",
+
+  "text_value": "OTP വീണ്ടും അയയ്"
+
+ },
+
+ {
+
+  "text_code": "label_applicant_name",
+
+  "text_value": "അപേക്ഷകന്റെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "label_appl_status_rto_code",
+
+  "text_value": "RTO കോഡ്"
+
+ },
+
+ {
+
+  "text_code": "label_appl_status_rto_name",
+
+  "text_value": "RTO പേര്"
+
+ },
+
+ {
+
+  "text_code": "label_transaction_s_applied",
+
+  "text_value": "ഇടപാട്(കൾ) പ്രയോഗിച്ചു"
+
+ },
+
+ {
+
+  "text_code": "label_transaction_status",
+
+  "text_value": "ഇടപാട് നില"
+
+ },
+
+ {
+
+  "text_code": "proceed_arrow",
+
+  "text_value": "തുടരുക"
+
+ },
+
+ {
+
+  "text_code": "button_dispose",
+
+  "text_value": "കളയുക"
+
+ },
+
+ {
+
+  "text_code": "button_verify",
+
+  "text_value": "സ്ഥിരീകരിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "button_cancel",
+
+  "text_value": "റദ്ദാക്കുക"
+
+ },
+
+ {
+
+  "text_code": "button_proceed",
+
+  "text_value": "തുടരുക"
+
+ },
+
+ {
+
+  "text_code": "label_note",
+
+  "text_value": "കുറിപ്പ്"
+
+ },
+
+ {
+
+  "text_code": "note_info",
+
+  "text_value": "ആപ്ലിക്കേഷൻ റദ്ദാക്കൽ പ്രക്രിയ മാറ്റാനാവാത്തതാണ്, ആപ്ലിക്കേഷൻ (ഫയൽ) പൂർണ്ണമായും അടയ്"
+
+ },
+
+ {
+
+  "text_code": "button_withdraw",
+
+  "text_value": "പിൻവലിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_dispose_application",
+
+  "text_value": "അപേക്ഷ തീർപ്പാക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_transaction_name",
+
+  "text_value": "ഇടപാടിന്റെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "label_reason_remarks",
+
+  "text_value": "കാരണം\/പരാമർശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_ackno_slip",
+
+  "text_value": "അക്"
+
+ },
+
+ {
+
+  "text_code": "label_application_prefilled",
+
+  "text_value": "അപേക്ഷാ ഫോം (മുൻകൂട്ടി പൂരിപ്പിച്ചത്)"
+
+ },
+
+ {
+
+  "text_code": "label_form_1",
+
+  "text_value": "ഫോം 1"
+
+ },
+
+ {
+
+  "text_code": "label_form_1a",
+
+  "text_value": "ഫോം 1A"
+
+ },
+
+ {
+
+  "text_code": "label_fee_receipt",
+
+  "text_value": "ഫീസ് രസീത്"
+
+ },
+
+ {
+
+  "text_code": "label_slot_ackno_slip",
+
+  "text_value": "സ്ലോട്ട് അക്നോളജ്മെന്റ് സ്ലിപ്പ്"
+
+ },
+
+ {
+
+  "text_code": "dispose_popup_msg",
+
+  "text_value": "ആപ്ലിക്കേഷൻ റദ്ദാക്കൽ പ്രക്രിയ മാറ്റാനാവാത്തതാണ്, ആപ്ലിക്കേഷൻ (ഫയൽ) പൂർണ്ണമായും അടയ്"
+
+ },
+
+ {
+
+  "text_code": "withdraw_popup_msg",
+
+  "text_value": "പിൻവലിക്കുന്നതിനായി നിങ്ങൾ ഇനിപ്പറയുന്ന സേവനങ്ങൾ തിരഞ്ഞെടുത്തു\n  ഡ്യൂപ്ലിക്കേറ്റ് ഡിഎൽ ഇഷ്യൂ\n  വിലാസം മാറ്റം\n  നിങ്ങൾക്ക് തുടരണമെന്ന് തീർച്ചയാണോ?"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_dob",
+
+  "text_value": "DD-MM-YYYY"
+
+ },
+
+ {
+
+  "text_code": "popup_do_want",
+
+  "text_value": "നിങ്ങൾക്ക് സംരക്ഷിക്കണോ"
+
+ },
+
+ {
+
+  "text_code": "button_open_pdf",
+
+  "text_value": "PDF തുറക്കുക"
+
+ },
+
+ {
+
+  "text_code": "popup_pdf_desc",
+
+  "text_value": "നിങ്ങളുടെ PDF ഫയൽ സേവ് ചെയ്തിരിക്കുന്നു\n  ഡൗൺലോഡ് -> mParivahan ഫോൾഡർ\n\n  PDF ഫയൽ കാണുന്നതിന് നിങ്ങളുടെ ഫോണിൽ Adobe Reader ഇൻസ്റ്റാൾ ചെയ്യണം"
+
+ },
+
+ {
+
+  "text_code": "popup_pdf_error",
+
+  "text_value": "pdf കാണാൻ ഒരു ആപ്ലിക്കേഷനും ലഭ്യമല്ല."
+
+ },
+
+ {
+
+  "text_code": "label_term_condt",
+
+  "text_value": "നിയമങ്ങളും വ്യവസ്തകളും ഞാന് അംഗീകരിക്കുന്നു"
+
+ },
+
+ {
+
+  "text_code": "popup_empty_mobile_no",
+
+  "text_value": "മൊബൈൽ നമ്പർ. കാണ്മാനില്ല"
+
+ },
+
+ {
+
+  "text_code": "title_challan_status",
+
+  "text_value": "ചലാൻ നില"
+
+ },
+
+ {
+
+  "text_code": "title_online_challan_payment",
+
+  "text_value": "ഓൺലൈൻ ചലാൻ പേയ്"
+
+ },
+
+ {
+
+  "text_code": "title_verify_challan_payment",
+
+  "text_value": "ചലാൻ പണമടയ്ക്കൽ പരിശോധിച്ചുറപ്പിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "logo_pay_your_challan",
+
+  "text_value": "നിങ്ങളുടെ ചലാൻ അടയ്ക്കുക"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_trans_status",
+
+  "text_value": "ഇടപാട് നില"
+
+ },
+
+ {
+
+  "text_code": "logo_reprint_receipt",
+
+  "text_value": " രസീത് വീണ്ടും  അച്ചടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "radio_btn_challan_no",
+
+  "text_value": "ചലാൻ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "radio_btn_vehicle_no",
+
+  "text_value": "വാഹന നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "radio_btn_dl_no",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "edit_enter_challan_no",
+
+  "text_value": "ചലാൻ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_get_details",
+
+  "text_value": "വിശദാംശങ്ങൾ നേടുക"
+
+ },
+
+ {
+
+  "text_code": "tab_btn_challan_all",
+
+  "text_value": "എല്ലാം"
+
+ },
+
+ {
+
+  "text_code": "tab_btn_challan_pending",
+
+  "text_value": "അംഗീകാരം ശേഷിക്കുന്നില്ല"
+
+ },
+
+ {
+
+  "text_code": "tab_btn_challan_disposed",
+
+  "text_value": "നീക്കം ചെയ്തു"
+
+ },
+
+ {
+
+  "text_code": "label_total_challan",
+
+  "text_value": "ആകെ ചലാൻ"
+
+ },
+
+ {
+
+  "text_code": "label_no_challan_found",
+
+  "text_value": "ചലാൻ ഒന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "label_no_pending_trans",
+
+  "text_value": "പേയ്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no_trans_found",
+
+  "text_value": "ഇടപാടുകളൊന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_details",
+
+  "text_value": "ചലാൻ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_payment",
+
+  "text_value": "പേയ്മെന്റ്"
+
+ },
+
+ {
+
+  "text_code": "logo_challan_receipt",
+
+  "text_value": "രസീത്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_rc_no",
+
+  "text_value": "DL\/RC നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_state",
+
+  "text_value": "സംസ്ഥാനം"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no",
+
+  "text_value": "ചലാൻ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_payment_status",
+
+  "text_value": "പണമടയ്ക്കൽ നില"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_print_receipt",
+
+  "text_value": "രസീത് അച്ചടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "btn_print_challan",
+
+  "text_value": "ചലാൻ അച്ചടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "btn_pay_now",
+
+  "text_value": "ഇപ്പോള് പണമടയ്ക്കൂ"
+
+ },
+
+ {
+
+  "text_code": "btn_verify_payment",
+
+  "text_value": "പണമടയ്ക്കൽ  സ്ഥിരീകരിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_paid",
+
+  "text_value": "പണം നൽകി"
+
+ },
+
+ {
+
+  "text_code": "btn_challan_status",
+
+  "text_value": "നില "
+
+ },
+
+ {
+
+  "text_code": "btn_try_again",
+
+  "text_value": "വീണ്ടും ശ്രമിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "btn_go_back",
+
+  "text_value": "മടങ്ങിപ്പോവുക"
+
+ },
+
+ {
+
+  "text_code": "title_challan_trans_success",
+
+  "text_value": "ഇടപാട് വിജയം"
+
+ },
+
+ {
+
+  "text_code": "title_challan_trans_pending",
+
+  "text_value": "ഇടപാട് പൂർത്തീകരിച്ചിട്ടില്ല "
+
+ },
+
+ {
+
+  "text_code": "title_challan_trans_failed",
+
+  "text_value": "ഇടപാട് പരാജയപ്പെട്ടു"
+
+ },
+
+ {
+
+  "text_code": "title_dl_details",
+
+  "text_value": "DL വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_holder_name",
+
+  "text_value": "DL ഉടമയുടെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_expiry_date",
+
+  "text_value": "കാലഹരണപ്പെടുന്ന തീയതി"
+
+ },
+
+ {
+
+  "text_code": "label_dl_ekyc_demographic_details",
+
+  "text_value": "eKYC ഡെമോഗ്രാഫിക് വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_ownername_as_aadhaar",
+
+  "text_value": "ഉടമയുടെ പേര് (ആധാർ പ്രകാരം)"
+
+ },
+
+ {
+
+  "text_code": "label_dl_current_addr_as_aadhaar",
+
+  "text_value": "നിലവിലെ വിലാസം (ആധാർ പ്രകാരം)"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_next",
+
+  "text_value": "അടുത്തത്"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_renewal",
+
+  "text_value": "DL പുതുക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_details",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_upload_photo_sign",
+
+  "text_value": "ഫോട്ടോയും ഒപ്പും അപ്"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_dms_upload_doc",
+
+  "text_value": "DMS (രേഖകൾ നൽകുക )"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_fee_details",
+
+  "text_value": "ഫീസ് വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "logo_dl_appointment_book",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് ബുക്കിംഗ്"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_personal_info",
+
+  "text_value": "സ്വകാര്യ വിവരം"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_father_name",
+
+  "text_value": "പിതാവിന്റെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_permn_addr",
+
+  "text_value": "സ്ഥിര വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_information",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് വിവരങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_issue_date",
+
+  "text_value": "DL നൽകിയ തീയതി "
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_nt_valid_upto",
+
+  "text_value": "NT സാധുതയുള്ളതാണ്"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_issue_authority",
+
+  "text_value": "ഇഷ്യൂ അതോറിറ്റി"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_tr_valid_upto",
+
+  "text_value": "TR സാധുതയുള്ളതാണ്"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_last_endor_state",
+
+  "text_value": "അവസാനം അംഗീകരിച്ച സംസ്ഥാനം"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_last_endor_rto",
+
+  "text_value": "അവസാനം അംഗീകരിച്ച RTO"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_class_vehicle",
+
+  "text_value": "വാഹനത്തിന്റെ ക്ലാസ്"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_present_addr",
+
+  "text_value": "ഇപ്പോഴത്തെ വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_close",
+
+  "text_value": "അടയ്ക്കുക"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_duplicate_dl",
+
+  "text_value": "ഡ്യൂപ്ലിക്കേറ്റ് DL"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_idp",
+
+  "text_value": "ഇന്റർനാഷണൽ ഡ്രൈവിംഗ് പെർമിറ്റ്"
+
+ },
+
+ {
+
+  "text_code": "title_dl_services",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് സേവനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_no",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_req_sub_state",
+
+  "text_value": "സംസ്ഥാനത്തിന് സമർപ്പിക്കാൻ അഭ്യർത്ഥിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_req_sub_rto",
+
+  "text_value": "ആർടിഒയ്ക്ക് സമർപ്പിക്കാൻ അഭ്യർത്ഥിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_renewal_dl",
+
+  "text_value": "DL പുതുക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_change_addr",
+
+  "text_value": "DL-ൽ വിലാസം മാറ്റം"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_dupl_dl",
+
+  "text_value": "ഡ്യൂപ്ലിക്കേറ്റ് ഡിഎൽ ഇഷ്യൂ"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_intern_dl_perm",
+
+  "text_value": "ഇന്റർനാഷണൽ ഡ്രൈവിംഗ് പെർമിറ്റ്"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_extract_dl",
+
+  "text_value": "DL  എക്സ്ട്രാക്റ്റ്"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_replacement_dl",
+
+  "text_value": "DL മാറ്റിസ്ഥാപിക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_my_dl",
+
+  "text_value": "എന്റെ ഡ്രൈവിംഗ് ലൈസൻസ്"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_enter_dl",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_go_aval",
+
+  "text_value": "ലഭ്യമായ സേവനങ്ങൾക്കായി പോകുക"
+
+ },
+
+ {
+
+  "text_code": "btn_reset",
+
+  "text_value": "പുനഃസജ്ജമാക്കുക"
+
+ },
+
+ {
+
+  "text_code": "dl_serv_note",
+
+  "text_value": "അപേക്ഷയുടെ സ്വീകാര്യത നിയമപരമായ വ്യവസ്ഥകൾക്കനുസൃതമായി അപ്"
+
+ },
+
+ {
+
+  "text_code": "dl_serv_note_faceless_rto",
+
+  "text_value": "സൂചിപ്പിച്ച സേവനങ്ങൾ മുഖമില്ലാത്തതാണ്, അവയ്ക്കായി നിങ്ങൾ RTO സന്ദർശിക്കേണ്ടതില്ല."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_mob_no",
+
+  "text_value": "മൊബൈൽ നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_update_mob",
+
+  "text_value": "മൊബൈൽ നമ്പർ അപ്ഡേറ്റ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_terms_cond",
+
+  "text_value": "ഞാൻ നിബന്ധനകളും വ്യവസ്ഥകളും വായിക്കുകയും അംഗീകരിക്കുകയും ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_mob_no",
+
+  "text_value": "മൊബൈൽ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_dob",
+
+  "text_value": "ജനനത്തീയതി നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_enter_otp",
+
+  "text_value": "OTP നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_otp",
+
+  "text_value": "നിങ്ങളുടെ OTP നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_gen_otp",
+
+  "text_value": "OTP സൃഷ്ടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_click_updt_mob",
+
+  "text_value": "നിങ്ങളുടെ മൊബൈൽ നമ്പർ അപ്ഡേറ്റ് ചെയ്യാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_downl_ackno",
+
+  "text_value": "അംഗീകാരം ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_save_image",
+
+  "text_value": "ചിത്രം സേവ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_view_details",
+
+  "text_value": "DL വിശദാംശങ്ങൾ കാണുക"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_exist_addr",
+
+  "text_value": "നിലവിലുള്ള വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_exist_curr_addr",
+
+  "text_value": "നിലവിലുള്ള വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_exist_perm_addr",
+
+  "text_value": "നിലവിലുള്ള സ്ഥിരം വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_new_curr_addr_detail",
+
+  "text_value": "പുതിയ നിലവിലെ വിലാസ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_valid_from",
+
+  "text_value": "എന്ന്  മുതൽ സാധുതയുള്ളത്"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_old_addr_detail",
+
+  "text_value": "പഴയ വിലാസത്തിന്റെ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_state",
+
+  "text_value": "സംസ്ഥാനം"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_state",
+
+  "text_value": "ഒരു സംസ്ഥാനം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_district",
+
+  "text_value": "ജില്ല"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_district",
+
+  "text_value": "ജില്ല തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_block",
+
+  "text_value": "താലൂക്ക് \/ ബ്ലോക്ക്"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_block",
+
+  "text_value": "താലൂക്ക് \/ ബ്ലോക്ക്"
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_village",
+
+  "text_value": "ഗ്രാമം"
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_town",
+
+  "text_value": "പട്ടണം"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_town",
+
+  "text_value": "ഗ്രാമം \/ പട്ടണം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_hous_door_flat",
+
+  "text_value": "വീട് \/ വാതിൽ \/ ഫ്ലാറ്റ് നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_hous_door_flat",
+
+  "text_value": "വീട് \/ വാതിൽ \/ ഫ്ലാറ്റ് നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_stree_loca_polic",
+
+  "text_value": "തെരുവ് \/ പ്രദേശം \/ പോലീസ് സ്റ്റേഷൻ"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_stree_loca_polic",
+
+  "text_value": "തെരുവ് \/ പ്രദേശം \/ പോലീസ് സ്റ്റേഷൻ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_landmark",
+
+  "text_value": "ലാൻഡ്മാർക്ക്"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_landmark",
+
+  "text_value": "ലാൻഡ്മാർക്ക് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_pincode",
+
+  "text_value": "പിൻ കോഡ്"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_pincode",
+
+  "text_value": "പിൻകോഡ് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_same_curr_addr",
+
+  "text_value": "പുതിയ നിലവിലെ വിലാസം പോലെ തന്നെ"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_new_perm_addr",
+
+  "text_value": "പുതിയ സ്ഥിരം വിലാസ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_detail_extr",
+
+  "text_value": "എക്സ്ട്രാക്റ്റ് ഡിഎൽ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_reason",
+
+  "text_value": "കാരണം"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_sel_reason",
+
+  "text_value": "കാരണം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_enter_reas_manul",
+
+  "text_value": "കാരണം സ്വമേധയാ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_note_detail",
+
+  "text_value": "എന്റെ മരണം സംഭവിച്ചാൽ എന്റെ അവയവങ്ങളോ ടിഷ്യുകളോ ദാനം ചെയ്യാൻ ഞാൻ തയ്യാറാണ്."
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_yes",
+
+  "text_value": "അതെ"
+
+ },
+
+ {
+
+  "text_code": "radio_dl_serv_no",
+
+  "text_value": "ഇല്ല"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_emer_cont_no",
+
+  "text_value": "നിങ്ങളുടെ എമർജൻസി കോൺടാക്റ്റ് നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_applicant_detail",
+
+  "text_value": "അപേക്ഷകന്റെ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_appl_no",
+
+  "text_value": "അപേക്ഷാ സംഖ്യ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_appl_date",
+
+  "text_value": "അപേക്ഷിക്കേണ്ട തീയതി"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_upload_req_doc",
+
+  "text_value": "ആവശ്യമായ രേഖകൾ നൽകുക "
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_allow_file_size",
+
+  "text_value": "അനുവദനീയമായ ഫയൽ തരങ്ങളിൽ JPEG, JPG, PDF എന്നിവ ഉൾപ്പെടുന്നു, പരമാവധി ഫയൽ വലുപ്പം 200 KB."
+
+ },
+
+ {
+
+  "text_code": "btn_dl_serv_upload_doc",
+
+  "text_value": "രേഖകൾ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "title_dl_serv_detail_duplicate",
+
+  "text_value": "ഡ്യൂപ്ലിക്കേറ്റ് DL-നുള്ള വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_birth_place",
+
+  "text_value": "ജന്മസ്ഥലം"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_birth_plac",
+
+  "text_value": "നിങ്ങളുടെ ജന്മസ്ഥലം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_birth_country",
+
+  "text_value": "ജന്മനാട്"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_country",
+
+  "text_value": "രാജ്യം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_pass_no",
+
+  "text_value": "പാസ്പോർട്ട് നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_pass_no",
+
+  "text_value": "നിങ്ങളുടെ പാസ്പോർട്ട് നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_valid_upto",
+
+  "text_value": "വരെ സാധുവാണ്"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_pass_valid",
+
+  "text_value": "നിങ്ങളുടെ പാസ്"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_disqu_dl_drive",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് നേടിയതിന് നിങ്ങളെ അയോഗ്യനാക്കിയിട്ടുണ്ടോ? അങ്ങനെയാണെങ്കിൽ, അത് എന്തുകൊണ്ട്?"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_what_reason",
+
+  "text_value": "എങ്കിൽ എന്താണ് കാരണം"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_barred_curr_count_drive",
+
+  "text_value": "നിലവിലെ രാജ്യം നിങ്ങളെ ആ രാജ്യത്ത് വാഹനമോടിക്കുന്നത് വിലക്കിയിട്ടുണ്ടോ? അങ്ങനെയെങ്കിൽ, എന്ത് കാരണത്താലാണ്?"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_count_visa_grant",
+
+  "text_value": "വിസ അനുവദിച്ച രാജ്യം"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_click_restr_countr",
+
+  "text_value": "നിയന്ത്രിത രാജ്യങ്ങളുടെ പട്ടിക കാണുന്നതിന് ഇവിടെ ക്ലിക്ക് ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_visa_no",
+
+  "text_value": "വിസ നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_visa_no",
+
+  "text_value": "നിങ്ങളുടെ വിസ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_visa_valid",
+
+  "text_value": "നിങ്ങളുടെ വിസ സാധുത തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_cov_grades_idp",
+
+  "text_value": "IDP ആവശ്യപ്പെടുന്ന COV ഗ്രേഡുകൾ"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_selc_cov_grade",
+
+  "text_value": "COV ഗ്രേഡുകൾ തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "check_dl_serv_im_indian_embas",
+
+  "text_value": "ഞാൻ ഇന്ത്യൻ എംബസിയിൽ നിന്നാണ്"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_indian_embas_name",
+
+  "text_value": "ഇന്ത്യൻ എംബസിയുടെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_ind_embas_name",
+
+  "text_value": "നിങ്ങളുടെ ഇന്ത്യൻ എംബസിയുടെ പേര് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_embas_place",
+
+  "text_value": "എംബസി സ്ഥലം"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_embas_place",
+
+  "text_value": "നിങ്ങളുടെ എംബസി സ്ഥലം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_fore_nat_mob_no",
+
+  "text_value": "വിദേശ രാജ്യ മൊബൈൽ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_fore_mob_no",
+
+  "text_value": "നിങ്ങളുടെ വിദേശ രാജ്യ മൊബൈൽ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_date_verif_embass",
+
+  "text_value": "എംബസി പരിശോധിച്ചുറപ്പിച്ച തീയതി"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_date_verif_embass",
+
+  "text_value": "എംബസി പരിശോധിച്ചുറപ്പിച്ച തീയതി നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_embsy_endor_no",
+
+  "text_value": "എംബസി എൻഡോഴ്സ്മെന്റ് നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_embsy_endor_no",
+
+  "text_value": "എംബസി എൻഡോഴ്സ്മെന്റ് നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_idp_applied_from",
+
+  "text_value": "IDP അപേക്ഷിച്ചത്"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_idp_applied_from",
+
+  "text_value": "പ്രയോഗിച്ച IDP തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_enter_addr_forg_doc",
+
+  "text_value": "IDP രേഖ അയയ്"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_addr_one",
+
+  "text_value": "വിലാസം 1"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_addr_two",
+
+  "text_value": "വിലാസം 2"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_addr_three",
+
+  "text_value": "വിലാസം 3"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_addr",
+
+  "text_value": "നിങ്ങളുടെ വിലാസം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_click_cov_grade",
+
+  "text_value": "COV ഗ്രേഡുകളുടെ വിവരണം കാണാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_old_mob_no",
+
+  "text_value": "പഴയ മൊബൈൽ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_new_mob_no",
+
+  "text_value": "പുതിയ മൊബൈൽ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_rem_rea",
+
+  "text_value": "പരാമർശം \/ കാരണം"
+
+ },
+
+ {
+
+  "text_code": "edit_dl_serv_enter_reason",
+
+  "text_value": "കാരണം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_dl_serv_rto",
+
+  "text_value": "ആർ.ടി.ഒ"
+
+ },
+
+ {
+
+  "text_code": "label_duplicate_dl_not_allowed_",
+
+  "text_value": "നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസിന് ഡ്യൂപ്ലിക്കേറ്റ് DL സേവനങ്ങൾ നൽകുന്നത് അനുവദനീയമല്ല. നിങ്ങൾക്ക് എന്തെങ്കിലും പ്രശ്"
+
+ },
+
+ {
+
+  "text_code": "label_idp_not_allowed_",
+
+  "text_value": "നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസിന് ഡ്യൂപ്ലിക്കേറ്റ് DL സേവനങ്ങൾ നൽകുന്നത് അനുവദനീയമല്ല. നിങ്ങൾക്ക് കൂടുതൽ ചോദ്യങ്ങളുണ്ടെങ്കിൽ helpdesk-sarathi@gov.in അല്ലെങ്കിൽ +91-0120-4925505 എന്ന വിലാസത്തിൽ ഞങ്ങളെ ബന്ധപ്പെടുക."
+
+ },
+
+ {
+
+  "text_code": "label_replace_dl_not_allowed",
+
+  "text_value": "നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസിന് DL സേവനം മാറ്റിസ്ഥാപിക്കുന്നത് അനുവദനീയമല്ല. നിങ്ങൾക്ക് എന്തെങ്കിലും പ്രശ്"
+
+ },
+
+ {
+
+  "text_code": "label_coa_not_allowed",
+
+  "text_value": "നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസിന് DL സേവനത്തിലെ വിലാസം മാറ്റം അനുവദനീയമല്ല. നിങ്ങൾക്ക് എന്തെങ്കിലും പ്രശ്"
+
+ },
+
+ {
+
+  "text_code": "label_renewal_not_allowed",
+
+  "text_value": "നിങ്ങളുടെ DL കാലഹരണപ്പെട്ടതിനാൽ, ഒരു ഡ്രൈവിംഗ് സ്കിൽ ടെസ്റ്റ് ആവശ്യമാണ്."
+
+ },
+
+ {
+
+  "text_code": "label_unable_details",
+
+  "text_value": "നിങ്ങൾക്ക് വിശദാംശങ്ങൾ നേടാൻ കഴിയുന്നില്ലെങ്കിൽ കുറച്ച് സമയത്തിന് ശേഷം വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_went_wrong",
+
+  "text_value": "എന്തോ കുഴപ്പം സംഭവിച്ചു. കുറച്ച് സമയത്തിന് ശേഷം വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_ddl_expired",
+
+  "text_value": "നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസ് ഇതിനകം കാലഹരണപ്പെട്ടു; അതിനാൽ, ഡ്യൂപ്ലിക്കേറ്റ് ഡ്രൈവിംഗ് ലൈസൻസ് നൽകുന്നത് അനുവദനീയമല്ല. തുടർനടപടികൾക്കായി ദയവായി നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസ് പുതുക്കുക. നിങ്ങൾക്ക് എന്തെങ്കിലും പ്രശ്"
+
+ },
+
+ {
+
+  "text_code": "label_idp_expired",
+
+  "text_value": "നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസ് ഇതിനകം കാലഹരണപ്പെട്ടതിനാൽ, ഒരു അന്താരാഷ്ട്ര ഡ്രൈവിംഗ് പെർമിറ്റ് അനുവദിക്കുന്നത് അനുവദനീയമല്ല. തുടർനടപടികൾക്കായി നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസ് ദയവായി പുതുക്കുക. നിങ്ങൾക്ക് എന്തെങ്കിലും പ്രശ്"
+
+ },
+
+ {
+
+  "text_code": "label_replacement_expired",
+
+  "text_value": "നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസ് ഇതിനകം കാലഹരണപ്പെട്ടു; ഒരു DL റീപ്ലേസ്"
+
+ },
+
+ {
+
+  "text_code": "label_coa_expired",
+
+  "text_value": "നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസ് ഇതിനകം കാലഹരണപ്പെട്ടു; അതിനാൽ വിലാസം മാറ്റുന്നത് അനുവദനീയമല്ല. തുടർനടപടികൾക്കായി ദയവായി നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസ് പുതുക്കുക. നിങ്ങൾക്ക് എന്തെങ്കിലും പ്രശ്"
+
+ },
+
+ {
+
+  "text_code": "label_renewal_expired",
+
+  "text_value": "നിങ്ങളുടെ DL സാധുവാണ്; അതിനാൽ, നിങ്ങളുടെ ഡ്രൈവിംഗ് ലൈസൻസിൽ നിലവിൽ DL പുതുക്കൽ സേവനം അനുവദനീയമല്ല."
+
+ },
+
+ {
+
+  "text_code": "label_service_unavailable",
+
+  "text_value": "സേവനം താൽക്കാലികമായി ലഭ്യമല്ല. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_otp_sent_to_mobile",
+
+  "text_value": "നിങ്ങളുടെ മൊബൈലിലേക്ക് OTP അയച്ചു"
+
+ },
+
+ {
+
+  "text_code": "label_house_flat_door",
+
+  "text_value": "വീട് \/ വാതിൽ \/ ഫ്ലാറ്റ് നമ്പർ (വിലാസം 1)"
+
+ },
+
+ {
+
+  "text_code": "label_street_loc_ps",
+
+  "text_value": "തെരുവ് \/ പ്രദേശം \/ പോലീസ് സ്റ്റേഷൻ (വിലാസം 2)"
+
+ },
+
+ {
+
+  "text_code": "label_loc_mark",
+
+  "text_value": "സ്ഥാനം\/ലാൻഡ്മാർക്ക് (വിലാസം 3)"
+
+ },
+
+ {
+
+  "text_code": "label_select_reason",
+
+  "text_value": "ദയവായി കാരണം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_mb",
+
+  "text_value": "ദയവായി മൊബൈൽ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_want_to_proceed",
+
+  "text_value": "നിങ്ങൾക്ക് ഉറപ്പാണോ, നിങ്ങൾ തുടരാൻ ആഗ്രഹിക്കുന്നു"
+
+ },
+
+ {
+
+  "text_code": "label_point_a",
+
+  "text_value": "പോയിന്റ് A ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക - അതെ \/ ഇല്ല "
+
+ },
+
+ {
+
+  "text_code": "label_point_b",
+
+  "text_value": "പോയിന്റ് B  എന്ന ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക - അതെ \/ ഇല്ല "
+
+ },
+
+ {
+
+  "text_code": "label_point_c",
+
+  "text_value": "പോയിന്റ് C എന്ന ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക - അതെ \/ ഇല്ല "
+
+ },
+
+ {
+
+  "text_code": "label_point_d",
+
+  "text_value": "പോയിന്റ് D എന്ന ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക - അതെ \/ ഇല്ല "
+
+ },
+
+ {
+
+  "text_code": "label_point_e",
+
+  "text_value": "പോയിന്റ് E എന്ന ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക - അതെ \/ ഇല്ല "
+
+ },
+
+ {
+
+  "text_code": "label_point_f",
+
+  "text_value": "പോയിന്റ് F എന്ന ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക - അതെ \/ ഇല്ല "
+
+ },
+
+ {
+
+  "text_code": "label_point_g",
+
+  "text_value": "പോയിന്റ് G എന്ന ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക - അതെ \/ ഇല്ല "
+
+ },
+
+ {
+
+  "text_code": "label_app_category",
+
+  "text_value": "അപേക്ഷക വിഭാഗം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_general",
+
+  "text_value": "ജനറൽ"
+
+ },
+
+ {
+
+  "text_code": "label_Repatriate",
+
+  "text_value": "സ്വദേശത്തേക്ക് തിരിച്ചയയ്"
+
+ },
+
+ {
+
+  "text_code": "label_Refugees",
+
+  "text_value": "അഭയാർത്ഥികൾ"
+
+ },
+
+ {
+
+  "text_code": "label_servicemen",
+
+  "text_value": "മുൻ സൈനികർ"
+
+ },
+
+ {
+
+  "text_code": "label_foreigners",
+
+  "text_value": "വിദേശികൾ (നയതന്ത്രജ്ഞരല്ല)"
+
+ },
+
+ {
+
+  "text_code": "label_diplomat",
+
+  "text_value": "നയതന്ത്രജ്ഞർ (വിദേശി)"
+
+ },
+
+ {
+
+  "text_code": "label_oci",
+
+  "text_value": "ഒ.സി.ഐ"
+
+ },
+
+ {
+
+  "text_code": "label_differently_abled",
+
+  "text_value": "ഭിന്നശേഷിയുള്ളവർ"
+
+ },
+
+ {
+
+  "text_code": "label_please_check_check_box",
+
+  "text_value": "പ്രഖ്യാപനം സ്ഥിരീകരിക്കാൻ ചെക്ക്ബോക്സിൽ ക്ലിക്ക് ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "label_select_doc",
+
+  "text_value": "പ്രമാണങ്ങൾ തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_issuer_Designation",
+
+  "text_value": "ഇഷ്യൂവർ പദവി"
+
+ },
+
+ {
+
+  "text_code": "label_doc_number",
+
+  "text_value": "ഡോക്യുമെന്റ് നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_contact_number",
+
+  "text_value": "ബന്ധപ്പെടേണ്ട നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_doc_issue_Date",
+
+  "text_value": "ഡോക്യുമെന്റ് ഇഷ്യു തീയതി"
+
+ },
+
+ {
+
+  "text_code": "label_Preview",
+
+  "text_value": "പ്രിവ്യൂ"
+
+ },
+
+ {
+
+  "text_code": "label_edit",
+
+  "text_value": "തിരുത്തുക"
+
+ },
+
+ {
+
+  "text_code": "label_capture",
+
+  "text_value": "ക്യാപ്ചർ"
+
+ },
+
+ {
+
+  "text_code": "label_gallery",
+
+  "text_value": "ഗാലറി"
+
+ },
+
+ {
+
+  "text_code": "label_view",
+
+  "text_value": "കാണുക"
+
+ },
+
+ {
+
+  "text_code": "label_e_sign",
+
+  "text_value": "അടുത്ത പ്രക്രിയ ഇ-സൈൻ ഡോക്യുമെന്റാണ്"
+
+ },
+
+ {
+
+  "text_code": "label_attach_document",
+
+  "text_value": "രേഖകൾ  അറ്റാച്ചുചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "label_document_uploaded",
+
+  "text_value": "പ്രമാണങ്ങൾ വിജയകരമായി നൽകി "
+
+ },
+
+ {
+
+  "text_code": "label_photo_sign_uploaded",
+
+  "text_value": "ഫോട്ടോയും ഒപ്പും നൽകുക "
+
+ },
+
+ {
+
+  "text_code": "label_name",
+
+  "text_value": "പേര്."
+
+ },
+
+ {
+
+  "text_code": "label_sdf",
+
+  "text_value": "മകൻ\/ഭാര്യ\/മകൾ"
+
+ },
+
+ {
+
+  "text_code": "label_Instructions",
+
+  "text_value": "നിർദ്ദേശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_instructions_one",
+
+  "text_value": "ഘട്ടം 1 : ഫോട്ടോ ക്യാപ്ചർ ചെയ്യുക: 'CAPTURE' ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുമ്പോൾ, ക്യാമറ തുറക്കും, ഫോട്ടോ എടുത്തതിന് ശേഷം അത് ഫോട്ടോ ബോക്സിൽ പ്രദർശിപ്പിക്കും."
+
+ },
+
+ {
+
+  "text_code": "label_instructions_three",
+
+  "text_value": "ഘട്ടം 3 : ഫോട്ടോ അപ്"
+
+ },
+
+ {
+
+  "text_code": "label_instructions_two",
+
+  "text_value": "ഘട്ടം 2 : അപ്"
+
+ },
+
+ {
+
+  "text_code": "label_spec_ps",
+
+  "text_value": "ഫോട്ടോയുടെയും ഒപ്പിന്റെയും സവിശേഷതകൾ"
+
+ },
+
+ {
+
+  "text_code": "label_photo_dimensions",
+
+  "text_value": "1) ഫോട്ടോ അളവുകൾ - സ്വയമേവ ക്രമീകരിക്കപ്പെടും.\n2) സിഗ്നേച്ചർ അളവുകൾ - വീതി 256 പിക്സലുകൾ x ഉയരം 64 പിക്സലുകൾ , വീതി 1.4 \/3.5 സെ.മീ X ഉയരം 0.44\/1.06 സെ.മീ (ഇഷ്ടപ്പെട്ടതാണ്).\n3) ഈ ഫയലുകളുടെ വലുപ്പം 10kb ~ 20kb ആയിരിക്കണം.\n4) അനുവദനീയമായ ഫയൽ തരങ്ങൾ ഇവയാണ് - JPEG\/JPG\/jpeg\/jpg."
+
+ },
+
+ {
+
+  "text_code": "label_upload_clear_photo",
+
+  "text_value": "മുന്നറിയിപ്പ്: ലൈസൻസിൽ അച്ചടിക്കുന്നതിന് ആവശ്യമായ വ്യക്തമായ ഫോട്ടോയും ഒപ്പും അപ്"
+
+ },
+
+ {
+
+  "text_code": "label_app_photo",
+
+  "text_value": "അപേക്ഷകന്റെ ഫോട്ടോ"
+
+ },
+
+ {
+
+  "text_code": "label_app_signature",
+
+  "text_value": "അപേക്ഷകന്റെ ഒപ്പ്"
+
+ },
+
+ {
+
+  "text_code": "label_avaialble",
+
+  "text_value": "ലഭ്യമാണ്"
+
+ },
+
+ {
+
+  "text_code": "label_booked",
+
+  "text_value": "ബുക്ക് ചെയ്തു"
+
+ },
+
+ {
+
+  "text_code": "label_holiday",
+
+  "text_value": "അവധി"
+
+ },
+
+ {
+
+  "text_code": "label_yet_to_open",
+
+  "text_value": "ഇനിയും തുറക്കാനുണ്ട്"
+
+ },
+
+ {
+
+  "text_code": "label_sure_to_book_slot",
+
+  "text_value": "നിങ്ങൾ സ്ലോട്ട് നമ്പർ ബുക്ക് ചെയ്യുമെന്ന് ഉറപ്പാണോ"
+
+ },
+
+ {
+
+  "text_code": "label_slots_not_avl",
+
+  "text_value": "സ്ലോട്ടുകൾ ലഭ്യമല്ല"
+
+ },
+
+ {
+
+  "text_code": "label_dl_Service_instered",
+
+  "text_value": "DL\/LL സേവന അപ്പോയിന്റ്മെന്റ് വിശദാംശങ്ങൾ വിജയകരമായി ചേർത്തു"
+
+ },
+
+ {
+
+  "text_code": "label_app_booking_successfully",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് ഷെഡ്യൂളിംഗ് പൂർത്തിയായി"
+
+ },
+
+ {
+
+  "text_code": "label_app_date",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് തീയതി"
+
+ },
+
+ {
+
+  "text_code": "label_app_time",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് സമയം"
+
+ },
+
+ {
+
+  "text_code": "label_app_submitted_successfully",
+
+  "text_value": "നിങ്ങളുടെ അപേക്ഷ വിജയകരമായി സമർപ്പിച്ചു."
+
+ },
+
+ {
+
+  "text_code": "label_pdf_saved_in_download",
+
+  "text_value": "നിങ്ങളുടെ PDF ഫയൽ ഡൗൺലോഡ് -> mParivahan ഫോൾഡറിൽ സേവ് ചെയ്"
+
+ },
+
+ {
+
+  "text_code": "label_no_app_avl_pdf",
+
+  "text_value": "പിഡിഎഫ് കാണുന്നതിന് ഒരു ആപ്ലിക്കേഷനും ലഭ്യമല്ല"
+
+ },
+
+ {
+
+  "text_code": "label_view_form_2",
+
+  "text_value": "ഫോം 2 കാണുക"
+
+ },
+
+ {
+
+  "text_code": "label_view_form_1",
+
+  "text_value": "ഫോം 1-A കാണുക"
+
+ },
+
+ {
+
+  "text_code": "label_view_forms",
+
+  "text_value": "ഫോമുകൾ കാണുക"
+
+ },
+
+ {
+
+  "text_code": "label_view_fee_Receipt",
+
+  "text_value": "ഫീസ് രസീത് കാണുക"
+
+ },
+
+ {
+
+  "text_code": "label_app_number_is",
+
+  "text_value": "നിങ്ങളുടെ അപേക്ഷ വിജയകരമായി സമർപ്പിച്ചു. ഭാവി റഫറൻസിനായി അപേക്ഷ നമ്പറും അംഗീകാരവും നിങ്ങളുടെ പക്കൽ സൂക്ഷിക്കുക. നിങ്ങളുടെ അപേക്ഷ നമ്പർ:"
+
+ },
+
+ {
+
+  "text_code": "label_app_for",
+
+  "text_value": "അപേക്ഷ"
+
+ },
+
+ {
+
+  "text_code": "label_app_for_two",
+
+  "text_value": "വിജയകരമായി സമർപ്പിച്ചു, ഭാവി റഫറൻസിനായി അപേക്ഷ നമ്പറും അംഗീകാരവും നിങ്ങളുടെ പക്കൽ സൂക്ഷിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_app_for_three",
+
+  "text_value": "നിങ്ങളുടെ അപേക്ഷ നമ്പർ:"
+
+ },
+
+ {
+
+  "text_code": "label_app_for_four",
+
+  "text_value": "നിങ്ങളുടെ അപേക്ഷ വിജയകരമായി സമർപ്പിച്ചു. ഭാവി റഫറൻസിനായി അംഗീകാരം നിങ്ങളുടെ പക്കൽ സൂക്ഷിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_form_4",
+
+  "text_value": "ഫോം 4-A കാണുക"
+
+ },
+
+ {
+
+  "text_code": "label_ack_slip",
+
+  "text_value": "സ്"
+
+ },
+
+ {
+
+  "text_code": "label_form1_download",
+
+  "text_value": "ഫോം 1-A സ്റ്റോറേജിൽ വിജയകരമായി സംരക്ഷിച്ചു"
+
+ },
+
+ {
+
+  "text_code": "label_form2_download",
+
+  "text_value": "ഫോം 2 സ്റ്റോറേജിൽ വിജയകരമായി സംരക്ഷിച്ചു"
+
+ },
+
+ {
+
+  "text_code": "label_form4_download",
+
+  "text_value": "ഫോം 4-A സ്റ്റോറേജിൽ വിജയകരമായി സംരക്ഷിച്ചു"
+
+ },
+
+ {
+
+  "text_code": "no_details",
+
+  "text_value": "വിശദാംശങ്ങളൊന്നും ലഭ്യമല്ല."
+
+ },
+
+ {
+
+  "text_code": "select_rto",
+
+  "text_value": "ദയവായി RTO തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "service_is_not_availaible",
+
+  "text_value": "സേവനം താൽക്കാലികമായി ലഭ്യമല്ല കുറച്ച് സമയത്തിന് ശേഷം ശ്രമിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "plz_accept_term_conditions",
+
+  "text_value": "ദയവായി നിബന്ധനകളും വ്യവസ്ഥകളും അംഗീകരിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "time_remaining",
+
+  "text_value": "ശേഷിക്കുന്ന സമയം"
+
+ },
+
+ {
+
+  "text_code": "otp_resent",
+
+  "text_value": "OTP വിജയകരമായി വീണ്ടും അയച്ചു."
+
+ },
+
+ {
+
+  "text_code": "dl_no",
+
+  "text_value": "DL നമ്പർ:"
+
+ },
+
+ {
+
+  "text_code": "select_app_cat",
+
+  "text_value": "അപേക്ഷക വിഭാഗം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "select_state",
+
+  "text_value": "നിലവിലെ അവസ്ഥ തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "select_district",
+
+  "text_value": "നിലവിലെ ജില്ല തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "select_taluka",
+
+  "text_value": "നിലവിലെ താലൂക്ക് തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "select_landmark",
+
+  "text_value": "ദയവായി നിലവിലെ ലാൻഡ്മാർക്ക് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "select_pincode",
+
+  "text_value": "ദയവായി നിലവിലെ പിൻകോഡ് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "select_pin_code",
+
+  "text_value": "ദയവായി ശരിയായ പിൻകോഡ് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "select_pstate",
+
+  "text_value": "സ്ഥിരമായ അവസ്ഥ തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "select_pdistrict",
+
+  "text_value": "സ്ഥിരമായ ജില്ല തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "select_ptaluka",
+
+  "text_value": "സ്ഥിരമായ താലൂക്ക് തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "select_plandmark",
+
+  "text_value": "സ്ഥിരമായ ലാൻഡ്മാർക്ക് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "select_ppincode",
+
+  "text_value": "സ്ഥിരമായ പിൻകോഡ് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "select_ppin_code",
+
+  "text_value": "സ്ഥിരമായ പിൻകോഡ് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "current_add_details",
+
+  "text_value": "നിലവിലെ വിലാസ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "permanent_add_details",
+
+  "text_value": "സ്ഥിരമായ വിലാസ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "no_taluka_found",
+
+  "text_value": "തിരഞ്ഞെടുത്ത ജില്ലയ്ക്കായി താലൂക്ക് \/ ബ്ലോക്ക് ഒന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "no_vill_found",
+
+  "text_value": "തിരഞ്ഞെടുത്ത താലൂക്ക്\/ബ്ലോക്കിനായി ഗ്രാമം\/നഗരം ഒന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "x",
+
+  "text_value": "നിങ്ങളുടെ സാധുവായ അടിയന്തര കോൺടാക്റ്റ് നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "confirm_declaration",
+
+  "text_value": "ദയവായി പ്രഖ്യാപനം സ്ഥിരീകരിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "disqualified_reason",
+
+  "text_value": "എന്താണ് അയോഗ്യത കാരണം?"
+
+ },
+
+ {
+
+  "text_code": "barred_reason",
+
+  "text_value": "എന്താണ് തടയപ്പെട്ട കാരണം?"
+
+ },
+
+ {
+
+  "text_code": "upload_file_types",
+
+  "text_value": "നിങ്ങൾക്ക് JPEG, JPG അല്ലെങ്കിൽ PDF ഫയലുകൾ മാത്രമേ അപ്"
+
+ },
+
+ {
+
+  "text_code": "previous_date",
+
+  "text_value": "നിങ്ങൾക്ക് മുമ്പത്തെ തീയതി തിരഞ്ഞെടുക്കാനാകില്ല."
+
+ },
+
+ {
+
+  "text_code": "reg_authority",
+
+  "text_value": "രജിസ്ട്രി അതോറിറ്റി (കോഡ്)"
+
+ },
+
+ {
+
+  "text_code": "save_receipt",
+
+  "text_value": "പേയ്"
+
+ },
+
+ {
+
+  "text_code": "download",
+
+  "text_value": "ഡൗൺലോഡ്"
+
+ },
+
+ {
+
+  "text_code": "view_slip",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് സ്ലിപ്പ് കാണുക"
+
+ },
+
+ {
+
+  "text_code": "app_slip_saved",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് രസീത് സ്റ്റോറേജിൽ വിജയകരമായി സംരക്ഷിച്ചു"
+
+ },
+
+ {
+
+  "text_code": "label_challan_status",
+
+  "text_value": "ചലാൻ നില"
+
+ },
+
+ {
+
+  "text_code": "label_challan_number",
+
+  "text_value": "ചലാൻ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_vehicle_number",
+
+  "text_value": "വാഹന നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_number",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_my_vehicle_no",
+
+  "text_value": "എന്റെ വാഹനം(കൾ)"
+
+ },
+
+ {
+
+  "text_code": "label_challan_my_dl_number",
+
+  "text_value": "എന്റെ ഡ്രൈവിംഗ് ലൈസൻസ്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_vehicle_no",
+
+  "text_value": "വാഹന നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_chassis_no",
+
+  "text_value": "ചേസിസ് നമ്പർ (അവസാന അഞ്ച് അക്കങ്ങൾ നൽകുക)"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_chassis_no",
+
+  "text_value": "ചേസിസ് നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_engine_no",
+
+  "text_value": "എഞ്ചിൻ നമ്പർ. (അവസാന അഞ്ച് അക്കങ്ങൾ നൽകുക)"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_engine_no",
+
+  "text_value": "എഞ്ചിൻ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_challan_no",
+
+  "text_value": "ചലാൻ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_vehicle_no",
+
+  "text_value": "വാഹന നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_view_receipt",
+
+  "text_value": "രസീത് കാണുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_wait",
+
+  "text_value": "കാത്തിരിക്കൂ..."
+
+ },
+
+ {
+
+  "text_code": "label_challan_get_details",
+
+  "text_value": "വിശദാംശങ്ങൾ നേടുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_no",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_dl_no",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_select_one_search_type",
+
+  "text_value": "ദയവായി ഒരു തിരയൽ തരം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_enter_challan_no",
+
+  "text_value": "ദയവായി ചലാൻ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_first_two_char_as_state",
+
+  "text_value": "ദയവായി ആദ്യത്തെ രണ്ട് പ്രതീകങ്ങൾ സ്റ്റേറ്റ് കോഡായി നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_min_length_validation",
+
+  "text_value": "ചലാൻ നമ്പറിൽ കുറഞ്ഞത് 12 പ്രതീകങ്ങൾ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_max_length_validation",
+
+  "text_value": "ചലാൻ നമ്പറിന്റെ പരമാവധി 30 പ്രതീകങ്ങൾ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_please_enter_vehicle_no",
+
+  "text_value": "ദയവായി വാഹന നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_min_char_vehicle_no",
+
+  "text_value": "വാഹന നമ്പർ കുറഞ്ഞത് 4 പ്രതീകം അനുവദിക്കുന്നു."
+
+ },
+
+ {
+
+  "text_code": "label_challan_rc_validation",
+
+  "text_value": "ദയവായി വാഹന നമ്പർ നൽകുക.\nപ്രത്യേക പ്രതീകങ്ങളില്ലാത്ത കുറഞ്ഞത് 4 ഉം പരമാവധി 10 ഉം പ്രതീകങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_invalid_vehicle_no",
+
+  "text_value": "അസാധുവായ വാഹന നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_valid_chassis_no",
+
+  "text_value": "ചേസിസ് നമ്പറിന്റെ സാധുവായ അവസാന 5 അക്കങ്ങൾ ദയവായി നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_challan_valid_engine_no",
+
+  "text_value": "നിങ്ങളുടെ എഞ്ചിൻ നമ്പറിന്റെ അവസാന 5 അക്കങ്ങൾ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_challan_valid_dl_no",
+
+  "text_value": "ദയവായി ഒരു സാധുവായ DL നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_challan_min_char_dl_validation",
+
+  "text_value": "DL നമ്പറിനായി കുറഞ്ഞത് 10 പ്രതീകങ്ങളെങ്കിലും നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "label_challan_ok_dialog_text",
+
+  "text_value": "ശരി"
+
+ },
+
+ {
+
+  "text_code": "label_challan_enter_dl_get_details",
+
+  "text_value": "വിശദാംശങ്ങൾ ലഭിക്കാൻ DL നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_search",
+
+  "text_value": "തിരയുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_all",
+
+  "text_value": "\nഎല്ലാം"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pending",
+
+  "text_value": "തീർപ്പാക്കാത്തത്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_disposed",
+
+  "text_value": "ഡിസ്പോസ് ചെയ്തു"
+
+ },
+
+ {
+
+  "text_code": "label_challan_total",
+
+  "text_value": "ആകെ ചലാൻ:"
+
+ },
+
+ {
+
+  "text_code": "label_challan_not_found",
+
+  "text_value": "ചലാൻ ഒന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "label_challan_totals",
+
+  "text_value": "ആകെ ചലാൻ(കൾ):"
+
+ },
+
+ {
+
+  "text_code": "label_challan_view_details",
+
+  "text_value": "വിശദാംശങ്ങൾ കാണുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment",
+
+  "text_value": "പേയ്മെന്റ്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_details",
+
+  "text_value": "ചലാൻ\nവിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_receipt",
+
+  "text_value": "രസീത്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_detail",
+
+  "text_value": "ചലാൻ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_dl_rc_number",
+
+  "text_value": "DL\/RC നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_state",
+
+  "text_value": "സംസ്ഥാനം"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no",
+
+  "text_value": "ചലാൻ നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "label_challan_date",
+
+  "text_value": "ചലാൻ തീയതി"
+
+ },
+
+ {
+
+  "text_code": "label_challan_amount",
+
+  "text_value": "തുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_status",
+
+  "text_value": "പേയ്മെന്റ് നില"
+
+ },
+
+ {
+
+  "text_code": "label_challan_download",
+
+  "text_value": "ചലാൻ ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_download_receipt",
+
+  "text_value": "പേയ്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_double_click_exit",
+
+  "text_value": "പുറത്തുകടക്കാൻ ദയവായി തിരികെ ക്ലിക്ക് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_search",
+
+  "text_value": "ചലാൻ പേയ്മെന്റ്"
+
+ },
+
+ {
+
+  "text_code": "label_pay_your_challan",
+
+  "text_value": "നിങ്ങളുടെ ചലാൻ അടയ്ക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_transaction_status",
+
+  "text_value": "ഇടപാട് നില"
+
+ },
+
+ {
+
+  "text_code": "label_challan_reprint_receipt",
+
+  "text_value": "റീപ്രിന്റ് രസീത്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_verify_payment",
+
+  "text_value": "പണമടയ്ക്കൽ  സ്ഥിരീകരിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pay_now",
+
+  "text_value": "ഇപ്പോള് പണമടയ്ക്കൂ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_pay_status",
+
+  "text_value": "നില "
+
+ },
+
+ {
+
+  "text_code": "label_challan_pay_paid",
+
+  "text_value": "പണം നൽകി"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_verification",
+
+  "text_value": "പേയ്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_send_to_court",
+
+  "text_value": "കോടതി ഡാറ്റ അയയ്ക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_court_name",
+
+  "text_value": "കോടതിയുടെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_court_add",
+
+  "text_value": "കോടതി വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "label_challan_send_to_court_on",
+
+  "text_value": "കോടതി തീയതിയിലേക്ക് അയയ്ക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_virtual_court_link",
+
+  "text_value": "വെർച്വൽ കോടതിയിലെ നില (വെർച്വൽ കോടതിയിലേക്ക് അയച്ച ചലാനുകളുടെ നില അറിയാൻ, ദയവായി https:\/\/vcourts.gov.in സന്ദർശിക്കുക)."
+
+ },
+
+ {
+
+  "text_code": "label_challan_status_from_court",
+
+  "text_value": "വെർച്വൽ കോടതിയിൽ നിന്നുള്ള നില"
+
+ },
+
+ {
+
+  "text_code": "label_challan_proceeding_data",
+
+  "text_value": "ഡാറ്റ തുടരുന്നു"
+
+ },
+
+ {
+
+  "text_code": "label_challan_proceeding_date",
+
+  "text_value": "നടപടി തീയതി"
+
+ },
+
+ {
+
+  "text_code": "label_challan_fine_imposed",
+
+  "text_value": "പിഴ ചുമത്തി"
+
+ },
+
+ {
+
+  "text_code": "label_challan_party_name",
+
+  "text_value": "പാർട്ടിയുടെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_contested_data",
+
+  "text_value": "മത്സരിച്ച ഡാറ്റ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_case_no",
+
+  "text_value": "കേസ് നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_transfer_to_regular_court",
+
+  "text_value": "റെഗുലർ കോടതി ഡാറ്റയിലേക്ക് മാറ്റി"
+
+ },
+
+ {
+
+  "text_code": "label_challan_ci_no",
+
+  "text_value": "സിഐ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_court_number",
+
+  "text_value": "കോടതി നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_challan_getting_details",
+
+  "text_value": "വിശദാംശങ്ങൾ നേടുന്നു..."
+
+ },
+
+ {
+
+  "text_code": "label_challan_print",
+
+  "text_value": "ചലാൻ അച്ചടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_print_receipt",
+
+  "text_value": "രസീത് അച്ചടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_challan_payment_is_pending",
+
+  "text_value": "ഈ ചലാൻ പേയ്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_verify_payment_status",
+
+  "text_value": "ചലാൻ പേയ്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_no_payment_trans_pending",
+
+  "text_value": "പേയ്"
+
+ },
+
+ {
+
+  "text_code": "label_verify_payment_status",
+
+  "text_value": "പേയ്"
+
+ },
+
+ {
+
+  "text_code": "label_challan_violator_name",
+
+  "text_value": "നിയമലംഘകന്റെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "change_of_address_in_rc",
+
+  "text_value": "ആർസിയിലെ വിലാസം മാറ്റുന്നതിനുള്ള അപേക്ഷ ഡ്രാഫ്റ്റിൽ ആപ്ലിക്കേഷൻ നമ്പർ ഉപയോഗിച്ച് വിജയകരമായി സേവ് ചെയ്തു. xxxxxxx123"
+
+ },
+
+ {
+
+  "text_code": "no_forms_available",
+
+  "text_value": "ഡൗൺലോഡ് ചെയ്യാൻ ഫോമുകളൊന്നും ലഭ്യമല്ല."
+
+ },
+
+ {
+
+  "text_code": "download_form_22",
+
+  "text_value": "ഫോം 22 ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_from_14",
+
+  "text_value": "ഫോം 14 ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_form_26",
+
+  "text_value": "ഫോം 26 ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_From_28",
+
+  "text_value": "ഫോം 28 ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_form_29",
+
+  "text_value": "ഫോം 26 ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_form_30",
+
+  "text_value": "ഫോം 30  ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_form_31",
+
+  "text_value": "ഫോം 31  ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_form_32",
+
+  "text_value": "ഫോം 32  ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_from_33",
+
+  "text_value": "ഫോം 33  ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_form_34",
+
+  "text_value": "ഫോം 34  ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_form_35",
+
+  "text_value": "ഫോം 35  ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "download_form_36",
+
+  "text_value": "ഫോം 36  ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "vehicle_no_dlyyxx0000",
+
+  "text_value": "വാഹന നമ്പർ (DLYYXX0000)"
+
+ },
+
+ {
+
+  "text_code": "view_vehicle_details",
+
+  "text_value": "വാഹന വിശദാംശങ്ങൾ കാണുക"
+
+ },
+
+ {
+
+  "text_code": "description",
+
+  "text_value": "വിവരണം"
+
+ },
+
+ {
+
+  "text_code": "service_charges",
+
+  "text_value": "സേവന നിരക്കുകൾ"
+
+ },
+
+ {
+
+  "text_code": "fee_amount",
+
+  "text_value": "ഫീസ് തുക"
+
+ },
+
+ {
+
+  "text_code": "fine_amount",
+
+  "text_value": "ഫൈൻ തുക"
+
+ },
+
+ {
+
+  "text_code": "total_amount",
+
+  "text_value": "മൊത്തം തുക"
+
+ },
+
+ {
+
+  "text_code": "new_current_address",
+
+  "text_value": "പുതിയ നിലവിലെ വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "new_permanent_address",
+
+  "text_value": "പുതിയ സ്ഥിരം വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "skip",
+
+  "text_value": "ഒഴിവാക്കുക"
+
+ },
+
+ {
+
+  "text_code": "change_of_address_in_rc2",
+
+  "text_value": "RC യിലെ വിലാസം മാറ്റം"
+
+ },
+
+ {
+
+  "text_code": "existing_address",
+
+  "text_value": "നിലവിലുള്ള വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "current_address",
+
+  "text_value": "നിലവിലെ വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "permanent_address",
+
+  "text_value": "സ്ഥിര വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "select_date",
+
+  "text_value": "തീയതി തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "village_town_city",
+
+  "text_value": "ഗ്രാമം\/നഗരം\/നഗരം"
+
+ },
+
+ {
+
+  "text_code": "landmark_police_station",
+
+  "text_value": "ലാൻഡ്മാർക്ക്\/പോലീസ് സ്റ്റേഷൻ"
+
+ },
+
+ {
+
+  "text_code": "same_as_current_address",
+
+  "text_value": "നിലവിലെ വിലാസം തന്നെ"
+
+ },
+
+ {
+
+  "text_code": "house_no_and_street_name",
+
+  "text_value": "വീടിന്റെ നമ്പറും തെരുവിന്റെ പേരും"
+
+ },
+
+ {
+
+  "text_code": "owner_details",
+
+  "text_value": "ഉടമയുടെ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "vehicle_details",
+
+  "text_value": "വാഹന വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "relation",
+
+  "text_value": "മകൻ \/ മകൾ \/ ഭാര്യ"
+
+ },
+
+ {
+
+  "text_code": "as_per_aadhar",
+
+  "text_value": "eKYC ഡെമോഗ്രാഫിക് വിശദാംശങ്ങൾ <font color=\"#008ed8\">(ആധാർ പ്രകാരം)"
+
+ },
+
+ {
+
+  "text_code": "maker_name",
+
+  "text_value": "നിർമ്മാതാവിന്റെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "maker_model",
+
+  "text_value": "മോഡലിന്റെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "registration_date",
+
+  "text_value": "രജിസ്ട്രേഷൻ തീയതി"
+
+ },
+
+ {
+
+  "text_code": "fuel_type",
+
+  "text_value": "ഇന്ധന തരം"
+
+ },
+
+ {
+
+  "text_code": "norms_description",
+
+  "text_value": "മാനദണ്ഡങ്ങളുടെ വിവരണം"
+
+ },
+
+ {
+
+  "text_code": "fitness_valid_upto",
+
+  "text_value": "ഫിറ്റ്നസ് സാധുതയുള്ളതാണ്"
+
+ },
+
+ {
+
+  "text_code": "tax_valid_upto",
+
+  "text_value": "വരെ സാധുതയുള്ള നികുതി"
+
+ },
+
+ {
+
+  "text_code": "pucc_details",
+
+  "text_value": "PUCC വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "pucc_no",
+
+  "text_value": "PUCC നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "pucc_valid_upto",
+
+  "text_value": "PUCC  സാധുതയുള്ളതാണ്"
+
+ },
+
+ {
+
+  "text_code": "insurance_details",
+
+  "text_value": "ഇൻഷുറൻസ് വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "insurance_policy_no",
+
+  "text_value": "ഇൻഷുറൻസ് പോളിസി നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "enter_insurance_policy_number",
+
+  "text_value": "ഇൻഷുറൻസ് പോളിസി നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "insurance_company_name",
+
+  "text_value": "ഇൻഷുറൻസ് കമ്പനിയുടെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "insurance_company",
+
+  "text_value": "ഇൻഷ്വറൻസ് കമ്പനി"
+
+ },
+
+ {
+
+  "text_code": "insurance_valid_upto",
+
+  "text_value": "ഇൻഷുറൻസ് സാധുതയുള്ളതാണ്"
+
+ },
+
+ {
+
+  "text_code": "financer_details",
+
+  "text_value": "ഫിനാൻസർ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "financed_from",
+
+  "text_value": "ധനസഹായം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "permit_details",
+
+  "text_value": "പെർമിറ്റ് വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "permit_no",
+
+  "text_value": "പെർമിറ്റ് നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "enter_permit_no",
+
+  "text_value": "പെർമിറ്റ് നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "permit_type",
+
+  "text_value": "പെർമിറ്റ് തരം"
+
+ },
+
+ {
+
+  "text_code": "enter_permit_type",
+
+  "text_value": "പെർമിറ്റ് തരം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "permit_issue_date",
+
+  "text_value": "പെർമിറ്റ് ഇഷ്യൂ തീയതി നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "permit_valid_from",
+
+  "text_value": "പെർമിറ്റ് സാധുവാണ്"
+
+ },
+
+ {
+
+  "text_code": "enter_permit_valid_from",
+
+  "text_value": "മുതൽ സാധുതയുള്ള പെർമിറ്റ് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "permit_valid_upto",
+
+  "text_value": "പെർമിറ്റ് സാധുതയുള്ളതാണ്"
+
+ },
+
+ {
+
+  "text_code": "national_permit_no",
+
+  "text_value": "ദേശീയ പെർമിറ്റ് നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "national_permit_issued_by",
+
+  "text_value": "ദേശീയ പെർമിറ്റ് നൽകിയത്"
+
+ },
+
+ {
+
+  "text_code": "enter_permit_issued_by",
+
+  "text_value": "നൽകിയ പെർമിറ്റ് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "national_permit_valid_upto",
+
+  "text_value": "ദേശീയ പെർമിറ്റ് വരെ സാധുവാണ്"
+
+ },
+
+ {
+
+  "text_code": "redirect_link_to_application_status",
+
+  "text_value": "നിങ്ങളുടെ അപേക്ഷാ നില പരിശോധിക്കാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "pay_tax",
+
+  "text_value": "നികുതി അടയ്ക്കുക"
+
+ },
+
+ {
+
+  "text_code": "enter_vehicle_no",
+
+  "text_value": "വാഹന നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "my_vehicles",
+
+  "text_value": "എന്റെ വാഹനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "other_new_vehicle",
+
+  "text_value": "പുതിയ വാഹനം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "vehicle_no",
+
+  "text_value": "വാഹന നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "enter_rc_no_for_pending_transaction",
+
+  "text_value": "വാഹന നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "enter_last_five_digits",
+
+  "text_value": "അവസാന അഞ്ച് അക്കങ്ങൾ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "notes",
+
+  "text_value": "കുറിപ്പ് :-"
+
+ },
+
+ {
+
+  "text_code": "vehicle_service",
+
+  "text_value": "വാഹന സേവനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "vehicle_number",
+
+  "text_value": "വാഹന നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "please_enter_aadhaar",
+
+  "text_value": "ദയവായി നിങ്ങളുടെ ആധാർ അല്ലെങ്കിൽ VID (വെർച്വൽ ഐഡി) നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "aadhar_no",
+
+  "text_value": "ആധാർ നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "vid",
+
+  "text_value": "വിഐഡി"
+
+ },
+
+ {
+
+  "text_code": "enter_aadhaar_number",
+
+  "text_value": "ആധാർ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "agree_with_aadhar_terms",
+
+  "text_value": "ഞാൻ <font color=\"#008ed8\"><b><u>ആധാർ അടിസ്ഥാനമാക്കിയുള്ള ഇ-കെവൈസി സമ്മതം<\/u><\/b><\/font> വായിക്കുകയും അംഗീകരിക്കുകയും ചെയ്തു"
+
+ },
+
+ {
+
+  "text_code": "resend_otp",
+
+  "text_value": "&#160;ഒടിപി വീണ്ടും അയയ്"
+
+ },
+
+ {
+
+  "text_code": "faceless_services",
+
+  "text_value": "സൂചിപ്പിച്ച സേവനങ്ങൾ മുഖമില്ലാത്തതാണ്, അവയ്ക്കായി നിങ്ങൾ RTO സന്ദർശിക്കേണ്ടതില്ല."
+
+ },
+
+ {
+
+  "text_code": "issue_of_duplicate_rc",
+
+  "text_value": "ഡ്യൂപ്ലിക്കേറ്റ് RC"
+
+ },
+
+ {
+
+  "text_code": "hypothecation_addition",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ കൂട്ടിച്ചേർക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "hypothecation_termination",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ അവസാനിപ്പിക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "hypothecation_continuation",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ തുടർച്ച"
+
+ },
+
+ {
+
+  "text_code": "no_objection_certificate_noc",
+
+  "text_value": "നോ ഒബ്ജക്ഷൻ സർട്ടിഫിക്കറ്റ് (എൻഒസി)"
+
+ },
+
+ {
+
+  "text_code": "otp_verification",
+
+  "text_value": "OTP പരിശോധന"
+
+ },
+
+ {
+
+  "text_code": "nex_parivahan",
+
+  "text_value": "നെക്സ്റ്റ് ജെൻ എംപരിവാഹൻ"
+
+ },
+
+ {
+
+  "text_code": "blood_group",
+
+  "text_value": "രക്ത ഗ്രൂപ്പ്"
+
+ },
+
+ {
+
+  "text_code": "app_category",
+
+  "text_value": "അപേക്ഷക വിഭാഗം"
+
+ },
+
+ {
+
+  "text_code": "dl_validation_msg",
+
+  "text_value": "ദയവായി കുറഞ്ഞത് 10 ഉം പരമാവധി 18 ഉം പ്രതീകങ്ങൾ നൽകുക. ഹൈഫൻ(-), ഫോർവേഡ് സ്ലാഷ്(\/), സ്"
+
+ },
+
+ {
+
+  "text_code": "resend_otp_enabled",
+
+  "text_value": "OTP വീണ്ടും അയയ്ക്കുന്നത് പ്രവർത്തനക്ഷമമാക്കും"
+
+ },
+
+ {
+
+  "text_code": "kindly_etner_correct_details",
+
+  "text_value": "ദയവായി ശരിയായ വിശദാംശങ്ങൾ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "please_enter_dl_details",
+
+  "text_value": "ദയവായി DL വിശദാംശങ്ങൾ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "please_enter_bd",
+
+  "text_value": "ദയവായി ജനനത്തീയതി നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "update_Mobile_No",
+
+  "text_value": "മൊബൈൽ നമ്പർ അപ്ഡേറ്റ് ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "click_here",
+
+  "text_value": "ഇവിടെ ക്ലിക്ക് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "to_view_the_list",
+
+  "text_value": "നിയന്ത്രിത രാജ്യങ്ങളുടെ പട്ടിക കാണുന്നതിന്"
+
+ },
+
+ {
+
+  "text_code": "Email_id",
+
+  "text_value": "ഇ - മെയിൽ ഐഡി"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_chassisNo_full",
+
+  "text_value": "ചേസിസ് നമ്പർ (പൂർണ്ണം)"
+
+ },
+
+ {
+
+  "text_code": "no_input_required",
+
+  "text_value": "ഈ സേവനത്തിന് ഇൻപുട്ട് ആവശ്യമില്ല; അത് വിജയകരമായി അംഗീകരിക്കപ്പെട്ടു."
+
+ },
+
+ {
+
+  "text_code": "i_here_by_declare",
+
+  "text_value": "എന്റെ അറിവിൽ, മുകളിൽ നൽകിയിരിക്കുന്ന വിശദാംശങ്ങൾ ശരിയാണെന്ന് ഞാൻ ഇതിനാൽ പ്രഖ്യാപിക്കുന്നു. മുകളിൽ പറഞ്ഞിരിക്കുന്ന വസ്തുതകളും സമർപ്പിച്ച വിവരങ്ങളും എന്റെ അറിവിലും വിശ്വാസത്തിലും ഏറ്റവും ശരിയും യഥാർത്ഥവുമാണെന്ന് ഞാൻ പ്രഖ്യാപിക്കുന്നു."
+
+ },
+
+ {
+
+  "text_code": "detail_duplicate_dl",
+
+  "text_value": "ഡ്യൂപ്ലിക്കേറ്റ് DL-നുള്ള വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "submit_request_to",
+
+  "text_value": "അഭ്യർത്ഥന സമർപ്പിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_engineNo_full",
+
+  "text_value": "എഞ്ചിൻ നമ്പർ.(മുഴുവൻ)"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_registration_upto_date",
+
+  "text_value": "രജിസ്ട്രേഷൻ തീയതി വരെ"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_enter_engine_no",
+
+  "text_value": "എഞ്ചിൻ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_enter_application_number",
+
+  "text_value": "അപേക്ഷ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_vahan_registration_number",
+
+  "text_value": "രജിസ്ട്രേഷൻ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Verify_Payment_Status",
+
+  "text_value": "പേയ്"
+
+ },
+
+ {
+
+  "text_code": "lbl_Dl_Application_Status",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് അപേക്ഷാ നില"
+
+ },
+
+ {
+
+  "text_code": "lbl_Payment_Receipt",
+
+  "text_value": "പേയ്മെന്റ് രസീത്"
+
+ },
+
+ {
+
+  "text_code": "lbl_Payment_Success",
+
+  "text_value": "പേയ്"
+
+ },
+
+ {
+
+  "text_code": "btn_Download_Receipt",
+
+  "text_value": "രസീത് ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "doc_documents",
+
+  "text_value": "രേഖകൾ "
+
+ },
+
+ {
+
+  "text_code": "select_documents",
+
+  "text_value": "രേഖകൾ  തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "issuer",
+
+  "text_value": "ഇഷ്യൂവർ പദവി"
+
+ },
+
+ {
+
+  "text_code": "doc_number",
+
+  "text_value": "രേഖ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "con_number",
+
+  "text_value": "ബന്ധപ്പെടേണ്ട നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "d_i_d",
+
+  "text_value": "രേഖകൾ  നൽകിയ  തീയതി"
+
+ },
+
+ {
+
+  "text_code": "select_doc_type",
+
+  "text_value": "ദയവായി രേഖ തരം  തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_State_Name",
+
+  "text_value": "സംസ്ഥാന നാമം"
+
+ },
+
+ {
+
+  "text_code": "lbl_dob",
+
+  "text_value": "ജനനത്തീയതി "
+
+ },
+
+ {
+
+  "text_code": "lbl_Document_Upload",
+
+  "text_value": "രേഖകൾ  നല്കുക "
+
+ },
+
+ {
+
+  "text_code": "lbl_Appointment",
+
+  "text_value": "നിയമനം"
+
+ },
+
+ {
+
+  "text_code": "lbl_Book_Appointment",
+
+  "text_value": "ബുക്ക് അപ്പോയിന്റ്മെന്റ്"
+
+ },
+
+ {
+
+  "text_code": "enter_valid_otp",
+
+  "text_value": "ദയവായി സാധുവായ OTP നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "enter_otp",
+
+  "text_value": "OTP നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "app_red",
+
+  "text_value": "മൊബൈൽ നമ്പർ വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു. ആപ്പ് നിങ്ങളെ ഡാഷ്"
+
+ },
+
+ {
+
+  "text_code": "View_Forms",
+
+  "text_value": "ഫോമുകൾ കാണുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_name_as_per_aadhaar",
+
+  "text_value": "പേര് നൽകുക (ആധാർ പ്രകാരം)"
+
+ },
+
+ {
+
+  "text_code": "lbl_enter_mobileNo_as_per_aadhaar",
+
+  "text_value": "സേവനം പിൻവലിക്കാനുള്ള നിങ്ങളുടെ അഭ്യർത്ഥന സ്വീകരിച്ചു."
+
+ },
+
+ {
+
+  "text_code": "enter_New_Mobile_No",
+
+  "text_value": "പുതിയ മൊബൈൽ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "ekyc_terms_condition",
+
+  "text_value": "ആധാർ അടിസ്ഥാനമാക്കിയുള്ള ഇ-കെവൈസി സമ്മതം ഞാൻ വായിക്കുകയും അംഗീകരിക്കുകയും ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "lbl_View_Form",
+
+  "text_value": "ഫോം(കൾ) കാണുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_Receipt_No",
+
+  "text_value": "രസീത് നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "btn_Download_Fee_Receipt",
+
+  "text_value": "ഫീസ് രസീത് ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_Appointment_Slip_No",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് സ്ലിപ്പ് നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_Appointment_Slip_No",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് സ്ലിപ്പ് നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "btn_Download_Appointment_Slip",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് സ്ലിപ്പ് ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_available_slot",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് ബുക്ക് ചെയ്യാൻ ലഭ്യമായ സ്ലോട്ട് തിരഞ്ഞെടുക്കുക."
+
+ },
+
+ {
+
+  "text_code": "lbl_no_slot_available_msg",
+
+  "text_value": "തിരഞ്ഞെടുത്ത തീയതിയിൽ സ്ലോട്ടുകളൊന്നും ലഭ്യമല്ല. RTO-യെ ബന്ധപ്പെടുക."
+
+ },
+
+ {
+
+  "text_code": "btn_Update",
+
+  "text_value": "അപ്ഡേറ്റ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_Hypothecation_Details",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Continuation_of_hypothecation",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷന്റെ തുടർച്ച"
+
+ },
+
+ {
+
+  "text_code": "lbl_Termination_of_hypothecation",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ അവസാനിപ്പിക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "lbl_NOC_Vehicle_Details",
+
+  "text_value": "NOC വാഹന വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Reason_for_NOC",
+
+  "text_value": "NOC എടുക്കാനുള്ള കാരണം"
+
+ },
+
+ {
+
+  "text_code": "lbl_Authority_To",
+
+  "text_value": "അതോറിറ്റിക്ക്"
+
+ },
+
+ {
+
+  "text_code": "lbl_NCRB_clearance_No.",
+
+  "text_value": "അധികാരിയിലെക് "
+
+ },
+
+ {
+
+  "text_code": "lbl_Transferee_Name",
+
+  "text_value": "കൈമാറ്റക്കാരന്റെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "lbl_Type",
+
+  "text_value": "തരം"
+
+ },
+
+ {
+
+  "text_code": "lbl_Financer_Name",
+
+  "text_value": "ഫിനാൻസറുടെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "lbl_Financer_Address",
+
+  "text_value": "ഫിനാൻസ് വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "lbl_Finance_From_Date",
+
+  "text_value": "തീയതി മുതൽ ധനകാര്യം"
+
+ },
+
+ {
+
+  "text_code": "lbl_Finance_Upto_Date",
+
+  "text_value": "ധനകാര്യം തീയതി വരെ"
+
+ },
+
+ {
+
+  "text_code": "btn_Submit_Request",
+
+  "text_value": "അഭ്യർത്ഥന സമർപ്പിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_Fill_detail",
+
+  "text_value": "ചുവടെയുള്ള ആവശ്യമായ ഫീൽഡുകൾ ദയവായി പൂർത്തിയാക്കുക."
+
+ },
+
+ {
+
+  "text_code": "lbl_Remarks",
+
+  "text_value": "അഭിപ്രായങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "lbl_FIR_No_Police_Report_No",
+
+  "text_value": "എഫ്ഐആർ നമ്പർ\/പോലീസ് റിപ്പോർട്ട് നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "lbl_FIR_Date",
+
+  "text_value": "എഫ്ഐആർ തീയതി"
+
+ },
+
+ {
+
+  "text_code": "lbl_Police_Station",
+
+  "text_value": "പോലീസ് സ്റ്റേഷൻ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Hypothecation_Addition",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ കൂട്ടിച്ചേർക്കൽ (HPA)"
+
+ },
+
+ {
+
+  "text_code": "lbl_Hypothecation_Addition_Details",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ കൂട്ടിച്ചേർക്കൽ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_Finance_From_Date",
+
+  "text_value": "തീയതി മുതൽ ധനകാര്യം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_pincode",
+
+  "text_value": "പിൻകോഡ് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_Landmark_Police_station",
+
+  "text_value": "ലാൻഡ്മാർക്ക്\/പോലീസ് സ്റ്റേഷൻ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_Village_Town_City",
+
+  "text_value": "ഗ്രാമം\/നഗരം\/നഗരം എന്നിവ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "lbl_Enter_the_House_no",
+
+  "text_value": "ഹൗസ് നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "share",
+
+  "text_value": "പങ്കിടുക"
+
+ },
+
+ {
+
+  "text_code": "My_Virtual_DL",
+
+  "text_value": "എന്റെ വെർച്വൽ DL"
+
+ },
+
+ {
+
+  "text_code": "My_Virtual_RC",
+
+  "text_value": "എന്റെ വെർച്വൽ RC"
+
+ },
+
+ {
+
+  "text_code": "police_Station",
+
+  "text_value": "പോലീസ് സ്റ്റേഷൻ"
+
+ },
+
+ {
+
+  "text_code": "authority_sign",
+
+  "text_value": "അധികാര ചിഹ്നം ഇഷ്യൂ ചെയ്യുന്നു"
+
+ },
+
+ {
+
+  "text_code": "aadhaarNo",
+
+  "text_value": "ആധാർ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "address",
+
+  "text_value": "വിലാസം"
+
+ },
+
+ {
+
+  "text_code": "validity",
+
+  "text_value": "സാധുത"
+
+ },
+
+ {
+
+  "text_code": "validity_nt",
+
+  "text_value": "സാധുത (NT)"
+
+ },
+
+ {
+
+  "text_code": "indian_lic",
+
+  "text_value": "ഇന്ത്യൻ യൂണിയൻ ഡ്രൈവിംഗ് ലൈസൻസ്"
+
+ },
+
+ {
+
+  "text_code": "v_dl_l",
+
+  "text_value": "വെർച്വൽ ഡ്രൈവിംഗ് ലൈസൻസ്(കൾ)"
+
+ },
+
+ {
+
+  "text_code": "Licensing_authority",
+
+  "text_value": "ലൈസൻസിംഗ് അതോറിറ്റി"
+
+ },
+
+ {
+
+  "text_code": "vehicle_impound",
+
+  "text_value": "വാഹനം തടഞ്ഞു"
+
+ },
+
+ {
+
+  "text_code": "dl_search_txt",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് തിരയൽ"
+
+ },
+
+ {
+
+  "text_code": "view_alert",
+
+  "text_value": "മുന്നറിയിപ്പ്"
+
+ },
+
+ {
+
+  "text_code": "create_a_virtual_dl",
+
+  "text_value": "ഒരു വെർച്വൽ DL സൃഷ്ടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "recent_challan",
+
+  "text_value": "സമീപകാല ചലാൻ"
+
+ },
+
+ {
+
+  "text_code": "driving_licence_impound",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് പിടിച്ചെടുത്തു"
+
+ },
+
+ {
+
+  "text_code": "tap_notify",
+
+  "text_value": "ഏതെങ്കിലും സാധുത കാലഹരണപ്പെടുന്നതിന് 30 ദിവസം മുമ്പ് ഞങ്ങൾ നിങ്ങളെ അറിയിക്കും."
+
+ },
+
+ {
+
+  "text_code": "tap_to_check",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് പിടിച്ചെടുത്തതും പിടിച്ചെടുക്കൽ രേഖയുടെ നിലയും പരിശോധിക്കാൻ ടാപ്പ് ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "valid_till_trans",
+
+  "text_value": "ലൈസൻസ് സാധുത (ഗതാഗതം)"
+
+ },
+
+ {
+
+  "text_code": "valid_till",
+
+  "text_value": "സാധുത"
+
+ },
+
+ {
+
+  "text_code": "label_challan_owner_name",
+
+  "text_value": "ഉടമസ്ഥന്റെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "last_update",
+
+  "text_value": "അവസാന പരിഷ്കാരം"
+
+ },
+
+ {
+
+  "text_code": "virtual_dl",
+
+  "text_value": "വെർച്വൽ DL"
+
+ },
+
+ {
+
+  "text_code": "v_d_l_c",
+
+  "text_value": "വെർച്വൽ ഡ്രൈവിംഗ് ലൈസൻസ് സർട്ടിഫിക്കറ്റ്"
+
+ },
+
+ {
+
+  "text_code": "clear_all",
+
+  "text_value": "എല്ലാ ഡാറ്റയും മായ്"
+
+ },
+
+ {
+
+  "text_code": "recent_search",
+
+  "text_value": "സമീപകാല തിരയൽ"
+
+ },
+
+ {
+
+  "text_code": "create_v_dl",
+
+  "text_value": "വെർച്വൽ DL സൃഷ്ടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "not_create_v_dl",
+
+  "text_value": "നിങ്ങൾ ഒരു വെർച്വൽ DL സൃഷ്ടിച്ചിട്ടില്ല."
+
+ },
+
+ {
+
+  "text_code": "tr_valid",
+
+  "text_value": "TR സാധുത"
+
+ },
+
+ {
+
+  "text_code": "label_view_challan",
+
+  "text_value": "ചലാൻ കാണുക"
+
+ },
+
+ {
+
+  "text_code": "add_to_dash",
+
+  "text_value": "വെർച്വൽ DL-നായി ഡാഷ്"
+
+ },
+
+ {
+
+  "text_code": "registering_auth_title",
+
+  "text_value": "ലൈസൻസിംഗ് അതോറിറ്റി (കോഡ്)"
+
+ },
+
+ {
+
+  "text_code": "registeringAuthTitle",
+
+  "text_value": "ലൈസൻസിംഗ് അതോറിറ്റി"
+
+ },
+
+ {
+
+  "text_code": "makerTitle_t",
+
+  "text_value": "ലൈസൻസ് സാധുത (ഗതാഗതം)"
+
+ },
+
+ {
+
+  "text_code": "makerTitle",
+
+  "text_value": "ലൈസൻസ് സാധുത (ഗതാഗതേതര)"
+
+ },
+
+ {
+
+  "text_code": "issue_date",
+
+  "text_value": "ഇഷ്യൂ ചെയ്ത തീയതി"
+
+ },
+
+ {
+
+  "text_code": "vehicle_class",
+
+  "text_value": "വാഹന ക്ലാസ്"
+
+ },
+
+ {
+
+  "text_code": "holder_name",
+
+  "text_value": "DL നമ്പർ ഉടമയുടെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "dl_number",
+
+  "text_value": "DL നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "dl_dashboard",
+
+  "text_value": "DL ഡാഷ്ബോർഡ്"
+
+ },
+
+ {
+
+  "text_code": "rc_dashboard",
+
+  "text_value": "RC ഡാഷ്ബോർഡ്"
+
+ },
+
+ {
+
+  "text_code": "trans_services",
+
+  "text_value": "ഗതാഗത സേവനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "my_docs",
+
+  "text_value": "എന്റെ രേഖകൾ "
+
+ },
+
+ {
+
+  "text_code": "welcome",
+
+  "text_value": "സ്വാഗതം"
+
+ },
+
+ {
+
+  "text_code": "txt_md",
+
+  "text_value": "എന്റെ ഇടപാടുകൾ"
+
+ },
+
+ {
+
+  "text_code": "txt_cs",
+
+  "text_value": "വെർച്വൽ  രേഖകൾ "
+
+ },
+
+ {
+
+  "text_code": "inf_Serv",
+
+  "text_value": "വിവര സേവനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "txt_is",
+
+  "text_value": "വിവര സേവനങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "no_doc",
+
+  "text_value": "രേഖകളൊന്നും ലഭ്യമല്ല"
+
+ },
+
+ {
+
+  "text_code": "avail_soon",
+
+  "text_value": "രേഖകളൊന്നും ലഭ്യമല്ല"
+
+ },
+
+ {
+
+  "text_code": "documents",
+
+  "text_value": "രേഖകൾ"
+
+ },
+
+ {
+
+  "text_code": "avail_service_for_states",
+
+  "text_value": "സംസ്ഥാനങ്ങൾക്ക് ലഭ്യമായ സേവനം"
+
+ },
+
+ {
+
+  "text_code": "my_profile",
+
+  "text_value": "എന്റെ പ്രൊഫൈൽ"
+
+ },
+
+ {
+
+  "text_code": "near_by",
+
+  "text_value": "സമീപത്ത്"
+
+ },
+
+ {
+
+  "text_code": "log_out",
+
+  "text_value": "പുറത്തുകടക്കുക (ലോഗൗട്ട് )"
+
+ },
+
+ {
+
+  "text_code": "about_nexgen",
+
+  "text_value": "NextGen-നെക്കുറിച്ച്"
+
+ },
+
+ {
+
+  "text_code": "rc_perticular",
+
+  "text_value": "RC പ്രത്യേകം"
+
+ },
+
+ {
+
+  "text_code": "Hypothetication_endorsement",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ അംഗീകാരം"
+
+ },
+
+ {
+
+  "text_code": "advisory",
+
+  "text_value": "ഉപദേശക"
+
+ },
+
+ {
+
+  "text_code": "Draft_Notifications",
+
+  "text_value": "കരട് അറിയിപ്പുകൾ"
+
+ },
+
+ {
+
+  "text_code": "ALL_FORMS",
+
+  "text_value": "എല്ലാ ഫോമുകളും"
+
+ },
+
+ {
+
+  "text_code": "motor_vehicle_dealers",
+
+  "text_value": "മോട്ടോർ വാഹന ഡീലർമാർ"
+
+ },
+
+ {
+
+  "text_code": "permit",
+
+  "text_value": "പെർമിറ്റ്"
+
+ },
+
+ {
+
+  "text_code": "Addition_of_Class",
+
+  "text_value": "ക്ലാസ് കൂട്ടിച്ചേർക്കൽ"
+
+ },
+
+ {
+
+  "text_code": "vehicle_registration",
+
+  "text_value": "വാഹന രജിസ്ട്രേഷൻ"
+
+ },
+
+ {
+
+  "text_code": "vehicle_details",
+
+  "text_value": "വാഹന വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "About_Permit",
+
+  "text_value": "പെർമിറ്റിനെക്കുറിച്ച്"
+
+ },
+
+ {
+
+  "text_code": "Act_Rules_Policies",
+
+  "text_value": "നിയമം, നിയമങ്ങൾ, നയങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "Fees_User_Charges",
+
+  "text_value": "ഫീസും ഉപയോക്തൃ നിരക്കുകളും"
+
+ },
+
+ {
+
+  "text_code": "manual",
+
+  "text_value": "മാനുവൽ"
+
+ },
+
+ {
+
+  "text_code": "faq_text",
+
+  "text_value": "പതിവുചോദ്യങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "License_Related_Fees_and_Charges",
+
+  "text_value": "ലൈസൻസുമായി ബന്ധപ്പെട്ട ഫീസും നിരക്കുകളും"
+
+ },
+
+ {
+
+  "text_code": "download_forms",
+
+  "text_value": "ഫോമുകൾ ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "receipt_date",
+
+  "text_value": "രസീത് തീയതി"
+
+ },
+
+ {
+
+  "text_code": "delete",
+
+  "text_value": "ഇല്ലാതാക്കുക"
+
+ },
+
+ {
+
+  "text_code": "issue_of_noc",
+
+  "text_value": "എൻഒസി നല്കുക "
+
+ },
+
+ {
+
+  "text_code": "paymentDate",
+
+  "text_value": "പേയ്മെന്റ് തീയതി"
+
+ },
+
+ {
+
+  "text_code": "label_challan_state",
+
+  "text_value": "ചലാൻ സംസ്ഥാനം"
+
+ },
+
+ {
+
+  "text_code": "help",
+
+  "text_value": "സഹായം"
+
+ },
+
+ {
+
+  "text_code": "Challan_Transactions",
+
+  "text_value": "ചലാൻ ഇടപാടുകൾ"
+
+ },
+
+ {
+
+  "text_code": "Vehicle_Transactions",
+
+  "text_value": "വാഹന ഇടപാടുകൾ"
+
+ },
+
+ {
+
+  "text_code": "Driving_Licence_Transactions",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് ഇടപാടുകൾ"
+
+ },
+
+ {
+
+  "text_code": "Driving_Licence_Search_History",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് തിരയൽ ചരിത്രം"
+
+ },
+
+ {
+
+  "text_code": "Vehicle_Search_History",
+
+  "text_value": "വാഹന തിരയൽ ചരിത്രം"
+
+ },
+
+ {
+
+  "text_code": "Emergency_Service",
+
+  "text_value": "അടിയന്തര സേവനം"
+
+ },
+
+ {
+
+  "text_code": "create_ep",
+
+  "text_value": "എമർജൻസി പ്രൊഫൈൽ സൃഷ്ടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "quick_access",
+
+  "text_value": "അടിയന്തര ഘട്ടത്തിൽ പെട്ടെന്നുള്ള ആക്"
+
+ },
+
+ {
+
+  "text_code": "Manage_Contact",
+
+  "text_value": "കോൺടാക്റ്റ് നിയന്ത്രിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "Call_Ambulance",
+
+  "text_value": "ആംബുലൻസ് വിളിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "tap_102",
+
+  "text_value": "102 ഡയൽ ചെയ്യാൻ ഇവിടെ ടാപ്പ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "tap_contacts",
+
+  "text_value": "കോൺടാക്"
+
+ },
+
+ {
+
+  "text_code": "Emergency_Contact",
+
+  "text_value": "അത്യാവശ്യ സമീപനം"
+
+ },
+
+ {
+
+  "text_code": "Add_Alarm",
+
+  "text_value": "അലാറം ചേർക്കുക"
+
+ },
+
+ {
+
+  "text_code": "manage_contact",
+
+  "text_value": "നിങ്ങളുടെ എമർജൻസി കോൺടാക്റ്റുകൾ നിയന്ത്രിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "add_emergency_contact",
+
+  "text_value": "ഒരു അടിയന്തര കോൺടാക്റ്റ് ചേർക്കുക"
+
+ },
+
+ {
+
+  "text_code": "i_can_help",
+
+  "text_value": "നിർണ്ണായക നിമിഷങ്ങളിൽ എനിക്ക് ബന്ധപ്പെടാൻ ആരെങ്കിലും ഉണ്ടെങ്കിൽ എനിക്ക് നന്നായി സഹായിക്കാനാകും. ആരെയെങ്കിലും ചേർക്കാൻ മുന്നോട്ട് പോയി (+) ബട്ടൺ ടാപ്പുചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "dl_suss_updated",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു"
+
+ },
+
+ {
+
+  "text_code": "unable_dlt_rc",
+
+  "text_value": "നിങ്ങൾക്ക് വെർച്വൽ RC ഇല്ലാതാക്കാൻ കഴിയുന്നില്ലെങ്കിൽ കുറച്ച് സമയത്തിന് ശേഷം വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "unable_dlt_dl",
+
+  "text_value": "നിങ്ങൾക്ക് വെർച്വൽ DL ഇല്ലാതാക്കാൻ കഴിയുന്നില്ലെങ്കിൽ പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "virtual_Device",
+
+  "text_value": "ഉപകരണം വെർച്വൽ ആണെന്ന് തോന്നുന്നു. യഥാർത്ഥ ഉപകരണവുമായി മുന്നോട്ട് പോകുക."
+
+ },
+
+ {
+
+  "text_code": "rc_deleted",
+
+  "text_value": "വെർച്വൽ RC വിജയകരമായി ഇല്ലാതാക്കി"
+
+ },
+
+ {
+
+  "text_code": "enter_mpin",
+
+  "text_value": "ദയവായി MPIN നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "enter_valid_mpin",
+
+  "text_value": "ദയവായി സാധുവായ MPIN നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "register_app",
+
+  "text_value": "ഉപയോക്താവ് NextGen mParivahan-ൽ വിജയകരമായി രജിസ്റ്റർ ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "dl_created",
+
+  "text_value": "ഉപയോക്താവ് NextGen mParivahan-ൽ വിജയകരമായി രജിസ്റ്റർ ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "dl_updated",
+
+  "text_value": "വെർച്വൽ DL വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "unable_to_add_rc",
+
+  "text_value": "നിങ്ങൾക്ക് വെർച്വൽ RC ചേർക്കാൻ കഴിയുന്നില്ലെങ്കിൽ പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "unable_to_add_dl",
+
+  "text_value": "വെർച്വൽ DL സൃഷ്ടിക്കാൻ കഴിഞ്ഞില്ല; ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "vehicle_Added",
+
+  "text_value": "എന്റെ വാഹനം വിജയകരമായി ചേർത്തു"
+
+ },
+
+ {
+
+  "text_code": "unable_to_Add_vehicle",
+
+  "text_value": "നിങ്ങൾക്ക് വാഹനം ചേർക്കാൻ കഴിയുന്നില്ലെങ്കിൽ പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "virtualrc_created",
+
+  "text_value": "വെർച്വൽ ആർസി വിജയകരമായി സൃഷ്ടിച്ചു."
+
+ },
+
+ {
+
+  "text_code": "virtualrc_updated",
+
+  "text_value": "വെർച്വൽ ആർസി വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "virtualdl_dltd",
+
+  "text_value": "വെർച്വൽ DL വിജയകരമായി ഇല്ലാതാക്കി."
+
+ },
+
+ {
+
+  "text_code": "unable_to_crate_virtual_rc",
+
+  "text_value": "വെർച്വൽ RC സൃഷ്ടിക്കാൻ കഴിഞ്ഞില്ല. ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "no_virtual_rc",
+
+  "text_value": "നിങ്ങളുടെ അക്കൗണ്ടിനായി വെർച്വൽ ആർസി ഒന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "no_shared_rc_account",
+
+  "text_value": "നിങ്ങളുടെ അക്കൗണ്ടിനായി പങ്കിട്ട RC ഒന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "no_shared_rc",
+
+  "text_value": "പങ്കിട്ട RC ഒന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "number_mparivahan",
+
+  "text_value": "ഈ മൊബൈൽ നമ്പർ Nextgen mParivahan-ൽ രജിസ്റ്റർ ചെയ്തിട്ടില്ല"
+
+ },
+
+ {
+
+  "text_code": "no_rcv_rc_acc",
+
+  "text_value": "നിങ്ങളുടെ അക്കൗണ്ടിന് ലഭിച്ച ആർസി ഒന്നും കണ്ടെത്തിയില്ല."
+
+ },
+
+ {
+
+  "text_code": "no_rcv_rc",
+
+  "text_value": "ലഭിച്ച RC ഒന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "share_rc_deleted",
+
+  "text_value": "പങ്കിട്ട RC ഇല്ലാതാക്കി"
+
+ },
+
+ {
+
+  "text_code": "rcv_rc_deleted",
+
+  "text_value": "ലഭിച്ച RC ഇല്ലാതാക്കി"
+
+ },
+
+ {
+
+  "text_code": "unable_share_rc_deleted",
+
+  "text_value": "പങ്കിട്ട RC ഇല്ലാതാക്കാൻ കഴിയുന്നില്ല, കുറച്ച് സമയത്തിന് ശേഷം ശ്രമിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "unable_rcv_rc_deleted",
+
+  "text_value": "ലഭിച്ച RC ഇല്ലാതാക്കാൻ കഴിയുന്നില്ല, കുറച്ച് സമയത്തിന് ശേഷം ശ്രമിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "unable_update_rc",
+
+  "text_value": "വെർച്വൽ RC അപ്"
+
+ },
+
+ {
+
+  "text_code": "unable_update_dl",
+
+  "text_value": "വെർച്വൽ DL അപ്"
+
+ },
+
+ {
+
+  "text_code": "no_virtual_dl_found",
+
+  "text_value": "വെർച്വൽ DL ഒന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "no_virtual_dl_found_acc",
+
+  "text_value": "നിങ്ങളുടെ അക്കൗണ്ടിനായി വെർച്വൽ DL ഒന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "please_enter_valid_dob",
+
+  "text_value": "ദയവായി സാധുവായ DOB നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "va_updated",
+
+  "text_value": "വാഹന മുന്നറിയിപ്പ് വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു!"
+
+ },
+
+ {
+
+  "text_code": "unable_va_updated",
+
+  "text_value": "വാഹന മുന്നറിയിപ്പ് പുതുക്കാനായില്ല; ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "follwoing_Services_allowed",
+
+  "text_value": "നിങ്ങളുടെ നിലവിലെ അവസ്ഥയിൽ ഇനിപ്പറയുന്ന സേവനങ്ങൾ അനുവദനീയമാണ്:"
+
+ },
+
+ {
+
+  "text_code": "no_rc_search_history",
+
+  "text_value": "നിങ്ങളുടെ അക്കൗണ്ടിനായി തിരയൽ ചരിത്രമൊന്നും കണ്ടെത്തിയില്ല."
+
+ },
+
+ {
+
+  "text_code": "no_trans_history",
+
+  "text_value": "നിങ്ങളുടെ അക്കൗണ്ടിനായി ഇടപാടുകളൊന്നും കണ്ടെത്തിയില്ല."
+
+ },
+
+ {
+
+  "text_code": "refresh",
+
+  "text_value": "പുതുക്കുക."
+
+ },
+
+ {
+
+  "text_code": "sure_to_dlt",
+
+  "text_value": "ഇല്ലാതാക്കണമെന്ന് തീർച്ചയാണോ?"
+
+ },
+
+ {
+
+  "text_code": "view_profile",
+
+  "text_value": "വ്യക്തിവിവരങ്ങൾ  കാണുക"
+
+ },
+
+ {
+
+  "text_code": "edit_profile",
+
+  "text_value": "വ്യക്തിവിവരങ്ങൾ  എഡിറ്റ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "update_profile",
+
+  "text_value": "വ്യക്തിവിവരങ്ങൾ അപ്ഡേറ്റ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "valid_name",
+
+  "text_value": "ദയവായി ശരിയായ \/സാധുവായ പേര് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "enter_email",
+
+  "text_value": "ദയവായി ഇമെയിൽ ഐഡി നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "profile_updated",
+
+  "text_value": "നിങ്ങളുടെ വ്യക്തിവിവരങ്ങൾ  വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു"
+
+ },
+
+ {
+
+  "text_code": "view_map",
+
+  "text_value": "ഭൂപട  കാണുക"
+
+ },
+
+ {
+
+  "text_code": "tvPollutionChecking",
+
+  "text_value": "അടുത്തുള്ള മലിനീകരണ പരിശോധന കേന്ദ്രം"
+
+ },
+
+ {
+
+  "text_code": "tvFuelPump",
+
+  "text_value": "ഏറ്റവും അടുത്തുള്ള ഇന്ധന പമ്പ്"
+
+ },
+
+ {
+
+  "text_code": "tvHospital",
+
+  "text_value": "അടുത്തുള്ള ആശുപത്രി"
+
+ },
+
+ {
+
+  "text_code": "tvRto",
+
+  "text_value": "അടുത്തുള്ള ആർ.ടി.ഒ"
+
+ },
+
+ {
+
+  "text_code": "change_mpain",
+
+  "text_value": "MPIN മാറ്റുക"
+
+ },
+
+ {
+
+  "text_code": "enter_old_pin",
+
+  "text_value": "നിങ്ങളുടെ പഴയ MPIN നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "enter_new_pin",
+
+  "text_value": "പുതിയ MPIN നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "confirm_new_pin",
+
+  "text_value": "പുതിയ MPIN സ്ഥിരീകരിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "pin_changed",
+
+  "text_value": "നിങ്ങളുടെ MPIN മാറ്റി"
+
+ },
+
+ {
+
+  "text_code": "pin_not_match",
+
+  "text_value": "പഴയ MPIN പൊരുത്തപ്പെടുന്നില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "six_digit_new_pin",
+
+  "text_value": "ദയവായി പുതിയ MPIN നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "six_digit_con_pin",
+
+  "text_value": "സ്ഥിരീകരിക്കുന്ന MPIN നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "six_digit_corr_pin",
+
+  "text_value": "ദയവായി ശരിയായ MPIN നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "raise_complain",
+
+  "text_value": "ഒരു പരാതി ഉന്നയിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "enter_remarks",
+
+  "text_value": "അഭിപ്രായങ്ങൾ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "attach",
+
+  "text_value": "അറ്റാച്ചുചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "veh_or_dl",
+
+  "text_value": "വാഹന നമ്പർ അല്ലെങ്കിൽ ഡ്രൈവിംഗ് ലൈസൻസ് നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "enter_challan_number",
+
+  "text_value": "ചലാൻ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "select_comp_type",
+
+  "text_value": "പരാതിയുടെ തരം തിരഞ്ഞെടുക്കുക."
+
+ },
+
+ {
+
+  "text_code": "select_sub_comp_type",
+
+  "text_value": "സബ് പരാതി തരം തിരഞ്ഞെടുക്കുക."
+
+ },
+
+ {
+
+  "text_code": "select_service",
+
+  "text_value": "ദയവായി സേവനം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "file_uploaded",
+
+  "text_value": "ഫയൽ അപ്"
+
+ },
+
+ {
+
+  "text_code": "valid_vehicle_number",
+
+  "text_value": "സാധുവായ ഒരു വാഹന നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "valid_dl_number",
+
+  "text_value": "ദയവായി ഒരു സാധുവായ ഡ്രൈവിംഗ് ലൈസൻസ് നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "valid_dl_or_vehicle_number",
+
+  "text_value": "ദയവായി ഒരു സാധുവായ ഡ്രൈവിംഗ് ലൈസൻസ് നമ്പർ അല്ലെങ്കിൽ വാഹന നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "give_details",
+
+  "text_value": "നിങ്ങളുടെ പരാതിയുടെ ഒരു വിവരണം നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "min_30_words",
+
+  "text_value": "ദയവായി കുറഞ്ഞത് 30 വാക്കുകൾ എഴുതുക"
+
+ },
+
+ {
+
+  "text_code": "select_Category",
+
+  "text_value": "ഇനം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "srch_rel_comp",
+
+  "text_value": "ബന്ധപ്പെട്ട പരാതി തിരയുക "
+
+ },
+
+ {
+
+  "text_code": "vd_rel_comp",
+
+  "text_value": "വെർച്വൽ രേഖകളുമായി ബന്ധപ്പെട്ട പരാതി"
+
+ },
+
+ {
+
+  "text_code": "ts_rel_comp",
+
+  "text_value": "ഗതാഗത സേവനങ്ങളുമായി ബന്ധപ്പെട്ട പരാതി"
+
+ },
+
+ {
+
+  "text_code": "pucc",
+
+  "text_value": "പി.യു.സി.സി"
+
+ },
+
+ {
+
+  "text_code": "mv_tax",
+
+  "text_value": "MV നികുതി"
+
+ },
+
+ {
+
+  "text_code": "national_permit",
+
+  "text_value": "ദേശീയ പെർമിറ്റ്"
+
+ },
+
+ {
+
+  "text_code": "Insurance",
+
+  "text_value": "ഇൻഷുറൻസ്"
+
+ },
+
+ {
+
+  "text_code": "unable_to_regsiter",
+
+  "text_value": "ഉപയോക്താവിനെ രജിസ്റ്റർ ചെയ്യാൻ കഴിയുന്നില്ല. കുറച്ച് സമയത്തിന് ശേഷം വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "unable_to_reset_mpin",
+
+  "text_value": "MPIN പുനഃസജ്ജമാക്കാൻ കഴിയുന്നില്ല, കുറച്ച് സമയത്തിന് ശേഷം വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "verify_your_dl",
+
+  "text_value": "നിങ്ങളുടെ DL പരിശോധിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "dl_alert_updated",
+
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് അലേർട്ട് വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "no_impound_dl",
+
+  "text_value": "തിരഞ്ഞ DL നമ്പറിന് എതിരെ വാഹനമോ പിടിച്ചെടുക്കൽ രേഖയോ ഇല്ല."
+
+ },
+
+ {
+
+  "text_code": "no_impound_rc",
+
+  "text_value": "തിരഞ്ഞ RC നമ്പരിനെതിരെ വാഹനമോ പിടിച്ചെടുക്കൽ രേഖയോ ഇല്ല."
+
+ },
+
+ {
+
+  "text_code": "select_duration",
+
+  "text_value": "ദയവായി ദൈർഘ്യം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "Name_text",
+
+  "text_value": "പേര്"
+
+ },
+
+ {
+
+  "text_code": "model_name",
+
+  "text_value": "മാതൃകയുടെ പേര് "
+
+ },
+
+ {
+
+  "text_code": "vehicle_Desc",
+
+  "text_value": "വാഹന വിവരണം"
+
+ },
+
+ {
+
+  "text_code": "color",
+
+  "text_value": "നിറം"
+
+ },
+
+ {
+
+  "text_code": "Seat_Capacity",
+
+  "text_value": "ഇരിപ്പിട ശേഷി"
+
+ },
+
+ {
+
+  "text_code": "standing_Capacity",
+
+  "text_value": "സ്റ്റാൻഡിംഗ് കപ്പാസിറ്റി"
+
+ },
+
+ {
+
+  "text_code": "financier_Capacity",
+
+  "text_value": "ധനസഹായക്കാർ"
+
+ },
+
+ {
+
+  "text_code": "Registering_Authority",
+
+  "text_value": "രജിസ്ട്രേഷൻ അതോറിറ്റി"
+
+ },
+
+ {
+
+  "text_code": "notes_new",
+
+  "text_value": "മലിനീകരണ സർട്ടിഫിക്കറ്റുകൾ, ഇൻഷുറൻസ്, നികുതികൾ മുതലായവയുടെ നില മുകളിൽ ലഭ്യമല്ലെങ്കിൽ, അത് ഭൗതിക രേഖകളിൽ നിന്ന് പരിശോധിച്ചുറപ്പിക്കാം."
+
+ },
+
+ {
+
+  "text_code": "note1",
+
+  "text_value": "കുറിപ്പ്: റോഡ് ഗതാഗത, ഹൈവേ മന്ത്രാലയത്തിന്റെ ദേശീയ രജിസ്ട്രിയിൽ ഇഷ്യു ചെയ്യുന്ന അതോറിറ്റി നൽകിയ ഡാറ്റ പ്രകാരം mParivahan ആണ് രജിസ്ട്രേഷൻ സർട്ടിഫിക്കറ്റിനായുള്ള ഈ വിവരങ്ങൾ സൃഷ്ടിച്ചത്. ഇലക്ട്രോണിക് ആയി ഉപയോഗിക്കുമ്പോൾ ഐടി ആക്റ്റ് 2000 പ്രകാരം ഈ പ്രമാണം സാധുവാണ്."
+
+ },
+
+ {
+
+  "text_code": "shared_to",
+
+  "text_value": "പങ്കിട്ടു"
+
+ },
+
+ {
+
+  "text_code": "shared_date",
+
+  "text_value": "പങ്കിട്ട തീയതി"
+
+ },
+
+ {
+
+  "text_code": "Received_Date",
+
+  "text_value": "ലഭിച്ച തീയതി"
+
+ },
+
+ {
+
+  "text_code": "vehicle_search",
+
+  "text_value": "വാഹന തിരച്ചിൽ"
+
+ },
+
+ {
+
+  "text_code": "vehicle_age",
+
+  "text_value": "വാഹന പ്രായം"
+
+ },
+
+ {
+
+  "text_code": "vehicle_status",
+
+  "text_value": "വാഹന നില"
+
+ },
+
+ {
+
+  "text_code": "vehicle_impound_status",
+
+  "text_value": "വാഹനം പിടിച്ചെടുക്കൽ, പിടിച്ചെടുക്കൽ രേഖയുടെ നില പരിശോധിക്കാൻ ടാപ്പ് ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "create_vir_rc",
+
+  "text_value": "വെർച്വൽ RC സൃഷ്ടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "create_vir_rc_already",
+
+  "text_value": "നിങ്ങൾ ഇതിനകം വെർച്വൽ RC സൃഷ്ടിച്ചു"
+
+ },
+
+ {
+
+  "text_code": "insurance_search",
+
+  "text_value": "ഇൻഷുറൻസ് തിരയൽ"
+
+ },
+
+ {
+
+  "text_code": "pucc_Search",
+
+  "text_value": "PUCC തിരയൽ"
+
+ },
+
+ {
+
+  "text_code": "share_rc",
+
+  "text_value": "RC പങ്കിടുക"
+
+ },
+
+ {
+
+  "text_code": "generate",
+
+  "text_value": "സൃഷ്ടിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "SAVE_AND_RETURN",
+
+  "text_value": "ഹോംപേജിലേക്ക് മടങ്ങുക"
+
+ },
+
+ {
+
+  "text_code": "ADD_MY_VEHICLE_S",
+
+  "text_value": "എന്റെ വാഹനം(കൾ) ചേർക്കുക"
+
+ },
+
+ {
+
+  "text_code": "MY_VIRTUAL_RC_S",
+
+  "text_value": "എന്റെ വെർച്വൽ ആർസി(കൾ)"
+
+ },
+
+ {
+
+  "text_code": "MY_VIRTUAL_VIEW",
+
+  "text_value": "വെർച്വൽ RC കാണുക"
+
+ },
+
+ {
+
+  "text_code": "mobile_number_is_added",
+
+  "text_value": "മൊബൈൽ നമ്പർ തെറ്റാണെങ്കിൽ അല്ലെങ്കിൽ അപ്ഡേറ്റ് ചെയ്യേണ്ടതുണ്ടെങ്കിൽ, ദയവായി \"മൊബൈൽ നമ്പർ അപ്ഡേറ്റ് ചെയ്യുക\" ക്ലിക്ക് ചെയ്യുക."
+
+ },
+
+ {
+
+  "text_code": "proceed_with_adhar",
+
+  "text_value": "ആധാർ\/വിഐഡി ഉപയോഗിച്ച് തുടരുക"
+
+ },
+
+ {
+
+  "text_code": "proceed_with_mobile",
+
+  "text_value": "മൊബൈൽ നമ്പർ ഉപയോഗിച്ച് തുടരുക."
+
+ },
+
+ {
+
+  "text_code": "BIRTH_COUNTRY",
+
+  "text_value": "ജനിച്ച രാജ്യം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "no_history_found",
+
+  "text_value": "മുൻചരിത്രം ഒന്നും  കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "Validate_with_Aadhaar",
+
+  "text_value": "ആധാർ ഉപയോഗിച്ച് സാധൂകരിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "enter_Existing_Owner_Name",
+
+  "text_value": "വാഹൻ പ്രകാരം നിലവിലുള്ള ഉടമയുടെ പേര്"
+
+ },
+
+ {
+
+  "text_code": "Enter_Existing_Mobile_No",
+
+  "text_value": "നിലവിലുള്ള മൊബൈൽ നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "lbl_owner_Mobile_no_as_per_Aadhaar",
+
+  "text_value": "വാഹൻ പ്രകാരം നിലവിലുള്ള മൊബൈൽ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "lbl_New_Mobile_No",
+
+  "text_value": "പുതിയ മൊബൈൽ നമ്പർ."
+
+ },
+
+ {
+
+  "text_code": "help_support",
+
+  "text_value": "സഹായസഹകരണങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "help_support_query",
+
+  "text_value": "NextGen mParivahan ആപ്പുമായി ബന്ധപ്പെട്ട എന്തെങ്കിലും ചോദ്യങ്ങൾക്ക്, ദയവായി ഞങ്ങളെ ബന്ധപ്പെടുക."
+
+ },
+
+ {
+
+  "text_code": "help_support_call",
+
+  "text_value": "ദയവായി ഞങ്ങളെ വിളിക്കൂ"
+
+ },
+
+ {
+
+  "text_code": "help_support_write",
+
+  "text_value": "എന്ന വിലാസത്തിൽ ഞങ്ങൾക്ക് എഴുതുക"
+
+ },
+
+ {
+
+  "text_code": "friday_13_november",
+
+  "text_value": "നവംബർ 13 വെള്ളിയാഴ്ച"
+
+ },
+
+ {
+
+  "text_code": "selected_date",
+
+  "text_value": "തിരഞ്ഞെടുത്ത തീയതി"
+
+ },
+
+ {
+
+  "text_code": "view_Details",
+
+  "text_value": "വിശദാംശങ്ങൾ കാണുക"
+
+ },
+
+ {
+
+  "text_code": "download_appointment_receipt",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റ് രസീത് ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "MY_VIRTUAL_VIEW_DL",
+
+  "text_value": "വെർച്വൽ DL കാണുക"
+
+ },
+
+ {
+
+  "text_code": "print_rc_particular",
+
+  "text_value": "ആർസി പ്രത്യേക സർട്ടിഫിക്കറ്റ് പ്രിന്റ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "Document_Name_Text",
+
+  "text_value": "രേഖയുടെ  പേര്"
+
+ },
+
+ {
+
+  "text_code": "Document_type_Text",
+
+  "text_value": "രേഖയുടെ തരം "
+
+ },
+
+ {
+
+  "text_code": "choose_language",
+
+  "text_value": "ഭാഷ തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "language",
+
+  "text_value": "ഭാഷ"
+
+ },
+
+ {
+
+  "text_code": "update_mobile_msg",
+
+  "text_value": "മൊബൈൽ നമ്പർ ശരിയല്ലെങ്കിലോ ചേർക്കുകയോ ആണെങ്കിൽ, ദയവായി \"മൊബൈൽ നമ്പർ അപ്"
+
+ },
+
+ {
+
+  "text_code": "otp_error_msg",
+
+  "text_value": "OTP നേടാനായില്ല, കുറച്ച് കഴിഞ്ഞ് ശ്രമിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "View_Payment_Receipt",
+
+  "text_value": "പണമടയ്ക്കലിൻറെ  രസീത് കാണുക"
+
+ },
+
+ {
+
+  "text_code": "error_msg_to_leave",
+
+  "text_value": "നിങ്ങൾക്ക് പോകണമെന്ന് തീർച്ചയാണോ?"
+
+ },
+
+ {
+
+  "text_code": "error_msg_record_not_found",
+
+  "text_value": "രേഖ കണ്ടെത്തിയില്ല."
+
+ },
+
+ {
+
+  "text_code": "msg_proceed",
+
+  "text_value": "നിങ്ങൾക്ക് ഉറപ്പാണോ, നിങ്ങൾക്ക് തുടരണോ?"
+
+ },
+
+ {
+
+  "text_code": "error_msg_fee_detail",
+
+  "text_value": "ഫീസ് വിശദാംശങ്ങൾ നേടാനായില്ല, കുറച്ച് സമയത്തിന് ശേഷം ശ്രമിക്കുക!"
+
+ },
+
+ {
+
+  "text_code": "download_rc_particular",
+
+  "text_value": "ആർസി പ്രത്യേകത  ഡൗൺലോഡ് ചെയ്യുക"
+
+ },
+
+ {
+
+  "text_code": "payment_failed",
+
+  "text_value": "പണമടയ്ക്കൽ പരാജയപ്പെട്ടു"
+
+ },
+
+ {
+
+  "text_code": "payment_pending",
+
+  "text_value": "പണമടയ്ക്കൽ ശേഷിക്കുന്നു"
+
+ },
+
+ {
+
+  "text_code": "or_lbl",
+
+  "text_value": "അഥവാ"
+
+ },
+
+ {
+
+  "text_code": "doc_uploaded_successfully",
+
+  "text_value": "രേഖകൾ വിജയകരമായി അപ്"
+
+ },
+
+ {
+
+  "text_code": "please_upload_all_documents",
+
+  "text_value": "എല്ലാ രേഖകളും അപ്"
+
+ },
+
+ {
+
+  "text_code": "please_upload_all_required_documents",
+
+  "text_value": "ആവശ്യമായ എല്ലാ രേഖകളും ദയവായി അപ്"
+
+ },
+
+ {
+
+  "text_code": "camera_not_avaialble",
+
+  "text_value": "ക്യാമറ ലഭ്യമല്ല"
+
+ },
+
+ {
+
+  "text_code": "gallery_not_avaialble",
+
+  "text_value": "ഫോട്ടോ ഗാലറി ലഭ്യമല്ല, ദയവായി നിങ്ങളുടെ ഫോട്ടോ ഗാലറി പരിശോധിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "HPA_Confirm",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ കൂട്ടിച്ചേർക്കലിനുള്ള അപേക്ഷ, ആപ്ലിക്കേഷൻ നമ്പർ ഉപയോഗിച്ച് ഡ്രാഫ്റ്റിൽ വിജയകരമായി സേവ് ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "duplicate_Confirm",
+
+  "text_value": "ഡ്യൂപ്ലിക്കേറ്റ് ആർ"
+
+ },
+
+ {
+
+  "text_code": "noc_Confirm",
+
+  "text_value": "നോ ഒബ്ജക്ഷൻ സർട്ടിഫിക്കറ്റ് (എൻഒസി) ആപ്ലിക്കേഷൻ ഡ്രാഫ്റ്റിൽ ആപ്ലിക്കേഷൻ നമ്പർ ഉപയോഗിച്ച് വിജയകരമായി സംരക്ഷിച്ചു."
+
+ },
+
+ {
+
+  "text_code": "HPT_Confirm",
+
+  "text_value": "ഹൈപ്പോതെക്കേഷൻ അവസാനിപ്പിക്കുന്നതിനുള്ള അപേക്ഷ, ആപ്ലിക്കേഷൻ നമ്പർ ഉപയോഗിച്ച് ഡ്രാഫ്റ്റിൽ വിജയകരമായി സംരക്ഷിച്ചു."
+
+ },
+
+ {
+
+  "text_code": "change_of_Address_Confirm",
+
+  "text_value": "RC-യിൽ വിലാസം മാറ്റുന്നതിനുള്ള അപേക്ഷ, ഞാൻ ആപ്ലിക്കേഷൻ നമ്പറുള്ള ഒരു ഡ്രാഫ്റ്റ് വിജയകരമായി സേവ് ചെയ്തു."
+
+ },
+
+ {
+
+  "text_code": "image_size_error",
+
+  "text_value": "ചിത്രത്തിന്റെ വലുപ്പം 200 kbയിൽ കൂടരുത്"
+
+ },
+
+ {
+
+  "text_code": "pdf_size_error",
+
+  "text_value": "PDF വലുപ്പം 200 KB-ൽ കൂടരുത്"
+
+ },
+
+ {
+
+  "text_code": "appointment_book_msg",
+
+  "text_value": "അപ്പോയിന്റ്മെന്റിനൊപ്പം നിങ്ങളുടെ അപ്പോയിന്റ്മെന്റ് ബുക്ക് ചെയ്തു:"
+
+ },
+
+ {
+
+  "text_code": "for_application_no",
+
+  "text_value": "അപേക്ഷ നമ്പർ:"
+
+ },
+
+ {
+
+  "text_code": "terms_conditions_error",
+
+  "text_value": "ദയവായി നിബന്ധനകളും വ്യവസ്ഥകളും തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "correct_information_as_per_aadhaar",
+
+  "text_value": "ആധാർ പ്രകാരം ശരിയായ വിവരങ്ങൾ നൽകിയിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക"
+
+ },
+
+ {
+
+  "text_code": "please_Select_the_reason",
+
+  "text_value": "ദയവായി കാരണം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "please_enter_the_remark",
+
+  "text_value": "ദയവായി പരാമർശം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "please_enter_the_valid_fir_no",
+
+  "text_value": "ദയവായി സാധുവായ FIR നമ്പർ നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "please_enter_fir_date",
+
+  "text_value": "ദയവായി FIR തീയതി നൽകുക."
+
+ },
+
+ {
+
+  "text_code": "please_enter_police_station",
+
+  "text_value": "ദയവായി പോലീസ് സ്റ്റേഷനിൽ പ്രവേശിക്കുക"
+
+ },
+
+ {
+
+  "text_code": "are_you_sure_you_want_to_leave",
+
+  "text_value": "നിങ്ങൾക്ക് അവസാനിപ്പിക്കണം  തീർച്ചയാണോ?"
+
+ },
+
+ {
+
+  "text_code": "please_enter_hypothentication_type",
+
+  "text_value": "ദയവായി ഹൈപ്പോതെക്കേഷൻ തരം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "please_enter_the_financer_name",
+
+  "text_value": "ധനകാര്യ ദാതാവിന്റെ പേര് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "please_enter_village_town_city",
+
+  "text_value": "ദയവായി ഗ്രാമം\/നഗരം\/നഗരം നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "please_select_the_state",
+
+  "text_value": "ദയവായി സംസ്ഥാനം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "please_select_district",
+
+  "text_value": "ദയവായി ജില്ല തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "please_enter_valid_pincode",
+
+  "text_value": "സാധുവായ പിൻ കോഡ് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "please_select_date",
+
+  "text_value": "ദയവായി തീയതി തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "unable_to_process_your_request",
+
+  "text_value": "നിങ്ങളുടെ അഭ്യർത്ഥന പ്രോസസ്സ് ചെയ്യാനായില്ല."
+
+ },
+
+ {
+
+  "text_code": "please_Select_hypothentication_option",
+
+  "text_value": "ദയവായി ഹൈപ്പോതെക്കേഷൻ ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "please_select_noc_reason",
+
+  "text_value": "NOC കാരണം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "please_select_authority",
+
+  "text_value": "ദയവായി അതോറിറ്റി തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "please_select_ncrb_no",
+
+  "text_value": "NCRB നമ്പർ തിരഞ്ഞെടുക്കുക."
+
+ },
+
+ {
+
+  "text_code": "please_enter_name",
+
+  "text_value": "ദയവായി പേര് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "please_enter_valid_name",
+
+  "text_value": "ദയവായി സാധുവായ പേര് നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "label_contact_removed_successfully",
+
+  "text_value": "കോൺടാക്"
+
+ },
+
+ {
+
+  "text_code": "label_phone_number",
+
+  "text_value": "ഫോൺ നമ്പർ"
+
+ },
+
+ {
+
+  "text_code": "label_relation",
+
+  "text_value": "ബന്ധം"
+
+ },
+
+ {
+
+  "text_code": "label_save",
+
+  "text_value": "സേവ് "
+
+ },
+
+ {
+
+  "text_code": "label_please_select_relation",
+
+  "text_value": "ദയവായി ബന്ധം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_select_relation",
+
+  "text_value": "ബന്ധം തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_contact_added_successfully",
+
+  "text_value": "കോൺടാക്റ്റ് വിശദാംശങ്ങൾ ചേർത്തു"
+
+ },
+
+ {
+
+  "text_code": "label_unable_add_contact",
+
+  "text_value": "നിങ്ങളുടെ കോൺടാക്റ്റ് വിവരങ്ങൾ ചേർക്കാൻ കഴിയുന്നില്ലെങ്കിൽ പിന്നീട് വീണ്ടും ശ്രമിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_contact_updated_successfully",
+
+  "text_value": "കോൺടാക്റ്റ് വിശദാംശങ്ങൾ വിജയകരമായി അപ്ഡേറ്റ് ചെയ്തു"
+
+ },
+
+ {
+
+  "text_code": "label_contact_failed_to_remove",
+
+  "text_value": "കോൺടാക്റ്റ് നീക്കം ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു"
+
+ },
+
+ {
+
+  "text_code": "lbl_rc_particular_against_fee",
+
+  "text_value": "ഫീസ് അടച്ചതിനുള്ള  ആർസി വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "label_not_find_location",
+
+  "text_value": "നിങ്ങളുടെ സ്ഥാനം കണ്ടെത്താൻ കഴിയുന്നില്ല\nകുറച്ച് കഴിഞ്ഞ് ശ്രമിക്കൂ"
+
+ },
+
+ {
+
+  "text_code": "label_location",
+
+  "text_value": "സ്ഥാനം"
+
+ },
+
+ {
+
+  "text_code": "label_turn_on_your_loc",
+
+  "text_value": "നിങ്ങളുടെ ലൊക്കേഷൻ ഓഫാണ്. നിങ്ങളുടെ ലൊക്കേഷൻ പ്രവർത്തനക്ഷമമാക്കുക."
+
+ },
+
+ {
+
+  "text_code": "photo_signature",
+
+  "text_value": "ഫോട്ടോയും ഒപ്പും തിരഞ്ഞെടുക്കുക"
+
+ },
+
+ {
+
+  "text_code": "label_loc_permission_required",
+
+  "text_value": "ലൊക്കേഷൻ അനുമതി ആവശ്യമാണ്. നിങ്ങളുടെ ലൊക്കേഷൻ കണ്ടെത്താൻ mParivahan ആപ്പിനെ അനുവദിക്കുക."
+
+ },
+
+ {
+
+  "text_code": "label_phone_permission_required_to_call",
+
+  "text_value": "കോൾ ചെയ്യാൻ ഫോൺ അനുമതി ആവശ്യമാണ്"
+
+ },
+
+ {
+
+  "text_code": "doc_mandatory",
+
+  "text_value": "നിർബന്ധിത രേഖകളെല്ലാം അപ്"
+
+ },
+
+ {
+
+  "text_code": "record_error_msg",
+
+  "text_value": "രേഖ ലഭ്യമല്ല"
+
+ },
+
+ {
+
+  "text_code": "label_no_notification",
+
+  "text_value": "അറിയിപ്പില്ല"
+
+ },
+
+ {
+
+  "text_code": "label_notify_user",
+
+  "text_value": "എന്തെങ്കിലും വരുമ്പോൾ ഞങ്ങൾ നിങ്ങളെ അറിയിക്കും."
+
+ },
+
+ {
+
+  "text_code": "Final_Submission",
+
+  "text_value": "ആവശ്യമായ എല്ലാ രേഖകളും അപ്"
+
+ },
+
+ {
+
+  "text_code": "declaration",
+
+  "text_value": "പ്രഖ്യാപനം"
+
+ },
+
+ {
+
+  "text_code": "sez_doc_details",
+
+  "text_value": "പിടിച്ചെടുക്കൽ രേഖയുടെ വിശദാംശങ്ങൾ"
+
+ },
+
+ {
+
+  "text_code": "validRc",
+
+  "text_value": "ദയവായി സാധുവായ RC നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "validchassi",
+
+  "text_value": "ദയവായി സാധുവായ ചേസിസ് നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "validstate",
+
+  "text_value": "സാധുവായ RC നമ്പർ നൽകുക"
+
+ },
+ {
+  "text_code": "addMyDl",
+  "text_value": "എന്റെ ഡ്രൈവിംഗ് ലൈസൻസ് ചേർക്കുക"
+ },
+ {
+  "text_code": "expired_on",
+  "text_value": "കാലഹരണപ്പെട്ടു"
+ },
+ {
+  "text_code": "vehicle_alerts",
+  "text_value": "വാഹന മുന്നറിയിപ്പുകൾ"
+
+ },
+
+ {
+
+  "text_code": "app_version",
+
+  "text_value": "ആപ്പ് പതിപ്പ് 2.0.103"
+
+ },
+
+ {
+
+  "text_code": "clear_all_history",
+
+  "text_value": "എല്ലാ തിരയൽ ചരിത്രവും ഇല്ലാതാക്കണമെന്ന് തീർച്ചയാണോ?"
+
+ },
+
+ {
+
+  "text_code": "PLEASE_ENTER_APPLICATION",
+
+  "text_value": "അപേക്ഷ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "PLEASE_ENTER_REG",
+
+  "text_value": "ദയവായി രജിസ്ട്രേഷൻ നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "PLEASE_ENTER_CHASSI",
+
+  "text_value": "ചേസിസ് നമ്പർ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "no_application_status",
+
+  "text_value": "ഈ അപേക്ഷ നമ്പറിന് അപേക്ഷാ നിലയൊന്നും കണ്ടെത്തിയില്ല."
+
+ },
+
+ {
+
+  "text_code": "no_application_with_rc",
+
+  "text_value": "ഈ വാഹനത്തിന്റെ അപേക്ഷാ നിലയൊന്നും കണ്ടെത്തിയില്ല."
+
+ },
+
+ {
+
+  "text_code": "INVALID_CHASSI",
+
+  "text_value": "അസാധുവായ ചേസിസ്!"
+
+ },
+
+ {
+
+  "text_code": "INVALID_ENGINE",
+
+  "text_value": "അസാധുവായ എഞ്ചിൻ നമ്പർ.!!"
+
+ },
+
+ {
+
+  "text_code": "REG_DATE",
+
+  "text_value": "രജിസ്ട്രേഷൻ തീയതി നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "REG_UPTO",
+
+  "text_value": "വരെ സാധുതയുള്ള രജിസ്ട്രേഷൻ നൽകുക"
+
+ },
+
+ {
+
+  "text_code": "RC_Particulars_against_Fee",
+
+  "text_value": "ഫീയ്"
+
+ },
+
+ {
+
+  "text_code": "no_pending_trans",
+
+  "text_value": "ഈ അപേക്ഷ നമ്പറിനായി തീർപ്പാക്കാത്ത ഇടപാടുകളൊന്നും കണ്ടെത്തിയില്ല"
+
+ },
+
+ {
+
+  "text_code": "dl_validation",
+  "text_value": "ദയവായി കുറഞ്ഞത് 10 ഉം പരമാവധി 18 ഉം പ്രതീകങ്ങൾ നൽകുക. ഹൈഫൻ(-), ഫോർവേഡ് സ്ലാഷ്(\/) എന്നിവ മാത്രമേ അനുവദിക്കൂ"
+ },
+ {
+  "text_code": "label_view",
+  "text_value": "കാണുക"
+ },
+ {
+  "text_code": "label_capture",
+  "text_value": "ക്യാപ്ചർ"
+ },
+ {
+  "text_code": "label_duplicate_rc",
+  "text_value": "ഡ്യൂപ്ലിക്കേറ്റ് ആർ.സി"
+ },
+ {
+  "text_code": "label_setting",
+  "text_value": "ക്രമീകരണം"
+ },
+ {
+  "text_code": "emmission_norm_lbl",
+  "text_value": "എമിഷൻ മാനദണ്ഡം"
+ },
+ {
+  "text_code": "lbl_enter_mobNo_as_per_aadhaar",
+  "text_value": "മൊബൈൽ നമ്പർ നൽകുക (ആധാർ അനുസരിച്ച്)"
+ },
+ {
+  "text_code": "lbl_NCRB_clearance_No",
+  "text_value": "എൻസിആർബി ക്ലിയറൻസ് നമ്പർ."
+ },
+ {
+  "text_code": "vehicle_Description",
+  "text_value": "വാഹന വിവരണം"
+ },
+ {
+  "text_code": "note2",
+  "text_value": "കുറിപ്പ്: ഡ്രൈവിംഗ് ലൈസൻസിനായുള്ള ഈ വിവരങ്ങൾ ജനകീയ ഭരണ മന്ത്രാലയത്തിലെ ദേശീയ രജിസ്ട്രിയിൽ നൽകുന്ന അതോറിറ്റി നൽകിയ കണക്കനുസരിച്ച് എംപ്പാറഹാൻ സൃഷ്ടിക്കുന്നു. ഇലക്ട്രോണിക് ആയി ഉപയോഗിക്കുമ്പോൾ ഐടി ആക്റ്റ് 2000 പ്രകാരം ഈ പ്രമാണം സാധുവാണ്."
+ },
+ {
+  "text_code": "enter_ncrb_clearance",
+  "text_value": "എൻസിആർബി ക്ലിയറൻസ് നമ്പർ നൽകുക."
+ },
+ {
+  "text_code": "lbl_Completed",
+  "text_value": "പൂർത്തിയായ"
+ },
+ {
+  "text_code": "lbl_Rejected",
+  "text_value": "നിരസിച്ചു"
+ },
+ {
+  "text_code": "lbl_ReUpload",
+  "text_value": "വീണ്ടും അപ്ലോഡ് ചെയ്യുക"
+ },
+ {
+  "text_code": "lbl_change_of_address_in_rc",
+  "text_value": "ആർസിയിലെ വിലാസത്തിന്റെ മാറ്റം"
+ },
+ {
+  "text_code": "lbl_enter_vid_number",
+  "text_value": "വിഡ് നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "lbl_enter_registration_number",
+  "text_value": "രജിസ്ട്രേഷൻ നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "lbl_error_choose_msg",
+  "text_value": "തുടരാൻ നിങ്ങൾ 1 സേവനം തിരഞ്ഞെടുക്കണം."
+ },
+ {
+  "text_code": "lbl_error_valid_vid",
+  "text_value": "സാധുവായ വിഡ് നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "lbl_error_valid_aadhaar",
+  "text_value": "ദയവായി എഡിഹാർ നമ്പർ നൽകുക."
+ },
+ {
+  "text_code": "error_msg_rc_number",
+  "text_value": "പ്രത്യേക പ്രതീകങ്ങളില്ലാതെ കുറഞ്ഞത് 4 & പരമാവധി 10 അക്കങ്ങൾ നൽകുക"
+ },
+ {
+  "text_code": "alphabet_error_msg_rc_number",
+  "text_value": "ആർസി നമ്പറിന്റെ ആദ്യ രണ്ട് പ്രതീകം നൽകുക"
+ },
+ {
+  "text_code": "email_id_error_msg",
+  "text_value": "സാധുവായ ഇമെയിൽ ഐഡി നൽകുക"
+ },
+ {
+  "text_code": "date_of_birth_error_msg",
+  "text_value": "ജനനത്തീയതി നൽകുക"
+ },
+ {
+  "text_code": "full_name_error_msg",
+  "text_value": "പൂർണ്ണമായ പേര് നൽകുക"
+ },
+ {
+  "text_code": "dl_number_error_msg",
+  "text_value": "ദയവായി DL നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "valid_dl_number_error_msg",
+  "text_value": "സാധുവായ DL നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "application_number_error_msg",
+  "text_value": "അപ്ലിക്കേഷൻ നമ്പർ നൽകുക."
+ },
+ {
+  "text_code": "chassis_number_error_msg",
+  "text_value": "ദയവായി ചേസിസ് നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "financer_upto_date_error_msg",
+  "text_value": "കാലികമായി ഫിനാൻസ് നൽകുക"
+ },
+ {
+  "text_code": "application_status_error_msg",
+  "text_value": "ഈ അപ്ലിക്കേഷൻ നമ്പറിനായി അപ്ലിക്കേഷൻ നിലകളൊന്നും കണ്ടെത്തിയില്ല"
+ },
+ {
+  "text_code": "vehicle_application_status_error_msg",
+  "text_value": "ഈ വാഹന സംഖ്യയ്ക്കായി അപ്ലിക്കേഷൻ നിലകളൊന്നും കണ്ടെത്തിയില്ല"
+ },
+ {
+  "text_code": "fee_payment_pending",
+  "text_value": "ഫീസ് പേയ്മെന്റ് തീർപ്പാക്കി, ദയവായി ഫീസ് പേയ്മെന്റ് പൂർത്തിയാക്കുക"
+ },
+ {
+  "text_code": "fee_payment_document_pending",
+  "text_value": "ഫീസ് പേയ്മെന്റ്, പ്രമാണ അപ്ലോഡ് തീർപ്പുകൽപ്പിച്ചിട്ടില്ല, ദയയോടെ ഫീസ് പേയ്മെന്റ്, പ്രമാണ അപ്ലോഡ്"
+ },
+ {
+  "text_code": "document_pending",
+  "text_value": "പ്രമാണ അപ്ലോഡ് തീർപ്പുകൽപ്പിച്ചിട്ടില്ല, ദയവായി പ്രമാണ അപ്ലോഡ് പൂർത്തിയാക്കുക"
+ },
+ {
+  "text_code": "fee_details_error_msg",
+  "text_value": "ഫീസ് വിശദാംശങ്ങൾ നേടാനായില്ല, കുറച്ച് സമയത്തിന് ശേഷം ശ്രമിക്കുക"
+ },
+ {
+  "text_code": "try_again_error_msg",
+  "text_value": "കൂടുതൽ മുന്നോട്ട് പോകാൻ കഴിയുന്നില്ല, ദയവായി എപ്പോഴെങ്കിലും ശ്രമിക്കുക"
+ },
+ {
+  "text_code": "sub_district_label_present",
+  "text_value": "സ്ഥിരമായ സബ് ഡിസ്ട്രിക്റ്റ് തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "house_number_lablel_present",
+  "text_value": "സ്ഥിരമായ വീട് നമ്പർ നൽകുക, പ്രകാശമാക്കുക ഇല്ല., വാതിൽ"
+ },
+ {
+  "text_code": "street_loacl_labelpresent",
+  "text_value": "സ്ഥിരമായ തെരുവ് അല്ലെങ്കിൽ ലാസിലിറ്റി നൽകുക"
+ },
+ {
+  "text_code": "sub_district_label_current",
+  "text_value": "നിലവിലെ സബ് ഡിസ്ട്രിക്റ്റ് തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "house_number_lablel_current",
+  "text_value": "നിലവിലെ വീട്ടു നമ്പർ നൽകുക, പ്രകാശമാക്കുക ഇല്ല. വാതില്"
+ },
+ {
+  "text_code": "street_loacl_label_current",
+  "text_value": "നിലവിലെ തെരുവ് അല്ലെങ്കിൽ ലാസിലിറ്റി നൽകുക"
+ },
+ {
+  "text_code": "application_number_saved",
+  "text_value": "നിങ്ങളുടെ അപേക്ഷാ നമ്പർ ഫോട്ടോകളിൽ സംരക്ഷിച്ചു"
+ },
+ {
+  "text_code": "enter_application_number_msg",
+  "text_value": "അപ്ലിക്കേഷൻ നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "five_digits_chassis_number_error_msg",
+  "text_value": "ചാസിസ് നമ്പർ 5 അക്കങ്ങളായിരിക്കണം"
+ },
+ {
+  "text_code": "update_mobile_no_error_msg",
+  "text_value": "ആദ്യം നിങ്ങളുടെ മൊബൈൽ നമ്പർ അപ്ഡേറ്റ് ചെയ്യുക"
+ },
+ {
+  "text_code": "read_terms_condition",
+  "text_value": "നിബന്ധനകളും വ്യവസ്ഥയും വായിക്കുക."
+ },
+ {
+  "text_code": "proceed_slot_booking",
+  "text_value": "ബുക്ക് സ്ലോട്ട് ചെയ്യുന്നതിന് ഭാവി മുന്നോട്ട് പോകുമെന്ന് നിങ്ങൾക്ക് ഉറപ്പാണോ?"
+ },
+ {
+  "text_code": "select_previous_slot_date",
+  "text_value": "നിങ്ങൾക്ക് മുമ്പത്തെ തീയതി തിരഞ്ഞെടുക്കാൻ കഴിയില്ല."
+ },
+ {
+  "text_code": "slot_booking_not_available",
+  "text_value": "ബുക്കിംഗ് ഈ തീയതിയിൽ ലഭ്യമല്ല"
+ },
+ {
+  "text_code": "label_slot",
+  "text_value": "സ്ലോട്ട്"
+ },
+ {
+  "text_code": "label_slot_appointment_booked",
+  "text_value": "അപ്പോയിന്റ്മെന്റ് ഐഡി ഉപയോഗിച്ച് നിങ്ങളുടെ കൂടിക്കാഴ്ച ബുക്ക് ചെയ്തു"
+ },
+ {
+  "text_code": "label_receipt_saved",
+  "text_value": "സംഭരണത്തിൽ രസീത് വിജയകരമായി സംരക്ഷിച്ചു"
+ },
+ {
+  "text_code": "registration_date_error_msg",
+  "text_value": "വാഹന രജിസ്ട്രേഷൻ തീയതി നൽകുക"
+ },
+ {
+  "text_code": "registration_upto_date_error_msg",
+  "text_value": "കാലികമായി വാഹന രജിസ്ട്രേഷൻ നൽകുക"
+ },
+ {
+  "text_code": "aadhar_number_error_msg",
+  "text_value": "ആധാർ നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "existing_owner_name_error_msg",
+  "text_value": "നിലവിലുള്ള ഉടമയുടെ പേര് നൽകുക"
+ },
+ {
+  "text_code": "owner_name_error_msg",
+  "text_value": "ഉടമയുടെ പേര് 3 പ്രതീകത്തിൽ കുറവായിരിക്കരുത്"
+ },
+ {
+  "text_code": "phone_number_error_msg",
+  "text_value": "ദയവായി ഫോൺ നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "valid_phone_number_error_msg",
+  "text_value": "സാധുവായ ഫോൺ നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "verify_otp_error_msg",
+  "text_value": "OTP പരിശോധിക്കാൻ കഴിയില്ല, ദയവായി എപ്പോഴെങ്കിലും ശ്രമിക്കുക"
+ },
+ {
+  "text_code": "application_number_limit_error_msg",
+  "text_value": "കുറഞ്ഞത് 10 അക്ക അപ്ലിക്കേഷൻ നമ്പർ നൽകുക."
+ },
+ {
+  "text_code": "no_application_number_error_msg",
+  "text_value": "അപ്ലിക്കേഷൻ നമ്പറുകളൊന്നും കണ്ടെത്തിയില്ല"
+ },
+ {
+  "text_code": "no_forms_error_msg",
+  "text_value": "ഡ download ൺലോഡ് ചെയ്യാൻ ഫോമുകളൊന്നുമില്ല."
+ },
+ {
+  "text_code": "appointment_no_error_msg",
+  "text_value": "നിയമന നമ്പർ നൽകുക."
+ },
+ {
+  "text_code": "appointment_no_limit_error_msg",
+  "text_value": "കുറഞ്ഞത് 10 അക്ക സമയ നിയമന നമ്പർ നൽകുക."
+ },
+ {
+  "text_code": "select_sub_category",
+  "text_value": "ഉപ വിഭാഗം തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "camera_label",
+  "text_value": "കാമറ"
+ },
+ {
+  "text_code": "enter_phone_number",
+  "text_value": "ദയവായി ഫോൺ നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "set_mpin_generate",
+  "text_value": "ഈ മൊബൈൽ നമ്പറിനായി നിങ്ങൾ എംപിൻ സജ്ജമാക്കിയിട്ടില്ല, ദയവായി '' ജനറേറ്റ് എംപിൻ സൃഷ്ടിക്കുന്നതിലൂടെ '"
+ },
+ {
+  "text_code": "enter_6digit_otp",
+  "text_value": "6 അക്ക ഉപയോക്താവ് OTP നൽകുക"
+ },
+ {
+  "text_code": "name_not_less3",
+  "text_value": "പേര് 3 പ്രതീകങ്ങളിൽ കുറവായിരിക്കരുത്"
+ },
+ {
+  "text_code": "btn_done",
+  "text_value": "നിറവേറ്റി"
+ },
+ {
+  "text_code": "accident_report_msg",
+  "text_value": "അപകട റിപ്പോർട്ട് വിജയകരമായി സമർപ്പിച്ചു"
+ },
+ {
+  "text_code": "dl_delete_msg",
+  "text_value": "Dl വിജയകരമായി ഇല്ലാതാക്കി"
+ },
+ {
+  "text_code": "remark_validation_msg",
+  "text_value": "പരാമർശങ്ങൾ 30 വാക്കുകളിൽ കുറവായിരിക്കരുത്"
+ },
+ {
+  "text_code": "complaint_succ_msg",
+  "text_value": "പരാതി വിജയകരമായി അയച്ചു"
+ },
+ {
+  "text_code": "send_email_validation",
+  "text_value": "ഇമെയിൽ അയയ്ക്കുന്നതിന് ദയവായി ഒരു മെയിൽ അക്കൗണ്ട് സജ്ജമാക്കുക."
+ },
+ {
+  "text_code": "challan_transc_dlt",
+  "text_value": "ചല്ലൻ ഇടപാട് വിജയകരമായി ഇല്ലാതാക്കി"
+ },
+ {
+  "text_code": "fee_payment_error_msg",
+  "text_value": "ഫീസ് പേയ്മെന്റ് പൂർത്തിയായിട്ടില്ല."
+ },
+ {
+  "text_code": "try_again_later",
+  "text_value": "ദയവായി പിന്നീട് വീണ്ടും ശ്രമിക്കുക"
+ },
+ {
+  "text_code": "book_appointment_msg",
+  "text_value": "അപ്പോയിന്റ്മെന്റ് ബുക്ക് ചെയ്യാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ?"
+ },
+ {
+  "text_code": "document_not_uploaded",
+  "text_value": "ഈ പ്രമാണം അപ്ലോഡ് ചെയ്തിട്ടില്ല"
+ },
+ {
+  "text_code": "already_logged_in",
+  "text_value": "ഈ മൊബൈൽ നമ്പർ ഉപയോഗിച്ച് നിങ്ങൾ എല്ലാം ലോഗിൻ ചെയ്തതിനാൽ ആർസി പങ്കിടാൻ കഴിയില്ല"
+ },
+ {
+  "text_code": "enter_engine_validation",
+  "text_value": "നിങ്ങളുടെ എഞ്ചിൻ നമ്പറിന്റെ അവസാന 5 അക്കങ്ങൾ നൽകുക."
+ },
+ {
+  "text_code": "enter_chasis_validation",
+  "text_value": "നിങ്ങളുടെ ചേസിസ് നമ്പറിന്റെ അവസാന 5 അക്കങ്ങൾ നൽകുക."
+ },
+ {
+  "text_code": "remark_max_validation",
+  "text_value": "പരാമർശങ്ങൾ 250 പ്രതീകങ്ങളിൽ കൂടരുത്"
+ },
+ {
+  "text_code": "remark_min_validation",
+  "text_value": "പരാമർശങ്ങൾ കുറഞ്ഞത് 30 പ്രതീകങ്ങളായിരിക്കണം"
+ },
+ {
+  "text_code": "remark_msg",
+  "text_value": "നിങ്ങളുടെ അഭിപ്രായങ്ങൾ നൽകുക"
+ },
+ {
+  "text_code": "enter_end_date",
+  "text_value": "അവസാനം തീയതി നൽകുക"
+ },
+ {
+  "text_code": "comment_max_validation",
+  "text_value": "അഭിപ്രായങ്ങൾ 500 പ്രതീകങ്ങളിൽ കൂടരുത്"
+ },
+ {
+  "text_code": "enter_comments",
+  "text_value": "ദയവായി അഭിപ്രായങ്ങൾ നൽകുക"
+ },
+ {
+  "text_code": "enter_state_lbl",
+  "text_value": "ദയവായി സംസ്ഥാനം നൽകുക"
+ },
+ {
+  "text_code": "enter_start_date",
+  "text_value": "ആരംഭ തീയതി നൽകുക"
+ },
+ {
+  "text_code": "enter_location_lbl",
+  "text_value": "ലൊക്കേഷൻ നൽകുക"
+ },
+ {
+  "text_code": "emmission_norm_lbl",
+  "text_value": "എമിഷൻ മാനദണ്ഡം"
+ },
+ {
+  "text_code": "challan_validation_digit",
+  "text_value": "ചാർൻ നമ്പർ കുറഞ്ഞത് 12 അക്കങ്ങൾ നൽകുക"
+ },
+ {
+  "text_code": "fill_all_details",
+  "text_value": "എല്ലാ വിശദാംശങ്ങളും പൂരിപ്പിക്കുക"
+ },
+ {
+  "text_code": "update_error_msg",
+  "text_value": "അപ്ഡേറ്റ് ചെയ്യണമെന്ന് നിങ്ങൾക്ക് ഉറപ്പാണോ?"
+ },
+ {
+  "text_code": "authority_error_msg",
+  "text_value": "അതോറിറ്റി തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "ncrb_error_msg",
+  "text_value": "ARCRE നൽകുക"
+ },
+ {
+  "text_code": "valid_ncrb_error_msg",
+  "text_value": "സാധുവായ എൻസിആർബി നൽകുക"
+ },
+ {
+  "text_code": "transferee_name_error_msg",
+  "text_value": "ട്രാൻസ്ഫെയുടെ പേര് നൽകുക"
+ },
+ {
+  "text_code": "valid_transferee_name_error_msg",
+  "text_value": "സാധുവായ ട്രാൻസ്ഫേ ഇറ്റ് നൽകുക"
+ },
+ {
+  "text_code": "finanace_upto_error_msg",
+  "text_value": "ധനസഹായം നൽകുക"
+ },
+ {
+  "text_code": "choose_date_error_msg",
+  "text_value": "ഏതെങ്കിലും തീയതി തിരഞ്ഞെടുക്കുക."
+ },
+ {
+  "text_code": "house_no_street_name_error_msg",
+  "text_value": "നിലവിലെ വീടി നമ്പർ നൽകുക, തെരുവിന്റെ പേര് നൽകുക"
+ },
+ {
+  "text_code": "valid_house_no_street_name_error_msg",
+  "text_value": "സാധുവായ കന്റായുള്ള വീടി നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "current_village_town_city_error_msg",
+  "text_value": "നിലവിലെ ഗ്രാമം \/ നഗരം \/ നഗരം എന്നിവ നൽകുക"
+ },
+ {
+  "text_code": "valid_current_village_town_city_error_msg",
+  "text_value": "സാധുവായ നിലവിലെ ഗ്രാമം \/ നഗരം \/ നഗരം നൽകുക"
+ },
+ {
+  "text_code": "valid_landmark_error_msg",
+  "text_value": "സാധുവായ നിലവിലെ ലാൻഡ്മാർക്ക് നൽകുക"
+ },
+ {
+  "text_code": "valid_current_pin_code_error_msg",
+  "text_value": "സാധുവായ നിലവിലെ പിങ്കോഡ് നൽകുക"
+ },
+ {
+  "text_code": "current_pin_code_limit_error_msg",
+  "text_value": "നിലവിലെ പിങ്കോഡ് 6 അക്കങ്ങളെ അപേക്ഷിച്ച് 6 അക്കത്തിൽ കുറവായിരിക്കരുത്"
+ },
+ {
+  "text_code": "permanent_house_no_Street_name_error_msg",
+  "text_value": "സ്ഥിരമായ വീട് നമ്പർ നൽകുക, തെരുവിന്റെ പേര് നൽകുക"
+ },
+ {
+  "text_code": "valid_permanent_house_no_Street_name_error_msg",
+  "text_value": "സാധുവായ സ്ഥിരമായ വീട് നമ്പർ നൽകുക."
+ },
+ {
+  "text_code": "permanent_village_town_city_error_msg",
+  "text_value": "സ്ഥിരമായ വില്ലേജ് \/ ട Town ൺ \/ സിറ്റി നൽകുക"
+ },
+ {
+  "text_code": "valid_permanent_village_town_city_error_msg",
+  "text_value": "സാധുവായ സ്ഥിരമായ ഗ്രാമം \/ നഗരം \/ നഗരം എന്നിവ നൽകുക"
+ },
+ {
+  "text_code": "valid_permanent_landmark_error_msg",
+  "text_value": "സാധുവായ സ്ഥിരമായ ലാൻഡ്മാർക്ക് നൽകുക"
+ },
+ {
+  "text_code": "valid_permanent_pincode_error_msg",
+  "text_value": "സാധുവായ സ്ഥിരമായ പിങ്കോഡ് നൽകുക"
+ },
+ {
+  "text_code": "permanent_pincode_limit_error_msg",
+  "text_value": "സ്ഥിരമായ പിങ്കോഡ് 6 അക്കങ്ങളിൽ കൂടുതലോ 6 അക്കങ്ങളിൽ കുറവാകരുത്"
+ },
+ {
+  "text_code": "remark_error_msg",
+  "text_value": "ദയവായി പരാമർശങ്ങൾ നൽകുക"
+ },
+ {
+  "text_code": "fir_no_error_msg",
+  "text_value": "എഫ്ഐആർ നൽകുക"
+ },
+ {
+  "text_code": "fir_date_error_msg",
+  "text_value": "എഫ്ഐആർ തീയതി തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "enter_police_station_error_msg",
+  "text_value": "ദയവായി പോലീസ് സ്റ്റേഷൻ നൽകുക"
+ },
+ {
+  "text_code": "hypothecation_type_error_msg",
+  "text_value": "ഹൈപ്പോഥെക്കേഷൻ തരം തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "financier_name_error_msg",
+  "text_value": "ഫിനാൻസിയർ നാമം നൽകുക"
+ },
+ {
+  "text_code": "valid_financier_name_error_msg",
+  "text_value": "സാധുവായ സാമ്പത്തിക നാമം നൽകുക"
+ },
+ {
+  "text_code": "house_no_error_msg",
+  "text_value": "ദയവായി വീട്ടിലേക്ക് പ്രവേശിക്കുക"
+ },
+ {
+  "text_code": "valid_house_no_error_msg",
+  "text_value": "സാധുവായ വീടിന്റെ നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "valid_village_town_city_error_msg",
+  "text_value": "സാധുവായ ഗ്രാമത്തിൽ \/ നഗരം \/ നഗരം നൽകുക"
+ },
+ {
+  "text_code": "landmark_error_msg",
+  "text_value": "ലാൻഡ്മാർക്ക് നൽകുക"
+ },
+ {
+  "text_code": "valid_landmark_error_msg",
+  "text_value": "സാധുവായ ലാൻഡ്മാർക്ക് നൽകുക"
+ },
+ {
+  "text_code": "district_error_msg",
+  "text_value": "ഡിസ്ട്രിക്റ്റ് തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "pincode_error_msg",
+  "text_value": "ദയവായി പിങ്കോഡ് നൽകുക"
+ },
+ {
+  "text_code": "valid_pincode_error_msg",
+  "text_value": "സാധുവായ പിങ്കോഡ് നൽകുക"
+ },
+ {
+  "text_code": "pincode_limit_error_msg",
+  "text_value": "പിൻകോഡ് 6 അക്കങ്ങളിൽ കൂടുതലോ 6 അക്കങ്ങളിൽ കുറവാകരുത്"
+ },
+ {
+  "text_code": "finance_date_error_msg",
+  "text_value": "തീയതി മുതൽ ഫിനാൻസ് നൽകുക"
+ },
+ {
+  "text_code": "fitness_lbl",
+  "text_value": "ക്ഷമത"
+ },
+ {
+  "text_code": "lbl_registered_mobile_no",
+  "text_value": "രജിസ്റ്റർ ചെയ്ത മൊബൈൽ നമ്പർ."
+ },
+ {
+  "text_code": "vid_terms_condition",
+  "text_value": "ഞാൻ വിഡ് അടിസ്ഥാനമാക്കിയുള്ള ഇ-കീക് സമ്മതത്തോടെ വായിക്കുകയും അംഗീകരിക്കുകയും ചെയ്തു"
+ },
+ {
+  "text_code": "no_rc_found",
+  "text_value": "വെർച്വൽ ആർസി കണ്ടെത്തിയില്ല"
+ },
+ {
+  "text_code": "app_version_name",
+  "text_value": "അപ്ലിക്കേഷൻ പതിപ്പ്"
+ },
+ {
+  "text_code": "touch_id_lbl",
+  "text_value": "ടച്ച് ഐഡി ഉപയോഗിച്ച് ലോഗിൻ ചെയ്യുക"
+ },
+ {
+  "text_code": "face_id_lbl",
+  "text_value": "ഫെയ്സ് ഐഡി ഉപയോഗിച്ച് ലോഗിൻ ചെയ്യുക"
+ },
+ {
+  "text_code": "enable_btn",
+  "text_value": "കഴിവുണ്ടാക്കുക"
+ },
+ {
+  "text_code": "faceId_notEnabled_error",
+  "text_value": "നിങ്ങളുടെ ഫെയ്സ് ഐഡി \/ ടച്ച് ഐഡി പ്രാപ്തമാക്കിയിട്ടില്ല"
+ },
+ {
+  "text_code": "faceId_verification_error",
+  "text_value": "നിങ്ങളുടെ ഐഡന്റിറ്റി പരിശോധിച്ച ഒരു പ്രശ്നമുണ്ടായിരുന്നു."
+ },
+ {
+  "text_code": "faceId_cancel_error",
+  "text_value": "നിങ്ങൾ റദ്ദാക്കി."
+ },
+ {
+  "text_code": "faceId_password_selection_error",
+  "text_value": "നിങ്ങൾ പാസ്വേഡ് അമർത്തി."
+ },
+ {
+  "text_code": "faceId_notAvailable_error",
+  "text_value": "ഫെയ്സ് ഐഡി \/ ടച്ച് ഐഡി ലഭ്യമല്ല."
+ },
+ {
+  "text_code": "faceId_notSetup_error",
+  "text_value": "ഫെയ്സ് ഐഡി \/ ടച്ച് ഐഡി സജ്ജമാക്കിയിട്ടില്ല."
+ },
+ {
+  "text_code": "faceId_locked_error",
+  "text_value": "ഫെയ്സ് ഐഡി \/ ടച്ച് ഐഡി ലോക്കുചെയ്തു."
+ },
+ {
+  "text_code": "faceId_notConfigured_error",
+  "text_value": "ഫെയ്സ് ഐഡി \/ ടച്ച് ഐഡി ക്രമീകരിച്ചേക്കില്ല"
+ },
+ {
+  "text_code": "expiring_on_lbl",
+  "text_value": "കാലഹരണപ്പെടുന്നു"
+ },
+ {
+  "text_code": "total_notices_lbl",
+  "text_value": "ആകെ അറിയിപ്പ് (കൾ):"
+ },
+ {
+  "text_code": "noNotice_error_msg",
+  "text_value": "ശ്രദ്ധിച്ചിട്ടില്ല"
+ },
+ {
+  "text_code": "noNotice_error_desc",
+  "text_value": "ഈ നമ്പറിനായി ഒരു അറിയിപ്പും കണ്ടെത്തിയില്ല."
+ },
+ {
+  "text_code": "notice_status_lbl",
+  "text_value": "അറിയിപ്പ് നില"
+ },
+ {
+  "text_code": "notice_details_lbl",
+  "text_value": "വിശദാംശങ്ങൾ ശ്രദ്ധിക്കുക"
+ },
+ {
+  "text_code": "lbl_rc_number",
+  "text_value": "ആർസി നമ്പർ."
+ },
+ {
+  "text_code": "total_notice_lbl",
+  "text_value": "ആകെ അറിയിപ്പ്:"
+ },
+ {
+  "text_code": "notice_number_lbl",
+  "text_value": "അറിയിപ്പ് നമ്പർ."
+ },
+ {
+  "text_code": "notice_date_lbl",
+  "text_value": "അറിയിപ്പ് തീയതി"
+ },
+ {
+  "text_code": "offence_lbl",
+  "text_value": "കുറ്റമായാണ്"
+ },
+ {
+  "text_code": "btn_download_notice",
+  "text_value": "നോട്ടീസ് ഡൗൺലോഡുചെയ്യുക"
+ },
+ {
+  "text_code": "notice_status_err",
+  "text_value": "സ്റ്റാറ്റസ് ഡാറ്റ ലഭ്യമല്ല"
+ },
+ {
+  "text_code": "notice_number_option_lbl",
+  "text_value": "അറിയിപ്പ് നമ്പർ"
+ },
+ {
+  "text_code": "enter_notice_txt",
+  "text_value": "അറിയിപ്പ് നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "release_details",
+  "text_value": "വിവരം വിശദാംശങ്ങൾ"
+ },
+ {
+  "text_code": "release_date",
+  "text_value": "റിലീസ് തീയതി"
+ },
+ {
+  "text_code": "file_reference_no",
+  "text_value": "ഫയൽ റഫറൻസ് നമ്പർ."
+ },
+ {
+  "text_code": "approved_by",
+  "text_value": "അംഗീകരിച്ചിരിക്കുന്നത്"
+ },
+ {
+  "text_code": "apply_for_duplicate_fitness_certificate",
+  "text_value": "തനിപ്പകർപ്പ് ഫിറ്റ്നസ് സർട്ടിഫിക്കറ്റിനായി അപേക്ഷിക്കുക"
+ },
+ {
+  "text_code": "required_document",
+  "text_value": "ആവശ്യമായ പ്രമാണം"
+ },
+ {
+  "text_code": "apply_for_duplicate_permit",
+  "text_value": "തനിപ്പകർപ്പ് പെർമിറ്റിനായി അപേക്ഷിക്കുക"
+ },
+ {
+  "text_code": "apply_for_rc_cancellation",
+  "text_value": "ആർസി റദ്ദാക്കലിന് അപേക്ഷിക്കുക"
+ },
+ {
+  "text_code": "rc_cancellation_date",
+  "text_value": "ആർസി റദ്ദാക്കൽ തീയതി"
+ },
+ {
+  "text_code": "apply_for_rc_surrender",
+  "text_value": "ആർസി കീഴടങ്ങാൻ അപേക്ഷിക്കുക"
+ },
+ {
+  "text_code": "document_surrender",
+  "text_value": "പ്രമാണ സറണ്ടർ"
+ },
+ {
+  "text_code": "rc",
+  "text_value": "ആർസി"
+ },
+ {
+  "text_code": "enter_rc_serial_no",
+  "text_value": "ആർസി സീരിയൽ നമ്പർ നൽകുക."
+ },
+ {
+  "text_code": "fitness_certificate",
+  "text_value": "ഫിറ്റ്നസ് സർട്ടിഫിക്കറ്റ്"
+ },
+ {
+  "text_code": "enter_fitness_certificate_no",
+  "text_value": "ഫിറ്റ്നസ് സർട്ടിഫിക്കറ്റ് നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "applying_for_tax_exemption",
+  "text_value": "നികുതി ഒഴിവാക്കലിന് അപേക്ഷിക്കുന്നു"
+ },
+ {
+  "text_code": "owner_name",
+  "text_value": "ഉടമസ്ഥന്റെ പേര്"
+ },
+ {
+  "text_code": "tax_from_date",
+  "text_value": "തീയതി മുതൽ നികുതി"
+ },
+ {
+  "text_code": "tax_upto",
+  "text_value": "നികുതി വരെ നികുതി."
+ },
+ {
+  "text_code": "calculate_tax_details",
+  "text_value": "നികുതി വിശദാംശങ്ങൾ കണക്കാക്കുക"
+ },
+ {
+  "text_code": "select_no_of_m_y_q",
+  "text_value": "NOR.OF M \/ y \/ Q തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "tax_mode",
+  "text_value": "നികുതി മോഡ്"
+ },
+ {
+  "text_code": "enter_the_no_of_m_y_q",
+  "text_value": "നമ്പർ ഇല്ലെങ്കിൽ എം \/ y \/ q നൽകുക"
+ },
+ {
+  "text_code": "enter_the_no_year",
+  "text_value": "ഇല്ല. വൈയർ നൽകുക"
+ },
+ {
+  "text_code": "final_amount",
+  "text_value": "അന്തിമ തുക"
+ },
+ {
+  "text_code": "calculate_tax",
+  "text_value": "നികുതി കണക്കാക്കുക"
+ },
+ {
+  "text_code": "please_wait",
+  "text_value": "കാത്തിരിക്കൂ ..."
+ },
+ {
+  "text_code": "owner_current_tax_details",
+  "text_value": "ഉടമ & amp; നിലവിലെ നികുതി വിശദാംശങ്ങൾ"
+ },
+ {
+  "text_code": "are_you_sure_you_want_to_Calcualte",
+  "text_value": "കണക്കാക്കാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?"
+ },
+ {
+  "text_code": "pay_your_tax",
+  "text_value": "നിങ്ങളുടെ നികുതി അടയ്ക്കുക"
+ },
+ {
+  "text_code": "please_select_tax_mode",
+  "text_value": "ടാക്സ് മോഡ് തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "are_you_sure_you_want_to_make_payment",
+  "text_value": "പേയ്മെന്റ് നടത്താൻ ആഗ്രഹിക്കുന്നുണ്ടോ?"
+ },
+ {
+  "text_code": "please_try_after_some_time",
+  "text_value": "കുറച്ച് സമയത്തിന് ശേഷം ദയവായി ശ്രമിക്കുക!"
+ },
+ {
+  "text_code": "amount_pay",
+  "text_value": "പണമടയ്ക്കാനുള്ള തുക"
+ },
+ {
+  "text_code": "transaction_status",
+  "text_value": "ഇടപാട് നില"
+ },
+ {
+  "text_code": "application_no",
+  "text_value": "അപ്ലിക്കേഷൻ ഇല്ല"
+ },
+ {
+  "text_code": "receipt_no",
+  "text_value": "രസീത് നമ്പർ"
+ },
+ {
+  "text_code": "reprint_receipt",
+  "text_value": "റിട്ടന്റ് രസീത്"
+ },
+ {
+  "text_code": "try_again",
+  "text_value": "ദയവായി വീണ്ടും ശ്രമിക്കുക."
+ },
+ {
+  "text_code": "are_you_sure_want_to_go_back",
+  "text_value": "നിങ്ങൾക്ക് തിരികെ പോകണമെന്ന് ഉറപ്പാണോ?"
+ },
+ {
+  "text_code": "view_notice_label",
+  "text_value": "നോട്ടീസ് കാണുക"
+ },
+ {
+  "text_code": "notice_related_service",
+  "text_value": "ഡിടിപിക്ക് അനുബന്ധ സേവനങ്ങൾ"
+ },
+ {
+  "text_code": "notice_payment_lbl",
+  "text_value": "അറിയിപ്പ് പേയ്മെന്റ്"
+ },
+ {
+  "text_code": "no_receipt_found_err",
+  "text_value": "രസീത് കണ്ടെത്തിയില്ല"
+ },
+ {
+  "text_code": "lbl_tax_from",
+  "text_value": "നിന്ന് നികുതി"
+ },
+ {
+  "text_code": "lbl_tax_amount",
+  "text_value": "നികുതി തുക"
+ },
+ {
+  "text_code": "lbl_penality",
+  "text_value": "അവശിഷ്ട"
+ },
+ {
+  "text_code": "lbl_surcharge",
+  "text_value": "അധികഭാരം"
+ },
+ {
+  "text_code": "lbl_rebate",
+  "text_value": "കിഴിവുതുക"
+ },
+ {
+  "text_code": "lbl_interest",
+  "text_value": "പലിശ"
+ },
+ {
+  "text_code": "lbl_additional_amount",
+  "text_value": "അധിക തുക"
+ },
+ {
+  "text_code": "btn_calculate_tax",
+  "text_value": "നികുതി കണക്കാക്കുക"
+ },
+ {
+  "text_code": "lbl_select_tax_mode",
+  "text_value": "ടാക്സ് മോഡ് തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "lbl_Owner_Current_Tax_Detail",
+  "text_value": "ഉടമയും നിലവിലെ നികുതി വിശദാംശങ്ങളും"
+ },
+ {
+  "text_code": "lbl_enter_type",
+  "text_value": "തരം നൽകുക"
+ },
+ {
+  "text_code": "lbl_enter_financer_name",
+  "text_value": "ധനകാര്യ പേര് നൽകുക"
+ },
+ {
+  "text_code": "lbl_enter_financer_address",
+  "text_value": "ധനസഹായം നൽകുക"
+ },
+ {
+  "text_code": "errorMsg_ImgUpload",
+  "text_value": "എപ്പോഴെങ്കിലും പ്രൊഫൈൽ ഇമേജ് അപ്ലോഡ് ചെയ്യാൻ കഴിയില്ല"
+ },
+ {
+  "text_code": "enter_corectName",
+  "text_value": "ശരിയായ പേര് നൽകുക"
+ },
+ {
+  "text_code": "allow_location",
+  "text_value": "ഈ സവിശേഷതയ്ക്കായി നിങ്ങൾ ലൊക്കേഷൻ അനുമതി അനുവദിക്കേണ്ടതുണ്ട്, ദയവായി ക്രമീകരണങ്ങളിലേക്ക് പോയി ലൊക്കേഷൻ അനുമതികൾ ഓണാക്കുക"
+ },
+ {
+  "text_code": "allow_settings",
+  "text_value": "ക്രമീകരണങ്ങൾ"
+ },
+ {
+  "text_code": "allow_Gps",
+  "text_value": "ലൊക്കേഷൻ സേവനങ്ങൾ അല്ലെങ്കിൽ ജിപിഎസ് ഓണാക്കുക"
+ },
+ {
+  "text_code": "title_lbl_now",
+  "text_value": "ഇപ്പോള്"
+ },
+ {
+  "text_code": "title_lbl_later",
+  "text_value": "താമസിച്ച"
+ },
+ {
+  "text_code": "mssg_lbl_succChangeMpin",
+  "text_value": "നിങ്ങൾ വിജയകരമായി MPIN മാറ്റി"
+ },
+ {
+  "text_code": "mssg_lbl_enterCorrectOldMpin",
+  "text_value": "ശരിയായ പഴയ എംപിൻ നൽകുക"
+ },
+ {
+  "text_code": "mssg_lbl_mpinNotLessThan6",
+  "text_value": "പുതിയ എംപിൻ 6 അക്കങ്ങളിൽ കുറവല്ല"
+ },
+ {
+  "text_code": "mssg_lbl_enterConfirmMpin",
+  "text_value": "എംപിൻ സ്ഥിരീകരിക്കുക"
+ },
+ {
+  "text_code": "err_lbl_confirmMpin",
+  "text_value": "OTP 6 അക്കങ്ങളിൽ കുറവല്ലെന്ന് സ്ഥിരീകരിക്കുക"
+ },
+ {
+  "text_code": "err_lbl_shouldSameMpin",
+  "text_value": "പുതിയ എംപിൻ ചെയ്ത് എംപിൻ സ്ഥിരീകരിക്കുക"
+ },
+ {
+  "text_code": "err_lbl_oldMpinNotLess6",
+  "text_value": "പഴയ എംപിൻ 6 അക്കത്തിൽ കുറവല്ല"
+ },
+ {
+  "text_code": "label_hpt_endorsement",
+  "text_value": "ഹൈപ്പോഥെക്കേഷൻ അംഗീകാരം"
+ },
+ {
+  "text_code": "label_ministryNotification",
+  "text_value": "മന്ത്രാലയ അറിയിപ്പ്"
+ },
+ {
+  "text_code": "label_receivedShared",
+  "text_value": "മന്ത്രാലയ അറിയിപ്പ്"
+ },
+ {
+  "text_code": "Open_gallery",
+  "text_value": "തുറന്ന ഗാലറി"
+ },
+ {
+  "text_code": "Open_document",
+  "text_value": "രേഖ തുറക്കുക"
+ },
+ {
+  "text_code": "Choose_Option",
+  "text_value": "ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക"
+ },
+ {
+  "text_code": "vehicle_Category",
+  "text_value": "വാഹന വിഭാഗം"
+ },
+ {
+  "text_code": "msg_delete_notificationSuccess",
+  "text_value": "അറിയിപ്പ് വിജയകരമായി ഇല്ലാതാക്കി"
+ },
+ {
+  "text_code": "lbl_not_applicable",
+  "text_value": "ലഭ്യമല്ല | ബാധകമാണ്"
+ },
+ {
+  "text_code": "state_err_msg",
+  "text_value": "സാധുവായ ആർസി നമ്പർ നൽകുക"
+ },
+ {
+  "text_code": "vehicle_trans_deleted",
+  "text_value": "വാഹന ഇടപാട് വിജയകരമായി ഇല്ലാതാക്കി"
+ },
+ {
+  "text_code": "dl_transc_deleted",
+  "text_value": "Dl ഇടപാട് വിജയകരമായി ഇല്ലാതാക്കി"
+ },
+ {
+  "text_code": "dl_alert_header",
+  "text_value": "ഡ്രൈവിംഗ് ലൈസൻസ് അലേർട്ടുകൾ"
+ },
+ {
+  "text_code": "successfully_take_Screen_Shot",
+  "text_value": "സ്ക്രീൻ ഷോട്ട് വിജയകരമായി എടുക്കുക"
+ },
+ {
+  "text_code": "my_rc",
+  "text_value": "എന്റെ RC"
+ },
+ {
+ "text_code":"sosRegisterMobileNoError",
+ "text_value":"രജിസ്റ്റർ ചെയ്ത മൊബൈൽ നമ്പർ Sos കോൺടാക്റ്റ് ഫോൺ നമ്പർ ആയിരിക്കരുത്"
+ },
+ {
+ "text_code":"appleMap",
+ "text_value":"ആപ്പിൾ മാപ്‌സ്"
+ },
+ {
+ "text_code":"mail_id_not_configure",
+ "text_value":"ഈ ഉപകരണത്തിൽ മെയിൽ ഐഡി കോൺഫിഗർ ചെയ്തിട്ടില്ല"
+ },
+ {
+ "text_code":"googleMap",
+ "text_value":"ഗൂഗിൾ മാപ്‌സ്"
+ },
+ {
+ "text_code":"lbl_accusedName",
+ "text_value":"കുറ്റാരോപിത പേര്"
+ },
+ {
+ "text_code":"lbl_infoCorrectedData",
+ "text_value":"വിവരങ്ങൾ തിരുത്തിയ ഡാറ്റ"
+ },
+ {
+ "text_code":"lbl_infoCorrectedDate",
+ "text_value":"വിവരങ്ങൾ തിരുത്തിയ തീയതി"
+ },
+ {
+ "text_code":"lbl_congnizanceData",
+ "text_value":"അറിവ് നിഷേധിച്ച ഡാറ്റ"
+ },
+ {
+ "text_code":"lbl_cnr",
+ "text_value":"സി.എൻ.ആർ"
+ },
+ {
+ "text_code":"lbl_judgeName",
+ "text_value":"ജഡ്ജിയുടെ പേര്"
+ },
+ {
+ "text_code":"lbl_congnizanceDate",
+ "text_value":"തിരിച്ചറിയൽ തീയതി"
+ }
+
+
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/dashboard" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="300dp" android:minHeight="200dp">
+    <com.nic.mparivahan.MyTextView android:textSize="20sp" android:textStyle="bold" android:textColor="@color/black" android:gravity="center" android:id="@+id/tv_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="25dp" android:layout_marginRight="20dp" android:layout_marginBottom="10dp" android:text="NextGen mParivahan"/>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/layout_gallery" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="30dp" android:layout_marginBottom="30dp">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/galler" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:background="@drawable/gallery" android:layout_width="80dp" android:layout_height="80dp"/>
+            <TextView android:textSize="15dp" android:textStyle="bold" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Gallery" android:fontFamily="@font/lato"/>
+        </LinearLayout>
+        <TextView android:textSize="13dp" android:gravity="center" android:background="@drawable/corner_circle_bg_14" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:text="@string/or"/>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/camera" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:background="@drawable/camera" android:layout_width="80dp" android:layout_height="80dp"/>
+            <TextView android:textSize="15dp" android:textStyle="bold" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Camera" android:fontFamily="@font/lato"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.nic.mparivahan.MyTextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/pop_up_close" android:background="@drawable/sign_in_new" android:layout_width="110dp" android:layout_height="40dp" android:layout_margin="10dp" android:text="@string/ok_txt"/>
+        <com.nic.mparivahan.MyTextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/cancle" android:background="@drawable/shape_red" android:layout_width="110dp" android:layout_height="40dp" android:layout_margin="10dp" android:text="@string/cancel"/>
+    </LinearLayout>
+</LinearLayout>

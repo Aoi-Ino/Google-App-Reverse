@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginTop="15dp">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/nexgenarrow" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="15dp">
+                        <ImageView android:id="@+id/backButton" android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/mvvm_back"/>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:id="@+id/nexgenlogo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_toRightOf="@+id/nexgenarrow">
+                        <ImageView android:layout_width="160dp" android:layout_height="50dp" android:src="@drawable/nextgenv1"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentRight="true">
+                        <ImageView android:visibility="gone" android:layout_width="35dp" android:layout_height="35dp" android:layout_marginRight="20dp" android:src="@drawable/nexgenallarm"/>
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+            <TextView android:textSize="30sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_forgot" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="20dp" android:fontFamily="@font/nexgenttf"/>
+            <TextView android:textSize="35sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_security_mpin" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:text="@string/sec_pin" android:fontFamily="@font/nexgenttf"/>
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:background="@drawable/sign_in_new_back" android:padding="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="30dp" android:layout_marginRight="20dp">
+                <TextView android:textSize="16sp" android:textColor="@color/gray" android:id="@+id/tv_verify_otp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/verify_otp" android:fontFamily="@font/nexgenttf"/>
+                <TextView android:textSize="16sp" android:textColor="@color/gray" android:gravity="center" android:id="@+id/tv_send_otp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/nexgenttf"/>
+                <TextView android:textSize="16sp" android:textColor="@color/gray" android:id="@+id/disPlay" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp"/>
+            </LinearLayout>
+            <TextView android:textSize="16sp" android:textColor="@color/gray" android:gravity="center" android:id="@+id/default_otp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp"/>
+            <FrameLayout android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="30dp">
+                <EditText android:id="@+id/enterOtp" android:background="@drawable/sign_in_back" android:padding="15dp" android:longClickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:hint="@string/enter_otp" android:maxLength="6" android:digits="0123456789" android:inputType="numberPassword" android:imeOptions="actionDone" android:textIsSelectable="false"/>
+                <ImageView android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/showmpin" android:padding="15dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginRight="35dp" android:src="@drawable/mvvm_visibility"/>
+            </FrameLayout>
+            <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/gray" android:layout_gravity="center" android:id="@+id/tv_wait_otp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:layout_marginTop="20dp" android:layout_marginRight="20dp" android:text="@string/wait_for_otp" android:fontFamily="@font/nexgenttf"/>
+            <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/gray" android:layout_gravity="center" android:id="@+id/tv_refresh_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20dp" android:text="@string/ref_close" android:fontFamily="@font/nexgenttf"/>
+            <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@+id/submit" android:background="@drawable/sign_in_new" android:layout_width="match_parent" android:layout_height="55dp" android:layout_marginLeft="20dp" android:layout_marginTop="30dp" android:layout_marginRight="20dp">
+                <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/tv_verify" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/verify" android:fontFamily="@font/nexgenttf"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="30dp">
+                <com.nic.mparivahan.MyTextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/never_mix" android:gravity="center" android:id="@+id/time_text" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/nexgenttf"/>
+                <LinearLayout android:gravity="top|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="@+id/linera_otp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="0dp" android:layout_centerHorizontal="true">
+                    <TextView android:textSize="14sp" android:textStyle="bold" android:gravity="center" android:id="@+id/tv_get_otp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/did_not_get_otp" android:fontFamily="@font/nexgenttf"/>
+                    <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/never_mix" android:gravity="center" android:id="@+id/resendOtp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/resend_otp" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:background="@drawable/sign_in_back" android:visibility="invisible" android:layout_width="220dp" android:layout_height="50dp" android:layout_marginBottom="10dp" android:layout_centerHorizontal="true">
+            <TextView android:textSize="20sp" android:textStyle="bold" android:textColor="@color/white" android:id="@+id/btnContinue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/_continue_sign_in" android:fontFamily="sans-serif-light"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

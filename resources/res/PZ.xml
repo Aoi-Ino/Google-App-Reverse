@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent" android:baselineAligned="false">
+    <include android:id="@+id/mHeader" layout="@layout/mvvm_header"/>
+    <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@+id/mHeader">
+        <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_20sdp">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/_8sdp">
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_16sdp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_8sdp" android:text="Verify Pending Transaction" android:fontFamily="@font/robot_bold"/>
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="@dimen/_50sdp">
+                    <EditText android:textSize="16sp" android:textColor="@color/txt_color_address" android:background="@drawable/bg_address_view" android:paddingLeft="@dimen/_5sdp" android:layout_width="match_parent" android:layout_height="@dimen/_50sdp" android:layout_marginTop="@dimen/_15sdp" android:text="UP30000000003066" android:fontFamily="@font/robot_bold" android:paddingStart="@dimen/_5sdp"/>
+                    <LinearLayout android:gravity="center" android:id="@+id/id_search_transaction" android:background="@drawable/button_cyan_theme" android:layout_width="@dimen/_80sdp" android:layout_height="45dp" android:layout_marginTop="@dimen/_20sdp" android:layout_weight="1" android:layout_alignParentRight="true">
+                        <TextView android:textSize="14dp" android:textColor="@color/white" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/search" android:fontFamily="@font/nexgenttf"/>
+                    </LinearLayout>
+                </RelativeLayout>
+                <com.nic.mparivahan.MyTextView android:textSize="@dimen/_16sdp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_20sdp" android:layout_marginBottom="@dimen/_20sdp" android:text="@string/payment_details" android:fontFamily="@font/robot_bold"/>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="#929394" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="@string/owner_name" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="@color/black" android:gravity="right" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="UP16T3066" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="#929394" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="Registration No." android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="@color/black" android:gravity="right" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="Bharat Bhushan" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="#929394" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="Application No" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="@color/black" android:gravity="right" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="RJ542546845482" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="#929394" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="Application Date" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="@color/black" android:gravity="right" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="04 Jan 2021" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="#929394" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="Transaction Date" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="@color/black" android:gravity="right" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="04 Jan 2021" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="#929394" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="Amount" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="@color/black" android:gravity="right" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="₹ 5000" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="#929394" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="@string/state" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="@color/black" android:gravity="right" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="Bihar" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="#929394" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="@string/rto" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="@color/black" android:gravity="right" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="Supaul" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp">
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="#929394" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="Payment Status" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                    <com.nic.mparivahan.MyTextView android:textSize="@dimen/_15sdp" android:textColor="#0eb2ff" android:gravity="right" android:layout_width="0dp" android:layout_height="@dimen/_20sdp" android:layout_marginTop="@dimen/_8sdp" android:text="Pending" android:layout_weight="1" android:fontFamily="@font/roboto_medium"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:id="@+id/id_dupdl_summit" android:background="@drawable/button_cyan_theme" android:layout_width="match_parent" android:layout_height="45dp" android:layout_marginTop="@dimen/_20sdp" android:layout_weight="1">
+                    <TextView android:textSize="14dp" android:textColor="@color/white" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/verify_payment" android:fontFamily="@font/nexgenttf"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_30sdp" android:layout_marginBottom="@dimen/_25sdp">
+                    <RelativeLayout android:id="@+id/replacementDlSubmit" android:background="@drawable/button_cyan_theme" android:layout_width="0dp" android:layout_height="45dp" android:layout_marginRight="@dimen/_2sdp" android:layout_weight="1">
+                        <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Print" android:drawableLeft="@drawable/ic_printer" android:drawablePadding="@dimen/_5sdp" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:fontFamily="@font/robot_bold"/>
+                    </RelativeLayout>
+                    <RelativeLayout android:gravity="center" android:id="@+id/replacementDlCancel" android:background="@drawable/btn_green_theme" android:layout_width="0dp" android:layout_height="45dp" android:layout_marginLeft="@dimen/_2sdp" android:layout_weight="1">
+                        <TextView android:textSize="@dimen/_14sdp" android:textColor="@android:color/white" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/receipt" android:drawableLeft="@drawable/ic_invoice_transaction" android:drawablePadding="@dimen/_5sdp" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:fontFamily="@font/robot_bold"/>
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</RelativeLayout>

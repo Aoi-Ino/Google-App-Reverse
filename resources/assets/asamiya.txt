@@ -1,0 +1,4355 @@
+[
+  {
+    "text_code": "title_sign_in_to",
+    "text_value": "চাইন ইন কৰক"
+  },
+  {
+    "text_code": "title_your_account",
+    "text_value": "আপোনাৰ একাউণ্ট !"
+  },
+  {
+    "text_code": "title_sign_desc",
+    "text_value": "এমপৰিবহন প্লেটফৰ্মৰ জৰিয়তে উপস্থাপন কৰা ড্ৰাইভিং লাইচেন্স (ডিএল), পঞ্জীয়ন প্ৰমাণপত্ৰ (আৰচি) আৰু তাৰ পিছৰ নথিপত্ৰৰ ভাৰ্চুৱেল কপিসমূহ আইটি আইন ২০০০ আৰু মটৰ গাড়ী আইন ১৯৮৯ অনুসৰি মূল নথিপত্ৰ অনুসৰি বৈধ"
+  },
+  {
+    "text_code": "btn_new_mparivahan",
+    "text_value": "নতুনকৈ এমপৰিবহন?"
+  },
+  {
+    "text_code": "edit_mobile_no",
+    "text_value": "মোবাইল নং."
+  },
+  {
+    "text_code": "edit_security_mpin",
+    "text_value": "৬ অংকৰ সুৰক্ষা এমপিআইএন"
+  },
+  {
+    "text_code": "label_another_account",
+    "text_value": "আন এটা একাউণ্ট ব্যৱহাৰ কৰক"
+  },
+  {
+    "text_code": "label_forgot_mpin",
+    "text_value": "নিৰাপত্তা পাহৰি গ’ল এমপিআইএন"
+  },
+  {
+    "text_code": "butt_signin_mpin",
+    "text_value": "ৰ সৈতে চাইন ইন কৰক এমপিআইএন"
+  },
+  {
+    "text_code": "butt_signin_otp",
+    "text_value": "বা ওটিপি ৰ সৈতে চাইন ইন কৰক"
+  },
+  {
+    "text_code": "label_dont_account",
+    "text_value": "একাউণ্ট নাই নেকি ?"
+  },
+  {
+    "text_code": "label_signup",
+    "text_value": "চাইন আপ কৰক"
+  },
+  {
+    "text_code": "title_create_new",
+    "text_value": "নতুন সৃষ্টি কৰক"
+  },
+  {
+    "text_code": "title_security_mpin",
+    "text_value": "সুৰক্ষা এমপিআইএন"
+  },
+  {
+    "text_code": "edit_enter_mpin",
+    "text_value": "অনুগ্ৰহ কৰি আপোনাৰ নতুন ৬ অংকৰ এমপিআইএন দিয়ক"
+  },
+  {
+    "text_code": "title_create_account",
+    "text_value": "একাউণ্ট সৃষ্টি কৰক"
+  },
+  {
+    "text_code": "title_fast_easy",
+    "text_value": "দ্ৰুত আৰু সহজ !"
+  },
+  {
+    "text_code": "edit_full_name",
+    "text_value": "সম্পূৰ্ণ নাম (আৰ চি বা ডি এল অনুসৰি)"
+  },
+  {
+    "text_code": "label_already_account",
+    "text_value": "ইতিমধ্যে একাউণ্ট আছেনে ?"
+  },
+  {
+    "text_code": "label_signin",
+    "text_value": "চাইন ইন কৰক"
+  },
+  {
+    "text_code": "label_privacy_policy",
+    "text_value": "চাইন আপ কৰি, আপুনি এমপৰিবাহনৰ চৰ্ত আৰু গোপনীয়তা নীতিত সন্মত হৈছে"
+  },
+  {
+    "text_code": "title_forgot",
+    "text_value": "পাহৰিছিল"
+  },
+  {
+    "text_code": "title_secu_mpin",
+    "text_value": "সুৰক্ষা এমপিআইএন ?"
+  },
+  {
+    "text_code": "label_verify_otp",
+    "text_value": "ওটিপি পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "label_sent_otp",
+    "text_value": "এমপৰিবাহন এ আপোনাক আপোনাৰ..."
+  },
+  {
+    "text_code": "label_wait_otp",
+    "text_value": "কিছু সময় অপেক্ষা কৰক ওটিপি আহিবলৈ"
+  },
+  {
+    "text_code": "label_refresh_close",
+    "text_value": "সতেজ বা বন্ধ নকৰিব"
+  },
+  {
+    "text_code": "label_get_otp",
+    "text_value": "ওটিপি পোৱা নাছিল নেকি ?"
+  },
+  {
+    "text_code": "label_login_not_regt",
+    "text_value": "এই মোবাইল নম্বৰটো এমপৰিবাহন ত পঞ্জীয়ন কৰা হোৱা নাই। পঞ্জীয়ন প্ৰক্ৰিয়া সম্পূৰ্ণ কৰাৰ বাবে অনুগ্ৰহ কৰি চাইন আপ কৰক।"
+  },
+  {
+    "text_code": "btn_ok",
+    "text_value": "ঠিক আছে"
+  },
+  {
+    "text_code": "label_log_alrad_regt",
+    "text_value": "ব্যৱহাৰকাৰী ইতিমধ্যে পঞ্জীয়ন কৰক, অনুগ্ৰহ কৰি চাইনইন কৰক"
+  },
+  {
+    "text_code": "label_log_unbl_sigin",
+    "text_value": "চাইনইন কৰিবলৈ অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "label_log_unbl_sigup",
+    "text_value": "চাইনআপ কৰিবলৈ অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "label_log_sel_state",
+    "text_value": "অনুগ্ৰহ কৰি অৱস্থা নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_log_entr_name",
+    "text_value": "অনুগ্ৰহ কৰি সম্পূৰ্ণ নামটো দিয়ক"
+  },
+  {
+    "text_code": "label_log_entr_vali_mobno",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ মোবাইল নম্বৰটো দিব"
+  },
+  {
+    "text_code": "label_log_entr_valid_dig_pin",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ ৬ অংকৰ এমপিআইএন দিয়ক"
+  },
+  {
+    "text_code": "label_log_entr_emaiid",
+    "text_value": "অনুগ্ৰহ কৰি ইমেইল আইডি দিয়ক"
+  },
+  {
+    "text_code": "label_log_entr_valid_email",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ ইমেইল আইডি দিয়ক"
+  },
+  {
+    "text_code": "label_log_unbl_ctrt_mpin",
+    "text_value": "এমপিআইএন সৃষ্টি কৰিবলৈ অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "label_log_mpin_rest_succ",
+    "text_value": "এমপিআইএন সফলভাৱে পুনৰায় সেট কৰক!"
+  },
+  {
+    "text_code": "label_log_entr_otp",
+    "text_value": "অনুগ্ৰহ কৰি ওটিপি দিয়ক"
+  },
+  {
+    "text_code": "label_log_entr_val_otp",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ ওটিপি দিয়ক"
+  },
+  {
+    "text_code": "label_log_invalid_otp",
+    "text_value": "আপুনি দিয়া ওটিপি অবৈধ, অনুগ্ৰহ কৰি সঠিক ওটিপি দিয়ক"
+  },
+  {
+    "text_code": "label_log_unbl_veri_otp",
+    "text_value": "ওটিপি পৰীক্ষা কৰিবলৈ অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "label_log_resend_otp",
+    "text_value": "আমি আপোনাৰ মোবাইল নম্বৰলৈ ওটিপি ৱেৰিফিচাতিোন পুনৰ প্ৰেৰণ কৰিছো"
+  },
+  {
+    "text_code": "label_log_unbl_resend_otp",
+    "text_value": "ওটিপি পুনৰ প্ৰেৰণ কৰিবলৈ অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "label_log_regt_mobile",
+    "text_value": "পঞ্জীয়নভুক্ত মোবাইল"
+  },
+  {
+    "text_code": "label_log_succ_login",
+    "text_value": "ব্যৱহাৰকাৰী সফলতাৰে এমপৰিবাহন ত লগইন কৰক"
+  },
+  {
+    "text_code": "label_log_check_internet",
+    "text_value": "অনুগ্ৰহ কৰি আপোনাৰ ইণ্টাৰনেট সংযোগ পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "label_log_entr_mob_no",
+    "text_value": "অনুগ্ৰহ কৰি মোবাইল নম্বৰটো দিব"
+  },
+  {
+    "text_code": "label_log_welcome",
+    "text_value": "স্বাগতম"
+  },
+  {
+    "text_code": "label_log_entr_six_mpin",
+    "text_value": "অনুগ্ৰহ কৰি ৬ অংকৰ এমপিআইএন দিয়ক"
+  },
+  {
+    "text_code": "label_log_set_mpin",
+    "text_value": "আপুনি এতিয়াও এমপিআইএন নিৰ্ধাৰণ কৰা নাই, অনুগ্ৰহ কৰি 'সুৰক্ষা এমপিআইএন পাহৰি গ'ল' ব্যৱহাৰ কৰি নতুন এমপিআইএন ৰ বাবে অনুৰোধ কৰক"
+  },
+  {
+    "text_code": "label_log_unbl_sign_mpin",
+    "text_value": "এমপিআইএন ৰ সৈতে চাইন ইন কৰিবলৈ অক্ষম, সঠিক এমপিআইএন সুমুৱাওক"
+  },
+  {
+    "text_code": "label_log_unbl_reset",
+    "text_value": "পুনৰায় সেট কৰিবলৈ অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক!"
+  },
+  {
+    "text_code": "label_log_unbl_change_rest",
+    "text_value": "এমপিআইএন পুনৰায় সেট সলনি কৰিবলৈ অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "label_welcome",
+    "text_value": "স্বাগতম"
+  },
+  {
+    "text_code": "label_vehicle",
+    "text_value": "বাহন"
+  },
+  {
+    "text_code": "label_search",
+    "text_value": "সন্ধান"
+  },
+  {
+    "text_code": "label_transport_services",
+    "text_value": "পৰিবহণ সেৱা"
+  },
+  {
+    "text_code": "label_my_documents",
+    "text_value": "মোৰ নথিপত্ৰসমূহ"
+  },
+  {
+    "text_code": "label_citizen_sentinel",
+    "text_value": "নাগৰিক চেণ্টিনেল"
+  },
+  {
+    "text_code": "label_informational_services",
+    "text_value": "তথ্য সেৱা"
+  },
+  {
+    "text_code": "label_my_vehicle",
+    "text_value": "মোৰ বাহন"
+  },
+  {
+    "text_code": "label_my_dl",
+    "text_value": "মোৰ ড্ৰাইভিং লাইচেন্স"
+  },
+  {
+    "text_code": "label_vrc_and_dl",
+    "text_value": "আপুনি আপোনাৰ বাহনৰ পঞ্জীয়ন প্ৰমাণপত্ৰ আৰু ড্ৰাইভিং লাইচেন্স দিব পাৰে।"
+  },
+  {
+    "text_code": "label_pull_rc_and_dl",
+    "text_value": "অনুগ্ৰহ কৰি এই এপটোত উপলব্ধ সুবিধা ব্যৱহাৰ কৰি পৰিবহণ ভঁৰালৰ পৰা আপোনাৰ RC/ডিএল টানি আনিব।"
+  },
+  {
+    "text_code": "label_home",
+    "text_value": "গৃহ"
+  },
+  {
+    "text_code": "label_virtual_documents",
+    "text_value": "ভাৰ্চুৱেল নথিপত্ৰসমূহ"
+  },
+  {
+    "text_code": "label_near_by",
+    "text_value": "সমীপৰ"
+  },
+  {
+    "text_code": "label_setting",
+    "text_value": "ছেটিং"
+  },
+  {
+    "text_code": "label_vehicle_related",
+    "text_value": "বাহন সম্পৰ্কীয় সেৱাসমূহ"
+  },
+  {
+    "text_code": "label_pay_tax",
+    "text_value": "আপোনাৰ কৰ পৰিশোধ কৰক"
+  },
+  {
+    "text_code": "label_duplicate_rc",
+    "text_value": "ডুপ্লিকেট আৰ চি"
+  },
+  {
+    "text_code": "label_hypothetication_termination",
+    "text_value": "অনুমান সমাপ্তি"
+  },
+  {
+    "text_code": "label_view_more",
+    "text_value": "অধিক চাওক"
+  },
+  {
+    "text_code": "label_change_of_address",
+    "text_value": "ঠিকনা সলনি কৰা"
+  },
+  {
+    "text_code": "label_hypothetication_addition",
+    "text_value": "অনুমান সংযোজন"
+  },
+  {
+    "text_code": "label_hypothetication_continuation",
+    "text_value": "অনুমান ধাৰাবাহিকতা"
+  },
+  {
+    "text_code": "label_noc",
+    "text_value": "আপত্তি নথকা প্ৰমাণপত্ৰ(এনওচি)"
+  },
+  {
+    "text_code": "label_rc_particular",
+    "text_value": "আৰ চি বিশেষ"
+  },
+  {
+    "text_code": "label_dispose_applicationl",
+    "text_value": "আবেদন নিষ্কাশন কৰক"
+  },
+  {
+    "text_code": "label_application_status",
+    "text_value": "আবেদনৰ অৱস্থা"
+  },
+  {
+    "text_code": "label_verify_payment",
+    "text_value": "পেমেন্ট পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "label_driving_licence_related",
+    "text_value": "ড্ৰাইভিং লাইচেঞ্চ সম্পৰ্কীয় সেৱাসমূহ"
+  },
+  {
+    "text_code": "label_duplicate_dl",
+    "text_value": "ডুপ্লিকেট ডিএল"
+  },
+  {
+    "text_code": "label_coa_in_dl",
+    "text_value": "ডিএল ত ঠিকনা সলনি কৰা"
+  },
+  {
+    "text_code": "label_international_driv_permit",
+    "text_value": "আন্তঃৰাষ্ট্ৰীয় ড্ৰাইভিং অনুমতি পত্ৰ"
+  },
+  {
+    "text_code": "label_dl_extract",
+    "text_value": "ডি এল নিষ্কাশন"
+  },
+  {
+    "text_code": "label_dl_replacement",
+    "text_value": "ডি এল প্ৰতিস্থাপন"
+  },
+  {
+    "text_code": "label_withdraw_services",
+    "text_value": "সেৱাসমূহ প্ৰত্যাহাৰ কৰক"
+  },
+  {
+    "text_code": "label_challan_related",
+    "text_value": "চহাললান সম্পৰ্কিত সেৱাসমূহ"
+  },
+  {
+    "text_code": "label_challan_status",
+    "text_value": "চাল্লান ষ্টেটাছ"
+  },
+  {
+    "text_code": "label_challan_payment",
+    "text_value": "চাল্লান পেমেন্ট"
+  },
+  {
+    "text_code": "label_verify_challan_payment",
+    "text_value": "চাল্লান পেমেন্ট পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "label_help_support",
+    "text_value": "সহায় আৰু সমৰ্থন"
+  },
+  {
+    "text_code": "label_share",
+    "text_value": "ভাগ-বতৰা কৰা"
+  },
+  {
+    "text_code": "label_about_us",
+    "text_value": "আমাৰ বিষয়ে"
+  },
+  {
+    "text_code": "label_logout",
+    "text_value": "লগআউট কৰক"
+  },
+  {
+    "text_code": "label_report_trafic_voilation",
+    "text_value": "ভইলিং ট্ৰেফিক ৰিপৰ্ট"
+  },
+  {
+    "text_code": "label_report_accident",
+    "text_value": "দুৰ্ঘটনা ৰিপৰ্ট কৰক"
+  },
+  {
+    "text_code": "label_about_maprivahan",
+    "text_value": "এমপৰিবাহন বিষয়ে"
+  },
+  {
+    "text_code": "label_virtual_rc",
+    "text_value": "ভাৰ্চুৱেল আৰ চি"
+  },
+  {
+    "text_code": "label_virtual_dl",
+    "text_value": "ভাৰ্চুৱেল ডি এল"
+  },
+  {
+    "text_code": "label_shared_rc",
+    "text_value": "শ্বেয়াৰ কৰা আৰ চি"
+  },
+  {
+    "text_code": "label_received_rc",
+    "text_value": "আৰচি লাভ কৰা হৈছে"
+  },
+  {
+    "text_code": "label_rc_search",
+    "text_value": "আৰচি অনুসন্ধান"
+  },
+  {
+    "text_code": "label_dl_search",
+    "text_value": "ডি এল সন্ধান"
+  },
+  {
+    "text_code": "label_about_vehicle",
+    "text_value": "বাহনৰ বিষয়ে"
+  },
+  {
+    "text_code": "label_transfer_ownership",
+    "text_value": "মালিকীস্বত্ব হস্তান্তৰ"
+  },
+  {
+    "text_code": "label_hp_endorsement",
+    "text_value": "এইচ পি এণ্ডাৰছমেণ্ট"
+  },
+  {
+    "text_code": "label_about_licence",
+    "text_value": "অনুজ্ঞাপত্ৰৰ বিষয়ে"
+  },
+  {
+    "text_code": "label_notifications_and_advisories",
+    "text_value": "জাননী আৰু পৰামৰ্শ"
+  },
+  {
+    "text_code": "label_notifications",
+    "text_value": "জাননীসমূহ"
+  },
+  {
+    "text_code": "label_sos",
+    "text_value": "এছওএছ"
+  },
+  {
+    "text_code": "vahan_application_status",
+    "text_value": "আবেদনৰ অৱস্থা"
+  },
+  {
+    "text_code": "vahan_application_no",
+    "text_value": "আবেদন নং।"
+  },
+  {
+    "text_code": "vahan_enter_application_no",
+    "text_value": "আবেদন নং লিখক।"
+  },
+  {
+    "text_code": "vahan_chassis_no",
+    "text_value": "চেছিছ নং."
+  },
+  {
+    "text_code": "vahan_enter_chassis_no",
+    "text_value": "চেছিছ নং প্ৰৱেশ কৰক।"
+  },
+  {
+    "text_code": "vahan_engine_no",
+    "text_value": "ইঞ্জিন নং."
+  },
+  {
+    "text_code": "vahan_engine_no_last_five",
+    "text_value": "ইঞ্জিন নং ( শেষৰ চাৰিটা অংক দিয়ক )"
+  },
+  {
+    "text_code": "vahan_chassis_no_last_five",
+    "text_value": "চেছিছ নং (শেষ ৫টা অংক)*"
+  },
+  {
+    "text_code": "vahan_btn_submit",
+    "text_value": "দাখিল কৰক"
+  },
+  {
+    "text_code": "vahan_btn_cancel",
+    "text_value": "বাতিল কৰক"
+  },
+  {
+    "text_code": "vahan_enter_otp_msg",
+    "text_value": "তলৰ ফিল্ডত ওটিপি দিয়ক যিটো পঞ্জীয়নভুক্ত মোবাইল নম্বৰলৈ পঠোৱা হৈছিল।"
+  },
+  {
+    "text_code": "vahan_resend_otp",
+    "text_value": "ওটিপি পুনৰ প্ৰেৰণ কৰক"
+  },
+  {
+    "text_code": "vahan_btn_verify",
+    "text_value": "সত্যাপন কৰা"
+  },
+  {
+    "text_code": "vahan_dispose_application",
+    "text_value": "আবেদন নিষ্কাশন কৰক"
+  },
+  {
+    "text_code": "vahan_registration_no",
+    "text_value": "পঞ্জীয়ন নং."
+  },
+  {
+    "text_code": "vahan_enter_registration_no",
+    "text_value": "পঞ্জীয়ন নং প্ৰৱেশ কৰক।"
+  },
+  {
+    "text_code": "vahan_verify_pending_transaction",
+    "text_value": "বাকী থকা লেনদেন পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "vahan_transaction_id",
+    "text_value": "লেনদেন আইডি"
+  },
+  {
+    "text_code": "vahan_transaction_no",
+    "text_value": "লেনদেন নং লিখক।"
+  },
+  {
+    "text_code": "vahan_get_details",
+    "text_value": "বিৱৰণ পাওক"
+  },
+  {
+    "text_code": "vahan_search",
+    "text_value": "সন্ধান"
+  },
+  {
+    "text_code": "vahan_payment_details",
+    "text_value": "পেমেন্টৰ বিৱৰণ"
+  },
+  {
+    "text_code": "vahan_owner_name",
+    "text_value": "মালিকৰ নাম"
+  },
+  {
+    "text_code": "vahan_application_date",
+    "text_value": "আবেদনৰ তাৰিখ"
+  },
+  {
+    "text_code": "vahan_application_name",
+    "text_value": "আবেদনৰ নাম"
+  },
+  {
+    "text_code": "vahan_transaction_date",
+    "text_value": "লেনদেনৰ তাৰিখ"
+  },
+  {
+    "text_code": "vahan_transaction_name",
+    "text_value": "লেনদেনৰ নাম"
+  },
+  {
+    "text_code": "vahan_transaction_applied",
+    "text_value": "লেনদেন(সমূহ) প্ৰয়োগ কৰা হৈছে"
+  },
+  {
+    "text_code": "vahan_transaction_status",
+    "text_value": "লেনদেনৰ অৱস্থা"
+  },
+  {
+    "text_code": "vahan_amount",
+    "text_value": "পৰিমাণ"
+  },
+  {
+    "text_code": "vahan_state",
+    "text_value": "ৰাজ্য"
+  },
+  {
+    "text_code": "vahan_rto",
+    "text_value": "আৰ টি অ’"
+  },
+  {
+    "text_code": "vahan_rto_name",
+    "text_value": "আৰ টি অ’ নাম"
+  },
+  {
+    "text_code": "vahan_duplicate_rc",
+    "text_value": "ডুপ্লিকেট আৰ চি"
+  },
+  {
+    "text_code": "vahan_change_of_address",
+    "text_value": "ঠিকনা সলনি কৰা"
+  },
+  {
+    "text_code": "vahan_payment_status",
+    "text_value": "পেমেন্টৰ অৱস্থা"
+  },
+  {
+    "text_code": "vahan_verify_payment",
+    "text_value": "পেমেন্ট পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "vahan_print",
+    "text_value": "প্ৰিন্ট কৰক"
+  },
+  {
+    "text_code": "vahan_receipt",
+    "text_value": "ৰচিদ"
+  },
+  {
+    "text_code": "vahan_wait_for_sometime_msg",
+    "text_value": "কিছু সময় অপেক্ষা কৰক ওটিপি আহিবলৈ"
+  },
+  {
+    "text_code": "vahan_agree_to_term_msg",
+    "text_value": "মই নিয়ম আৰু নিয়মত সন্মত হৈছো"
+  },
+  {
+    "text_code": "vahan_application_draft",
+    "text_value": "আবেদনৰ খচৰা"
+  },
+  {
+    "text_code": "vahan_fee_payment",
+    "text_value": "মাচুল পৰিশোধ"
+  },
+  {
+    "text_code": "vahan_upload_document",
+    "text_value": "নথিপত্ৰ আপল'ড কৰক"
+  },
+  {
+    "text_code": "vahan_final_submit",
+    "text_value": "চূড়ান্ত জমা দিয়ক"
+  },
+  {
+    "text_code": "vahan_slot_booking",
+    "text_value": "স্লট বুকিং"
+  },
+  {
+    "text_code": "label_app_no",
+    "text_value": "আবেদন নং"
+  },
+  {
+    "text_code": "edit_enter_app_no",
+    "text_value": "আবেদন নং লিখক।"
+  },
+  {
+    "text_code": "label_enter_otp_below",
+    "text_value": "তলৰ ফিল্ডত ওটিপি দিয়ক যিটো পঞ্জীয়নভুক্ত মোবাইল নম্বৰলৈ পঠোৱা হৈছিল।"
+  },
+  {
+    "text_code": "edit_enter_otp",
+    "text_value": "ওটিপি সুমুৱাওক"
+  },
+  {
+    "text_code": "label_resend_otp",
+    "text_value": "ওটিপি পুনৰ প্ৰেৰণ কৰক"
+  },
+  {
+    "text_code": "label_applicant_name",
+    "text_value": "আবেদনকাৰীৰ নাম"
+  },
+  {
+    "text_code": "label_appl_status_rto_code",
+    "text_value": "আৰটিঅ' ক'ড"
+  },
+  {
+    "text_code": "label_appl_status_rto_name",
+    "text_value": "আৰটিঅ' নাম"
+  },
+  {
+    "text_code": "label_transaction_s_applied",
+    "text_value": "লেনদেন(সমূহ) প্ৰয়োগ কৰা হৈছে"
+  },
+  {
+    "text_code": "label_transaction_status",
+    "text_value": "লেনদেনৰ অৱস্থা"
+  },
+  {
+    "text_code": "label_renewal_of_dl",
+    "text_value": "ডি এলৰ নবীকৰণ"
+  },
+  {
+    "text_code": "proceed_arrow",
+    "text_value": "আগবাঢ়ক >"
+  },
+  {
+    "text_code": "button_dispose",
+    "text_value": "নিষ্কাশন কৰক"
+  },
+  {
+    "text_code": "button_verify",
+    "text_value": "সত্যাপন কৰা"
+  },
+  {
+    "text_code": "button_cancel",
+    "text_value": "বাতিল কৰক"
+  },
+  {
+    "text_code": "button_proceed",
+    "text_value": "আগবাঢ়ক"
+  },
+  {
+    "text_code": "label_note",
+    "text_value": "টোকা"
+  },
+  {
+    "text_code": "note_info",
+    "text_value": "এপ্লিকেচন বাতিল কৰাটো অ-পুনৰুদ্ধাৰযোগ্য প্ৰক্ৰিয়া আৰু এপ্লিকেচন(ফাইল) সম্পূৰ্ণৰূপে বন্ধ হৈ যাব আৰু এপ্লিকেচনটো পুনৰুদ্ধাৰ কৰিব নোৱাৰিব। সকলো তথ্য আৰু নথিপত্ৰ বাতিল হ’ব। যদি আবেদনকাৰীয়ে এটা সেৱা বিচাৰে, তেন্তে এটা সতেজ আবেদন দাখিল কৰিব লাগিব আৰু সকলো পদ্ধতি পুনৰ মানি চলিব লাগিব। যদি এই আবেদন নম্বৰৰ বাবে স্লট লোৱা হৈছিল, তেন্তে এলএল বা ডিএল ৰ বাবে নিজ নিজ স্লটও বাতিল কৰা হ'ব আৰু যদি কোনো ধৰণৰ পেমেন্ট কৰা হয়, তেন্তে ধন ঘূৰাই দিয়া নহ'ব।"
+  },
+  {
+    "text_code": "button_withdraw",
+    "text_value": "উলিয়াই অনা"
+  },
+  {
+    "text_code": "label_dispose_application",
+    "text_value": "আবেদন নিষ্কাশন কৰক"
+  },
+  {
+    "text_code": "label_transaction_name",
+    "text_value": "লেনদেনৰ নাম"
+  },
+  {
+    "text_code": "label_reason_remarks",
+    "text_value": "কাৰণ/মন্তব্য"
+  },
+  {
+    "text_code": "label_ackno_slip",
+    "text_value": "স্বীকৃতি স্লিপ"
+  },
+  {
+    "text_code": "label_application_prefilled",
+    "text_value": "আবেদন পত্ৰ(প্ৰিফিল্ড)"
+  },
+  {
+    "text_code": "label_form_1",
+    "text_value": "প্ৰপত্ৰ ১"
+  },
+  {
+    "text_code": "label_form_1a",
+    "text_value": "প্ৰপত্ৰ ১এ"
+  },
+  {
+    "text_code": "label_fee_receipt",
+    "text_value": "মাচুলৰ ৰচিদ"
+  },
+  {
+    "text_code": "label_slot_ackno_slip",
+    "text_value": "স্লট স্বীকৃতি স্লিপ"
+  },
+  {
+    "text_code": "dispose_popup_msg",
+    "text_value": "এপ্লিকেচন বাতিল কৰাটো অ-উদ্ধাৰযোগ্য প্ৰক্ৰিয়া আৰু এপ্লিকেচন(ফাইল) সম্পূৰ্ণৰূপে বন্ধ হৈ যাব আৰু এপ্লিকেচনটো পুনৰুদ্ধাৰ কৰিব নোৱাৰিব। সকলো তথ্য আৰু নথিপত্ৰ বাতিল হ’ব। যদি আবেদনকাৰীয়ে এটা সেৱা বিচাৰে, তেন্তে এটা সতেজ আবেদন দাখিল কৰিব লাগিব আৰু সকলো পদ্ধতি পুনৰ মানি চলিব লাগিব। যদি এই আবেদন নম্বৰৰ বাবে স্লট লোৱা হৈছিল, তেন্তে এল এল বা ডি এলৰ বাবে নিজ নিজ স্লটও বাতিল কৰা হ'ব আৰু যদি কোনো ধৰণৰ পেমেণ্ট কৰা হয়, তেন্তে ধন ঘূৰাই দিয়া নহ'ব। অনুগ্ৰহ কৰি নিশ্চিত কৰক যে আপুনি আপোনাৰ আবেদন বাতিল কৰিব বিচাৰে।"
+  },
+  {
+    "text_code": "withdraw_popup_msg",
+    "text_value": "আপুনি প্ৰত্যাহাৰৰ বাবে নিম্নলিখিত সেৱাসমূহ নিৰ্বাচন কৰিছে \n নকল ডিএল ৰ সমস্যা \n ঠিকনা পৰিবৰ্তন \n আপুনি নিশ্চিত নেকি যে আপুনি আগবাঢ়িব বিচাৰে?"
+  },
+  {
+    "text_code": "edit_enter_dob",
+    "text_value": "ডিডি-এমএম-য়য়য়য়"
+  },
+  {
+    "text_code": "popup_do_want",
+    "text_value": "আপুনি সংৰক্ষণ কৰিব বিচাৰে নেকি"
+  },
+  {
+    "text_code": "button_open_pdf",
+    "text_value": "পিডিএফ খোলক"
+  },
+  {
+    "text_code": "popup_pdf_desc",
+    "text_value": "আপোনাৰ পিডিএফ ফাইলটো সংৰক্ষিত হৈছে\n ডাউনলোড কৰক -> এমপৰিবাহন ফোল্ডাৰত\n\n পিডিএফ ফাইলটো চাবলৈ আপোনাৰ ফোনত এডোবি রিডার ইনষ্টল কৰিব লাগে"
+  },
+  {
+    "text_code": "popup_pdf_error",
+    "text_value": "পিডিএফ চাবলৈ কোনো আবেদন উপলব্ধ নহয়"
+  },
+  {
+    "text_code": "label_term_condt",
+    "text_value": "মই চৰ্ত আৰু নিয়মসমূহত সন্মত হৈছো"
+  },
+  {
+    "text_code": "popup_empty_mobile_no",
+    "text_value": "মোবাইল নং. পোৱা নগ'ল"
+  },
+  {
+    "text_code": "title_challan_status",
+    "text_value": "চাল্লান ষ্টেটাছ"
+  },
+  {
+    "text_code": "title_online_challan_payment",
+    "text_value": "অনলাইন চাল্লান পেমেন্ট"
+  },
+  {
+    "text_code": "title_verify_challan_payment",
+    "text_value": "চাল্লান পেমেন্ট পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "logo_pay_your_challan",
+    "text_value": "পে ইউৰ চেলান"
+  },
+  {
+    "text_code": "logo_challan_trans_status",
+    "text_value": "লেনদেনৰ অৱস্থা"
+  },
+  {
+    "text_code": "logo_reprint_receipt",
+    "text_value": "ৰচিদ পুনৰ মুদ্ৰণ কৰক"
+  },
+  {
+    "text_code": "radio_btn_challan_no",
+    "text_value": "চেলান নম্বৰ"
+  },
+  {
+    "text_code": "radio_btn_vehicle_no",
+    "text_value": "বাহনৰ নম্বৰ"
+  },
+  {
+    "text_code": "radio_btn_dl_no",
+    "text_value": "ড্ৰাইভিং লাইচেন্স নম্বৰ"
+  },
+  {
+    "text_code": "edit_enter_challan_no",
+    "text_value": "চেলান নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "btn_challan_get_details",
+    "text_value": "বিৱৰণ পাওক"
+  },
+  {
+    "text_code": "tab_btn_challan_all",
+    "text_value": "আটাইবোৰ"
+  },
+  {
+    "text_code": "tab_btn_challan_pending",
+    "text_value": "বাকী থকা"
+  },
+  {
+    "text_code": "tab_btn_challan_disposed",
+    "text_value": "ডিস্পোসেদ"
+  },
+  {
+    "text_code": "label_total_challan",
+    "text_value": "মুঠ চালান"
+  },
+  {
+    "text_code": "label_no_challan_found",
+    "text_value": "কোনো চালান পোৱা নগ'ল"
+  },
+  {
+    "text_code": "label_no_pending_trans",
+    "text_value": "কোনো ধৰণৰ পেমেণ্ট লেনদেন বাকী নাই"
+  },
+  {
+    "text_code": "label_challan_no_trans_found",
+    "text_value": "কোনো লেনদেন পোৱা নগ'ল"
+  },
+  {
+    "text_code": "logo_challan_details",
+    "text_value": "চাল্লান বিৱৰণ"
+  },
+  {
+    "text_code": "logo_challan_payment",
+    "text_value": "পৰিশোধ"
+  },
+  {
+    "text_code": "logo_challan_receipt",
+    "text_value": "ৰচিদ"
+  },
+  {
+    "text_code": "label_challan_dl_rc_no",
+    "text_value": "ডি এল/আৰ চি নম্বৰ"
+  },
+  {
+    "text_code": "label_challan_state",
+    "text_value": "ৰাজ্য"
+  },
+  {
+    "text_code": "label_challan_no",
+    "text_value": "চল্লন নং"
+  },
+  {
+    "text_code": "label_challan_date",
+    "text_value": "চলন ডেট"
+  },
+  {
+    "text_code": "label_challan_amount",
+    "text_value": "পৰিমাণ"
+  },
+  {
+    "text_code": "label_payment_status",
+    "text_value": "পেমেন্টৰ অৱস্থা"
+  },
+  {
+    "text_code": "btn_challan_print_receipt",
+    "text_value": "ৰচিদ প্ৰিন্ট কৰক"
+  },
+  {
+    "text_code": "btn_print_challan",
+    "text_value": "প্ৰিন্ট চল্লান"
+  },
+  {
+    "text_code": "btn_pay_now",
+    "text_value": "পে নাও"
+  },
+  {
+    "text_code": "btn_verify_payment",
+    "text_value": "পেমেন্ট পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "btn_challan_paid",
+    "text_value": "পৰিশোধিত"
+  },
+  {
+    "text_code": "btn_challan_status",
+    "text_value": "স্থিতি"
+  },
+  {
+    "text_code": "btn_try_again",
+    "text_value": "আকৌ চেষ্টা কৰক"
+  },
+  {
+    "text_code": "btn_go_back",
+    "text_value": "ঘুৰি যাওক"
+  },
+  {
+    "text_code": "title_challan_trans_success",
+    "text_value": "লেনদেনৰ সফলতা"
+  },
+  {
+    "text_code": "title_challan_trans_pending",
+    "text_value": "লেনদেন বাকী আছে"
+  },
+  {
+    "text_code": "title_challan_trans_failed",
+    "text_value": "লেনদেন ব্যৰ্থ"
+  },
+  {
+    "text_code": "title_dl_details",
+    "text_value": "ডি এল বিৱৰণ"
+  },
+  {
+    "text_code": "label_dl_holder_name",
+    "text_value": "ডি এল ধাৰীৰ নাম"
+  },
+  {
+    "text_code": "label_dl_serv_expiry_date",
+    "text_value": "শেষহোৱাৰ দিনাংক"
+  },
+  {
+    "text_code": "label_dl_ekyc_demographic_details",
+    "text_value": "ইকেৱাইচি জনগাঁথনিৰ বিৱৰণ"
+  },
+  {
+    "text_code": "label_dl_ownername_as_aadhaar",
+    "text_value": "মালিকৰ নাম (আধাৰ অনুসৰি)"
+  },
+  {
+    "text_code": "label_dl_current_addr_as_aadhaar",
+    "text_value": "বৰ্তমান ঠিকনা (আধাৰ অনুসৰি)"
+  },
+  {
+    "text_code": "btn_dl_serv_next",
+    "text_value": "এটাৰ পাচৰ"
+  },
+  {
+    "text_code": "title_dl_serv_renewal",
+    "text_value": "ডি এলৰ নবীকৰণ"
+  },
+  {
+    "text_code": "logo_dl_details",
+    "text_value": "ড্ৰাইভিং লাইচেন্সৰ বিৱৰণ"
+  },
+  {
+    "text_code": "logo_dl_upload_photo_sign",
+    "text_value": "ফটো আৰু স্বাক্ষৰ আপলোড কৰক"
+  },
+  {
+    "text_code": "logo_dl_dms_upload_doc",
+    "text_value": "ডিএমএছ (নথিপত্ৰ আপলোড কৰক)"
+  },
+  {
+    "text_code": "logo_dl_fee_details",
+    "text_value": "মাচুলৰ বিৱৰণ"
+  },
+  {
+    "text_code": "logo_dl_appointment_book",
+    "text_value": "এপইণ্টমেণ্ট বুকিং"
+  },
+  {
+    "text_code": "title_dl_serv_personal_info",
+    "text_value": "ব্যক্তিগত তথ্য"
+  },
+  {
+    "text_code": "label_dl_serv_father_name",
+    "text_value": "পিতৃৰ নাম"
+  },
+  {
+    "text_code": "label_dl_serv_permn_addr",
+    "text_value": "স্থায়ী ঠিকনা"
+  },
+  {
+    "text_code": "title_dl_serv_information",
+    "text_value": "ড্ৰাইভিং লাইচেন্সৰ তথ্য"
+  },
+  {
+    "text_code": "label_dl_serv_issue_date",
+    "text_value": "ডি এল ইছ্যুৰ তাৰিখ"
+  },
+  {
+    "text_code": "label_dl_serv_nt_valid_upto",
+    "text_value": "এনটি বৈধ ওপ্ত"
+  },
+  {
+    "text_code": "label_dl_serv_issue_authority",
+    "text_value": "ইছ্যু কৰ্তৃপক্ষ"
+  },
+  {
+    "text_code": "label_dl_serv_tr_valid_upto",
+    "text_value": "টিআৰ বৈধ উপ্ত"
+  },
+  {
+    "text_code": "label_dl_serv_last_endor_state",
+    "text_value": "শেষৰটো সমৰ্থিত ৰাজ্য"
+  },
+  {
+    "text_code": "label_dl_serv_last_endor_rto",
+    "text_value": "শেষবাৰৰ বাবে সমৰ্থিত RTO"
+  },
+  {
+    "text_code": "title_dl_serv_class_vehicle",
+    "text_value": "বাহনৰ শ্ৰেণী"
+  },
+  {
+    "text_code": "label_dl_serv_present_addr",
+    "text_value": "বৰ্তমানৰ ঠিকনা"
+  },
+  {
+    "text_code": "btn_dl_serv_close",
+    "text_value": "বন্ধ"
+  },
+  {
+    "text_code": "title_dl_serv_duplicate_dl",
+    "text_value": "ডুপ্লিকেট ডিএল"
+  },
+  {
+    "text_code": "title_dl_serv_idp",
+    "text_value": "আন্তঃৰাষ্ট্ৰীয় ড্ৰাইভিং অনুমতি পত্ৰ"
+  },
+  {
+    "text_code": "title_dl_services",
+    "text_value": "ড্ৰাইভিং লাইচেন্স সেৱাসমূহ"
+  },
+  {
+    "text_code": "title_dl_serv_no",
+    "text_value": "ড্ৰাইভিং লাইচেন্স নং."
+  },
+  {
+    "text_code": "label_dl_serv_req_sub_state",
+    "text_value": "অনুৰোধ ৰাজ্যত জমা দিয়ক"
+  },
+  {
+    "text_code": "label_dl_serv_req_sub_rto",
+    "text_value": "অনুৰোধ আৰটিঅ' ত জমা দিয়ক"
+  },
+  {
+    "text_code": "check_dl_serv_renewal_dl",
+    "text_value": "নবীকৰণৰ ডি এল"
+  },
+  {
+    "text_code": "check_dl_serv_change_addr",
+    "text_value": "ঠিকনা সলনি কৰা"
+  },
+  {
+    "text_code": "check_dl_serv_dupl_dl",
+    "text_value": "ডুপ্লিকেট ডি এল"
+  },
+  {
+    "text_code": "check_dl_serv_intern_dl_perm",
+    "text_value": "আন্তঃৰাষ্ট্ৰীয় ড্ৰাইভিং অনুমতি পত্ৰ"
+  },
+  {
+    "text_code": "check_dl_serv_extract_dl",
+    "text_value": "ডিএল নিষ্কাশন"
+  },
+  {
+    "text_code": "check_dl_serv_replacement_dl",
+    "text_value": "ডিএল সলনি কৰা"
+  },
+  {
+    "text_code": "title_dl_serv_my_dl",
+    "text_value": "মোৰ ড্ৰাইভিং লাইচেন্স"
+  },
+  {
+    "text_code": "title_dl_serv_enter_dl",
+    "text_value": "ড্ৰাইভিং লাইচেন্স প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "title_dl_serv_go_aval",
+    "text_value": "উপলব্ধ সেৱাৰ বাবে যাওক"
+  },
+  {
+    "text_code": "btn_reset",
+    "text_value": "ৰিছেট কৰক"
+  },
+  {
+    "text_code": "dl_serv_note",
+    "text_value": "আবেদন গ্ৰহণ কৰাটো আইনী বিধান অনুসৰি আপলোড কৰা তথ্য/নথিপত্ৰসমূহৰ সফল পৰীক্ষাৰ অধীনত হ’ব।"
+  },
+  {
+    "text_code": "dl_serv_note_faceless_rto",
+    "text_value": "উল্লেখিত সেৱাসমূহ মুখহীন আৰু সেয়েহে একেখিনিৰ বাবে আপুনি আৰ টি অ’লৈ যোৱাৰ প্ৰয়োজন নাই।"
+  },
+  {
+    "text_code": "label_dl_serv_mob_no",
+    "text_value": "মোবাইল নং."
+  },
+  {
+    "text_code": "label_dl_serv_update_mob",
+    "text_value": "মোবাইল নম্বৰ আপডেট কৰক"
+  },
+  {
+    "text_code": "title_dl_serv_terms_cond",
+    "text_value": "মই চৰ্ত আৰু নিয়মসমূহ পঢ়িছো আৰু একমত হৈছো"
+  },
+  {
+    "text_code": "edit_dl_serv_mob_no",
+    "text_value": "মোবাইল নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "edit_dl_serv_dob",
+    "text_value": "জন্ম তাৰিখ দিয়ক"
+  },
+  {
+    "text_code": "label_dl_serv_enter_otp",
+    "text_value": "ওটিপি সুমুৱাওক"
+  },
+  {
+    "text_code": "edit_dl_serv_enter_otp",
+    "text_value": "আপোনাৰ ওটিপি সুমুৱাওক"
+  },
+  {
+    "text_code": "btn_dl_serv_gen_otp",
+    "text_value": "ওটিপি সৃষ্টি কৰক"
+  },
+  {
+    "text_code": "title_dl_serv_click_updt_mob",
+    "text_value": "আপোনাৰ মোবাইল নম্বৰ আপডেট কৰিবলৈ ইয়াত ক্লিক কৰক।"
+  },
+  {
+    "text_code": "btn_dl_serv_downl_ackno",
+    "text_value": "স্বীকৃতি ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "btn_dl_serv_save_image",
+    "text_value": "ছবি হিচাপে সংৰক্ষণ কৰক"
+  },
+  {
+    "text_code": "title_dl_serv_view_details",
+    "text_value": "ডিএল বিৱৰণ চাওক"
+  },
+  {
+    "text_code": "title_dl_serv_exist_addr",
+    "text_value": "বৰ্তমানৰ ঠিকনা"
+  },
+  {
+    "text_code": "title_dl_serv_exist_curr_addr",
+    "text_value": "বৰ্তমানৰ বৰ্তমান ঠিকনা"
+  },
+  {
+    "text_code": "title_dl_serv_exist_perm_addr",
+    "text_value": "বৰ্তমানৰ স্থায়ী ঠিকনা"
+  },
+  {
+    "text_code": "title_dl_serv_new_curr_addr_detail",
+    "text_value": "নতুন বৰ্তমান ঠিকনাৰ বিৱৰণ"
+  },
+  {
+    "text_code": "label_dl_serv_valid_from",
+    "text_value": "বৈধ ৰ পৰা"
+  },
+  {
+    "text_code": "title_dl_serv_old_addr_detail",
+    "text_value": "পুৰণি ঠিকনাৰ বিৱৰণ"
+  },
+  {
+    "text_code": "label_dl_serv_state",
+    "text_value": "ৰাজ্য"
+  },
+  {
+    "text_code": "edit_dl_serv_selc_state",
+    "text_value": "অৱস্থা নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_district",
+    "text_value": "জিলা"
+  },
+  {
+    "text_code": "edit_dl_serv_selc_district",
+    "text_value": "জিলা নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_block",
+    "text_value": "তালুকা / ব্লক"
+  },
+  {
+    "text_code": "edit_dl_serv_selc_block",
+    "text_value": "তালুকা / ব্লক নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "radio_dl_serv_village",
+    "text_value": "গাওঁ"
+  },
+  {
+    "text_code": "radio_dl_serv_town",
+    "text_value": "চহৰ"
+  },
+  {
+    "text_code": "edit_dl_serv_selc_town",
+    "text_value": "গাঁও / চহৰ নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_hous_door_flat",
+    "text_value": "ঘৰ / দুৱাৰ / ফ্লেট নং."
+  },
+  {
+    "text_code": "edit_dl_serv_hous_door_flat",
+    "text_value": "ঘৰ / দুৱাৰ / ফ্লেট নং."
+  },
+  {
+    "text_code": "label_dl_serv_stree_loca_polic",
+    "text_value": "ৰাস্তা / স্থানীয় / আৰক্ষী থানা"
+  },
+  {
+    "text_code": "edit_dl_serv_stree_loca_polic",
+    "text_value": "ৰাস্তা / স্থানীয় / আৰক্ষী থানাত প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_landmark",
+    "text_value": "লেণ্ডমাৰ্ক"
+  },
+  {
+    "text_code": "edit_dl_serv_enter_landmark",
+    "text_value": "লেণ্ডমাৰ্ক প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_pincode",
+    "text_value": "পিনকোড"
+  },
+  {
+    "text_code": "edit_dl_serv_enter_pincode",
+    "text_value": "পিনকোড দিয়ক"
+  },
+  {
+    "text_code": "check_dl_serv_same_curr_addr",
+    "text_value": "নতুন বৰ্তমান ঠিকনাৰ দৰেই"
+  },
+  {
+    "text_code": "title_dl_serv_new_perm_addr",
+    "text_value": "নতুন স্থায়ী ঠিকনাৰ বিৱৰণ"
+  },
+  {
+    "text_code": "title_dl_serv_detail_extr",
+    "text_value": "নিষ্কাশন ডিএল ৰ বিৱৰণ"
+  },
+  {
+    "text_code": "label_dl_serv_reason",
+    "text_value": "কাৰণ"
+  },
+  {
+    "text_code": "edit_dl_serv_sel_reason",
+    "text_value": "কাৰণ নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_enter_reas_manul",
+    "text_value": "কাৰণ হস্তচালিতভাৱে সুমুৱাওক"
+  },
+  {
+    "text_code": "label_dl_serv_note_detail",
+    "text_value": "মৃত্যুৰ ক্ষেত্ৰত মোৰ অংগ / কলা দান কৰিবলৈ ইচ্ছুক।"
+  },
+  {
+    "text_code": "radio_dl_serv_yes",
+    "text_value": "হয়"
+  },
+  {
+    "text_code": "radio_dl_serv_no",
+    "text_value": "নহয়"
+  },
+  {
+    "text_code": "edit_dl_serv_emer_cont_no",
+    "text_value": "আপোনাৰ জৰুৰীকালীন যোগাযোগ নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "title_dl_serv_applicant_detail",
+    "text_value": "আবেদনকাৰীৰ বিৱৰণ"
+  },
+  {
+    "text_code": "label_dl_serv_appl_no",
+    "text_value": "আবেদন নম্বৰ"
+  },
+  {
+    "text_code": "label_dl_serv_appl_date",
+    "text_value": "আবেদনৰ তাৰিখ"
+  },
+  {
+    "text_code": "title_dl_serv_upload_req_doc",
+    "text_value": "প্ৰয়োজনীয় নথিপত্ৰসমূহ আপল'ড কৰক"
+  },
+  {
+    "text_code": "title_dl_serv_allow_file_size",
+    "text_value": "নথিপত্ৰ ধৰণসমূহৰ অনুমতি দিয়ক (জেপেগ /জেপিজি /পিডিএফ) আৰু সৰ্বোচ্চ নথিপত্ৰৰ আকাৰ 200KB ।"
+  },
+  {
+    "text_code": "btn_dl_serv_upload_doc",
+    "text_value": "নথিপত্ৰ আপল'ড কৰক"
+  },
+  {
+    "text_code": "title_dl_serv_detail_duplicate",
+    "text_value": "ডুপ্লিকেট ডিএল ৰ বাবে বিৱৰণ"
+  },
+  {
+    "text_code": "label_dl_serv_birth_place",
+    "text_value": "জন্ম স্থান"
+  },
+  {
+    "text_code": "edit_dl_serv_enter_birth_plac",
+    "text_value": "নিজৰ জন্মস্থানত প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_birth_country",
+    "text_value": "জন্ম দেশ"
+  },
+  {
+    "text_code": "edit_dl_serv_selc_country",
+    "text_value": "দেশ নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_pass_no",
+    "text_value": "পাছপ’ৰ্ট নং"
+  },
+  {
+    "text_code": "edit_dl_serv_enter_pass_no",
+    "text_value": "আপোনাৰ পাছপ’ৰ্ট নং লিখক।"
+  },
+  {
+    "text_code": "label_dl_serv_valid_upto",
+    "text_value": "বৈধ উপ্ত "
+  },
+  {
+    "text_code": "edit_dl_serv_selc_pass_valid",
+    "text_value": "আপোনাৰ পাছপ’ৰ্টৰ বৈধতা নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_disqu_dl_drive",
+    "text_value": "গাড়ী চলোৱাৰ বাবে ড্ৰাইভিং লাইচেন্স লোৱাৰ বাবে আপুনি অযোগ্য ঘোষণা কৰিছেনে? যদি আছে, তেন্তে কি কাৰণ?"
+  },
+  {
+    "text_code": "label_dl_serv_what_reason",
+    "text_value": "যদি আছে কি কাৰণ"
+  },
+  {
+    "text_code": "label_dl_serv_barred_curr_count_drive",
+    "text_value": "বৰ্তমানৰ দেশখনে আপোনাক সেই দেশত গাড়ী চলোৱাত বাধা দিছেনে? যদি আছে, তেন্তে কি কাৰণত?"
+  },
+  {
+    "text_code": "label_dl_serv_count_visa_grant",
+    "text_value": "যি দেশৰ বাবে ভিছা প্ৰদান কৰা হৈছে"
+  },
+  {
+    "text_code": "label_dl_serv_click_restr_countr",
+    "text_value": "নিষিদ্ধ দেশসমূহৰ তালিকা চাবলৈ ইয়াত ক্লিক কৰক।"
+  },
+  {
+    "text_code": "label_dl_serv_visa_no",
+    "text_value": "ভিছা নং."
+  },
+  {
+    "text_code": "edit_dl_serv_enter_visa_no",
+    "text_value": "আপোনাৰ ভিছা নং লিখক।"
+  },
+  {
+    "text_code": "edit_dl_serv_selc_visa_valid",
+    "text_value": "আপোনাৰ ভিছাৰ বৈধতা নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_cov_grades_idp",
+    "text_value": "চি.ও.ভি. গ্ৰেড যাৰ বাবে আইডিপি অনুৰোধ কৰা হৈছে"
+  },
+  {
+    "text_code": "edit_dl_serv_selc_cov_grade",
+    "text_value": "চি.ও.ভি. গ্ৰেডসমূহ নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "check_dl_serv_im_indian_embas",
+    "text_value": "মই ভাৰতীয় দূতাবাসৰ"
+  },
+  {
+    "text_code": "label_dl_serv_indian_embas_name",
+    "text_value": "ভাৰতীয় দূতাবাসৰ নাম"
+  },
+  {
+    "text_code": "edit_dl_serv_enter_ind_embas_name",
+    "text_value": "আপোনাৰ ভাৰতীয় দূতাবাসৰ নাম দিয়ক"
+  },
+  {
+    "text_code": "label_dl_serv_embas_place",
+    "text_value": "দূতাবাস স্থান"
+  },
+  {
+    "text_code": "edit_dl_serv_enter_embas_place",
+    "text_value": "আপোনাৰ দূতাবাসৰ ঠাইত প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_fore_nat_mob_no",
+    "text_value": "বিদেশী জাতিৰ মোবাইল নম্বৰ"
+  },
+  {
+    "text_code": "edit_dl_serv_enter_fore_mob_no",
+    "text_value": "আপোনাৰ বিদেশী জাতিৰ মোবাইল নং লিখক।"
+  },
+  {
+    "text_code": "label_dl_serv_date_verif_embass",
+    "text_value": "দূতাবাসৰ দ্বাৰা পৰীক্ষণৰ তাৰিখ"
+  },
+  {
+    "text_code": "edit_dl_serv_date_verif_embass",
+    "text_value": "দূতাবাসৰ দ্বাৰা পৰীক্ষণৰ তাৰিখ প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_embsy_endor_no",
+    "text_value": "দূতাবাসৰ সমৰ্থন নম্বৰ"
+  },
+  {
+    "text_code": "edit_dl_serv_embsy_endor_no",
+    "text_value": "দূতাবাসৰ এণ্ডাৰছমেণ্ট নং প্ৰৱেশ কৰক।"
+  },
+  {
+    "text_code": "label_dl_serv_idp_applied_from",
+    "text_value": "আইডিপিৰ পৰা আবেদন কৰা হৈছে"
+  },
+  {
+    "text_code": "edit_dl_serv_idp_applied_from",
+    "text_value": "ৰ পৰা প্ৰয়োগ কৰা আইডিপি নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_enter_addr_forg_doc",
+    "text_value": "অনুগ্ৰহ কৰি যি বিদেশী ৰাষ্ট্ৰলৈ আইডিপি নথিপত্ৰ প্ৰেৰণ কৰিব লাগিব সেই ঠিকনাটো দিয়ক"
+  },
+  {
+    "text_code": "label_dl_serv_addr_one",
+    "text_value": "ঠিকনা ১"
+  },
+  {
+    "text_code": "label_dl_serv_addr_two",
+    "text_value": "ঠিকনা ২"
+  },
+  {
+    "text_code": "label_dl_serv_addr_three",
+    "text_value": "ঠিকনা ৩"
+  },
+  {
+    "text_code": "edit_dl_serv_enter_addr",
+    "text_value": "আপোনাৰ ঠিকনা দিয়ক"
+  },
+  {
+    "text_code": "label_dl_serv_click_cov_grade",
+    "text_value": "চি.ও.ভি. গ্ৰেডসমূহ ৰ বিৱৰণ চাবলৈ ইয়াত ক্লিক কৰক"
+  },
+  {
+    "text_code": "label_dl_serv_old_mob_no",
+    "text_value": "পুৰণি মোবাইল নম্বৰ"
+  },
+  {
+    "text_code": "label_dl_serv_new_mob_no",
+    "text_value": "নতুন মোবাইল নম্বৰ"
+  },
+  {
+    "text_code": "label_dl_serv_rem_rea",
+    "text_value": "মন্তব্য / কাৰণ"
+  },
+  {
+    "text_code": "edit_dl_serv_enter_reason",
+    "text_value": "কাৰণ লিখক"
+  },
+  {
+    "text_code": "label_dl_serv_rto",
+    "text_value": "আৰ টি অ’"
+  },
+  {
+    "text_code": "label_duplicate_dl_not_allowed_",
+    "text_value": "আপোনাৰ ড্ৰাইভিং লাইচেন্সৰ বাবে ডুপ্লিকেট ডি এল সেৱা প্ৰদানৰ অনুমতি দিয়া হোৱা নাই। কোনো সমস্যাৰ ক্ষেত্ৰত আমাক হেল্পডেস্ক-sarathi@gov.in ত মেইল ​​কৰক বা +91-0120-4925505 নম্বৰত ফোন কৰক"
+  },
+  {
+    "text_code": "label_idp_not_allowed_",
+    "text_value": "আপোনাৰ ড্ৰাইভিং লাইচেন্সৰ বাবে আন্তঃৰাষ্ট্ৰীয় ড্ৰাইভিং পাৰ্মিট সেৱাৰ অনুমতি নাই। কোনো সমস্যাৰ ক্ষেত্ৰত আমাক হেল্পডেস্ক-sarathi@gov.in ত মেইল ​​কৰক বা +91-0120-4925505 নম্বৰত ফোন কৰক"
+  },
+  {
+    "text_code": "label_replace_dl_not_allowed",
+    "text_value": "আপোনাৰ ড্ৰাইভিং লাইচেন্সৰ বাবে ডি এল সেৱা সলনি কৰাৰ অনুমতি নাই। কোনো সমস্যাৰ ক্ষেত্ৰত আমাক হেল্পডেস্ক-sarathi@gov.in ত মেইল ​​কৰক বা +91-0120-4925505 নম্বৰত ফোন কৰক"
+  },
+  {
+    "text_code": "label_coa_not_allowed",
+    "text_value": "আপোনাৰ ড্ৰাইভিং লাইচেন্সৰ বাবে ডি এল সেৱাত ঠিকনা সলনি কৰাৰ অনুমতি নাই। কোনো সমস্যাৰ ক্ষেত্ৰত আমাক হেল্পডেস্ক-sarathi@gov.in ত মেইল ​​কৰক বা +91-0120-4925505 নম্বৰত ফোন কৰক"
+  },
+  {
+    "text_code": "label_renewal_not_allowed",
+    "text_value": "আপোনাৰ ডি এলৰ ম্যাদ উকলি যোৱাৰ বাবে ড্ৰাইভিং দক্ষতা পৰীক্ষাৰ প্ৰয়োজন হ’ব।"
+  },
+  {
+    "text_code": "label_unable_details",
+    "text_value": "বিৱৰণ পাবলৈ অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক।"
+  },
+  {
+    "text_code": "label_went_wrong",
+    "text_value": "কিবা এটা ভুল হ'ল, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক।"
+  },
+  {
+    "text_code": "label_ddl_expired",
+    "text_value": "আপোনাৰ ড্ৰাইভিং লাইচেন্স ইতিমধ্যে ম্যাদ উকলি গৈছে, সেয়েহে ডুপ্লিকেট ড্ৰাইভিং লাইচেন্স সেৱা প্ৰদানৰ অনুমতি দিয়া হোৱা নাই। অনুগ্ৰহ কৰি পৰৱৰ্তী ব্যৱস্থাৰ বাবে আপোনাৰ ড্ৰাইভিং লাইচেন্স নবীকৰণ কৰক কোনো সমস্যাৰ ক্ষেত্ৰত অনুগ্ৰহ কৰি আমাক হেল্পডেস্ক-sarathi@gov.in ত মেইল ​​কৰক বা +91-0120-4925505 ত ফোন কৰক"
+  },
+  {
+    "text_code": "label_idp_expired",
+    "text_value": "আপোনাৰ ড্ৰাইভিং লাইচেন্স ইতিমধ্যে ম্যাদ উকলি গৈছে, সেয়েহে আন্তঃৰাষ্ট্ৰীয় ড্ৰাইভিং পাৰ্মিট সেৱা প্ৰদানৰ অনুমতি নাই। অনুগ্ৰহ কৰি পৰৱৰ্তী ব্যৱস্থাৰ বাবে আপোনাৰ ড্ৰাইভিং লাইচেন্স নবীকৰণ কৰক কোনো সমস্যাৰ ক্ষেত্ৰত অনুগ্ৰহ কৰি আমাক হেল্পডেস্ক-sarathi@gov.in ত মেইল ​​কৰক বা +91-0120-4925505 ত ফোন কৰক"
+  },
+  {
+    "text_code": "label_replacement_expired",
+    "text_value": "আপোনাৰ ড্ৰাইভিং লাইচেন্স ইতিমধ্যে ম্যাদ উকলি গৈছে, সেয়েহে ডি এল প্ৰতিস্থাপন সেৱা প্ৰদানৰ অনুমতি দিয়া হোৱা নাই। অনুগ্ৰহ কৰি পৰৱৰ্তী ব্যৱস্থাৰ বাবে আপোনাৰ ড্ৰাইভিং লাইচেন্স নবীকৰণ কৰক কোনো সমস্যাৰ ক্ষেত্ৰত অনুগ্ৰহ কৰি আমাক হেল্পডেস্ক-sarathi@gov.in ত মেইল ​​কৰক বা +91-0120-4925505 ত ফোন কৰক"
+  },
+  {
+    "text_code": "label_coa_expired",
+    "text_value": "আপোনাৰ ড্ৰাইভিং লাইচেন্স ইতিমধ্যে ম্যাদ উকলি গৈছে, সেয়েহে ঠিকনা সলনি কৰাৰ অনুমতি নাই। অনুগ্ৰহ কৰি পৰৱৰ্তী ব্যৱস্থাৰ বাবে আপোনাৰ ড্ৰাইভিং লাইচেন্স নবীকৰণ কৰক কোনো সমস্যাৰ ক্ষেত্ৰত অনুগ্ৰহ কৰি আমাক হেল্পডেস্ক-sarathi@gov.in ত মেইল ​​কৰক বা +91-0120-4925505 ত ফোন কৰক"
+  },
+  {
+    "text_code": "label_renewal_expired",
+    "text_value": "আপোনাৰ ডি এল বৈধ সেয়েহে আপোনাৰ ড্ৰাইভিং লাইচেন্সত বৰ্তমান ডি এল নবীকৰণ সেৱাৰ অনুমতি নাই।"
+  },
+  {
+    "text_code": "label_service_unavailable",
+    "text_value": "সেৱা সাময়িকভাৱে উপলব্ধ নহয়, অনুগ্ৰহ কৰি পিছত পুনৰ চেষ্টা কৰক।"
+  },
+  {
+    "text_code": "label_otp_sent_to_mobile",
+    "text_value": "আপোনাৰ মোবাইললৈ ওটিপি প্ৰেৰণ কৰা হৈছে"
+  },
+  {
+    "text_code": "label_house_flat_door",
+    "text_value": "ঘৰ / দুৱাৰ / ফ্লেট নং (ঠিকনা ১)"
+  },
+  {
+    "text_code": "label_street_loc_ps",
+    "text_value": "ৰাস্তা / স্থানীয় / আৰক্ষী থানা (ঠিকনা ২)"
+  },
+  {
+    "text_code": "label_loc_mark",
+    "text_value": "স্থান/লেণ্ডমাৰ্ক (ঠিকনা ৩)"
+  },
+  {
+    "text_code": "label_select_reason",
+    "text_value": "অনুগ্ৰহ কৰি কাৰণ নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_mb",
+    "text_value": "অনুগ্ৰহ কৰি মোবাইল নম্বৰ দিব"
+  },
+  {
+    "text_code": "label_want_to_proceed",
+    "text_value": "আপুনি নিশ্চিত নেকি, আপুনি আগবাঢ়িব বিচাৰে"
+  },
+  {
+    "text_code": "label_point_a",
+    "text_value": "অনুগ্ৰহ কৰি পইণ্ট A ত হয় / নাই বিকল্প নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_point_b",
+    "text_value": "অনুগ্ৰহ কৰি পইণ্ট B ত হয় / নাই বিকল্প নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_point_c",
+    "text_value": "অনুগ্ৰহ কৰি পইণ্ট C ত হয় / নাই বিকল্প নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_point_d",
+    "text_value": "অনুগ্ৰহ কৰি পইণ্ট D ত হয় / নাই বিকল্প নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_point_e",
+    "text_value": "অনুগ্ৰহ কৰি পইণ্ট E ত হয় / নাই বিকল্প নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "label_point_f",
+    "text_value": "অনুগ্ৰহ কৰি পইণ্ট F ত হয় / নাই বিকল্প নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "label_point_g",
+    "text_value": "অনুগ্ৰহ কৰি পইণ্ট G ত হয় / নাই বিকল্প নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "label_app_category",
+    "text_value": "আবেদনকাৰী শ্ৰেণী নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "label_general",
+    "text_value": "সাধাৰণ"
+  },
+  {
+    "text_code": "label_Repatriate",
+    "text_value": "প্ৰত্যাৱৰ্তন কৰা"
+  },
+  {
+    "text_code": "label_Refugees",
+    "text_value": "শৰণাৰ্থীসকল"
+  },
+  {
+    "text_code": "label_servicemen",
+    "text_value": "প্ৰাক্তন চাৰ্ভিচমেন"
+  },
+  {
+    "text_code": "label_foreigners",
+    "text_value": "বিদেশী (কূটনীতিবিদ নহয়)"
+  },
+  {
+    "text_code": "label_diplomat",
+    "text_value": "কূটনীতিবিদ (বিদেশী)"
+  },
+  {
+    "text_code": "label_oci",
+    "text_value": "অ’চিআই"
+  },
+  {
+    "text_code": "label_differently_abled",
+    "text_value": "ভিন্নভাৱে সক্ষম"
+  },
+  {
+    "text_code": "label_please_check_check_box",
+    "text_value": "ঘোষণা নিশ্চিত কৰিবলৈ অনুগ্ৰহ কৰি চেকবাক্সত ক্লিক কৰক"
+  },
+  {
+    "text_code": "label_select_doc",
+    "text_value": "নথিপত্ৰসমূহ নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "label_issuer_Designation",
+    "text_value": "জাৰীকৰ্তাৰ পদবী"
+  },
+  {
+    "text_code": "label_doc_number",
+    "text_value": "নথিপত্ৰ নম্বৰ"
+  },
+  {
+    "text_code": "label_contact_number",
+    "text_value": "যোগাযোগ নম্বৰ"
+  },
+  {
+    "text_code": "label_doc_issue_Date",
+    "text_value": "নথিপত্ৰ জাৰি কৰাৰ তাৰিখ"
+  },
+  {
+    "text_code": "label_Preview",
+    "text_value": "পূৰ্বদৰ্শন"
+  },
+  {
+    "text_code": "label_edit",
+    "text_value": "সম্পাদনা কৰক"
+  },
+  {
+    "text_code": "label_capture",
+    "text_value": "বন্দী কৰা"
+  },
+  {
+    "text_code": "label_gallery",
+    "text_value": "গেলেৰী"
+  },
+  {
+    "text_code": "label_view",
+    "text_value": "দৰ্শন"
+  },
+  {
+    "text_code": "label_e_sign",
+    "text_value": "পৰৱৰ্তী প্ৰক্ৰিয়াটো হ’ল ই-চাইন নথিপত্ৰ"
+  },
+  {
+    "text_code": "label_attach_document",
+    "text_value": "অনুগ্ৰহ কৰি নথিখন সংলগ্ন কৰক"
+  },
+  {
+    "text_code": "label_document_uploaded",
+    "text_value": "নথিপত্ৰসমূহ সফলতাৰে আপলোড কৰা হৈছে।"
+  },
+  {
+    "text_code": "label_photo_sign_uploaded",
+    "text_value": "ফটো আৰু স্বাক্ষৰ সফলতাৰে আপলোড কৰা হৈছে।"
+  },
+  {
+    "text_code": "label_name",
+    "text_value": "নাম."
+  },
+  {
+    "text_code": "label_sdf",
+    "text_value": "পুত্ৰ/পত্নী/কন্যা"
+  },
+  {
+    "text_code": "label_Instructions",
+    "text_value": "নিৰ্দেশনাসমূহ"
+  },
+  {
+    "text_code": "label_instructions_one",
+    "text_value": "পদক্ষেপ 1 : ফটো কেপচাৰ কৰক: 'কেপচাৰ' বুটামটো ক্লিক কৰিলে কেমেৰা খোল খাব আৰু ফটোখন কেপচাৰ কৰাৰ পিছত ফটো বক্সত দেখা যাব।"
+  },
+  {
+    "text_code": "label_instructions_three",
+    "text_value": "পদক্ষেপ ৩ : ফটো আপলোড কৰক আৰু স্বাক্ষৰ: 'ফটো আপলোড কৰক &amp; স্বাক্ষৰ' বুটাম, ধৰা পৰা ফটো আৰু নিৰ্বাচিত স্কেন কৰা স্বাক্ষৰ আপলোড কৰা হ'ব।"
+  },
+  {
+    "text_code": "label_instructions_two",
+    "text_value": "পদক্ষেপ ২: স্বাক্ষৰ আপলোড কৰক: 'গেলেৰী' বুটামটো ক্লিক কৰিলে গেলেৰী খোল খাব আৰু আপুনি আপলোড কৰিবলৈ স্বাক্ষৰ নিৰ্বাচন কৰিব পাৰিব, এবাৰ নিৰ্বাচন কৰিলে স্বাক্ষৰ বাকচত প্ৰদৰ্শিত হ'ব।"
+  },
+  {
+    "text_code": "label_spec_ps",
+    "text_value": "ফটো আৰু স্বাক্ষৰৰ নিৰ্দিষ্টকৰণ"
+  },
+  {
+    "text_code": "label_photo_dimensions",
+    "text_value": "১) ফটোৰ মাত্ৰাসমূহ - স্বয়ংক্ৰিয়ভাৱে সামঞ্জস্য কৰা হ'ব।\n2) স্বাক্ষৰৰ মাত্ৰাসমূহ - প্ৰস্থ ২৫৬ পিক্সেল x উচ্চতা ৬৪ পিক্সেল , প্ৰস্থ ১.৪ /৩.৫চে.মি. X উচ্চতা ০.৪৪/১.০৬চে.মি. (পছন্দ)।\n3) এই ফাইলসমূহৰ আকাৰ ১০kbৰ ভিতৰত হ'ব লাগে ~ 20kb.\n4) অনুমোদিত নথিপত্ৰৰ ধৰণসমূহ হ'ল - জেপেগ /জেপিজি /জেপেগ /জেপিজি ।"
+  },
+  {
+    "text_code": "label_upload_clear_photo",
+    "text_value": "সতৰ্কবাণী: অনুগ্ৰহ কৰি স্পষ্ট ফটো আৰু স্বাক্ষৰ আপলোড কৰক, অনুজ্ঞাপত্ৰত প্ৰিন্ট কৰাৰ বাবে প্ৰয়োজনীয়। বিফল হ'লে আবেদনখন আৰ টি অ’ ৰ দ্বাৰা নাকচ হ'ব পাৰে & এটা সতেজ প্ৰক্ৰিয়াৰ প্ৰয়োজন হ'ব।"
+  },
+  {
+    "text_code": "label_app_photo",
+    "text_value": "আবেদনকাৰীৰ ফটো"
+  },
+  {
+    "text_code": "label_app_signature",
+    "text_value": "আবেদনকাৰীৰ স্বাক্ষৰ"
+  },
+  {
+    "text_code": "label_avaialble",
+    "text_value": "উপলব্ধ"
+  },
+  {
+    "text_code": "label_booked",
+    "text_value": "বুকিং কৰা হৈছে"
+  },
+  {
+    "text_code": "label_holiday",
+    "text_value": "ছুটীৰ দিন"
+  },
+  {
+    "text_code": "label_yet_to_open",
+    "text_value": "এতিয়াও মুকলি কৰিবলৈ"
+  },
+  {
+    "text_code": "label_sure_to_book_slot",
+    "text_value": "আপুনি নিশ্চিতভাৱে স্লট নম্বৰ বুকিং কৰিবনে?"
+  },
+  {
+    "text_code": "label_slots_not_avl",
+    "text_value": "স্লট উপলব্ধ নহয়"
+  },
+  {
+    "text_code": "label_dl_Service_instered",
+    "text_value": "ডিএল/এলএল সেৱা নিযুক্তিৰ বিৱৰণ সফলভাৱে সন্নিৱিষ্ট কৰা হৈছে"
+  },
+  {
+    "text_code": "label_app_booking_successfully",
+    "text_value": "এপইণ্টমেণ্ট বুকিং সফলতাৰে"
+  },
+  {
+    "text_code": "label_app_date",
+    "text_value": "নিযুক্তিৰ তাৰিখ"
+  },
+  {
+    "text_code": "label_app_time",
+    "text_value": "নিযুক্তিৰ সময়"
+  },
+  {
+    "text_code": "label_app_submitted_successfully",
+    "text_value": "আপোনাৰ আবেদন সফলভাৱে দাখিল কৰা হৈছে।"
+  },
+  {
+    "text_code": "label_pdf_saved_in_download",
+    "text_value": "আপোনাৰ পিডিএফ ফাইলটো ডাউনলোড -> এমপৰিবাহন ফোল্ডাৰত সংৰক্ষণ কৰা হৈছে। পিডিএফ ফাইল চাবলৈ আপোনাৰ ফোনত এডোব ৰিডাৰ ইনষ্টল কৰিব লাগে"
+  },
+  {
+    "text_code": "label_no_app_avl_pdf",
+    "text_value": "পিডিএফ চাবলৈ কোনো এপ্লিকেচন উপলব্ধ নহয়"
+  },
+  {
+    "text_code": "label_view_form_2",
+    "text_value": "প্ৰপত্ৰ ২ চাওক"
+  },
+  {
+    "text_code": "label_view_form_1",
+    "text_value": "প্ৰপত্ৰ ১-এ চাওক"
+  },
+  {
+    "text_code": "label_view_forms",
+    "text_value": "প্ৰপত্ৰসমূহ চাওক"
+  },
+  {
+    "text_code": "label_view_fee_Receipt",
+    "text_value": "মাচুলৰ ৰচিদ চাওক"
+  },
+  {
+    "text_code": "label_app_number_is",
+    "text_value": "আপোনাৰ আবেদন সফলতাৰে জমা দিয়া হৈছে। অনুগ্ৰহ কৰি ভৱিষ্যতে ব্যৱহাৰৰ বাবে আবেদন নং আৰু স্বীকৃতি পত্ৰখন লগত ৰাখক। আপোনাৰ আবেদন নং হ'ল :"
+  },
+  {
+    "text_code": "label_app_for",
+    "text_value": "আবেদনৰ বাবে"
+  },
+  {
+    "text_code": "label_app_for_two",
+    "text_value": "সফলভাৱে দাখিল কৰা হৈছে, অনুগ্ৰহ কৰি ভৱিষ্যতে ব্যৱহাৰৰ বাবে আবেদন নং আৰু স্বীকৃতি আপোনাৰ লগত ৰাখক।"
+  },
+  {
+    "text_code": "label_app_for_three",
+    "text_value": " আপোনাৰ আবেদন নং হ'ল : "
+  },
+  {
+    "text_code": "label_app_for_four",
+    "text_value": "আপোনাৰ আবেদন সফলতাৰে জমা দিয়া হৈছে। অনুগ্ৰহ কৰি ভৱিষ্যতে ব্যৱহাৰৰ বাবে স্বীকৃতি পত্ৰখন লগত ৰাখক।"
+  },
+  {
+    "text_code": "label_form_4",
+    "text_value": "প্ৰপত্ৰ ৪-এ চাওক"
+  },
+  {
+    "text_code": "label_ack_slip",
+    "text_value": "স্বীকৃতি স্লিপ সফলভাৱে সংৰক্ষণত সংৰক্ষণ কৰা হৈছে"
+  },
+  {
+    "text_code": "label_form1_download",
+    "text_value": "প্ৰপত্ৰ ১-এ সংৰক্ষণত সফলতাৰে সংৰক্ষণ কৰা হয়"
+  },
+  {
+    "text_code": "label_form2_download",
+    "text_value": "প্ৰপত্ৰ ২ সংৰক্ষণত সফলতাৰে সংৰক্ষণ কৰা হয়"
+  },
+  {
+    "text_code": "label_form4_download",
+    "text_value": "প্ৰপত্ৰ ৪-এ সংৰক্ষণত সফলতাৰে সংৰক্ষণ কৰা হয়"
+  },
+  {
+    "text_code": "no_details",
+    "text_value": "কোনো সবিশেষ উপলব্ধ নহয়।"
+  },
+  {
+    "text_code": "select_rto",
+    "text_value": "অনুগ্ৰহ কৰি আৰ টি অ’ নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "service_is_not_availaible",
+    "text_value": "সেৱা অস্থায়ীভাৱে উপলব্ধ নহয় কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "plz_accept_term_conditions",
+    "text_value": "অনুগ্ৰহ কৰি চৰ্ত আৰু নিয়মসমূহ গ্ৰহণ কৰক"
+  },
+  {
+    "text_code": "time_remaining",
+    "text_value": "সময় বাকী আছে"
+  },
+  {
+    "text_code": "otp_resent",
+    "text_value": "ধঊঝ সফলতাৰে পুনৰ প্ৰেৰণ কৰা হৈছে।"
+  },
+  {
+    "text_code": "dl_no",
+    "text_value": "ডি এল নং। : "
+  },
+  {
+    "text_code": "select_app_cat",
+    "text_value": "অনুগ্ৰহ কৰি আবেদনকাৰীৰ শ্ৰেণী নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "select_state",
+    "text_value": "অনুগ্ৰহ কৰি বৰ্তমান অৱস্থা নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "select_district",
+    "text_value": "অনুগ্ৰহ কৰি বৰ্তমানৰ জিলা নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "select_taluka",
+    "text_value": "অনুগ্ৰহ কৰি বৰ্তমানৰ তালুকা নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "select_landmark",
+    "text_value": "অনুগ্ৰহ কৰি বৰ্তমানৰ লেণ্ডমাৰ্ক দিয়ক"
+  },
+  {
+    "text_code": "select_pincode",
+    "text_value": "অনুগ্ৰহ কৰি বৰ্তমানৰ পিনক'ড দিয়ক"
+  },
+  {
+    "text_code": "select_pin_code",
+    "text_value": "অনুগ্ৰহ কৰি সঠিক পিনক'ড দিয়ক"
+  },
+  {
+    "text_code": "select_pstate",
+    "text_value": "অনুগ্ৰহ কৰি স্থায়ী ৰাজ্য নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "select_pdistrict",
+    "text_value": "অনুগ্ৰহ কৰি স্থায়ী জিলা বাছনি কৰক"
+  },
+  {
+    "text_code": "select_ptaluka",
+    "text_value": "অনুগ্ৰহ কৰি স্থায়ী তালুকা নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "select_plandmark",
+    "text_value": "অনুগ্ৰহ কৰি স্থায়ী লেণ্ডমাৰ্ক দিয়ক"
+  },
+  {
+    "text_code": "select_ppincode",
+    "text_value": "অনুগ্ৰহ কৰি স্থায়ী পিনক'ড দিয়ক"
+  },
+  {
+    "text_code": "select_ppin_code",
+    "text_value": "অনুগ্ৰহ কৰি স্থায়ী পিনক'ড দিয়ক"
+  },
+  {
+    "text_code": "current_add_details",
+    "text_value": "বৰ্তমান ঠিকনাৰ বিৱৰণ"
+  },
+  {
+    "text_code": "permanent_add_details",
+    "text_value": "স্থায়ী ঠিকনাৰ বিৱৰণ"
+  },
+  {
+    "text_code": "no_taluka_found",
+    "text_value": "নিৰ্বাচিত জিলাৰ বাবে কোনো তালুকা / ব্লক পোৱা নগ'ল"
+  },
+  {
+    "text_code": "no_vill_found",
+    "text_value": "নিৰ্বাচিত তালুকা/ব্লকৰ বাবে কোনো গাঁও/নগৰ পোৱা নগ'ল"
+  },
+  {
+    "text_code": "edit_dl_serv_valid_emer_cont_no",
+    "text_value": "অনুগ্ৰহ কৰি আপোনাৰ বৈধ জৰুৰীকালীন যোগাযোগ নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "confirm_declaration",
+    "text_value": "অনুগ্ৰহ কৰি ঘোষণা নিশ্চিত কৰক।"
+  },
+  {
+    "text_code": "disqualified_reason",
+    "text_value": "অযোগ্য কাৰণ কি ?"
+  },
+  {
+    "text_code": "barred_reason",
+    "text_value": "নিষিদ্ধ কাৰণ কি ?"
+  },
+  {
+    "text_code": "upload_file_types",
+    "text_value": "আপুনি কেৱল নথিপত্ৰৰ ধৰণ (ৰজাু/জ্প্গ/প্দ্ফ) আপল'ড কৰিব পাৰিব আৰু সৰ্বাধিক নথিপত্ৰৰ আকাৰ ২০০KB ।"
+  },
+  {
+    "text_code": "previous_date",
+    "text_value": "আপুনি পূৰ্বৰ তাৰিখ নিৰ্বাচন কৰিব নোৱাৰে"
+  },
+  {
+    "text_code": "reg_authority",
+    "text_value": "পঞ্জীয়ন কৰ্তৃপক্ষ (কোড)"
+  },
+  {
+    "text_code": "save_receipt",
+    "text_value": "আপুনি পেমেন্ট ৰচিদ সংৰক্ষণ কৰিব বিচাৰেনে ?"
+  },
+  {
+    "text_code": "download",
+    "text_value": "ডাউনল’ড"
+  },
+  {
+    "text_code": "view_slip",
+    "text_value": "এপইণ্টমেণ্ট স্লিপ চাওক"
+  },
+  {
+    "text_code": "app_slip_saved",
+    "text_value": "এপইণ্টমেণ্ট ৰচিদ সফলতাৰে সংৰক্ষণত সংৰক্ষণ কৰা হয়"
+  },
+  {
+    "text_code": "label_challan_status",
+    "text_value": "চেলান ষ্টেটাছ"
+  },
+  {
+    "text_code": "label_challan_number",
+    "text_value": "চেলান নম্বৰ"
+  },
+  {
+    "text_code": "label_challan_vehicle_number",
+    "text_value": "বাহনৰ নম্বৰ"
+  },
+  {
+    "text_code": "label_challan_dl_number",
+    "text_value": "ড্ৰাইভিং লাইচেন্স নম্বৰ"
+  },
+  {
+    "text_code": "label_challan_my_vehicle_no",
+    "text_value": "মোৰ বাহন(সমূহ)"
+  },
+  {
+    "text_code": "label_challan_my_dl_number",
+    "text_value": "মোৰ ড্ৰাইভিং লাইচেন্স"
+  },
+  {
+    "text_code": "label_view_challan",
+    "text_value": "চালান চাওক"
+  },
+  {
+    "text_code": "label_challan_enter_vehicle_no",
+    "text_value": "বাহনৰ নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "label_challan_chassis_no",
+    "text_value": "চেছিছ নং (শেষ পাঁচটা অংক দিয়ক)"
+  },
+  {
+    "text_code": "label_challan_enter_chassis_no",
+    "text_value": "চেছিছ নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "label_challan_engine_no",
+    "text_value": "ইঞ্জিন নং (শেষ পাঁচটা অংক দিয়ক)"
+  },
+  {
+    "text_code": "label_challan_enter_engine_no",
+    "text_value": "ইঞ্জিন নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "label_challan_enter_challan_no",
+    "text_value": "চেলান নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "label_challan_vehicle_no",
+    "text_value": "বাহন নং"
+  },
+  {
+    "text_code": "label_challan_view_receipt",
+    "text_value": "ৰচিদ চাওক"
+  },
+  {
+    "text_code": "label_challan_please_wait",
+    "text_value": "অনুগ্ৰহ কৰি অপেক্ষা কৰক..."
+  },
+  {
+    "text_code": "label_challan_get_details",
+    "text_value": "বিৱৰণ লাভ কৰক"
+  },
+  {
+    "text_code": "label_challan_dl_no",
+    "text_value": "ড্ৰাইভিং লাইচেন্স নং"
+  },
+  {
+    "text_code": "label_challan_enter_dl_no",
+    "text_value": "ড্ৰাইভিং লাইচেন্স নং"
+  },
+  {
+    "text_code": "label_challan_please_select_one_search_type",
+    "text_value": "অনুগ্ৰহ কৰি এটা সন্ধানৰ ধৰণ বাছক"
+  },
+  {
+    "text_code": "label_challan_please_enter_challan_no",
+    "text_value": "অনুগ্ৰহ কৰি হাল্লান নম্বৰ লিখক"
+  },
+  {
+    "text_code": "label_challan_enter_first_two_char_as_state",
+    "text_value": "অনুগ্ৰহ কৰি প্ৰথম দুটা আখৰ ষ্টেট ক'ড হিচাপে দিয়ক"
+  },
+  {
+    "text_code": "label_challan_min_length_validation",
+    "text_value": "অনুগ্ৰহ কৰি নূন্যতম ১২টা আখৰৰ চালান নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "label_challan_max_length_validation",
+    "text_value": "অনুগ্ৰহ কৰি সৰ্বাধিক ৩০ আখৰৰ চালান নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "label_challan_please_enter_vehicle_no",
+    "text_value": "অনুগ্ৰহ কৰি বাহনৰ নম্বৰ দিব"
+  },
+  {
+    "text_code": "label_challan_min_char_vehicle_no",
+    "text_value": "বাহন নম্বৰে min 4 আখৰৰ অনুমতি দিয়ে।"
+  },
+  {
+    "text_code": "label_challan_rc_validation",
+    "text_value": "অনুগ্ৰহ কৰি বাহনৰ নম্বৰ দিয়ক।\nকোনো বিশেষ আখৰ নথকা নূন্যতম ৪ আৰু সৰ্বাধিক ১০ আখৰ"
+  },
+  {
+    "text_code": "label_challan_invalid_vehicle_no",
+    "text_value": "অবৈধ বাহন নম্বৰ"
+  },
+  {
+    "text_code": "label_challan_valid_chassis_no",
+    "text_value": "অনুগ্ৰহ কৰি চেছিছ নং 1 ৰ বৈধ শেষৰ 5 অংকটো দিয়ক।"
+  },
+  {
+    "text_code": "label_challan_valid_engine_no",
+    "text_value": "অনুগ্ৰহ কৰি ইঞ্জিন নং ৩ ৰ বৈধ শেষ ৫ অংকটো দিয়ক"
+  },
+  {
+    "text_code": "label_challan_valid_dl_no",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ ডি এল নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "label_challan_min_char_dl_validation",
+    "text_value": "অনুগ্ৰহ কৰি ডি এল নম্বৰৰ নূন্যতম ১০ আখৰ দিয়ক"
+  },
+  {
+    "text_code": "label_challan_ok_dialog_text",
+    "text_value": "ঠিক আছে"
+  },
+  {
+    "text_code": "label_challan_enter_dl_get_details",
+    "text_value": "সবিশেষ পাবলৈ ডি এল নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "label_challan_search",
+    "text_value": "সন্ধান"
+  },
+  {
+    "text_code": "label_challan_all",
+    "text_value": "আটাইবোৰ"
+  },
+  {
+    "text_code": "label_challan_pending",
+    "text_value": "বাকী থকা"
+  },
+  {
+    "text_code": "label_challan_disposed",
+    "text_value": "নিষ্কাশন কৰা হৈছে"
+  },
+  {
+    "text_code": "label_challan_total",
+    "text_value": "মুঠ চালান : "
+  },
+  {
+    "text_code": "label_challan_not_found",
+    "text_value": "কোনো চালান পোৱা নাযায়"
+  },
+  {
+    "text_code": "label_challan_totals",
+    "text_value": "মুঠ হাল্লান :"
+  },
+  {
+    "text_code": "label_challan_view_details",
+    "text_value": "বিৱৰণ চাওক"
+  },
+  {
+    "text_code": "label_challan_payment",
+    "text_value": "পৰিশোধ"
+  },
+  {
+    "text_code": "label_challan_details",
+    "text_value": "চালান\nবিৱৰণ"
+  },
+  {
+    "text_code": "label_challan_receipt",
+    "text_value": "ৰচিদ"
+  },
+  {
+    "text_code": "label_challan_detail",
+    "text_value": "চালানৰ বিৱৰণ"
+  },
+  {
+    "text_code": "label_challan_owner_name",
+    "text_value": "মালিকৰ নাম"
+  },
+  {
+    "text_code": "label_challan_dl_rc_number",
+    "text_value": "ডি এল/আৰ চি নম্বৰ"
+  },
+  {
+    "text_code": "label_challan_state",
+    "text_value": "ৰাজ্য"
+  },
+  {
+    "text_code": "label_challan_no",
+    "text_value": "চালান নং।"
+  },
+  {
+    "text_code": "label_challan_date",
+    "text_value": "চালান তাৰিখ"
+  },
+  {
+    "text_code": "label_challan_amount",
+    "text_value": "পৰিমাণ"
+  },
+  {
+    "text_code": "label_challan_payment_status",
+    "text_value": "পেমেন্টৰ অৱস্থা"
+  },
+  {
+    "text_code": "label_challan_download",
+    "text_value": "ডাউনলোড হাল্লান"
+  },
+  {
+    "text_code": "label_challan_download_receipt",
+    "text_value": "পেমেন্ট ৰচিদ ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "label_challan_double_click_exit",
+    "text_value": "প্ৰস্থান কৰিবলৈ অনুগ্ৰহ কৰি আকৌ পিছলৈ ক্লিক কৰক"
+  },
+  {
+    "text_code": "label_challan_payment_search",
+    "text_value": "চেলান পেমেন্ট"
+  },
+  {
+    "text_code": "label_pay_your_challan",
+    "text_value": "পে ইউৰ চেলান"
+  },
+  {
+    "text_code": "label_challan_transaction_status",
+    "text_value": "লেনদেনৰ অৱস্থা"
+  },
+  {
+    "text_code": "label_challan_reprint_receipt",
+    "text_value": "পুনৰ্মুদ্ৰণ ৰচিদ"
+  },
+  {
+    "text_code": "label_challan_verify_payment",
+    "text_value": "পেমেন্ট পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "label_challan_pay_now",
+    "text_value": "পে নাও"
+  },
+  {
+    "text_code": "label_challan_pay_status",
+    "text_value": "স্থিতি"
+  },
+  {
+    "text_code": "label_challan_pay_paid",
+    "text_value": "পৰিশোধিত"
+  },
+  {
+    "text_code": "label_challan_payment_verification",
+    "text_value": "পেমেণ্ট ভেৰিফিকেচন প্ৰক্ৰিয়া চলি আছে। অনুগ্ৰহ কৰি ঠিক আছে বুটামত ক্লিক কৰক।"
+  },
+  {
+    "text_code": "label_challan_send_to_court",
+    "text_value": "আদালতলৈ তথ্য প্ৰেৰণ কৰক"
+  },
+  {
+    "text_code": "label_challan_court_name",
+    "text_value": "আদালতৰ নাম"
+  },
+  {
+    "text_code": "label_challan_court_add",
+    "text_value": "আদালতৰ ঠিকনা"
+  },
+  {
+    "text_code": "label_challan_send_to_court_on",
+    "text_value": "চেন্দ ত ঔৰ্ত অন"
+  },
+  {
+    "text_code": "label_challan_virtual_court_link",
+    "text_value": "ভাৰ্চুৱেল আদালতৰ পৰা অৱস্থা (ভাৰ্চুৱেল আদালতলৈ প্ৰেৰণ কৰা হাল্লান ৰ অৱস্থাৰ বাবে অনুগ্ৰহ কৰি https://vcourts.gov.in চাওক)"
+  },
+  {
+    "text_code": "label_challan_status_from_court",
+    "text_value": "ভাৰ্চুৱেল আদালতৰ পৰা ষ্টেটাছ"
+  },
+  {
+    "text_code": "label_challan_proceeding_data",
+    "text_value": "প্ৰচিডিং ডাটা"
+  },
+  {
+    "text_code": "label_challan_proceeding_date",
+    "text_value": "কাৰ্য্যবিধিৰ তাৰিখ"
+  },
+  {
+    "text_code": "label_challan_fine_imposed",
+    "text_value": "জৰিমনা আৰোপ কৰা হৈছে"
+  },
+  {
+    "text_code": "label_challan_party_name",
+    "text_value": "Party Name"
+  },
+  {
+    "text_code": "label_challan_contested_data",
+    "text_value": "প্ৰতিদ্বন্দ্বিতামূলক তথ্য"
+  },
+  {
+    "text_code": "label_challan_case_no",
+    "text_value": "গোচৰ নং"
+  },
+  {
+    "text_code": "label_challan_transfer_to_regular_court",
+    "text_value": "নিয়মীয়া আদালতৰ তথ্যলৈ স্থানান্তৰ কৰা হৈছে"
+  },
+  {
+    "text_code": "label_challan_ci_no",
+    "text_value": "চি আই নম্বৰ"
+  },
+  {
+    "text_code": "label_challan_court_number",
+    "text_value": "আদালতৰ নম্বৰ"
+  },
+  {
+    "text_code": "label_challan_getting_details",
+    "text_value": "বিবরণ পান..."
+  },
+  {
+    "text_code": "label_challan_print",
+    "text_value": "প্ৰিন্ট চেলান"
+  },
+  {
+    "text_code": "label_challan_print_receipt",
+    "text_value": "প্ৰিন্ট ৰচিদ"
+  },
+  {
+    "text_code": "label_challan_payment_is_pending",
+    "text_value": "এই চালানৰ বাবে পেমেণ্ট বাকী আছে"
+  },
+  {
+    "text_code": "label_challan_verify_payment_status",
+    "text_value": "চেলান পেমেন্ট পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "label_challan_no_payment_trans_pending",
+    "text_value": "কোনো ধৰণৰ পেমেণ্ট লেনদেন বাকী নাই"
+  },
+  {
+    "text_code": "label_verify_payment_status",
+    "text_value": "পেমেন্টৰ অৱস্থা পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "label_challan_violator_name",
+    "text_value": "উলংঘাকাৰীৰ নাম"
+  },
+  {
+    "text_code": "change_of_address_in_rc",
+    "text_value": "ঠিকনা সলনিৰ বাবে আবেদন RC ত এপ্লিকেচন নং. xxxxxxx123"
+  },
+  {
+    "text_code": "no_forms_available",
+    "text_value": "ডাউনলোড কৰিবলৈ কোনো ফৰ্ম উপলব্ধ নহয়।"
+  },
+  {
+    "text_code": "download_form_22",
+    "text_value": "প্ৰপত্ৰ ২২ ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_from_14",
+    "text_value": "ফৰ্ম14 ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_form_26",
+    "text_value": "প্ৰপত্ৰ ২৬ ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_From_28",
+    "text_value": "প্ৰপত্ৰ ২৮ ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_form_29",
+    "text_value": "ফৰ্ম29 ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_form_30",
+    "text_value": "ফৰ্ম30 ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_form_31",
+    "text_value": "ফৰ্ম31 ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_form_32",
+    "text_value": "ফৰ্ম32 ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_from_33",
+    "text_value": "ফৰ্ম33 ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_form_34",
+    "text_value": "ফৰ্ম34 ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_form_35",
+    "text_value": "ফৰ্ম ৩৫ ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "download_form_36",
+    "text_value": "ফৰ্ম36 ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "vehicle_no_dlyyxx0000",
+    "text_value": "বাহন নং (DLYYXX0000)"
+  },
+  {
+    "text_code": "view_vehicle_details",
+    "text_value": "বাহনৰ বিৱৰণ চাওক"
+  },
+  {
+    "text_code": "description",
+    "text_value": "বিৱৰণ"
+  },
+  {
+    "text_code": "service_charges",
+    "text_value": "সেৱাৰ চাৰ্জ"
+  },
+  {
+    "text_code": "fee_amount",
+    "text_value": "মাচুলৰ পৰিমাণ"
+  },
+  {
+    "text_code": "fine_amount",
+    "text_value": "জৰিমনা ৰাশি"
+  },
+  {
+    "text_code": "total_amount",
+    "text_value": "মুঠ ধনৰাশি"
+  },
+  {
+    "text_code": "new_current_address",
+    "text_value": "নতুন বৰ্তমান ঠিকনা"
+  },
+  {
+    "text_code": "new_permanent_address",
+    "text_value": "নতুন স্থায়ী ঠিকনা"
+  },
+  {
+    "text_code": "skip",
+    "text_value": "বাদ দিয়া"
+  },
+  {
+    "text_code": "change_of_address_in_rc2",
+    "text_value": "ঠিকনা সলনি আৰ চি ত"
+  },
+  {
+    "text_code": "existing_address",
+    "text_value": "বৰ্তমানৰ ঠিকনা"
+  },
+  {
+    "text_code": "current_address",
+    "text_value": "বৰ্তমানৰ ঠিকনা"
+  },
+  {
+    "text_code": "permanent_address",
+    "text_value": "স্থায়ী ঠিকনা"
+  },
+  {
+    "text_code": "select_date",
+    "text_value": "তাৰিখ নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "village_town_city",
+    "text_value": "গাঁও/নগৰ/নগৰ"
+  },
+  {
+    "text_code": "landmark_police_station",
+    "text_value": "লেণ্ডমাৰ্ক/পুলিচ ষ্টেচন"
+  },
+  {
+    "text_code": "same_as_current_address",
+    "text_value": "বৰ্তমানৰ ঠিকনাৰ দৰেই"
+  },
+  {
+    "text_code": "house_no_and_street_name",
+    "text_value": "ঘৰ নং আৰু ৰাস্তাৰ নাম"
+  },
+  {
+    "text_code": "owner_details",
+    "text_value": "মালিকৰ বিৱৰণ"
+  },
+  {
+    "text_code": "vehicle_details",
+    "text_value": "বাহনৰ সবিশেষ"
+  },
+  {
+    "text_code": "relation",
+    "text_value": "পুত্ৰ / কন্যা / পত্নীৰ"
+  },
+  {
+    "text_code": "as_per_aadhar",
+    "text_value": "এক্য় জনগাঁথনিৰ বিৱৰণ <font color=\"#008ed8\">(আধাৰ অনুসৰি)"
+  },
+  {
+    "text_code": "vehicle_class",
+    "text_value": "বাহন শ্ৰেণী"
+  },
+  {
+    "text_code": "maker_name",
+    "text_value": "নিৰ্মাতাৰ নাম"
+  },
+  {
+    "text_code": "maker_model",
+    "text_value": "মেকাৰ মডেল"
+  },
+  {
+    "text_code": "registration_date",
+    "text_value": "পঞ্জীয়নৰ তাৰিখ"
+  },
+  {
+    "text_code": "fuel_type",
+    "text_value": "ইন্ধনৰ প্ৰকাৰ"
+  },
+  {
+    "text_code": "norms_description",
+    "text_value": "নৰ্মছৰ বিৱৰণ"
+  },
+  {
+    "text_code": "fitness_valid_upto",
+    "text_value": "ফিটনেছ বৈধ উপ্ত"
+  },
+  {
+    "text_code": "tax_valid_upto",
+    "text_value": "কৰ বৈধ উপ্ত"
+  },
+  {
+    "text_code": "pucc_details",
+    "text_value": "পি ইউ চি চি সবিশেষ"
+  },
+  {
+    "text_code": "pucc_no",
+    "text_value": "পি ইউ চি চি নহয়."
+  },
+  {
+    "text_code": "pucc_valid_upto",
+    "text_value": "পি ইউ চি চি বৈধ উপ্ত"
+  },
+  {
+    "text_code": "insurance_details",
+    "text_value": "বীমাৰ বিৱৰণ"
+  },
+  {
+    "text_code": "insurance_policy_no",
+    "text_value": "বীমা পলিচি নং."
+  },
+  {
+    "text_code": "enter_insurance_policy_number",
+    "text_value": "বীমা পলিচি নং 10 লিখক"
+  },
+  {
+    "text_code": "insurance_company_name",
+    "text_value": "বীমা কোম্পানীৰ নাম"
+  },
+  {
+    "text_code": "insurance_company",
+    "text_value": "বীমা কোম্পানী"
+  },
+  {
+    "text_code": "insurance_valid_upto",
+    "text_value": "বীমা বৈধ উপ্ত"
+  },
+  {
+    "text_code": "financer_details",
+    "text_value": "বিত্তীয় বিষয়াৰ বিৱৰণ"
+  },
+  {
+    "text_code": "financed_from",
+    "text_value": "বিত্তীয় সাহায্যৰ পৰা প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "permit_details",
+    "text_value": "অনুমতিৰ বিৱৰণ"
+  },
+  {
+    "text_code": "permit_no",
+    "text_value": "অনুমতি পত্ৰ নং."
+  },
+  {
+    "text_code": "enter_permit_no",
+    "text_value": "অনুমতি নং প্ৰৱেশ কৰক।"
+  },
+  {
+    "text_code": "permit_type",
+    "text_value": "অনুমতিৰ ধৰণ"
+  },
+  {
+    "text_code": "enter_permit_type",
+    "text_value": "অনুমতিৰ ধৰণ দিয়ক"
+  },
+  {
+    "text_code": "permit_issue_date",
+    "text_value": "অনুমতি প্ৰদানৰ তাৰিখ লিখক"
+  },
+  {
+    "text_code": "permit_valid_from",
+    "text_value": "অনুমতি বৈধ পৰা"
+  },
+  {
+    "text_code": "enter_permit_valid_from",
+    "text_value": "ৰ পৰা বৈধ অনুমতি প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "permit_valid_upto",
+    "text_value": "অনুমতি বৈধ উপ্ত"
+  },
+  {
+    "text_code": "national_permit_no",
+    "text_value": "ৰাষ্ট্ৰীয় অনুমতি পত্ৰ নং."
+  },
+  {
+    "text_code": "national_permit_issued_by",
+    "text_value": "ৰাষ্ট্ৰীয় অনুমতি পত্ৰ প্ৰদান কৰা হৈছে"
+  },
+  {
+    "text_code": "enter_permit_issued_by",
+    "text_value": "দ্বাৰা জাৰি কৰা অনুমতি প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "national_permit_valid_upto",
+    "text_value": "ৰাষ্ট্ৰীয় অনুমতি পত্ৰ বৈধ উপ্ত"
+  },
+  {
+    "text_code": "redirect_link_to_application_status",
+    "text_value": "আপোনাৰ আবেদনৰ অৱস্থা পৰীক্ষা কৰিবলৈ ইয়াত ক্লিক কৰক।"
+  },
+  {
+    "text_code": "pay_tax",
+    "text_value": "পে টেক্স"
+  },
+  {
+    "text_code": "enter_vehicle_no",
+    "text_value": "বাহন নং প্ৰৱেশ কৰক।"
+  },
+  {
+    "text_code": "my_vehicles",
+    "text_value": "মোৰ বাহনসমূহ"
+  },
+  {
+    "text_code": "other_new_vehicle",
+    "text_value": "নতুন বাহনত প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "vehicle_no",
+    "text_value": "বাহন নং।"
+  },
+  {
+    "text_code": "enter_rc_no_for_pending_transaction",
+    "text_value": "বাহন নং 10 লিখক।"
+  },
+  {
+    "text_code": "enter_last_five_digits",
+    "text_value": "শেষৰ পাঁচটা অংক দিয়ক"
+  },
+  {
+    "text_code": "notes",
+    "text_value": "টোকা :- "
+  },
+  {
+    "text_code": "vehicle_service",
+    "text_value": "বাহন সেৱা"
+  },
+  {
+    "text_code": "vehicle_number",
+    "text_value": "বাহন নং।"
+  },
+  {
+    "text_code": "please_enter_aadhaar",
+    "text_value": "অনুগ্ৰহ কৰি আপোনাৰ আধাৰ বা ঈড (ভাৰ্চুৱেল আইডি) প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "aadhar_no",
+    "text_value": "আধাৰ নং।"
+  },
+  {
+    "text_code": "vid",
+    "text_value": "ৱিদ"
+  },
+  {
+    "text_code": "enter_aadhaar_number",
+    "text_value": "আধাৰ নম্বৰ লিখক"
+  },
+  {
+    "text_code": "agree_with_aadhar_terms",
+    "text_value": "মই পঢ়িছো আৰু <font color=\"#008ed8\"><b><u>আধাৰ ভিত্তিক ই-কেৱাইচি সন্মতি</u></b></font>ত সন্মতি দিছো"
+  },
+  {
+    "text_code": "resend_otp",
+    "text_value": "&#160;অ’টিপি পুনৰ প্ৰেৰণ কৰক"
+  },
+  {
+    "text_code": "faceless_services",
+    "text_value": "উল্লেখিত সেৱাসমূহ মুখহীন আৰু সেয়েহে একেটাৰ বাবে আপুনি আৰ টি অ’লৈ যোৱাৰ প্ৰয়োজন নাই।"
+  },
+  {
+    "text_code": "issue_of_duplicate_rc",
+    "text_value": "ডুপ্লিকেট আৰ চিৰ ইছ্যু"
+  },
+  {
+    "text_code": "hypothecation_addition",
+    "text_value": "হাইপ'থেকেচন যোগ"
+  },
+  {
+    "text_code": "hypothecation_termination",
+    "text_value": "হাইপ'থেকেচন টাৰ্মিনেচন"
+  },
+  {
+    "text_code": "hypothecation_continuation",
+    "text_value": "হাইপ’থেকেচন ধাৰাবাহিকতা"
+  },
+  {
+    "text_code": "no_objection_certificate_noc",
+    "text_value": "আপত্তিবিহীন প্ৰমাণপত্ৰ (NOC)"
+  },
+  {
+    "text_code": "otp_verification",
+    "text_value": "অ'টিপি পৰীক্ষণ"
+  },
+  {
+    "text_code": "nex_parivahan",
+    "text_value": "নেস্ত্গেন mপৰিবহণ"
+  },
+  {
+    "text_code": "blood_group",
+    "text_value": "ব্লাড গ্ৰুপ"
+  },
+  {
+    "text_code": "app_category",
+    "text_value": "আবেদনকাৰীৰ শ্ৰেণী"
+  },
+  {
+    "text_code": "dl_validation_msg",
+    "text_value": "অনুগ্ৰহ কৰি নূন্যতম ১০ আৰু সৰ্বাধিক ১৮টা আখৰ দিয়ক। কেৱল হাইফেন(-), ফৰৱাৰ্ড স্লেছ(/) আৰু স্থানৰ অনুমতি দিয়া হৈছে"
+  },
+  {
+    "text_code": "resend_otp_enabled",
+    "text_value": "পুনৰ প্ৰেৰণ অ’টিপি সামৰ্থবান কৰা হ'ব"
+  },
+  {
+    "text_code": "kindly_etner_correct_details",
+    "text_value": "অনুগ্ৰহ কৰি সঠিক বিৱৰণ দিয়ক"
+  },
+  {
+    "text_code": "please_enter_dl_details",
+    "text_value": "অনুগ্ৰহ কৰি ডি এলৰ বিৱৰণ দিয়ক"
+  },
+  {
+    "text_code": "please_enter_bd",
+    "text_value": "জন্ম তাৰিখ লিখক"
+  },
+  {
+    "text_code": "update_Mobile_No",
+    "text_value": "মোবাইল নং আপডেট কৰক।"
+  },
+  {
+    "text_code": "click_here",
+    "text_value": "ইয়াত ক্লিক কৰক"
+  },
+  {
+    "text_code": "to_view_the_list",
+    "text_value": "নিষিদ্ধ দেশৰ তালিকা চাবলৈ"
+  },
+  {
+    "text_code": "Email_id",
+    "text_value": "ইমেইল আইডি"
+  },
+  {
+    "text_code": "lbl_vahan_chassisNo_full",
+    "text_value": "চেছিছ নং (সম্পূৰ্ণ)"
+  },
+  {
+    "text_code": "no_input_required",
+    "text_value": "এই সেৱাৰ বাবে প্ৰয়োজনীয় কোনো ইনপুট সফলতাৰে গ্ৰহণ কৰা হোৱা নাই"
+  },
+  {
+    "text_code": "i_here_by_declare",
+    "text_value": "মই ইয়াৰ দ্বাৰা ঘোষণা কৰিছো যে মোৰ জ্ঞাতসাৰে আৰু ওপৰত দিয়া বিৱৰণসমূহ নিৰ্বাচন কৰি সত্য।মই ঘোষণা কৰিছো যে ওপৰত উল্লেখ কৰা তথ্য আৰু দাখিল কৰা তথ্যসমূহ মোৰ জ্ঞাত আৰু বিশ্বাস অনুসৰি সত্য আৰু প্ৰকৃত।"
+  },
+  {
+    "text_code": "detail_duplicate_dl",
+    "text_value": "ডুপ্লিকেট ডি এলৰ বাবে বিৱৰণ"
+  },
+  {
+    "text_code": "submit_request_to",
+    "text_value": "অনুৰোধটো জমা দিয়ক"
+  },
+  {
+    "text_code": "lbl_vahan_engineNo_full",
+    "text_value": "ইঞ্জিন নং(সম্পূৰ্ণ)"
+  },
+  {
+    "text_code": "lbl_vahan_registration_upto_date",
+    "text_value": "পঞ্জীয়ন আপটু ডেট"
+  },
+  {
+    "text_code": "lbl_vahan_enter_engine_no",
+    "text_value": "ইঞ্জিন নং লিখক"
+  },
+  {
+    "text_code": "lbl_vahan_enter_engine_no",
+    "text_value": "ইঞ্জিন নং লিখক।"
+  },
+  {
+    "text_code": "lbl_vahan_enter_application_number",
+    "text_value": "আবেদন নম্বৰ দিয়ক"
+  },
+  {
+    "text_code": "lbl_vahan_registration_number",
+    "text_value": "পঞ্জীয়ন নম্বৰ"
+  },
+  {
+    "text_code": "lbl_Verify_Payment_Status",
+    "text_value": "পেমেন্টৰ অৱস্থা পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "lbl_Dl_Application_Status",
+    "text_value": "ড্ৰাইভিং লাইচেন্স আবেদনৰ অৱস্থা"
+  },
+  {
+    "text_code": "lbl_Payment_Receipt",
+    "text_value": "পেমেন্টৰ ৰচিদ"
+  },
+  {
+    "text_code": "lbl_Payment_Success",
+    "text_value": "পেমেন্ট সফলতা"
+  },
+  {
+    "text_code": "btn_Download_Receipt",
+    "text_value": "ডাউনলোড ৰচিদ"
+  },
+  {
+    "text_code": "doc_documents",
+    "text_value": "দলিল"
+  },
+  {
+    "text_code": "select_documents",
+    "text_value": "দস্তাবেজসমূহ নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "issuer",
+    "text_value": "ইছ্যুকাৰীৰ পদবী"
+  },
+  {
+    "text_code": "doc_number",
+    "text_value": "নথিপত্ৰ নম্বৰ"
+  },
+  {
+    "text_code": "con_number",
+    "text_value": "যোগাযোগ নম্বৰ"
+  },
+  {
+    "text_code": "d_i_d",
+    "text_value": "নথিপত্ৰ ইছ্যুৰ তাৰিখ"
+  },
+  {
+    "text_code": "select_doc_type",
+    "text_value": "অনুগ্ৰহ কৰি ডো ধৰণ নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "lbl_State_Name",
+    "text_value": "ৰাজ্যৰ নাম"
+  },
+  {
+    "text_code": "lbl_dob",
+    "text_value": "জন্ম তাৰিখ"
+  },
+  {
+    "text_code": "lbl_Document_Upload",
+    "text_value": "নথিপত্ৰ আপল'ড"
+  },
+  {
+    "text_code": "lbl_Appointment",
+    "text_value": "সাক্ষাত্‍কাৰ"
+  },
+  {
+    "text_code": "lbl_Book_Appointment",
+    "text_value": "বুক এপইণ্টমেণ্ট"
+  },
+  {
+    "text_code": "enter_valid_otp",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ অ’টিপি লিখক"
+  },
+  {
+    "text_code": "enter_otp",
+    "text_value": "অনুগ্ৰহ কৰি অ’টিপি লিখক"
+  },
+  {
+    "text_code": "app_red",
+    "text_value": "মোবাইল নং সফলভাৱে আপডেট কৰা হৈছে \n এপটোৱে ডেচব'ৰ্ডলৈ পুনৰনিৰ্দেশিত হৈছে"
+  },
+  {
+    "text_code": "View_Forms",
+    "text_value": "ফৰ্মসমূহ চাওক"
+  },
+  {
+    "text_code": "lbl_enter_name_as_per_aadhaar",
+    "text_value": "নাম লিখক (আধাৰ অনুসৰি)"
+  },
+  {
+    "text_code": "lbl_enter_mobileNo_as_per_aadhaar",
+    "text_value": "সেৱা প্ৰত্যাহাৰ কৰাৰ বাবে আপোনাৰ অনুৰোধ গ্ৰহণ কৰা হৈছে"
+  },
+  {
+    "text_code": "enter_New_Mobile_No",
+    "text_value": "নতুন মোবাইল নং প্ৰৱেশ কৰক।"
+  },
+  {
+    "text_code": "ekyc_terms_condition",
+    "text_value": "আধাৰ ভিত্তিক ই-কেৱাইচিৰ সন্মতি মই পঢ়িছো আৰু সন্মত হৈছে"
+  },
+  {
+    "text_code": "lbl_View_Form",
+    "text_value": "প্ৰপত্ৰ(সমূহ) চাওক"
+  },
+  {
+    "text_code": "lbl_Receipt_No.",
+    "text_value": "ৰচিদ নং।"
+  },
+  {
+    "text_code": "btn_Download_Fee_Receipt",
+    "text_value": "ডাউনলোড মাচুলৰ ৰচিদ"
+  },
+  {
+    "text_code": "lbl_Appointment_Slip_No",
+    "text_value": "এপইণ্টমেণ্ট স্লিপ নং"
+  },
+  {
+    "text_code": "lbl_Enter_Appointment_Slip_No",
+    "text_value": "এপইণ্টমেণ্ট স্লিপ নং"
+  },
+  {
+    "text_code": "btn_Download_Appointment_Slip",
+    "text_value": "এপইণ্টমেণ্ট স্লিপ ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "lbl_available_slot",
+    "text_value": "এপইণ্টমেণ্ট বুকিং কৰিবলৈ উপলব্ধ স্লট নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "lbl_no_slot_available_msg",
+    "text_value": "নিৰ্বাচিত তাৰিখত কোনো স্লট উপলব্ধ নহয়। অনুগ্ৰহ কৰি আৰ টি অ’ ৰ সৈতে যোগাযোগ কৰক।"
+  },
+  {
+    "text_code": "btn_Update",
+    "text_value": "নবীকৰণ"
+  },
+  {
+    "text_code": "lbl_Hypothecation_Details",
+    "text_value": "হাইপ'থেকেচনৰ বিৱৰণ"
+  },
+  {
+    "text_code": "lbl_Continuation_of_hypothecation",
+    "text_value": "হাইপ’থেকেচনৰ ধাৰাবাহিকতা"
+  },
+  {
+    "text_code": "lbl_Termination_of_hypothecation",
+    "text_value": "হাইপ’থেকেচনৰ সমাপ্তি"
+  },
+  {
+    "text_code": "lbl_NOC_Vehicle_Details",
+    "text_value": "NOC বাহনৰ সবিশেষ"
+  },
+  {
+    "text_code": "lbl_Reason_for_NOC",
+    "text_value": "এন অ চি লোৱাৰ কাৰণ"
+  },
+  {
+    "text_code": "lbl_Authority_To",
+    "text_value": "কৰ্তৃত্ব ত"
+  },
+  {
+    "text_code": "lbl_NCRB_clearance_No.",
+    "text_value": "এনচিআৰবিৰ ক্লিয়াৰেন্স নং."
+  },
+  {
+    "text_code": "lbl_Transferee_Name",
+    "text_value": "স্থানান্তৰিত ব্যক্তিৰ নাম"
+  },
+  {
+    "text_code": "lbl_Type",
+    "text_value": "প্ৰকাৰ"
+  },
+  {
+    "text_code": "lbl_Financer_Name",
+    "text_value": "বিত্তীয় ব্যক্তিৰ নাম"
+  },
+  {
+    "text_code": "lbl_Financer_Address",
+    "text_value": "বিত্তীয় ব্যক্তিৰ ঠিকনা"
+  },
+  {
+    "text_code": "lbl_Finance_From_Date",
+    "text_value": "বিত্ত তাৰিখৰ পৰা"
+  },
+  {
+    "text_code": "lbl_Finance_Upto_Date",
+    "text_value": "বিত্ত আজিলৈকে"
+  },
+  {
+    "text_code": "btn_Submit_Request",
+    "text_value": "অনুৰোধ জমা দিয়ক"
+  },
+  {
+    "text_code": "lbl_Fill_detail",
+    "text_value": "তলত দিয়া প্ৰয়োজনীয় সবিশেষ পূৰণ কৰক"
+  },
+  {
+    "text_code": "lbl_Remarks",
+    "text_value": "মন্তব্য"
+  },
+  {
+    "text_code": "lbl_FIR_No_Police_Report_No",
+    "text_value": "এফআইআৰ নং/আৰক্ষীৰ প্ৰতিবেদন নং।"
+  },
+  {
+    "text_code": "lbl_FIR_Date",
+    "text_value": "এফ আই আৰ তাৰিখ"
+  },
+  {
+    "text_code": "lbl_Police_Station",
+    "text_value": "থানা"
+  },
+  {
+    "text_code": "lbl_Hypothecation_Addition",
+    "text_value": "হাইপ'থেকেচন সংযোজন(এইচ পি এ)"
+  },
+  {
+    "text_code": "lbl_Hypothecation_Addition_Details",
+    "text_value": "হাইপ'থেকেচন সংযোজনৰ বিৱৰণ"
+  },
+  {
+    "text_code": "lbl_Enter_Finance_From_Date",
+    "text_value": "তাৰিখৰ পৰা বিত্তীয় প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "lbl_Enter_the_pincode",
+    "text_value": "পিনকোডটো দিয়ক"
+  },
+  {
+    "text_code": "lbl_Enter_the_Landmark_Police_station",
+    "text_value": "লেণ্ডমাৰ্ক/পুলিচ ষ্টেচনত প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "lbl_Enter_the_Village_Town_City",
+    "text_value": "গাঁও/নগৰ/চহৰত প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "lbl_Enter_the_House_no",
+    "text_value": "ঘৰ নং ৩ত প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "share",
+    "text_value": "ভাগ-বতৰা কৰা"
+  },
+  {
+    "text_code": "My_Virtual_DL",
+    "text_value": "মোৰ ভাৰ্চুৱেল ডি এল"
+  },
+  {
+    "text_code": "My_Virtual_RC",
+    "text_value": "মোৰ ভাৰ্চুৱেল আৰ চি"
+  },
+  {
+    "text_code": "police_Station",
+    "text_value": "থানা"
+  },
+  {
+    "text_code": "authority_sign",
+    "text_value": "ইছ্যু কৰা কৰ্তৃপক্ষৰ চিন"
+  },
+  {
+    "text_code": "aadhaarNo",
+    "text_value": "আধাৰ নং"
+  },
+  {
+    "text_code": "address",
+    "text_value": "ঠিকনা"
+  },
+  {
+    "text_code": "validity",
+    "text_value": "বৈধতা"
+  },
+  {
+    "text_code": "validity_nt",
+    "text_value": "বৈধতা (NT)"
+  },
+  {
+    "text_code": "indian_lic",
+    "text_value": "ইণ্ডিয়ান ইউনিয়নৰ ড্ৰাইভিং লাইচেন্স"
+  },
+  {
+    "text_code": "v_dl_l",
+    "text_value": "ভাৰ্চুৱেল ড্ৰাইভিং লাইচেন্স(সমূহ)"
+  },
+  {
+    "text_code": "Licensing_authority",
+    "text_value": "অনুজ্ঞাপত্ৰ কৰ্তৃপক্ষ"
+  },
+  {
+    "text_code": "vehicle_impound",
+    "text_value": "বাহন ইম্পাউণ্ড"
+  },
+  {
+    "text_code": "dl_search_txt",
+    "text_value": "ড্ৰাইভিং লাইচেন্স সন্ধান"
+  },
+  {
+    "text_code": "view_alert",
+    "text_value": "সতৰ্ক"
+  },
+  {
+    "text_code": "create_a_virtual_dl",
+    "text_value": "এটা ভাৰ্চুৱেল ডি এল সৃষ্টি কৰক"
+  },
+  {
+    "text_code": "recent_challan",
+    "text_value": "শেহতীয়া চালান"
+  },
+  {
+    "text_code": "driving_licence_impound",
+    "text_value": "ড্ৰাইভিং লাইচেন্স ইম্পাউণ্ড"
+  },
+  {
+    "text_code": "tap_notify",
+    "text_value": "যিকোনো বৈধতাৰ ম্যাদ উকলি যোৱাৰ ৩০ দিনৰ আগতে আমি আপোনাক জনাই দিম।"
+  },
+  {
+    "text_code": "tap_to_check",
+    "text_value": "ড্ৰাইভিং লাইচেন্স ইম্পাউণ্ড আৰু জব্দ নথিপত্ৰৰ অৱস্থা পৰীক্ষা কৰিবলে টেপ কৰক"
+  },
+  {
+    "text_code": "valid_till_trans",
+    "text_value": "অনুজ্ঞাপত্ৰ বৈধতা (পৰিবহন)"
+  },
+  {
+    "text_code": "valid_till",
+    "text_value": "বৈধতা"
+  },
+  {
+    "text_code": "permanent_address",
+    "text_value": "স্থায়ী ঠিকনা"
+  },
+  {
+    "text_code": "label_challan_owner_name",
+    "text_value": "মালিকৰ নাম"
+  },
+  {
+    "text_code": "last_update",
+    "text_value": "শেষ আপডেট"
+  },
+  {
+    "text_code": "virtual_dl",
+    "text_value": "ভাৰ্চুৱেল ডি এল"
+  },
+  {
+    "text_code": "v_d_l_c",
+    "text_value": "ভাৰ্চুৱেল ড্ৰাইভিং লাইচেন্স প্ৰমাণপত্ৰ"
+  },
+  {
+    "text_code": "clear_all",
+    "text_value": "সকলো পৰিষ্কাৰ কৰক"
+  },
+  {
+    "text_code": "recent_search",
+    "text_value": "শেহতীয়া সন্ধান"
+  },
+  {
+    "text_code": "create_v_dl",
+    "text_value": "ভাৰ্চুৱেল ডি এল সৃষ্টি কৰক"
+  },
+  {
+    "text_code": "not_create_v_dl",
+    "text_value": "আপুনি এটা ভাৰ্চুৱেল ডি এল সৃষ্টি কৰা নাই"
+  },
+  {
+    "text_code": "tr_valid",
+    "text_value": "টি আৰ বৈধতা"
+  },
+  {
+    "text_code": "label_view_challan",
+    "text_value": "চালান চাওক"
+  },
+  {
+    "text_code": "add_to_dash",
+    "text_value": "ভাৰ্চুৱেল ডি এল ৰ বাবে ডেচব'ৰ্ডত যোগ কৰক"
+  },
+  {
+    "text_code": "registering_auth_title",
+    "text_value": "অনুজ্ঞাপত্ৰ কৰ্তৃপক্ষ (কোড)"
+  },
+  {
+    "text_code": "registeringAuthTitle",
+    "text_value": "অনুজ্ঞাপত্ৰ কৰ্তৃপক্ষ"
+  },
+  {
+    "text_code": "makerTitle_t",
+    "text_value": "অনুজ্ঞাপত্ৰ বৈধতা (পৰিবহন)"
+  },
+  {
+    "text_code": "makerTitle",
+    "text_value": "অনুজ্ঞাপত্ৰ বৈধতা (অপৰিবহন)"
+  },
+  {
+    "text_code": "issue_date",
+    "text_value": "ইছ্যুৰ তাৰিখ"
+  },
+  {
+    "text_code": "vehicle_class",
+    "text_value": "বাহনৰ শ্ৰেণী"
+  },
+  {
+    "text_code": "holder_name",
+    "text_value": "ডি এল নম্বৰ ধাৰীৰ নাম"
+  },
+  {
+    "text_code": "dl_number",
+    "text_value": "ডি এল নম্বৰ"
+  },
+  {
+    "text_code": "dl_dashboard",
+    "text_value": "ডি এল ডেচব'ৰ্ড"
+  },
+  {
+    "text_code": "rc_dashboard",
+    "text_value": "আৰ চি ডেচব'ৰ্ড"
+  },
+  {
+    "text_code": "trans_services",
+    "text_value": "পৰিবহণ সেৱা"
+  },
+  {
+    "text_code": "my_docs",
+    "text_value": "মোৰ নথিপত্ৰসমূহ"
+  },
+  {
+    "text_code": "welcome",
+    "text_value": "স্বাগতম"
+  },
+  {
+    "text_code": "txt_md",
+    "text_value": "মোৰ লেনদেন"
+  },
+  {
+    "text_code": "txt_cs",
+    "text_value": "ভাৰ্চুৱেল নথিপত্ৰসমূহ"
+  },
+  {
+    "text_code": "inf_Serv",
+    "text_value": "তথ্য সেৱা"
+  },
+  {
+    "text_code": "txt_is",
+    "text_value": "তথ্য সেৱা"
+  },
+  {
+    "text_code": "no_doc",
+    "text_value": "কোনো নথিপত্ৰ উপলব্ধ নহয়"
+  },
+  {
+    "text_code": "avail_soon",
+    "text_value": "অতি সোনকালে উপলব্ধ"
+  },
+  {
+    "text_code": "documents",
+    "text_value": "দলিল"
+  },
+  {
+    "text_code": "avail_service_for_states",
+    "text_value": "ৰাজ্যসমূহৰ বাবে উপলব্ধ সেৱা "
+  },
+  {
+    "text_code": "my_profile",
+    "text_value": "মোৰ প্ৰফাইল"
+  },
+  {
+    "text_code": "near_by",
+    "text_value": "সমীপৰ"
+  },
+  {
+    "text_code": "log_out",
+    "text_value": "লগ আউট কৰক"
+  },
+  {
+    "text_code": "about_nexgen",
+    "text_value": "নেস্ত্গেন ৰ বিষয়ে"
+  },
+  {
+    "text_code": "rc_perticular",
+    "text_value": "আৰ চি পাৰ্টিকুলাৰ"
+  },
+  {
+    "text_code": "Hypothetication_endorsement",
+    "text_value": "হাইপ'থেটিকেচন এণ্ডাৰছমেণ্ট"
+  },
+  {
+    "text_code": "advisory",
+    "text_value": "পৰামৰ্শদাতা"
+  },
+  {
+    "text_code": "Draft_Notifications",
+    "text_value": "খচৰা জাননী"
+  },
+  {
+    "text_code": "ALL_FORMS",
+    "text_value": "সকলো প্ৰপত্ৰ"
+  },
+  {
+    "text_code": "motor_vehicle_dealers",
+    "text_value": "মটৰ গাড়ীৰ ডিলাৰ"
+  },
+  {
+    "text_code": "permit",
+    "text_value": "অনুমতি পত্র"
+  },
+  {
+    "text_code": "Addition_of_Class",
+    "text_value": "ক্লাছৰ সংযোজন"
+  },
+  {
+    "text_code": "vehicle_registration",
+    "text_value": "বাহন পঞ্জীয়ন"
+  },
+  {
+    "text_code": "vehicle_details",
+    "text_value": "বাহনৰ সবিশেষ"
+  },
+  {
+    "text_code": "About_Permit",
+    "text_value": "অনুমতিৰ বিষয়ে"
+  },
+  {
+    "text_code": "Act_Rules_Policies",
+    "text_value": "আইন, নিয়ম আৰু নীতি"
+  },
+  {
+    "text_code": "Fees_User_Charges",
+    "text_value": "মাচুল আৰু ব্যৱহাৰকাৰীৰ চাৰ্জ"
+  },
+  {
+    "text_code": "manual",
+    "text_value": "হাতপুথি"
+  },
+  {
+    "text_code": "faq_text",
+    "text_value": "সততে সোধা প্ৰশ্নসমূহ"
+  },
+  {
+    "text_code": "License_Related_Fees_and_Charges",
+    "text_value": "অনুজ্ঞাপত্ৰ সম্পৰ্কীয় মাচুল আৰু চাৰ্জ"
+  },
+  {
+    "text_code": "download_forms",
+    "text_value": "ফৰ্ম ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "receipt_date",
+    "text_value": "লাভৰ তাৰিখ"
+  },
+  {
+    "text_code": "delete",
+    "text_value": "বিলোপ"
+  },
+  {
+    "text_code": "issue_of_noc",
+    "text_value": "এন অ চিৰ ইছ্যু"
+  },
+  {
+    "text_code": "paymentDate",
+    "text_value": "পেমেন্টৰ তাৰিখ"
+  },
+  {
+    "text_code": "label_challan_state",
+    "text_value": "চালান ৰাজ্য"
+  },
+  {
+    "text_code": "label_challan_dl_number",
+    "text_value": "লাভৰ তাৰিখ"
+  },
+  {
+    "text_code": "help",
+    "text_value": "সহায়"
+  },
+  {
+    "text_code": "Challan_Transactions",
+    "text_value": "চেলান লেনদেন"
+  },
+  {
+    "text_code": "Vehicle_Transactions",
+    "text_value": "বাহনৰ লেনদেন"
+  },
+  {
+    "text_code": "Driving_Licence_Transactions",
+    "text_value": "ড্ৰাইভিং লাইচেন্সৰ লেনদেন"
+  },
+  {
+    "text_code": "Driving_Licence_Search_History",
+    "text_value": "ড্ৰাইভিং লাইচেন্স সন্ধান ইতিহাস"
+  },
+  {
+    "text_code": "Vehicle_Search_History",
+    "text_value": "বাহন অনুসন্ধান ইতিহাস"
+  },
+  {
+    "text_code": "Emergency_Service",
+    "text_value": "জৰুৰীকালীন সেৱা"
+  },
+  {
+    "text_code": "create_ep",
+    "text_value": "জৰুৰীকালীন প্ৰফাইল সৃষ্টি কৰক"
+  },
+  {
+    "text_code": "quick_access",
+    "text_value": "জৰুৰীকালীন সময়ত দ্ৰুত প্ৰৱেশৰ বাবে, জৰুৰীকালীন যোগাযোগ যোগ কৰক"
+  },
+  {
+    "text_code": "Manage_Contact",
+    "text_value": "যোগাযোগ ব্যৱস্থাপনা কৰক"
+  },
+  {
+    "text_code": "Call_Ambulance",
+    "text_value": "এম্বুলেন্সলৈ ফোন কৰক"
+  },
+  {
+    "text_code": "tap_102",
+    "text_value": "102 ডায়েল কৰিবলৈ ইয়াত টেপ কৰক"
+  },
+  {
+    "text_code": "tap_contacts",
+    "text_value": "পৰিচয়সমূহ অৱগত কৰিবলৈ টেপ কৰক"
+  },
+  {
+    "text_code": "Emergency_Contact",
+    "text_value": "জৰুৰীকালীন যোগাযোগ"
+  },
+  {
+    "text_code": "Add_Alarm",
+    "text_value": "এলাৰ্ম যোগ কৰক"
+  },
+  {
+    "text_code": "manage_contact",
+    "text_value": "আপোনাৰ জৰুৰীকালীন যোগাযোগসমূহ পৰিচালনা কৰক"
+  },
+  {
+    "text_code": "add_emergency_contact",
+    "text_value": "এটা জৰুৰীকালীন যোগাযোগ যোগ কৰক"
+  },
+  {
+    "text_code": "i_can_help",
+    "text_value": "জটিল মুহূৰ্তত মই সৰ্বোত্তম সহায় কৰিব পাৰো যদিহে মোৰ হাতত হাত আগবঢ়াব পৰা কোনোবা থাকে। আগবাঢ়ি যাওক আৰু কাৰোবাক যোগ কৰিবলৈ (+) বুটামটো টিপক।"
+  },
+  {
+    "text_code": "dl_suss_updated",
+    "text_value": "ড্ৰাইভিং লাইচেন্স সফলতাৰে আপডেট কৰা হৈছে"
+  },
+  {
+    "text_code": "unable_dlt_rc",
+    "text_value": "ভাৰ্চুৱেল আৰ চি মচি পেলাব নোৱাৰি, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "unable_dlt_dl",
+    "text_value": "ভাৰ্চুৱেল ডি এল মচি পেলাব নোৱাৰি, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "virtual_Device",
+    "text_value": "ডিভাইচ ভাৰ্চুৱেল যেন লাগে, অনুগ্ৰহ কৰি প্ৰকৃত ডিভাইচৰ সৈতে আগবাঢ়ক।"
+  },
+  {
+    "text_code": "rc_deleted",
+    "text_value": "ভাৰ্চুৱেল আৰ চি সফলতাৰে মচি পেলোৱা হৈছে"
+  },
+  {
+    "text_code": "enter_mpin",
+    "text_value": "অনুগ্ৰহ কৰি ম্পিন লিখক"
+  },
+  {
+    "text_code": "enter_valid_mpin",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ ম্পিন দিয়ক"
+  },
+  {
+    "text_code": "register_app",
+    "text_value": "ব্যৱহাৰকাৰীয়ে নেক্সটজেন পৰিবহন ৰ সৈতে সফলতাৰে পঞ্জীয়ন কৰিছে"
+  },
+  {
+    "text_code": "dl_created",
+    "text_value": "ভাৰ্চুৱেল ডি এল সফলতাৰে সৃষ্টি কৰা হৈছে।"
+  },
+  {
+    "text_code": "dl_updated",
+    "text_value": "ভাৰ্চুৱেল ডি এল সফলভাৱে আপডেইট কৰা হৈছে।"
+  },
+  {
+    "text_code": "unable_to_add_rc",
+    "text_value": "ভাৰ্চুৱেল RC যোগ কৰিব নোৱাৰি, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "unable_to_add_dl",
+    "text_value": "ভাৰ্চুৱেল DL সৃষ্টি কৰিব নোৱাৰি, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "vehicle_Added",
+    "text_value": "মোৰ বাহনখনে সফলতাৰে যোগ কৰিলে"
+  },
+  {
+    "text_code": "unable_to_Add_vehicle",
+    "text_value": "বাহনখন যোগ কৰিব নোৱাৰিলে, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "virtualrc_created",
+    "text_value": "ভাৰ্চুৱেল আৰ চি সফলতাৰে সৃষ্টি কৰা হৈছে"
+  },
+  {
+    "text_code": "virtualrc_updated",
+    "text_value": "ভাৰ্চুৱেল আৰ চি সফলতাৰে আপডেট কৰা হৈছে"
+  },
+  {
+    "text_code": "virtualdl_dltd",
+    "text_value": "ভাৰ্চুৱেল ডি এল সফলতাৰে মচি পেলোৱা হৈছে"
+  },
+  {
+    "text_code": "unable_to_crate_virtual_rc",
+    "text_value": "ভাৰ্চুৱেল আৰ চি সৃষ্টি কৰিব নোৱাৰি, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক।"
+  },
+  {
+    "text_code": "no_virtual_rc",
+    "text_value": "আপোনাৰ একাউণ্টৰ বাবে কোনো ভাৰ্চুৱেল আৰ চি পোৱা নগ'ল"
+  },
+  {
+    "text_code": "no_shared_rc_account",
+    "text_value": "আপোনাৰ একাউণ্টৰ বাবে কোনো Shared RC পোৱা নগ'ল"
+  },
+  {
+    "text_code": "no_shared_rc",
+    "text_value": "কোনো শ্বেয়াৰ কৰা হৈছে আৰ চি পোৱা নগ'ল"
+  },
+  {
+    "text_code": "number_mparivahan",
+    "text_value": "নম্বৰ পৰিবহন ত পঞ্জীয়ন কৰা হোৱা নাই"
+  },
+  {
+    "text_code": "no_rcv_rc_acc",
+    "text_value": "আপোনাৰ একাউণ্টৰ বাবে কোনো প্ৰাপ্ত কৰা হৈছে আৰ চি পোৱা নগ'ল"
+  },
+  {
+    "text_code": "no_rcv_rc",
+    "text_value": "কোনো প্ৰাপ্ত কৰা হৈছে আৰ চি পোৱা নগ'ল"
+  },
+  {
+    "text_code": "share_rc_deleted",
+    "text_value": "অংশীদাৰী আৰ চি সফলতাৰে মচি পেলোৱা হৈছে"
+  },
+  {
+    "text_code": "rcv_rc_deleted",
+    "text_value": "লাভ কৰা হৈছে আৰ চি সফলতাৰে মচি পেলোৱা হৈছে"
+  },
+  {
+    "text_code": "unable_share_rc_deleted",
+    "text_value": "অংশীদাৰী আৰ চি মচি পেলাব নোৱাৰি, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "unable_rcv_rc_deleted",
+    "text_value": "গ্ৰহণ কৰা আৰ চি মচি পেলাব নোৱাৰি, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "unable_update_rc",
+    "text_value": "ভাৰ্চুৱেল আৰ চি আপডেইট কৰিবলে অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "unable_update_dl",
+    "text_value": "ভাৰ্চুৱেল ডি এল আপডেইট কৰিবলে অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "no_virtual_dl_found",
+    "text_value": "কোনো ভাৰ্চুৱেল ডি এল পোৱা নগ'ল"
+  },
+  {
+    "text_code": "no_virtual_dl_found_acc",
+    "text_value": "আপোনাৰ একাউণ্টৰ বাবে কোনো ভাৰ্চুৱেল ডি এল পোৱা নগ'ল"
+  },
+  {
+    "text_code": "please_enter_valid_dob",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ ডো টো দিয়ক"
+  },
+  {
+    "text_code": "va_updated",
+    "text_value": "বাহনৰ সতৰ্কবাণী সফলতাৰে আপডেট কৰা হৈছে!"
+  },
+  {
+    "text_code": "unable_va_updated",
+    "text_value": "বাহন সতৰ্কবাণী আপডেইট কৰিব নোৱাৰি, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "follwoing_Services_allowed",
+    "text_value": "আপোনাৰ বৰ্তমান অৱস্থাৰ বাবে নিম্নলিখিত সেৱাসমূহৰ অনুমতি দিয়া হৈছে"
+  },
+  {
+    "text_code": "no_rc_search_history",
+    "text_value": "আপোনাৰ একাউণ্টৰ বাবে কোনো সন্ধান(সমূহ) ইতিহাস পোৱা নগ'ল।"
+  },
+  {
+    "text_code": "no_trans_history",
+    "text_value": "আপোনাৰ একাউণ্টৰ বাবে \n কোনো লেনদেন (সমূহ) পোৱা নগ'ল।"
+  },
+  {
+    "text_code": "refresh",
+    "text_value": "সতেজ কৰক।"
+  },
+  {
+    "text_code": "sure_to_dlt",
+    "text_value": "আপুনি নিশ্চিত নেকি, আপুনি মচি পেলাব বিচাৰে ?."
+  },
+  {
+    "text_code": "view_profile",
+    "text_value": "প্ৰফাইল চাওক"
+  },
+  {
+    "text_code": "edit_profile",
+    "text_value": "প্ৰফাইল সম্পাদনা কৰক"
+  },
+  {
+    "text_code": "update_profile",
+    "text_value": "আলেখ্যন আপডেইট কৰক"
+  },
+  {
+    "text_code": "valid_name",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ নাম দিয়ক"
+  },
+  {
+    "text_code": "enter_email",
+    "text_value": "অনুগ্ৰহ কৰি ইমেইল আইডি দিয়ক"
+  },
+  {
+    "text_code": "profile_updated",
+    "text_value": "আপোনাৰ প্ৰফাইল সফলভাৱে আপডেট কৰা হৈছে"
+  },
+  {
+    "text_code": "view_map",
+    "text_value": "মানচিত্ৰ চাওক"
+  },
+  {
+    "text_code": "tvPollutionChecking",
+    "text_value": "নিকটতম প্ৰদূষণ পৰীক্ষা কেন্দ্ৰ"
+  },
+  {
+    "text_code": "tvFuelPump",
+    "text_value": "নিকটতম ইন্ধন পাম্প"
+  },
+  {
+    "text_code": "tvHospital",
+    "text_value": "নিকটতম চিকিৎসালয়"
+  },
+  {
+    "text_code": "tvRto",
+    "text_value": "নিকটতম আৰ টি অ’"
+  },
+  {
+    "text_code": "change_mpain",
+    "text_value": "ম্পিন সলনি কৰক"
+  },
+  {
+    "text_code": "enter_old_pin",
+    "text_value": "আপোনাৰ পুৰণি ম্পিন সুমুৱাওক"
+  },
+  {
+    "text_code": "enter_new_pin",
+    "text_value": "নতুন ম্পিন সুমুৱাওক"
+  },
+  {
+    "text_code": "confirm_new_pin",
+    "text_value": "নতুন ম্পিন নিশ্চিত কৰক"
+  },
+  {
+    "text_code": "pin_changed",
+    "text_value": "আপোনাৰ ম্পিন সফলভাৱে সলনি হ'ল"
+  },
+  {
+    "text_code": "pin_not_match",
+    "text_value": "পুৰণি ম্পিন ৰ মিল নাই। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক"
+  },
+  {
+    "text_code": "six_digit_new_pin",
+    "text_value": "অনুগ্ৰহ কৰি নতুন ম্পিন টো দিয়ক"
+  },
+  {
+    "text_code": "six_digit_con_pin",
+    "text_value": "অনুগ্ৰহ কৰি নিশ্চিত ম্পিন লিখক"
+  },
+  {
+    "text_code": "six_digit_corr_pin",
+    "text_value": "অনুগ্ৰহ কৰি সঠিক ম্পিন লিখক"
+  },
+  {
+    "text_code": "raise_complain",
+    "text_value": "অভিযোগ উত্থাপন কৰক"
+  },
+  {
+    "text_code": "enter_remarks",
+    "text_value": "মন্তব্যসমূহ প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "attach",
+    "text_value": "সংলগ্ন কৰা"
+  },
+  {
+    "text_code": "veh_or_dl",
+    "text_value": "বাহন নং বা ড্ৰাইভিং লাইচেন্স নং প্ৰৱেশ কৰক।"
+  },
+  {
+    "text_code": "enter_challan_number",
+    "text_value": "চেলান নং প্ৰৱেশ কৰক।"
+  },
+  {
+    "text_code": "select_comp_type",
+    "text_value": "অনুগ্ৰহ কৰি অভিযোগৰ ধৰণ নিৰ্বাচন কৰক।"
+  },
+  {
+    "text_code": "select_sub_comp_type",
+    "text_value": "অনুগ্ৰহ কৰি উপ অভিযোগৰ ধৰণ নিৰ্বাচন কৰক।"
+  },
+  {
+    "text_code": "select_service",
+    "text_value": "অনুগ্ৰহ কৰি সেৱাটো নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "file_uploaded",
+    "text_value": "ফাইলটো সফলতাৰে আপলোড কৰা হৈছে।"
+  },
+  {
+    "text_code": "valid_vehicle_number",
+    "text_value": "অনুগ্ৰহ কৰি এটা বৈধ বাহন নং"
+  },
+  {
+    "text_code": "valid_dl_number",
+    "text_value": "অনুগ্ৰহ কৰি এটা বৈধ ড্ৰাইভিং লাইচেন্স নং 10 লিখক।"
+  },
+  {
+    "text_code": "valid_dl_or_vehicle_number",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ ড্ৰাইভিং লাইচেন্স নং বা বাহন নং লিখক।"
+  },
+  {
+    "text_code": "give_details",
+    "text_value": "আপোনাৰ অভিযোগৰ বিৱৰণ দিয়ক"
+  },
+  {
+    "text_code": "min_30_words",
+    "text_value": "অনুগ্ৰহ কৰি নূন্যতম ৩০ শব্দ লিখিব"
+  },
+  {
+    "text_code": "select_Category",
+    "text_value": "শ্ৰেণী নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "srch_rel_comp",
+    "text_value": "অনুসন্ধান সম্পৰ্কীয় অভিযোগ"
+  },
+  {
+    "text_code": "vd_rel_comp",
+    "text_value": "ভাৰ্চুৱেল নথিপত্ৰ সম্পৰ্কীয় অভিযোগ"
+  },
+  {
+    "text_code": "ts_rel_comp",
+    "text_value": "পৰিবহণ সেৱা সম্পৰ্কীয় অভিযোগ"
+  },
+  {
+    "text_code": "pucc",
+    "text_value": "পি ইউ চি চি"
+  },
+  {
+    "text_code": "mv_tax",
+    "text_value": "এম ভি টেক্স"
+  },
+  {
+    "text_code": "national_permit",
+    "text_value": "ৰাষ্ট্ৰীয় অনুমতি পত্ৰ"
+  },
+  {
+    "text_code": "Insurance",
+    "text_value": "বীমা"
+  },
+  {
+    "text_code": "unable_to_regsiter",
+    "text_value": "ব্যৱহাৰকাৰীক পঞ্জীয়ন কৰিব পৰা নাই। কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "unable_to_reset_mpin",
+    "text_value": "ম্পিন পুনৰায় সেট কৰিব নোৱাৰি, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক।"
+  },
+  {
+    "text_code": "verify_your_dl",
+    "text_value": "আপোনাৰ ডি এল পৰীক্ষা কৰক"
+  },
+  {
+    "text_code": "dl_alert_updated",
+    "text_value": "ড্ৰাইভিং লাইচেন্স সতৰ্কবাণী সফলতাৰে আপডেট কৰা হৈছে"
+  },
+  {
+    "text_code": "no_impound_dl",
+    "text_value": "অনুসন্ধান কৰা ডি এল নম্বৰৰ বিৰুদ্ধে কোনো বাহন বা জব্দ নথিপত্ৰ জব্দ কৰা নহয়।"
+  },
+  {
+    "text_code": "no_impound_rc",
+    "text_value": "তালাচী কৰা আৰ চি নম্বৰৰ বিৰুদ্ধে কোনো বাহন বা জব্দ নথি জব্দ কৰা নহ’ব।"
+  },
+  {
+    "text_code": "select_duration",
+    "text_value": "অনুগ্ৰহ কৰি সময়সীমা নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "Name_text",
+    "text_value": "নাম"
+  },
+  {
+    "text_code": "model_name",
+    "text_value": "মডেলৰ নাম"
+  },
+  {
+    "text_code": "vehicle_Description",
+    "text_value": "বাহনৰ বিৱৰণ"
+  },
+  {
+    "text_code": "color",
+    "text_value": "ৰং"
+  },
+  {
+    "text_code": "Seat_Capacity",
+    "text_value": "আসনৰ ক্ষমতা"
+  },
+  {
+    "text_code": "standing_Capacity",
+    "text_value": "ষ্টেণ্ডিং কেপাচিটি"
+  },
+  {
+    "text_code": "financier_Capacity",
+    "text_value": "বিত্তীয় বিষয়া"
+  },
+  {
+    "text_code": "Registering_Authority",
+    "text_value": "পঞ্জীয়ন কৰ্তৃপক্ষ"
+  },
+  {
+    "text_code": "notes_new",
+    "text_value": "যদি ওপৰত প্ৰদূষণৰ অৱস্থা প্ৰমাণপত্ৰ, বীমা, কৰ আদি উপলব্ধ নহয়, তেন্তে ভৌতিক নথি-পত্ৰৰ পৰা একেখিনি পৰীক্ষা কৰিব পাৰি"
+  },
+  {
+    "text_code": "note1",
+    "text_value": "বি:দ্ৰ:\nপঞ্জীয়ন প্ৰমাণপত্ৰৰ বাবে এই তথ্যসমূহ পথ পৰিবহণ আৰু ঘাইপথ মন্ত্ৰালয়ৰ ৰাষ্ট্ৰীয় পঞ্জীয়নত ইছ্যু কৰা কৰ্তৃপক্ষই প্ৰদান কৰা তথ্য অনুসৰি mParivahan দ্বাৰা সৃষ্টি কৰা হৈছে।\n\nএই নথিখন বৈদ্যুতিকভাৱে ব্যৱহাৰ কৰিলে আই টি আইন ২০০০ অনুসৰি বৈধ।"
+  },
+  {
+    "text_code": "shared_to",
+    "text_value": "শ্বেয়াৰ কৰা হৈছে"
+  },
+  {
+    "text_code": "shared_date",
+    "text_value": "শ্বেয়াৰ কৰা তাৰিখ"
+  },
+  {
+    "text_code": "Received_Date",
+    "text_value": "লাভ কৰা তাৰিখ"
+  },
+  {
+    "text_code": "vehicle_search",
+    "text_value": "বাহনৰ সন্ধান"
+  },
+  {
+    "text_code": "vehicle_age",
+    "text_value": "বাহনৰ বয়স"
+  },
+  {
+    "text_code": "vehicle_status",
+    "text_value": "বাহনৰ অৱস্থা"
+  },
+  {
+    "text_code": "vehicle_impound_status",
+    "text_value": "বাহন আৱদ্ধ আৰু জব্দ নথিপত্ৰৰ অৱস্থা পৰীক্ষা কৰিবলৈ টেপ কৰক"
+  },
+  {
+    "text_code": "create_vir_rc",
+    "text_value": "ভাৰ্চুৱেল আৰ চি সৃষ্টি কৰক"
+  },
+  {
+    "text_code": "create_vir_rc_already",
+    "text_value": "আপুনি ইতিমধ্যে ভাৰ্চুৱেল আৰ চি সৃষ্টি কৰিছে"
+  },
+  {
+    "text_code": "insurance_search",
+    "text_value": "বীমা সন্ধান"
+  },
+  {
+    "text_code": "pucc_Search",
+    "text_value": "পাক অনুসন্ধান"
+  },
+  {
+    "text_code": "share_rc",
+    "text_value": "শ্বেয়াৰ কৰক আৰ চি"
+  },
+  {
+    "text_code": "generate",
+    "text_value": "সৃষ্টি কৰা"
+  },
+  {
+    "text_code": "SAVE_AND_RETURN",
+    "text_value": "ঘৰলৈ উভতি যাওক"
+  },
+  {
+    "text_code": "ADD_MY_VEHICLE_S",
+    "text_value": "মোৰ বাহন(সমূহ) যোগ কৰক"
+  },
+  {
+    "text_code": "MY_VIRTUAL_RC_S",
+    "text_value": "মোৰ ভাৰ্চুৱেল আৰ চি(সমূহ)"
+  },
+  {
+    "text_code": "MY_VIRTUAL_VIEW",
+    "text_value": "ভাৰ্চুৱেল আৰ চি চাওক"
+  },
+  {
+    "text_code": "mobile_number_is_added",
+    "text_value": "ইফ হ্তে মবিলে নুম্বেৰ ইচ নত অৰ্ৰেত/আদ্দেদ, প্লেআচে লিক অন উপ্দাতে মবিলে ন."
+  },
+  {
+    "text_code": "proceed_with_adhar",
+    "text_value": "আধাৰ/ভিড লৈ আগবাঢ়ক"
+  },
+  {
+    "text_code": "proceed_with_mobile",
+    "text_value": "মোবাইল নং ৩ লৈ আগবাঢ়িব।"
+  },
+  {
+    "text_code": "BIRTH_COUNTRY",
+    "text_value": "জন্ম দেশ নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "no_history_found",
+    "text_value": "কোনো ইতিহাস পোৱা নাযায়"
+  },
+  {
+    "text_code": "Validate_with_Aadhaar",
+    "text_value": "আধাৰৰ সৈতে বৈধ কৰক"
+  },
+  {
+    "text_code": "enter_Existing_Owner_Name",
+    "text_value": "বাহন অনুসৰি বৰ্তমানৰ মালিকৰ নাম"
+  },
+  {
+    "text_code": "Enter_Existing_Mobile_No",
+    "text_value": "বৰ্তমানৰ মোবাইল নং 10 লিখক।"
+  },
+  {
+    "text_code": "lbl_owner_Mobile_no_as_per_Aadhaar",
+    "text_value": "বহানৰ মতে বৰ্তমানৰ মোবাইল নং"
+  },
+  {
+    "text_code": "lbl_New_Mobile_No",
+    "text_value": "নতুন মোবাইল নং."
+  },
+  {
+    "text_code": "help_support",
+    "text_value": "সহায় আৰু সমৰ্থন"
+  },
+  {
+    "text_code": "help_support_query",
+    "text_value": "নেস্ত্গেন ম্পাৰিৱাহান আপ্প সম্পৰ্কে যিকোনো প্ৰশ্নৰ বাবে, অনুগ্ৰহ কৰি আমাৰ সৈতে যোগাযোগ কৰক"
+  },
+  {
+    "text_code": "help_support_call",
+    "text_value": "অনুগ্ৰহ কৰি আমাক ফোন কৰক"
+  },
+  {
+    "text_code": "help_support_write",
+    "text_value": "আমাক লিখক"
+  },
+  {
+    "text_code": "friday_13_november",
+    "text_value": "১৩ নৱেম্বৰ শুকুৰবাৰ"
+  },
+  {
+    "text_code": "selected_date",
+    "text_value": "নিৰ্বাচিত তাৰিখ"
+  },
+  {
+    "text_code": "view_Details",
+    "text_value": "বিৱৰণ চাওক"
+  },
+  {
+    "text_code": "download_appointment_receipt",
+    "text_value": "নিযুক্তিৰ ৰচিদ ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "MY_VIRTUAL_VIEW_DL",
+    "text_value": "ভাৰ্চুৱেল ডি এল চাওক"
+  },
+  {
+    "text_code": "print_rc_particular",
+    "text_value": "আৰ চি বিশেষ প্ৰমাণপত্ৰ প্ৰিন্ট কৰক"
+  },
+  {
+    "text_code": "Document_Name_Text",
+    "text_value": "নথিপত্ৰৰ নাম"
+  },
+  {
+    "text_code": "Document_type_Text",
+    "text_value": "নথিপত্ৰৰ ধৰণ"
+  },
+ {
+    "text_code": "choose_language",
+    "text_value": "ভাষা বাছক"
+  },
+  {
+    "text_code": "language",
+    "text_value": "ভাষা"
+  },
+  {
+    "text_code": "update_mobile_msg",
+    "text_value": "যদি মোবাইল নংটো শুদ্ধ/সংযোজন হোৱা নাই, তেন্তে আপোনাৰ নম্বৰটো আপডেট কৰিবলৈ Update Mobile no ত ক্লিক কৰক"
+  },
+  {
+    "text_code": "otp_error_msg",
+    "text_value": "অটিপৃ পাবলৈ অক্ষম, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "View_Payment_Receipt",
+    "text_value": "পেমেন্ট ৰচিদ চাওক"
+  },
+  {
+    "text_code": "error_msg_to_leave",
+    "text_value": "আপুনি নিশ্চিতভাৱে যাব বিচাৰেনে?"
+  },
+  {
+    "text_code": "error_msg_record_not_found",
+    "text_value": "ৰেকৰ্ড পোৱা নগ'ল।"
+  },
+  {
+    "text_code": "msg_proceed",
+    "text_value": "আপুনি নিশ্চিত নেকি, আপুনি আগবাঢ়িব বিচাৰে?"
+  },
+  {
+    "text_code": "error_msg_fee_detail",
+    "text_value": "মাচুলৰ সবিশেষ পাবলৈ অক্ষম, কিছু সময়ৰ পিছত চেষ্টা কৰক!"
+  },
+  {
+    "text_code": "download_rc_particular",
+    "text_value": "আৰ চি পাৰ্টিকুলাৰ ডাউনলোড কৰক"
+  },
+  {
+    "text_code": "payment_failed",
+    "text_value": "পেমেন্ট ব্যৰ্থ"
+  },
+  {
+    "text_code": "payment_pending",
+    "text_value": "পেমেন্ট পেণ্ডিং"
+  },
+  {
+    "text_code": "or_lbl",
+    "text_value": "অথবা"
+  },
+  {
+    "text_code": "doc_uploaded_successfully",
+    "text_value": "নথিপত্ৰসমূহ সফলতাৰে আপলোড কৰা হৈছে।"
+  },
+  {
+    "text_code": "please_upload_all_documents",
+    "text_value": "অনুগ্ৰহ কৰি সকলো নথিপত্ৰ আপলোড কৰক"
+  },
+  {
+    "text_code": "please_upload_all_required_documents",
+    "text_value": "অনুগ্ৰহ কৰি সকলো প্ৰয়োজনীয় নথিপত্ৰ আপলোড কৰক"
+  },
+  {
+    "text_code": "camera_not_avaialble",
+    "text_value": "কেমেৰা উপলব্ধ নহয়"
+  },
+  {
+    "text_code": "gallery_not_avaialble",
+    "text_value": "ফটো গেলেৰী উপলব্ধ নহয়, অনুগ্ৰহ কৰি আপোনাৰ ফটো গেলেৰী চাওক"
+  },
+  {
+    "text_code": "HPA_Confirm",
+    "text_value": "হাইপ'থেকেচন যোগৰ বাবে আবেদন এপ্লিকেচন নং."
+  },
+  {
+    "text_code": "duplicate_Confirm",
+    "text_value": "ডুপ্লিকেট আৰ চি জাৰি কৰাৰ বাবে আবেদন আবেদন নং."
+  },
+  {
+    "text_code": "noc_Confirm",
+    "text_value": "আপত্তিবিহীন প্ৰমাণপত্ৰ (এন অ চি)ৰ বাবে আবেদন নং আবেদনৰ সৈতে খচৰাত সফলতাৰে সংৰক্ষণ কৰা হৈছে।"
+  },
+  {
+    "text_code": "HPT_Confirm",
+    "text_value": "হাইপ'থেকেচন টাৰ্মিনেচনৰ বাবে আবেদন এপ্লিকেচন নং."
+  },
+  {
+    "text_code": "change_of_Address_Confirm",
+    "text_value": "ঠিকনা সলনিৰ বাবে আবেদন RC ত এপ্লিকেচন নং."
+  },
+  {
+    "text_code": "image_size_error",
+    "text_value": "ছবিৰ আকাৰ ২০০ কেবিতকৈ বেছি হ’ব নালাগে"
+  },
+  {
+    "text_code": "pdf_size_error",
+    "text_value": "পিডিএফৰ আকাৰ ২০০ কেবিতকৈ বেছি হ’ব নালাগে"
+  },
+  {
+    "text_code": "appointment_book_msg",
+    "text_value": "আপোনাৰ এপইণ্টমেণ্ট বুকিং কৰা হৈছে এপইণ্টমেণ্ট হ’ল:"
+  },
+  {
+    "text_code": "for_application_no",
+    "text_value": "আবেদন নং:"
+  },
+  {
+    "text_code": "terms_conditions_error",
+    "text_value": "অনুগ্ৰহ কৰি চৰ্ত আৰু নিয়মসমূহ নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "correct_information_as_per_aadhaar",
+    "text_value": "আধাৰ অনুসৰি সঠিক তথ্য প্ৰৱেশ কৰাটো নিশ্চিত কৰক"
+  },
+  {
+    "text_code": "please_Select_the_reason",
+    "text_value": "অনুগ্ৰহ কৰি কাৰণটো বাছি লওক"
+  },
+  {
+    "text_code": "please_enter_the_remark",
+    "text_value": "অনুগ্ৰহ কৰি মন্তব্যটো দিয়ক"
+  },
+  {
+    "text_code": "please_enter_the_valid_fir_no",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ এফআইআৰ নং 10 লিখক।"
+  },
+  {
+    "text_code": "please_enter_fir_date",
+    "text_value": "অনুগ্ৰহ কৰি FIR তাৰিখ দিয়ক।"
+  },
+  {
+    "text_code": "please_enter_police_station",
+    "text_value": "অনুগ্ৰহ কৰি থানাত প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "are_you_sure_you_want_to_leave",
+    "text_value": "আপুনি নিশ্চিতভাৱে যাব বিচাৰেনে?"
+  },
+  {
+    "text_code": "please_enter_hypothentication_type",
+    "text_value": "অনুগ্ৰহ কৰি হাইপ'থেকেচনৰ ধৰণ দিয়ক"
+  },
+  {
+    "text_code": "please_enter_the_financer_name",
+    "text_value": "অনুগ্ৰহ কৰি বিত্তীয় সাহায্যৰ নাম লিখক"
+  },
+  {
+    "text_code": "please_enter_village_town_city",
+    "text_value": "অনুগ্ৰহ কৰি গাঁও/নগৰ/নগৰত প্ৰৱেশ কৰক"
+  },
+  {
+    "text_code": "please_select_the_state",
+    "text_value": "অনুগ্ৰহ কৰি ৰাজ্যখন নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "please_select_district",
+    "text_value": "অনুগ্ৰহ কৰি জিলাখন বাছনি কৰক"
+  },
+  {
+    "text_code": "please_enter_valid_pincode",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ পিনকোড সুমুৱাওক"
+  },
+  {
+    "text_code": "please_select_date",
+    "text_value": "অনুগ্ৰহ কৰি তাৰিখ নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "unable_to_process_your_request",
+    "text_value": "আপোনাৰ অনুৰোধ প্ৰক্ৰিয়াকৰণ কৰিব পৰা নাই।"
+  },
+  {
+    "text_code": "please_Select_hypothentication_option",
+    "text_value": "অনুগ্ৰহ কৰি হাইপ’থেকেচন বিকল্প নিৰ্ব্বাচন কৰক"
+  },
+  {
+    "text_code": "please_select_noc_reason",
+    "text_value": "অনুগ্ৰহ কৰি এনঅগ কাৰণ নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "please_select_authority",
+    "text_value": "অনুগ্ৰহ কৰি কৰ্তৃপক্ষ নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "please_select_ncrb_no",
+    "text_value": "অনুগ্ৰহ কৰি এনচিআৰবি নং।"
+  },
+  {
+    "text_code": "please_enter_name",
+    "text_value": "অনুগ্ৰহ কৰি নামটো দিব"
+  },
+  {
+    "text_code": "please_enter_valid_name",
+    "text_value": "অনুগ্ৰহ কৰি বৈধ নামটো দিয়ক"
+  },
+  {
+    "text_code": "label_contact_removed_successfully",
+    "text_value": "যোগাযোগ সফলতাৰে আঁতৰোৱা হ'ল"
+  },
+  {
+    "text_code": "label_phone_number",
+    "text_value": "ফোন নম্বৰ"
+  },
+  {
+    "text_code": "label_relation",
+    "text_value": "সম্পৰ্ক"
+  },
+  {
+    "text_code": "label_save",
+    "text_value": "সঞ্চয় কৰা"
+  },
+  {
+    "text_code": "label_please_select_relation",
+    "text_value": "অনুগ্ৰহ কৰি সম্পৰ্কটো নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_select_relation",
+    "text_value": "সম্পৰ্ক নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_contact_added_successfully",
+    "text_value": "যোগাযোগৰ বিৱৰণ সফলতাৰে যোগ কৰা হৈছে"
+  },
+  {
+    "text_code": "label_unable_add_contact",
+    "text_value": "যোগাযোগৰ বিৱৰণ যোগ কৰিব নোৱাৰিলে, অনুগ্ৰহ কৰি কিছু সময়ৰ পিছত চেষ্টা কৰক!"
+  },
+  {
+    "text_code": "label_contact_updated_successfully",
+    "text_value": "যোগাযোগৰ বিৱৰণ সফলতাৰে আপডেট কৰা হৈছে"
+  },
+  {
+    "text_code": "label_contact_failed_to_remove",
+    "text_value": "সংস্পৰ্শ আঁতৰোৱাত ব্যৰ্থ"
+  },
+  {
+    "text_code": "lbl_rc_particular_against_fee",
+    "text_value": "মাচুলৰ বিপৰীতে আৰ চিৰ বিৱৰণ"
+  },
+  {
+    "text_code": "label_not_find_location",
+    "text_value": "আপোনাৰ অৱস্থান বিচাৰি পোৱা নাই\nকিছু সময়ৰ পিছত চেষ্টা কৰক"
+  },
+  {
+    "text_code": "label_location",
+    "text_value": "অৱস্থান"
+  },
+  {
+    "text_code": "label_turn_on_your_loc",
+    "text_value": "আপোনাৰ অৱস্থান বন্ধ\nঅনুগ্ৰহ কৰি আপোনাৰ অৱস্থান অন কৰক"
+  },
+  {
+    "text_code": "photo_signature",
+    "text_value": "অনুগ্ৰহ কৰি ফটো & স্বাক্ষৰ নিৰ্বাচন কৰক"
+  },
+  {
+    "text_code": "label_loc_permission_required",
+    "text_value": "অৱস্থানৰ অনুমতিৰ প্ৰয়োজন মিপৰিবাহন এপ ক আপোনাৰ অৱস্থান ধৰা পেলাবলৈ অনুমতি দিয়ক"
+  },
+  {
+    "text_code": "label_phone_permission_required_to_call",
+    "text_value": "ফোন অনুমতি কল কৰিবলৈ প্ৰয়োজনীয়"
+  },
+  {
+    "text_code": "doc_mandatory",
+    "text_value": "অনুগ্ৰহ কৰি সকলো বাধ্যতামূলক নথিপত্ৰ আপলোড কৰক কৰক"
+  },
+  {
+    "text_code": "record_error_msg",
+    "text_value": "ৰেকৰ্ড উপলব্ধ নহয়"
+  },
+  {
+    "text_code": "label_no_notification",
+    "text_value": "কোনো জাননী নাই"
+  },
+  {
+    "text_code": "label_notify_user",
+    "text_value": "কিবা আহিলে আমি আপোনাক জনাই দিম।"
+  },
+  {
+    "text_code": "Final_Submission",
+    "text_value": "অনুগ্ৰহ কৰি সকলো প্ৰয়োজনীয় নথিপত্ৰ আপলোড কৰক তেতিয়া আপুনি আবেদনৰ চূড়ান্ত জমা দিব পাৰিব।"
+  },
+  {
+    "text_code": "declaration",
+    "text_value": "ঘোষণা"
+  },
+  {
+    "text_code": "app_version",
+    "text_value": "এপ সংস্কৰণ ২.০.১০৩"
+  },
+  {
+    "text_code": "clear_all_history",
+    "text_value": "আপুনি নিশ্চিত নেকি যে আপুনি সকলো সন্ধান ইতিহাস মচি পেলাব বিচাৰে ?"
+  },
+{
+  "text_code": "validRc",
+  "text_value": "অনুগ্ৰহ কৰি বৈধ আৰ চি নম্বৰ দিয়ক"
+},
+{
+  "text_code": "validchassi",
+  "text_value": "অনুগ্ৰহ কৰি বৈধ চেছিছ নম্বৰ দিয়ক"
+},
+{
+  "text_code": "validstate",
+  "text_value": "অনুগ্ৰহ কৰি ৰ বৈধ আৰ চি নম্বৰ দিয়ক"
+},
+{
+  "text_code": "addMyDl",
+  "text_value": "মোৰ ড্ৰাইভিং লাইচেন্স যোগ কৰক"
+},
+{
+  "text_code": "expired_on",
+  "text_value": "মেয়াদ উকলি গৈছে"
+},
+{
+  "text_code": "vehicle_alerts",
+  "text_value": "বাহনৰ সতৰ্কবাণী"
+},
+{
+  "text_code": "proceed_slot_booking",
+  "text_value": "আপুনি ভৱিষ্যতে বুকিং স্লটলৈ আগবাঢ়ি যোৱাটো নিশ্চিত নেকি?"
+},
+{
+  "text_code": "select_previous_slot_date",
+  "text_value": "আগৰ তাৰিখটো নিৰ্বাচন কৰিব নোৱাৰিব।"
+},
+{
+  "text_code": "slot_booking_not_available",
+  "text_value": "এই তাৰিখত বুকিং উপলব্ধ নহয়"
+},
+{
+  "text_code": "label_slot",
+  "text_value": "ছাঁদ"
+},
+{
+  "text_code": "label_slot_appointment_booked",
+  "text_value": "আপোনাৰ এপইণ্টমেণ্ট বুকিং কৰা হৈছে Appointment id is"
+},
+{
+  "text_code": "label_slot_booked_appointment_no",
+  "text_value": "আবেদন নং ৩ৰ বাবে।"
+},
+{
+  "text_code": "label_receipt_saved",
+  "text_value": "সংৰক্ষণত সফলতাৰে সংৰক্ষণ কৰা হৈছে"
+},
+
+]

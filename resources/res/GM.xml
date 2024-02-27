@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:tag="layout/activity_dl_extract_0" android:background="@color/light_gray" android:layout_width="match_parent" android:layout_height="match_parent" android:baselineAligned="false">
+    <LinearLayout android:orientation="vertical" android:id="@+id/header_layout" android:tag="binding_1" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:id="@+id/mHeader" layout="@layout/mvvm_header"/>
+        <include android:id="@+id/multi_head" android:visibility="gone" layout="@layout/multiheader"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="top|left|center_vertical|center_horizontal|center" android:orientation="vertical" android:background="@drawable/mvvm_linear" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="-2dp" android:layout_below="@+id/header_layout">
+        <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp">
+                    <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/never_mix" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/dl_no_txt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_4sdp" android:layout_marginTop="@dimen/_8sdp" android:layout_weight="1"/>
+                    <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/never_mix" android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/txt_view_details" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_5sdp" android:layout_marginTop="@dimen/_8sdp" android:layout_marginRight="@dimen/_15sdp" android:text="@string/view_dl_details"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:layout_marginTop="@dimen/_10sdp">
+                    <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="15sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/select_service" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:fontFamily="@font/poppins_regular"/>
+                    <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:padding="1dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <androidx.cardview.widget.CardView android:id="@+id/icon_image" android:layout_width="50dp" android:layout_height="50dp" android:layout_marginLeft="20dp" android:layout_centerHorizontal="true" app:cardCornerRadius="30dp">
+                            <ImageView android:layout_width="50dp" android:layout_height="50dp" android:src="@drawable/avtar_icon"/>
+                        </androidx.cardview.widget.CardView>
+                        <androidx.cardview.widget.CardView android:id="@+id/round_card_view" android:visibility="invisible" android:layout_width="50dp" android:layout_height="50dp" android:layout_marginLeft="0dp" android:layout_centerHorizontal="true" app:cardCornerRadius="30dp">
+                            <ImageView android:id="@+id/iv_report_traffic_violation_icon" android:visibility="gone" android:layout_width="50dp" android:layout_height="50dp"/>
+                        </androidx.cardview.widget.CardView>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:tag="binding_2" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:layout_marginRight="@dimen/_8sdp" android:layout_marginEnd="@dimen/_8sdp">
+                    <include android:id="@+id/psl" layout="@layout/photo_signature_link"/>
+                </LinearLayout>
+                <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:layout_marginStart="@dimen/_5sdp" android:layout_marginEnd="@dimen/_5sdp">
+                    <LinearLayout android:orientation="vertical" android:id="@+id/edit_text_layout_ca_details" android:padding="@dimen/_10sdp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:backgroundTint="#f1f6f8" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_bias="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+                        <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tv_detail_extr_dl" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Details of Extract DL"/>
+                        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/_10sdp" android:textColor="@color/black" android:id="@+id/tv_reason" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp" android:text="Reason" android:fontFamily="@font/roboto_medium"/>
+                        <EditText android:textSize="@dimen/_12sdp" android:id="@+id/id_dupdl_reason" android:background="@drawable/edit_text_style" android:paddingLeft="@dimen/_5sdp" android:layout_width="match_parent" android:layout_height="@dimen/_35sdp" android:layout_marginTop="@dimen/_8sdp" android:layout_marginRight="@dimen/_8sdp" android:layout_marginBottom="@dimen/_8sdp" android:hint="Select Reason" android:layout_marginEnd="@dimen/_2sdp" style="@style/SpinnerEditText"/>
+                        <LinearLayout android:orientation="vertical" android:id="@+id/extract_reason" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/_10sdp" android:textColor="@color/black" android:id="@+id/tv_reason_manually" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Enter Reason Manually" android:fontFamily="@font/roboto_medium"/>
+                            <EditText android:textSize="@dimen/_10sdp" android:gravity="top|left|center_vertical|center_horizontal|center" android:id="@+id/id_extract_dl" android:background="@drawable/edit_text_style" android:padding="@dimen/_10sdp" android:layout_width="match_parent" android:layout_height="80dp" android:layout_marginTop="@dimen/_8sdp" android:layout_marginBottom="@dimen/_8sdp" android:hint="Reason" android:inputType="textCapCharacters"/>
+                        </LinearLayout>
+                        <com.nic.mparivahan.dlservices.widget.MyTextView android:textSize="@dimen/_13sdp" android:textColor="@color/black" android:id="@+id/tv_note_organ_donate" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_10sdp" android:text="I am willing to donate my organ / tissue in case of death." android:fontFamily="@font/roboto_medium" android:justificationMode="1"/>
+                        <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <RadioButton android:id="@+id/willing_to_donate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_5sdp" android:checked="true" android:text=" Yes"/>
+                            <RadioButton android:id="@+id/not_willing_to_donate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_20sdp" android:layout_marginTop="@dimen/_5sdp" android:text=" No"/>
+                        </LinearLayout>
+                        <androidx.appcompat.widget.AppCompatEditText android:textSize="14dp" android:id="@+id/org_mob_number" android:background="@drawable/edit_text_style" android:padding="10dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="8dp" android:hint="Enter your emergency contact number" android:maxLength="10" android:inputType="number"/>
+                    </LinearLayout>
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/_10sdp" android:layout_marginBottom="@dimen/_8sdp" android:layout_alignParentBottom="true">
+        <com.nic.mparivahan.dlservices.widget.CustomWegetLayout android:id="@+id/reset" android:background="@drawable/button_white_theme" android:layout_width="0dp" android:layout_height="@dimen/_35sdp" android:layout_weight="1" app:buttonText="Reset" app:buttonTextColor="@color/never_mix" app:buttonTextSize="14sp" app:progressColor="#ffffff" app:progressWidth="1dp"/>
+        <com.nic.mparivahan.dlservices.widget.CustomWegetLayout android:id="@+id/id_next_service" android:background="@drawable/sign_in_new" android:layout_width="0dp" android:layout_height="@dimen/_35sdp" android:layout_marginLeft="@dimen/_5sdp" android:layout_weight="1" app:buttonText="Submit" app:buttonTextColor="@color/white" app:buttonTextSize="14sp" app:progressColor="#ffffff" app:progressWidth="1dp"/>
+    </LinearLayout>
+</RelativeLayout>

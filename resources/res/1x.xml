@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="10dp">
+    <androidx.cardview.widget.CardView android:id="@+id/cv_report_accident" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="10dp" android:outlineSpotShadowColor="@color/black" android:outlineAmbientShadowColor="@color/black" app:cardCornerRadius="10dp">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <RelativeLayout android:orientation="horizontal" android:background="@drawable/nexgenshape" android:paddingLeft="10dp" android:paddingTop="5dp" android:paddingRight="10dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="10dp" android:paddingVertical="5dp">
+                <TextView android:textColor="@color/black" android:id="@+id/tv_report_id" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ID:#37564005" android:layout_weight="0" android:layout_alignParentLeft="true" android:textFontWeight="400"/>
+                <TextView android:textColor="@color/gray" android:layout_gravity="end" android:id="@+id/txt_comp_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="23 Aug 2021, 08:29" android:layout_alignParentRight="true"/>
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="10dp">
+                <LinearLayout android:layout_gravity="left" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="10dp">
+                    <TextView android:id="@+id/tv_vehicle_no" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Vehicle Number" android:layout_weight="2"/>
+                    <TextView android:textColor="@color/black" android:gravity="right" android:id="@+id/tv_report_vehicle_no" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1"/>
+                </LinearLayout>
+                <LinearLayout android:layout_gravity="left" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginRight="10dp">
+                    <TextView android:id="@+id/tv_status" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/status" android:layout_weight="2"/>
+                    <TextView android:textColor="@color/highlight_text" android:gravity="right" android:id="@+id/txt_comp_status" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1"/>
+                </LinearLayout>
+                <LinearLayout android:layout_gravity="left" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginRight="10dp">
+                    <TextView android:id="@+id/tv_date" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Date &amp; Time" android:layout_weight="2"/>
+                    <TextView android:textColor="@color/black" android:gravity="right" android:id="@+id/tv_date_value" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1"/>
+                </LinearLayout>
+                <LinearLayout android:layout_gravity="left" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="5dp">
+                    <TextView android:id="@+id/tv_location" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/location_txt" android:layout_weight="2"/>
+                    <TextView android:textColor="@color/black" android:gravity="right" android:id="@+id/tv_report_location" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1" android:justificationMode="1"/>
+                </LinearLayout>
+            </LinearLayout>
+            <TextView android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:id="@+id/id_view_details" android:background="@color/never_mix" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="View Details"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

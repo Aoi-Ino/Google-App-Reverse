@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.cardview.widget.CardView android:background="@color/white" android:layout_width="match_parent" android:layout_height="match_parent" app:cardCornerRadius="20dp">
+        <ScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:textStyle="bold" android:textColor="@color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="23dp" android:layout_marginTop="33dp" android:layout_marginBottom="17dp" android:text="ID:#37564005"/>
+                <androidx.cardview.widget.CardView android:layout_width="match_parent" android:layout_height="180dp" android:layout_marginTop="20dp" android:layout_marginBottom="12dp" android:layout_marginStart="23dp" android:layout_marginEnd="23dp" app:cardCornerRadius="20dp">
+                    <VideoView android:id="@+id/videoView" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                    <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/view_video"/>
+                </androidx.cardview.widget.CardView>
+                <RelativeLayout android:orientation="horizontal" android:paddingLeft="23dp" android:paddingRight="23dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Vehicle No." android:layout_alignParentLeft="true"/>
+                    <TextView android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="UP30T9063" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+                <RelativeLayout android:orientation="horizontal" android:paddingLeft="23dp" android:paddingRight="23dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Zig Zag Driving" android:layout_alignParentLeft="true"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Offence" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+                <RelativeLayout android:orientation="horizontal" android:paddingLeft="23dp" android:paddingRight="23dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Status" android:layout_alignParentLeft="true"/>
+                    <TextView android:textColor="@color/highlight_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Pending" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+                <RelativeLayout android:orientation="horizontal" android:paddingLeft="23dp" android:paddingRight="23dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Location" android:layout_alignParentLeft="true"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Noida" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+                <androidx.cardview.widget.CardView android:layout_width="match_parent" android:layout_height="180dp" android:layout_marginTop="20dp" android:layout_marginBottom="12dp" android:layout_marginStart="23dp" android:layout_marginEnd="23dp" app:cardCornerRadius="20dp">
+                    <com.google.android.gms.maps.MapView android:id="@+id/map" android:layout_width="match_parent" android:layout_height="match_parent"/>
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:layout_marginBottom="12dp" android:layout_marginStart="23dp" android:layout_marginEnd="23dp" app:cardCornerRadius="20dp">
+                    <TextView android:padding="10dp" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."/>
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="39dp" android:layout_marginBottom="23dp" android:layout_marginStart="23dp" android:layout_marginEnd="23dp" app:cardCornerRadius="10dp">
+                    <androidx.appcompat.widget.AppCompatButton android:textColor="@color/white" android:id="@+id/b_ok_button" android:background="@drawable/gradient_background" android:layout_width="match_parent" android:layout_height="match_parent" android:text="ok"/>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+        </ScrollView>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
